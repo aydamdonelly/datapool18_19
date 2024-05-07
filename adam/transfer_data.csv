@@ -1,0 +1,1783 @@
+Player,Team,Position,Fee,Season,Transfer
+Philippe Coutinho,Liverpool,Attacking Midfield,135.0,2017/2018,Departure
+Paul Pogba,Manchester United,Central Midfield,105.0,2016/2017,Arrival
+Gareth Bale,Tottenham Hotspur,Right Winger,101.0,2013/2014,Departure
+Romelu Lukaku,Manchester United,Centre-Forward,84.7,2017/2018,Arrival
+Virgil van Dijk,Liverpool,Centre-Back,84.65,2017/2018,Arrival
+Luis Suárez,Liverpool,Centre-Forward,81.72,2014/2015,Departure
+Kepa Arrizabalaga,Chelsea,Goalkeeper,80.0,2018/2019,Arrival
+Kevin De Bruyne,Manchester City,Attacking Midfield,76.0,2015/2016,Arrival
+Ángel Di María,Manchester United,Right Winger,75.0,2014/2015,Arrival
+Riyad Mahrez,Manchester City,Right Winger,67.8,2018/2019,Arrival
+Álvaro Morata,Chelsea,Centre-Forward,66.0,2017/2018,Arrival
+Aymeric Laporte,Manchester City,Centre-Back,65.0,2017/2018,Arrival
+Christian Pulisic,Chelsea,Right Winger,64.0,2018/2019,Arrival
+Pierre-Emerick Aubameyang,Arsenal,Centre-Forward,63.75,2017/2018,Arrival
+Raheem Sterling,Manchester City,Left Winger,63.7,2015/2016,Arrival
+Raheem Sterling,Liverpool,Left Winger,63.7,2015/2016,Departure
+Ángel Di María,Manchester United,Right Winger,63.0,2015/2016,Departure
+Alisson,Liverpool,Goalkeeper,62.5,2018/2019,Arrival
+Oscar,Chelsea,Attacking Midfield,60.0,2016/2017,Departure
+Naby Keïta,Liverpool,Central Midfield,60.0,2018/2019,Arrival
+Anthony Martial,Manchester United,Centre-Forward,60.0,2015/2016,Arrival
+Diego Costa,Chelsea,Centre-Forward,60.0,2017/2018,Departure
+Fred,Manchester United,Central Midfield,59.0,2018/2019,Arrival
+Benjamin Mendy,Manchester City,Left-Back,57.5,2017/2018,Arrival
+Jorginho,Chelsea,Defensive Midfield,57.0,2018/2019,Arrival
+John Stones,Manchester City,Centre-Back,55.6,2016/2017,Arrival
+Alexandre Lacazette,Arsenal,Centre-Forward,53.0,2017/2018,Arrival
+Kyle Walker,Manchester City,Right-Back,52.7,2017/2018,Arrival
+Kyle Walker,Tottenham Hotspur,Right-Back,52.7,2017/2018,Departure
+Leroy Sané,Manchester City,Right Winger,52.0,2016/2017,Arrival
+Bernardo Silva,Manchester City,Attacking Midfield,50.0,2017/2018,Arrival
+David Luiz,Chelsea,Centre-Back,49.5,2014/2015,Departure
+Mesut Özil,Arsenal,Attacking Midfield,47.0,2013/2014,Arrival
+Christian Benteke,Liverpool,Centre-Forward,46.5,2015/2016,Arrival
+Fabinho,Liverpool,Defensive Midfield,45.0,2018/2019,Arrival
+Granit Xhaka,Arsenal,Defensive Midfield,45.0,2016/2017,Arrival
+Eliaquim Mangala,Manchester City,Centre-Back,45.0,2014/2015,Arrival
+Juan Mata,Chelsea,Attacking Midfield,44.73,2013/2014,Departure
+Juan Mata,Manchester United,Attacking Midfield,44.73,2013/2014,Arrival
+Nemanja Matic,Manchester United,Defensive Midfield,44.7,2017/2018,Arrival
+Nemanja Matic,Chelsea,Defensive Midfield,44.7,2017/2018,Departure
+Nicolás Otamendi,Manchester City,Centre-Back,44.5,2015/2016,Arrival
+Alexis Sánchez,Arsenal,Centre-Forward,42.5,2014/2015,Arrival
+Mohamed Salah,Liverpool,Right Winger,42.0,2017/2018,Arrival
+Davinson Sánchez,Tottenham Hotspur,Centre-Back,42.0,2017/2018,Arrival
+Henrikh Mkhitaryan,Manchester United,Central Midfield,42.0,2016/2017,Arrival
+Sadio Mané,Liverpool,Left Winger,41.2,2016/2017,Arrival
+Roberto Firmino,Liverpool,Centre-Forward,41.0,2015/2016,Arrival
+Shkodran Mustafi,Arsenal,Centre-Back,41.0,2016/2017,Arrival
+Ederson,Manchester City,Goalkeeper,40.0,2017/2018,Arrival
+Tiemoué Bakayoko,Chelsea,Defensive Midfield,40.0,2017/2018,Arrival
+Fernandinho,Manchester City,Defensive Midfield,40.0,2013/2014,Arrival
+Michy Batshuayi,Chelsea,Centre-Forward,39.0,2016/2017,Arrival
+Alex Oxlade-Chamberlain,Liverpool,Central Midfield,38.0,2017/2018,Arrival
+Alex Oxlade-Chamberlain,Arsenal,Central Midfield,38.0,2017/2018,Departure
+Eric Bailly,Manchester United,Centre-Back,38.0,2016/2017,Arrival
+Diego Costa,Chelsea,Centre-Forward,38.0,2014/2015,Arrival
+Danny Drinkwater,Chelsea,Central Midfield,37.9,2017/2018,Arrival
+Luke Shaw,Manchester United,Left-Back,37.5,2014/2015,Arrival
+Ander Herrera,Manchester United,Central Midfield,36.0,2014/2015,Arrival
+N'Golo Kanté,Chelsea,Defensive Midfield,35.8,2016/2017,Arrival
+Willian,Chelsea,Left Winger,35.5,2013/2014,Arrival
+Romelu Lukaku,Chelsea,Centre-Forward,35.36,2014/2015,Departure
+Victor Lindelöf,Manchester United,Centre-Back,35.0,2017/2018,Arrival
+Antonio Rüdiger,Chelsea,Centre-Back,35.0,2017/2018,Arrival
+Thibaut Courtois,Chelsea,Goalkeeper,35.0,2018/2019,Departure
+Morgan Schneiderlin,Manchester United,Defensive Midfield,35.0,2015/2016,Arrival
+Luka Modric,Tottenham Hotspur,Central Midfield,35.0,2012/2013,Departure
+Eden Hazard,Chelsea,Left Winger,35.0,2012/2013,Arrival
+Moussa Sissoko,Tottenham Hotspur,Central Midfield,35.0,2016/2017,Arrival
+David Luiz,Chelsea,Centre-Back,35.0,2016/2017,Arrival
+Henrikh Mkhitaryan,Manchester United,Central Midfield,34.0,2017/2018,Departure
+Memphis Depay,Manchester United,Centre-Forward,34.0,2015/2016,Arrival
+Alexis Sánchez,Arsenal,Centre-Forward,34.0,2017/2018,Departure
+Alexis Sánchez,Manchester United,Centre-Forward,34.0,2017/2018,Arrival
+Henrikh Mkhitaryan,Arsenal,Central Midfield,34.0,2017/2018,Arrival
+Cesc Fàbregas,Chelsea,Central Midfield,33.0,2014/2015,Arrival
+Marouane Fellaini,Manchester United,Central Midfield,32.4,2013/2014,Arrival
+Wilfried Bony,Manchester City,Centre-Forward,32.3,2014/2015,Arrival
+Gabriel Jesus,Manchester City,Centre-Forward,32.0,2016/2017,Arrival
+Oscar,Chelsea,Attacking Midfield,32.0,2012/2013,Arrival
+André Schürrle,Chelsea,Left Winger,32.0,2014/2015,Departure
+Christian Benteke,Liverpool,Centre-Forward,31.2,2016/2017,Departure
+Adam Lallana,Liverpool,Attacking Midfield,31.0,2014/2015,Arrival
+Juan Cuadrado,Chelsea,Right Midfield,31.0,2014/2015,Arrival
+Robin van Persie,Manchester United,Centre-Forward,30.7,2012/2013,Arrival
+Robin van Persie,Arsenal,Centre-Forward,30.7,2012/2013,Departure
+Heung-min Son,Tottenham Hotspur,Left Winger,30.0,2015/2016,Arrival
+Roberto Soldado,Tottenham Hotspur,Centre-Forward,30.0,2013/2014,Arrival
+Erik Lamela,Tottenham Hotspur,Right Winger,30.0,2013/2014,Arrival
+Danilo,Manchester City,Centre-Back,30.0,2017/2018,Arrival
+Lucas Torreira,Arsenal,Defensive Midfield,28.65,2018/2019,Arrival
+Lucas Moura,Tottenham Hotspur,Right Winger,28.4,2017/2018,Arrival
+Mamadou Sakho,Liverpool,Centre-Back,28.2,2017/2018,Departure
+Álvaro Negredo,Manchester City,Centre-Forward,28.0,2015/2016,Departure
+Ramires,Chelsea,Central Midfield,28.0,2015/2016,Departure
+Kelechi Iheanacho,Manchester City,Centre-Forward,27.7,2017/2018,Departure
+Georginio Wijnaldum,Liverpool,Central Midfield,27.5,2016/2017,Arrival
+İlkay Gündoğan,Manchester City,Central Midfield,27.0,2016/2017,Arrival
+Pedro,Chelsea,Right Winger,27.0,2015/2016,Arrival
+Abdul Rahman Baba,Chelsea,Left-Back,26.0,2015/2016,Arrival
+Stevan Jovetic,Manchester City,Centre-Forward,26.0,2013/2014,Arrival
+Dejan Lovren,Liverpool,Centre-Back,25.3,2014/2015,Arrival
+Serge Aurier,Tottenham Hotspur,Right-Back,25.0,2017/2018,Arrival
+Davide Zappacosta,Chelsea,Right Midfield,25.0,2017/2018,Arrival
+Lazar Markovic,Liverpool,Right Winger,25.0,2014/2015,Arrival
+Nemanja Matic,Chelsea,Defensive Midfield,25.0,2013/2014,Arrival
+Bernd Leno,Arsenal,Goalkeeper,25.0,2018/2019,Arrival
+Álvaro Negredo,Manchester City,Centre-Forward,25.0,2013/2014,Arrival
+Marcos Alonso,Chelsea,Left-Back,23.0,2016/2017,Arrival
+Morgan Schneiderlin,Manchester United,Defensive Midfield,23.0,2016/2017,Departure
+Nathan Aké,Chelsea,Centre-Back,22.8,2017/2018,Departure
+Theo Walcott,Arsenal,Right Winger,22.5,2017/2018,Departure
+André Schürrle,Chelsea,Left Winger,22.0,2013/2014,Arrival
+Diogo Dalot,Manchester United,Right-Back,22.0,2018/2019,Arrival
+Vincent Janssen,Tottenham Hotspur,Centre-Forward,22.0,2016/2017,Arrival
+Kevin De Bruyne,Chelsea,Attacking Midfield,22.0,2013/2014,Departure
+Dominic Solanke,Liverpool,Centre-Forward,21.2,2018/2019,Departure
+Calum Chambers,Arsenal,Centre-Back,20.23,2014/2015,Arrival
+Javi García,Manchester City,Defensive Midfield,20.2,2012/2013,Arrival
+Danny Welbeck,Arsenal,Centre-Forward,20.0,2014/2015,Arrival
+Mario Balotelli,Manchester City,Centre-Forward,20.0,2012/2013,Departure
+Lucas Pérez,Arsenal,Centre-Forward,20.0,2016/2017,Arrival
+Juan Cuadrado,Chelsea,Right Midfield,20.0,2017/2018,Departure
+Marcos Rojo,Manchester United,Centre-Back,20.0,2014/2015,Arrival
+Mario Balotelli,Liverpool,Centre-Forward,20.0,2014/2015,Arrival
+Emerson,Chelsea,Left-Back,20.0,2017/2018,Arrival
+Filipe Luís,Chelsea,Left-Back,20.0,2014/2015,Arrival
+Danny Welbeck,Manchester United,Centre-Forward,20.0,2014/2015,Departure
+Jesús Navas,Manchester City,Right-Back,20.0,2013/2014,Arrival
+Paulinho,Tottenham Hotspur,Central Midfield,19.75,2013/2014,Arrival
+Kevin Wimmer,Tottenham Hotspur,Centre-Back,19.4,2017/2018,Departure
+Mousa Dembélé,Tottenham Hotspur,Central Midfield,19.0,2012/2013,Arrival
+Thomas Vermaelen,Arsenal,Centre-Back,19.0,2014/2015,Departure
+Alex Song,Arsenal,Defensive Midfield,19.0,2012/2013,Departure
+Nabil Bentaleb,Tottenham Hotspur,Defensive Midfield,19.0,2017/2018,Departure
+Santi Cazorla,Arsenal,Central Midfield,19.0,2012/2013,Arrival
+Joe Allen,Liverpool,Central Midfield,19.0,2012/2013,Arrival
+Mamadou Sakho,Liverpool,Centre-Back,19.0,2013/2014,Arrival
+Wojciech Szczęsny,Arsenal,Goalkeeper,18.4,2017/2018,Departure
+Matteo Darmian,Manchester United,Right-Back,18.0,2015/2016,Arrival
+Nolito,Manchester City,Left Winger,18.0,2016/2017,Arrival
+Claudio Bravo,Manchester City,Goalkeeper,18.0,2016/2017,Arrival
+Alberto Moreno,Liverpool,Left-Back,18.0,2014/2015,Arrival
+Álvaro Morata,Chelsea,Centre-Forward,18.0,2018/2019,Departure
+Jordon Ibe,Liverpool,Right Winger,18.0,2016/2017,Departure
+Nathaniel Clyne,Liverpool,Right-Back,17.7,2015/2016,Arrival
+Daley Blind,Manchester United,Centre-Back,17.5,2014/2015,Arrival
+Andy Carroll,Liverpool,Centre-Forward,17.5,2013/2014,Departure
+Olivier Giroud,Arsenal,Centre-Forward,17.0,2017/2018,Departure
+Brahim Díaz,Manchester City,Attacking Midfield,17.0,2018/2019,Departure
+Olivier Giroud,Chelsea,Centre-Forward,17.0,2017/2018,Arrival
+Javi García,Manchester City,Defensive Midfield,16.8,2014/2015,Departure
+Ross Barkley,Chelsea,Central Midfield,16.8,2017/2018,Arrival
+Mohamed Salah,Chelsea,Right Winger,16.5,2013/2014,Arrival
+Filipe Luís,Chelsea,Left-Back,16.0,2015/2016,Departure
+Sokratis Papastathopoulos,Arsenal,Centre-Back,16.0,2018/2019,Arrival
+Memphis Depay,Manchester United,Centre-Forward,16.0,2016/2017,Departure
+Daley Blind,Manchester United,Centre-Back,16.0,2018/2019,Departure
+Shinji Kagawa,Manchester United,Attacking Midfield,16.0,2012/2013,Arrival
+Toby Alderweireld,Tottenham Hotspur,Centre-Back,16.0,2015/2016,Arrival
+Roberto Soldado,Tottenham Hotspur,Centre-Forward,16.0,2015/2016,Departure
+Andros Townsend,Tottenham Hotspur,Right Winger,15.7,2015/2016,Departure
+Joe Allen,Liverpool,Central Midfield,15.5,2016/2017,Departure
+Ryan Mason,Tottenham Hotspur,Central Midfield,15.4,2016/2017,Departure
+Matija Nastasic,Manchester City,Centre-Back,15.2,2012/2013,Arrival
+Nacer Chadli,Tottenham Hotspur,Left Winger,15.2,2016/2017,Departure
+Fernando Llorente,Tottenham Hotspur,Centre-Forward,15.1,2017/2018,Arrival
+Mathieu Debuchy,Arsenal,Right-Back,15.0,2014/2015,Arrival
+Daniel Sturridge,Chelsea,Centre-Forward,15.0,2012/2013,Departure
+Mohamed Salah,Chelsea,Right Winger,15.0,2016/2017,Departure
+Fernando,Manchester City,Defensive Midfield,15.0,2014/2015,Arrival
+Daniel Sturridge,Liverpool,Centre-Forward,15.0,2012/2013,Arrival
+Lukas Podolski,Arsenal,Attacking Midfield,15.0,2012/2013,Arrival
+Jack Rodwell,Manchester City,Centre-Back,15.0,2012/2013,Arrival
+Gabriel Paulista,Arsenal,Centre-Back,15.0,2014/2015,Arrival
+Xherdan Shaqiri,Liverpool,Attacking Midfield,14.7,2018/2019,Arrival
+Kurt Zouma,Chelsea,Centre-Back,14.6,2013/2014,Arrival
+Victor Wanyama,Tottenham Hotspur,Defensive Midfield,14.4,2016/2017,Arrival
+Christian Eriksen,Tottenham Hotspur,Central Midfield,14.15,2013/2014,Arrival
+Clinton N'Jie,Tottenham Hotspur,Right Winger,14.1,2015/2016,Arrival
+Petr Cech,Arsenal,Goalkeeper,14.0,2015/2016,Arrival
+Petr Cech,Chelsea,Goalkeeper,14.0,2015/2016,Departure
+Danny Ward,Liverpool,Goalkeeper,14.0,2018/2019,Departure
+Francis Coquelin,Arsenal,Defensive Midfield,14.0,2017/2018,Departure
+Enes Ünal,Manchester City,Centre-Forward,14.0,2017/2018,Departure
+Paulinho,Tottenham Hotspur,Central Midfield,14.0,2015/2016,Departure
+Carlos Vela,Arsenal,Right Winger,14.0,2012/2013,Departure
+Stevan Jovetic,Manchester City,Centre-Forward,13.5,2016/2017,Departure
+Fabio Borini,Liverpool,Left Winger,13.3,2012/2013,Arrival
+Ryan Bertrand,Chelsea,Left-Back,13.3,2014/2015,Departure
+Loïc Rémy,Chelsea,Centre-Forward,13.2,2014/2015,Arrival
+Wilfried Bony,Manchester City,Centre-Forward,13.0,2017/2018,Departure
+Philippe Coutinho,Liverpool,Attacking Midfield,13.0,2012/2013,Arrival
+Rafael van der Vaart,Tottenham Hotspur,Attacking Midfield,13.0,2012/2013,Departure
+Ben Davies,Tottenham Hotspur,Left-Back,12.65,2014/2015,Arrival
+Divock Origi,Liverpool,Centre-Forward,12.63,2014/2015,Arrival
+Adam Johnson,Manchester City,Right Winger,12.6,2012/2013,Departure
+Hugo Lloris,Tottenham Hotspur,Goalkeeper,12.6,2012/2013,Arrival
+Mohamed Elneny,Arsenal,Defensive Midfield,12.5,2015/2016,Arrival
+Jan Vertonghen,Tottenham Hotspur,Centre-Back,12.5,2012/2013,Arrival
+Jack Rodwell,Manchester City,Centre-Back,12.5,2014/2015,Departure
+Rony Lopes,Manchester City,Right Winger,12.0,2015/2016,Departure
+Emre Can,Liverpool,Defensive Midfield,12.0,2014/2015,Arrival
+Douglas Luiz,Manchester City,Central Midfield,12.0,2017/2018,Arrival
+Olivier Giroud,Arsenal,Centre-Forward,12.0,2012/2013,Arrival
+Chicharito,Manchester United,Centre-Forward,12.0,2015/2016,Departure
+Wilfried Zaha,Manchester United,Left Winger,11.75,2012/2013,Arrival
+Victor Moses,Chelsea,Right Midfield,11.5,2012/2013,Arrival
+Fabian Delph,Manchester City,Central Midfield,11.5,2015/2016,Arrival
+Asmir Begovic,Chelsea,Goalkeeper,11.5,2017/2018,Departure
+Angus Gunn,Manchester City,Goalkeeper,11.3,2018/2019,Departure
+Georges-Kevin N'Koudou,Tottenham Hotspur,Left Winger,11.0,2016/2017,Arrival
+Asmir Begovic,Chelsea,Goalkeeper,11.0,2015/2016,Arrival
+Gabriel Paulista,Arsenal,Centre-Back,11.0,2017/2018,Departure
+Étienne Capoue,Tottenham Hotspur,Defensive Midfield,11.0,2013/2014,Arrival
+Edin Dzeko,Manchester City,Centre-Forward,11.0,2016/2017,Departure
+Iago Aspas,Liverpool,Centre-Forward,10.8,2013/2014,Arrival
+Fabio Borini,Liverpool,Left Winger,10.7,2015/2016,Departure
+Simon Mignolet,Liverpool,Goalkeeper,10.6,2013/2014,Arrival
+Juan Foyth,Tottenham Hotspur,Right-Back,10.5,2017/2018,Arrival
+Gylfi Sigurdsson,Tottenham Hotspur,Attacking Midfield,10.1,2014/2015,Departure
+Federico Fazio,Tottenham Hotspur,Centre-Back,10.0,2014/2015,Arrival
+Bertrand Traoré,Chelsea,Right Winger,10.0,2017/2018,Departure
+Nacho Monreal,Arsenal,Left-Back,10.0,2012/2013,Arrival
+Jason Denayer,Manchester City,Centre-Back,10.0,2018/2019,Departure
+Raúl Meireles,Chelsea,Central Midfield,10.0,2012/2013,Departure
+Gylfi Sigurdsson,Tottenham Hotspur,Attacking Midfield,10.0,2012/2013,Arrival
+Vlad Chiricheș,Tottenham Hotspur,Centre-Back,9.5,2013/2014,Arrival
+Papy Djilobodji,Chelsea,Centre-Back,9.5,2016/2017,Departure
+Matija Nastasic,Manchester City,Centre-Back,9.5,2015/2016,Departure
+Marco van Ginkel,Chelsea,Central Midfield,9.4,2013/2014,Arrival
+Alex Pritchard,Tottenham Hotspur,Attacking Midfield,9.4,2016/2017,Departure
+Steven Caulker,Tottenham Hotspur,Centre-Back,9.15,2013/2014,Departure
+Aaron Mooy,Manchester City,Central Midfield,9.1,2017/2018,Departure
+Jermain Defoe,Tottenham Hotspur,Centre-Forward,9.09,2013/2014,Departure
+Cesc Fàbregas,Chelsea,Central Midfield,9.0,2018/2019,Departure
+Bastian Schweinsteiger,Manchester United,Central Midfield,9.0,2015/2016,Arrival
+Pablo Maffeo,Manchester City,Right-Back,9.0,2018/2019,Departure
+Andrew Robertson,Liverpool,Left-Back,9.0,2017/2018,Arrival
+Carlos Tevez,Manchester City,Second Striker,9.0,2013/2014,Departure
+Étienne Capoue,Tottenham Hotspur,Defensive Midfield,8.9,2015/2016,Departure
+César Azpilicueta,Chelsea,Right-Back,8.8,2012/2013,Arrival
+Benjamin Stambouli,Tottenham Hotspur,Defensive Midfield,8.6,2015/2016,Departure
+Adnan Januzaj,Manchester United,Right Winger,8.5,2017/2018,Departure
+Demba Ba,Chelsea,Centre-Forward,8.5,2012/2013,Arrival
+Danny Ings,Liverpool,Centre-Forward,8.3,2015/2016,Arrival
+Jonny Evans,Manchester United,Centre-Back,8.3,2015/2016,Departure
+Clint Dempsey,Tottenham Hotspur,Second Striker,8.18,2013/2014,Departure
+Nacer Chadli,Tottenham Hotspur,Left Winger,8.15,2013/2014,Arrival
+Mattéo Guendouzi,Arsenal,Central Midfield,8.0,2018/2019,Arrival
+Gervinho,Arsenal,Left Winger,8.0,2013/2014,Departure
+Marko Marin,Chelsea,Attacking Midfield,8.0,2012/2013,Arrival
+Luis Alberto,Liverpool,Central Midfield,8.0,2013/2014,Arrival
+Thorgan Hazard,Chelsea,Left Winger,8.0,2015/2016,Departure
+Willy Caballero,Manchester City,Goalkeeper,8.0,2014/2015,Arrival
+Kenedy,Chelsea,Left Winger,8.0,2015/2016,Arrival
+Shinji Kagawa,Manchester United,Attacking Midfield,8.0,2014/2015,Departure
+Kurt Zouma,Chelsea,Centre-Back,7.9,2018/2019,Departure
+Gonzalo Higuaín,Chelsea,Centre-Forward,7.8,2018/2019,Arrival
+Kurt Zouma,Chelsea,Centre-Back,7.8,2017/2018,Departure
+Scott Sinclair,Manchester City,Left Winger,7.8,2012/2013,Arrival
+Radamel Falcao,Manchester United,Centre-Forward,7.6,2014/2015,Arrival
+Kieran Gibbs,Arsenal,Left-Back,7.5,2017/2018,Departure
+Tiago Ilori,Liverpool,Centre-Back,7.5,2013/2014,Arrival
+Nick Powell,Manchester United,Attacking Midfield,7.5,2012/2013,Arrival
+Clint Dempsey,Tottenham Hotspur,Second Striker,7.5,2012/2013,Arrival
+Sandro,Tottenham Hotspur,Defensive Midfield,7.5,2014/2015,Departure
+Christian Atsu,Chelsea,Left Winger,7.5,2017/2018,Departure
+Sam Johnstone,Manchester United,Goalkeeper,7.35,2018/2019,Departure
+Marouane Fellaini,Manchester United,Central Midfield,7.2,2018/2019,Departure
+Patrick Roberts,Manchester City,Right Winger,7.2,2015/2016,Arrival
+Gerónimo Rulli,Manchester City,Goalkeeper,7.0,2016/2017,Departure
+Niko Kranjcar,Tottenham Hotspur,Attacking Midfield,7.0,2012/2013,Departure
+Vlad Chiricheș,Tottenham Hotspur,Centre-Back,7.0,2015/2016,Departure
+Jake Livermore,Tottenham Hotspur,Defensive Midfield,7.0,2014/2015,Departure
+Vedran Corluka,Tottenham Hotspur,Centre-Back,7.0,2012/2013,Departure
+Nolito,Manchester City,Left Winger,7.0,2017/2018,Departure
+Clinton N'Jie,Tottenham Hotspur,Right Winger,7.0,2017/2018,Departure
+Marko Grujic,Liverpool,Defensive Midfield,7.0,2015/2016,Arrival
+Radamel Falcao,Chelsea,Centre-Forward,7.0,2015/2016,Arrival
+Oriol Romeu,Chelsea,Defensive Midfield,7.0,2015/2016,Departure
+Patrick Bamford,Chelsea,Centre-Forward,6.9,2016/2017,Departure
+Dele Alli,Tottenham Hotspur,Attacking Midfield,6.63,2014/2015,Arrival
+Kyle Naughton,Tottenham Hotspur,Right-Back,6.6,2014/2015,Departure
+Divock Origi,Liverpool,Centre-Forward,6.5,2017/2018,Departure
+Robin van Persie,Manchester United,Centre-Forward,6.5,2015/2016,Departure
+Lewis Holtby,Tottenham Hotspur,Central Midfield,6.5,2015/2016,Departure
+Emmanuel Adebayor,Manchester City,Centre-Forward,6.4,2012/2013,Departure
+Emmanuel Adebayor,Tottenham Hotspur,Centre-Forward,6.4,2012/2013,Arrival
+Ante Palaversa,Manchester City,Central Midfield,6.3,2018/2019,Arrival
+Nathaniel Chalobah,Chelsea,Defensive Midfield,6.3,2017/2018,Departure
+Charlie Adam,Liverpool,Central Midfield,6.2,2012/2013,Departure
+Loris Karius,Liverpool,Goalkeeper,6.2,2016/2017,Arrival
+Oussama Assaidi,Liverpool,Left Winger,6.0,2014/2015,Departure
+Gaël Kakuta,Chelsea,Attacking Midfield,6.0,2015/2016,Departure
+Martin Skrtel,Liverpool,Centre-Back,6.0,2016/2017,Departure
+Demba Ba,Chelsea,Centre-Forward,6.0,2014/2015,Departure
+Nani,Manchester United,Left Winger,6.0,2015/2016,Departure
+Fernando,Manchester City,Defensive Midfield,6.0,2017/2018,Departure
+Iago Aspas,Liverpool,Centre-Forward,6.0,2015/2016,Departure
+Aaron Lennon,Tottenham Hotspur,Right Winger,6.0,2015/2016,Departure
+Kevin Wimmer,Tottenham Hotspur,Centre-Back,6.0,2015/2016,Arrival
+Benjamin Stambouli,Tottenham Hotspur,Defensive Midfield,5.9,2014/2015,Arrival
+DeAndre Yedlin,Tottenham Hotspur,Right-Back,5.9,2016/2017,Departure
+Stewart Downing,Liverpool,Left Midfield,5.8,2013/2014,Departure
+Tom Huddlestone,Tottenham Hotspur,Defensive Midfield,5.8,2013/2014,Departure
+Jonjo Shelvey,Liverpool,Central Midfield,5.8,2013/2014,Departure
+Steven Pienaar,Tottenham Hotspur,Left Midfield,5.75,2012/2013,Departure
+Michel Vorm,Tottenham Hotspur,Goalkeeper,5.7,2014/2015,Arrival
+Lucas Leiva,Liverpool,Defensive Midfield,5.7,2017/2018,Departure
+Alexander Büttner,Manchester United,Left-Back,5.5,2014/2015,Departure
+Rickie Lambert,Liverpool,Centre-Forward,5.5,2014/2015,Arrival
+Marlos Moreno,Manchester City,Left Winger,5.5,2016/2017,Arrival
+Ángelo Henríquez,Manchester United,Centre-Forward,5.5,2012/2013,Arrival
+Michael Hector,Chelsea,Centre-Back,5.4,2015/2016,Arrival
+Wallace Oliveira,Chelsea,Right-Back,5.4,2012/2013,Arrival
+Mousa Dembélé,Tottenham Hotspur,Central Midfield,5.35,2018/2019,Departure
+Paddy McNair,Manchester United,Centre-Back,5.25,2016/2017,Departure
+Tom Carroll,Tottenham Hotspur,Central Midfield,5.2,2016/2017,Departure
+Tiemoué Bakayoko,Chelsea,Defensive Midfield,5.0,2018/2019,Departure
+Juan Cuadrado,Chelsea,Right Midfield,5.0,2016/2017,Departure
+Dimitar Berbatov,Manchester United,Centre-Forward,5.0,2012/2013,Departure
+Ragnar Klavan,Liverpool,Centre-Back,5.0,2016/2017,Arrival
+Serge Gnabry,Arsenal,Right Winger,5.0,2016/2017,Departure
+Aleksandar Kolarov,Manchester City,Left-Back,5.0,2017/2018,Departure
+Alexander Büttner,Manchester United,Left-Back,5.0,2012/2013,Arrival
+Eric Dier,Tottenham Hotspur,Centre-Back,5.0,2014/2015,Arrival
+Karim Rekik,Manchester City,Centre-Back,5.0,2015/2016,Departure
+Nuri Şahin,Liverpool,Defensive Midfield,5.0,2012/2013,Arrival
+Mohamed Salah,Chelsea,Right Winger,5.0,2015/2016,Departure
+Kieran Trippier,Tottenham Hotspur,Right-Back,4.9,2015/2016,Arrival
+Joe Gomez,Liverpool,Centre-Back,4.9,2015/2016,Arrival
+Gerónimo Rulli,Manchester City,Goalkeeper,4.7,2016/2017,Arrival
+Matt Miazga,Chelsea,Centre-Back,4.6,2015/2016,Arrival
+Kevin Stewart,Liverpool,Defensive Midfield,4.5,2017/2018,Departure
+Stipe Perica,Chelsea,Centre-Forward,4.5,2016/2017,Departure
+Martín Demichelis,Manchester City,Centre-Back,4.5,2013/2014,Arrival
+Enes Ünal,Manchester City,Centre-Forward,4.4,2015/2016,Arrival
+Lucas Pérez,Arsenal,Centre-Forward,4.4,2018/2019,Departure
+Michael Dawson,Tottenham Hotspur,Centre-Back,4.4,2014/2015,Departure
+Scott Parker,Tottenham Hotspur,Central Midfield,4.3,2013/2014,Departure
+Younès Kaboul,Tottenham Hotspur,Centre-Back,4.3,2015/2016,Departure
+Tiago Ilori,Liverpool,Centre-Back,4.3,2016/2017,Departure
+Rickie Lambert,Liverpool,Centre-Forward,4.2,2015/2016,Departure
+Luis Alberto,Liverpool,Central Midfield,4.0,2016/2017,Departure
+Edin Dzeko,Manchester City,Centre-Forward,4.0,2015/2016,Departure
+Daniel Agger,Liverpool,Centre-Back,4.0,2014/2015,Departure
+Takuma Asano,Arsenal,Right Winger,4.0,2016/2017,Arrival
+Oussama Assaidi,Liverpool,Left Winger,4.0,2012/2013,Arrival
+Jack Harrison,Manchester City,Right Winger,4.0,2017/2018,Arrival
+David Ospina,Arsenal,Goalkeeper,4.0,2014/2015,Arrival
+Nathan,Chelsea,Attacking Midfield,4.0,2015/2016,Arrival
+Joe Hart,Manchester City,Goalkeeper,3.9,2018/2019,Departure
+Wilfried Zaha,Manchester United,Left Winger,3.8,2014/2015,Departure
+Olarenwaju Kayode,Manchester City,Centre-Forward,3.8,2017/2018,Arrival
+Zeki Fryers,Tottenham Hotspur,Left-Back,3.8,2014/2015,Departure
+Maicon,Manchester City,Right-Back,3.75,2012/2013,Arrival
+Brad Smith,Liverpool,Left-Back,3.6,2016/2017,Departure
+Jeffrey Bruma,Chelsea,Centre-Back,3.5,2013/2014,Departure
+Scott Sinclair,Manchester City,Left Winger,3.5,2015/2016,Departure
+Romelu Lukaku,Chelsea,Centre-Forward,3.5,2013/2014,Departure
+Nigel de Jong,Manchester City,Defensive Midfield,3.5,2012/2013,Departure
+Papy Djilobodji,Chelsea,Centre-Back,3.5,2015/2016,Arrival
+Zeki Fryers,Tottenham Hotspur,Left-Back,3.5,2012/2013,Arrival
+Samir Nasri,Manchester City,Attacking Midfield,3.5,2017/2018,Departure
+Bersant Celina,Manchester City,Attacking Midfield,3.4,2018/2019,Departure
+Rafael,Manchester United,Right-Back,3.2,2015/2016,Departure
+Federico Fazio,Tottenham Hotspur,Centre-Back,3.2,2017/2018,Departure
+Ji-sung Park,Manchester United,Attacking Midfield,3.1,2012/2013,Departure
+Sébastien Bassong,Tottenham Hotspur,Centre-Back,3.0,2012/2013,Departure
+Marko Marin,Chelsea,Attacking Midfield,3.0,2016/2017,Departure
+Christian Atsu,Chelsea,Left Winger,3.0,2013/2014,Arrival
+Rob Holding,Arsenal,Centre-Back,3.0,2016/2017,Arrival
+Bebé,Manchester United,Left Winger,3.0,2014/2015,Departure
+Wellington Silva,Arsenal,Right Winger,3.0,2016/2017,Departure
+Chicharito,Manchester United,Centre-Forward,3.0,2014/2015,Departure
+Pepe Reina,Liverpool,Goalkeeper,3.0,2014/2015,Departure
+Olarenwaju Kayode,Manchester City,Centre-Forward,3.0,2018/2019,Departure
+Andreas Pereira,Manchester United,Attacking Midfield,3.0,2017/2018,Departure
+Michy Batshuayi,Chelsea,Centre-Forward,3.0,2018/2019,Departure
+Ethan Ampadu,Chelsea,Defensive Midfield,2.8,2017/2018,Arrival
+Sebastián Coates,Liverpool,Centre-Back,2.8,2015/2016,Departure
+Johan Djourou,Arsenal,Centre-Back,2.8,2014/2015,Departure
+DeAndre Yedlin,Tottenham Hotspur,Right-Back,2.6,2014/2015,Arrival
+Bruno Zuculini,Manchester City,Defensive Midfield,2.5,2014/2015,Arrival
+Luka Ilic,Manchester City,Attacking Midfield,2.5,2017/2018,Arrival
+Philippe Sandler,Manchester City,Centre-Back,2.5,2018/2019,Arrival
+Denis Suárez,Arsenal,Attacking Midfield,2.5,2018/2019,Arrival
+Charly Musonda Jr.,Chelsea,Left Winger,2.5,2017/2018,Departure
+Stevan Jovetic,Manchester City,Centre-Forward,2.5,2015/2016,Departure
+Mario Pasalic,Chelsea,Central Midfield,2.5,2018/2019,Departure
+Vincent Janssen,Tottenham Hotspur,Centre-Forward,2.5,2017/2018,Departure
+Loris Karius,Liverpool,Goalkeeper,2.5,2018/2019,Departure
+Lukas Podolski,Arsenal,Attacking Midfield,2.5,2015/2016,Departure
+Lewis Holtby,Tottenham Hotspur,Central Midfield,2.5,2014/2015,Departure
+Mario Pasalic,Chelsea,Central Midfield,2.5,2014/2015,Arrival
+Stipe Perica,Chelsea,Centre-Forward,2.45,2013/2014,Arrival
+Vito Mannone,Arsenal,Goalkeeper,2.4,2013/2014,Departure
+Wilfried Bony,Manchester City,Centre-Forward,2.35,2016/2017,Departure
+Jack Wilshere,Arsenal,Central Midfield,2.35,2016/2017,Departure
+Scott Sinclair,Manchester City,Left Winger,2.3,2013/2014,Departure
+Mamadou Sakho,Liverpool,Centre-Back,2.3,2016/2017,Departure
+Joe Hart,Manchester City,Goalkeeper,2.3,2017/2018,Departure
+Daniel Sturridge,Liverpool,Centre-Forward,2.3,2017/2018,Departure
+Andre Wisdom,Liverpool,Right-Back,2.3,2017/2018,Departure
+Oleksandr Zinchenko,Manchester City,Left-Back,2.25,2016/2017,Arrival
+Krystian Bielik,Arsenal,Defensive Midfield,2.25,2014/2015,Arrival
+Chuba Akpom,Arsenal,Centre-Forward,2.2,2018/2019,Departure
+Konstantinos Mavropanos,Arsenal,Centre-Back,2.1,2017/2018,Arrival
+Iago Falque,Tottenham Hotspur,Right Winger,2.0,2014/2015,Departure
+Rubén Sobrino,Manchester City,Centre-Forward,2.0,2017/2018,Departure
+Alberto Aquilani,Liverpool,Central Midfield,2.0,2012/2013,Departure
+Javier Manquillo,Liverpool,Right-Back,2.0,2014/2015,Arrival
+Martin Kelly,Liverpool,Right-Back,2.0,2014/2015,Departure
+Bertrand Traoré,Chelsea,Right Winger,2.0,2016/2017,Departure
+Dedryck Boyata,Manchester City,Centre-Back,2.0,2015/2016,Departure
+Patrick van Aanholt,Chelsea,Left-Back,1.9,2014/2015,Departure
+Ignasi Miquel,Arsenal,Centre-Back,1.9,2014/2015,Departure
+Patrice Evra,Manchester United,Left-Back,1.9,2014/2015,Departure
+Cristian Cuevas,Chelsea,Left Winger,1.9,2013/2014,Arrival
+Tyler Blackett,Manchester United,Left-Back,1.8,2016/2017,Departure
+Andre Wisdom,Liverpool,Right-Back,1.8,2015/2016,Departure
+Wilfried Zaha,Manchester United,Left Winger,1.8,2013/2014,Departure
+Vladimír Weiss,Manchester City,Left Winger,1.8,2012/2013,Departure
+Juan Cuadrado,Chelsea,Right Midfield,1.8,2015/2016,Departure
+Fabio Borini,Liverpool,Left Winger,1.8,2013/2014,Departure
+Lewis Holtby,Tottenham Hotspur,Central Midfield,1.75,2012/2013,Arrival
+Vanja Milinković-Savić,Manchester United,Goalkeeper,1.75,2014/2015,Arrival
+Lee Grant,Manchester United,Goalkeeper,1.7,2018/2019,Arrival
+Ángelo Henríquez,Manchester United,Centre-Forward,1.67,2015/2016,Departure
+Jay Spearing,Liverpool,Defensive Midfield,1.6,2013/2014,Departure
+Ragnar Klavan,Liverpool,Centre-Back,1.52,2018/2019,Departure
+Wallace Oliveira,Chelsea,Right-Back,1.5,2013/2014,Departure
+Joel Campbell,Arsenal,Right Winger,1.5,2018/2019,Departure
+Thorgan Hazard,Chelsea,Left Winger,1.5,2014/2015,Departure
+Thomas Eisfeld,Arsenal,Central Midfield,1.5,2014/2015,Departure
+Michy Batshuayi,Chelsea,Centre-Forward,1.5,2017/2018,Departure
+Florian Lejeune,Manchester City,Centre-Back,1.5,2016/2017,Departure
+Ángelo Henríquez,Manchester United,Centre-Forward,1.5,2014/2015,Departure
+Samed Yesil,Liverpool,Centre-Forward,1.3,2012/2013,Arrival
+Suso,Liverpool,Right Winger,1.3,2014/2015,Departure
+Andy Carroll,Liverpool,Centre-Forward,1.25,2012/2013,Departure
+Henri Lansbury,Arsenal,Central Midfield,1.25,2012/2013,Departure
+Bruno Zuculini,Manchester City,Defensive Midfield,1.25,2017/2018,Departure
+Jack Robinson,Liverpool,Centre-Back,1.25,2014/2015,Departure
+Ritchie De Laet,Manchester United,Right-Back,1.25,2012/2013,Departure
+Marouane Chamakh,Arsenal,Centre-Forward,1.2,2013/2014,Departure
+Will Keane,Manchester United,Centre-Forward,1.2,2016/2017,Departure
+Federico Fazio,Tottenham Hotspur,Centre-Back,1.2,2016/2017,Departure
+Victor Moses,Chelsea,Right Midfield,1.2,2013/2014,Departure
+Victor Moses,Liverpool,Right Midfield,1.2,2013/2014,Arrival
+Michy Batshuayi,Chelsea,Centre-Forward,1.15,2018/2019,Departure
+Taiwo Awoniyi,Liverpool,Centre-Forward,1.1,2015/2016,Arrival
+Pau López,Tottenham Hotspur,Goalkeeper,1.1,2016/2017,Arrival
+Ko Itakura,Manchester City,Centre-Back,1.1,2018/2019,Arrival
+Harry Wilson,Liverpool,Right Winger,1.1,2018/2019,Departure
+Josh McEachran,Chelsea,Central Midfield,1.04,2015/2016,Departure
+Takuma Asano,Arsenal,Right Winger,1.0,2018/2019,Departure
+Micah Richards,Manchester City,Right-Back,1.0,2014/2015,Departure
+Mario Pasalic,Chelsea,Central Midfield,1.0,2016/2017,Departure
+Marko Grujic,Liverpool,Defensive Midfield,1.0,2015/2016,Departure
+Loïc Rémy,Chelsea,Centre-Forward,1.0,2016/2017,Departure
+Marco van Ginkel,Chelsea,Central Midfield,1.0,2014/2015,Departure
+Marko Grujic,Liverpool,Defensive Midfield,1.0,2018/2019,Departure
+Fernando Torres,Chelsea,Centre-Forward,1.0,2014/2015,Departure
+Emiliano Viviano,Arsenal,Goalkeeper,1.0,2013/2014,Arrival
+Kristoffer Olsson,Arsenal,Central Midfield,1.0,2014/2015,Departure
+Giovani dos Santos,Tottenham Hotspur,Second Striker,1.0,2012/2013,Departure
+Oriol Romeu,Chelsea,Defensive Midfield,1.0,2013/2014,Departure
+Aly Cissokho,Liverpool,Centre-Back,1.0,2013/2014,Arrival
+Joel Campbell,Arsenal,Right Winger,1.0,2014/2015,Departure
+Yangel Herrera,Manchester City,Central Midfield,1.0,2016/2017,Arrival
+Dirk Kuyt,Liverpool,Right Winger,1.0,2012/2013,Departure
+Daniel Arzani,Manchester City,Right Winger,0.89,2018/2019,Arrival
+Lucas Piazón,Chelsea,Attacking Midfield,0.8,2014/2015,Departure
+Kenneth Omeruo,Chelsea,Centre-Back,0.8,2018/2019,Departure
+Kim Källström,Arsenal,Central Midfield,0.75,2013/2014,Arrival
+David Button,Tottenham Hotspur,Goalkeeper,0.63,2012/2013,Departure
+Ola Aina,Chelsea,Right-Back,0.6,2018/2019,Departure
+Lukas Podolski,Arsenal,Attacking Midfield,0.6,2014/2015,Departure
+Simon Dawkins,Tottenham Hotspur,Left Winger,0.575,2013/2014,Departure
+Rubén Sobrino,Manchester City,Centre-Forward,0.55,2015/2016,Arrival
+José Pozo,Manchester City,Attacking Midfield,0.5,2015/2016,Departure
+Thorgan Hazard,Chelsea,Left Winger,0.5,2012/2013,Arrival
+Jason Denayer,Manchester City,Centre-Back,0.5,2017/2018,Departure
+Michael Essien,Chelsea,Defensive Midfield,0.5,2013/2014,Departure
+Chu-young Park,Arsenal,Centre-Forward,0.5,2012/2013,Departure
+Abdul Rahman Baba,Chelsea,Left-Back,0.5,2016/2017,Departure
+Christian Atsu,Chelsea,Left Winger,0.5,2016/2017,Departure
+Semi Ajayi,Arsenal,Centre-Back,0.5,2013/2014,Arrival
+Lawrence Vigouroux,Liverpool,Goalkeeper,0.48,2016/2017,Departure
+Kevin De Bruyne,Chelsea,Attacking Midfield,0.45,2012/2013,Departure
+Jason Denayer,Manchester City,Centre-Back,0.436,2015/2016,Departure
+Johan Djourou,Arsenal,Centre-Back,0.4,2012/2013,Departure
+Heurelho Gomes,Tottenham Hotspur,Goalkeeper,0.4,2012/2013,Departure
+Papy Djilobodji,Chelsea,Centre-Back,0.4,2015/2016,Departure
+Tiago Ilori,Liverpool,Centre-Back,0.35,2015/2016,Departure
+Anthony Cáceres,Manchester City,Attacking Midfield,0.32,2015/2016,Arrival
+Jake Livermore,Tottenham Hotspur,Defensive Midfield,0.3,2013/2014,Departure
+Florian Lejeune,Manchester City,Centre-Back,0.3,2015/2016,Arrival
+Matt Miazga,Chelsea,Centre-Back,0.3,2018/2019,Departure
+Federico Macheda,Manchester United,Centre-Forward,0.3,2012/2013,Departure
+Oriol Romeu,Chelsea,Defensive Midfield,0.25,2014/2015,Departure
+Nathaniel Chalobah,Chelsea,Defensive Midfield,0.25,2015/2016,Departure
+Emmanuel Frimpong,Arsenal,Defensive Midfield,0.25,2013/2014,Departure
+Ryan Fredericks,Tottenham Hotspur,Right-Back,0.25,2015/2016,Departure
+Jonathan Obika,Tottenham Hotspur,Centre-Forward,0.25,2014/2015,Departure
+Francis Coquelin,Arsenal,Defensive Midfield,0.2,2013/2014,Departure
+Pablo Marí,Manchester City,Centre-Back,0.2,2016/2017,Arrival
+Tomas Kalas,Chelsea,Centre-Back,0.2,2014/2015,Departure
+Nico Yennaris,Arsenal,Defensive Midfield,0.1,2013/2014,Departure
+Emiliano Martínez,Arsenal,Goalkeeper,0.0,2014/2015,Departure
+Wellington Silva,Arsenal,Right Winger,0.0,2014/2015,Departure
+Semi Ajayi,Arsenal,Centre-Back,0.0,2014/2015,Departure
+Grant Hall,Tottenham Hotspur,Centre-Back,0.0,2012/2013,Arrival
+Kristoffer Olsson,Arsenal,Central Midfield,0.0,2014/2015,Departure
+Chu-young Park,Arsenal,Centre-Forward,0.0,2014/2015,Departure
+Jonathan Miles,Tottenham Hotspur,Goalkeeper,0.0,2012/2013,Arrival
+Kim Källström,Arsenal,Central Midfield,0.0,2014/2015,Departure
+Emiliano Viviano,Arsenal,Goalkeeper,0.0,2014/2015,Departure
+Vedran Corluka,Tottenham Hotspur,Centre-Back,0.0,2012/2013,Arrival
+Aleix García,Manchester City,Central Midfield,0.0,2016/2017,Arrival
+Frank Lampard,Manchester City,Central Midfield,0.0,2014/2015,Arrival
+Jason Denayer,Manchester City,Centre-Back,0.0,2014/2015,Arrival
+José Pozo,Manchester City,Attacking Midfield,0.0,2014/2015,Arrival
+Karim Rekik,Manchester City,Centre-Back,0.0,2012/2013,Departure
+Ryo Miyaichi,Arsenal,Right Winger,0.0,2015/2016,Departure
+Abou Diaby,Arsenal,Central Midfield,0.0,2015/2016,Departure
+Semi Ajayi,Arsenal,Centre-Back,0.0,2015/2016,Departure
+Mathieu Debuchy,Arsenal,Right-Back,0.0,2015/2016,Departure
+Wojciech Szczęsny,Arsenal,Goalkeeper,0.0,2015/2016,Departure
+Ryo Miyaichi,Arsenal,Right Winger,0.0,2014/2015,Departure
+Daniel Boateng,Arsenal,Centre-Back,0.0,2014/2015,Departure
+Yaya Sanogo,Arsenal,Centre-Forward,0.0,2014/2015,Departure
+Andros Townsend,Tottenham Hotspur,Right Winger,0.0,2012/2013,Arrival
+Oscar Jansson,Tottenham Hotspur,Goalkeeper,0.0,2012/2013,Arrival
+Simon Dawkins,Tottenham Hotspur,Left Winger,0.0,2012/2013,Arrival
+Enes Ünal,Manchester City,Centre-Forward,0.0,2016/2017,Departure
+Harry Kane,Tottenham Hotspur,Centre-Forward,0.0,2012/2013,Arrival
+Harry Kane,Tottenham Hotspur,Centre-Forward,0.0,2012/2013,Arrival
+Ryan McGivern,Manchester City,Centre-Back,0.0,2013/2014,Departure
+Abdul Razak,Manchester City,Central Midfield,0.0,2013/2014,Departure
+Bruno Zuculini,Manchester City,Defensive Midfield,0.0,2016/2017,Departure
+Bruno Zuculini,Manchester City,Defensive Midfield,0.0,2016/2017,Departure
+Marlos Moreno,Manchester City,Left Winger,0.0,2016/2017,Departure
+Abdul Razak,Manchester City,Central Midfield,0.0,2012/2013,Departure
+Francis Coquelin,Arsenal,Defensive Midfield,0.0,2014/2015,Departure
+David Bentley,Tottenham Hotspur,Right Midfield,0.0,2012/2013,Arrival
+Steven Caulker,Tottenham Hotspur,Centre-Back,0.0,2012/2013,Arrival
+David Bentley,Tottenham Hotspur,Right Midfield,0.0,2012/2013,Arrival
+Danny Rose,Tottenham Hotspur,Left-Back,0.0,2012/2013,Arrival
+Bacary Sagna,Arsenal,Right-Back,0.0,2014/2015,Departure
+Nicklas Bendtner,Arsenal,Centre-Forward,0.0,2014/2015,Departure
+Lukasz Fabianski,Arsenal,Goalkeeper,0.0,2014/2015,Departure
+Jermaine Jenas,Tottenham Hotspur,Central Midfield,0.0,2012/2013,Arrival
+Wellington Silva,Arsenal,Right Winger,0.0,2015/2016,Departure
+Carl Jenkinson,Arsenal,Right-Back,0.0,2014/2015,Departure
+Serge Gnabry,Arsenal,Right Winger,0.0,2015/2016,Departure
+Per Mertesacker,Arsenal,Centre-Back,0.0,2018/2019,Departure
+Yaya Sanogo,Arsenal,Centre-Forward,0.0,2015/2016,Departure
+Yaya Sanogo,Arsenal,Centre-Forward,0.0,2015/2016,Departure
+Joel Campbell,Arsenal,Right Winger,0.0,2016/2017,Departure
+Takuma Asano,Arsenal,Right Winger,0.0,2016/2017,Departure
+Luke Brattan,Manchester City,Defensive Midfield,0.0,2015/2016,Arrival
+Chuba Akpom,Arsenal,Centre-Forward,0.0,2016/2017,Departure
+Matt Macey,Arsenal,Goalkeeper,0.0,2016/2017,Departure
+Mathieu Flamini,Arsenal,Defensive Midfield,0.0,2016/2017,Departure
+Mikel Arteta,Arsenal,Central Midfield,0.0,2016/2017,Departure
+Patrick Roberts,Manchester City,Right Winger,0.0,2018/2019,Departure
+Yaya Touré,Manchester City,Central Midfield,0.0,2018/2019,Departure
+Yangel Herrera,Manchester City,Central Midfield,0.0,2016/2017,Departure
+Kolo Touré,Manchester City,Centre-Back,0.0,2013/2014,Departure
+Aaron Mooy,Manchester City,Central Midfield,0.0,2016/2017,Departure
+David Pizarro,Manchester City,Central Midfield,0.0,2012/2013,Departure
+Gunnar Nielsen,Manchester City,Goalkeeper,0.0,2012/2013,Departure
+Michael Johnson,Manchester City,Defensive Midfield,0.0,2012/2013,Departure
+Chuba Akpom,Arsenal,Centre-Forward,0.0,2017/2018,Departure
+Owen Hargreaves,Manchester City,Defensive Midfield,0.0,2012/2013,Departure
+Mathieu Debuchy,Arsenal,Right-Back,0.0,2017/2018,Departure
+Yaya Sanogo,Arsenal,Centre-Forward,0.0,2017/2018,Departure
+Lucas Pérez,Arsenal,Centre-Forward,0.0,2017/2018,Departure
+Joel Campbell,Arsenal,Right Winger,0.0,2017/2018,Departure
+Carl Jenkinson,Arsenal,Right-Back,0.0,2017/2018,Departure
+Krystian Bielik,Arsenal,Defensive Midfield,0.0,2017/2018,Departure
+Calum Chambers,Arsenal,Centre-Back,0.0,2016/2017,Departure
+Luke Brattan,Manchester City,Defensive Midfield,0.0,2016/2017,Departure
+Tomas Rosicky,Arsenal,Attacking Midfield,0.0,2016/2017,Departure
+Aaron Mooy,Manchester City,Central Midfield,0.0,2016/2017,Arrival
+Emiliano Martínez,Arsenal,Goalkeeper,0.0,2017/2018,Departure
+Matt Macey,Arsenal,Goalkeeper,0.0,2018/2019,Departure
+Emiliano Martínez,Arsenal,Goalkeeper,0.0,2018/2019,Departure
+Krystian Bielik,Arsenal,Defensive Midfield,0.0,2018/2019,Departure
+David Ospina,Arsenal,Goalkeeper,0.0,2018/2019,Departure
+Emiliano Martínez,Arsenal,Goalkeeper,0.0,2015/2016,Departure
+Calum Chambers,Arsenal,Centre-Back,0.0,2018/2019,Departure
+Chuba Akpom,Arsenal,Centre-Forward,0.0,2015/2016,Departure
+Abdisalam Ibrahim,Manchester City,Central Midfield,0.0,2013/2014,Departure
+Santi Cazorla,Arsenal,Central Midfield,0.0,2018/2019,Departure
+Jack Wilshere,Arsenal,Central Midfield,0.0,2018/2019,Departure
+Pablo Marí,Manchester City,Centre-Back,0.0,2016/2017,Departure
+John Guidetti,Manchester City,Centre-Forward,0.0,2014/2015,Arrival
+Bruno Zuculini,Manchester City,Defensive Midfield,0.0,2014/2015,Arrival
+Eirik Holmen Johansen,Manchester City,Goalkeeper,0.0,2014/2015,Arrival
+Pablo Maffeo,Manchester City,Right-Back,0.0,2016/2017,Arrival
+Angus Gunn,Manchester City,Goalkeeper,0.0,2016/2017,Arrival
+Adam Drury,Manchester City,Right-Back,0.0,2014/2015,Arrival
+Wayne Bridge,Manchester City,Left-Back,0.0,2013/2014,Departure
+Roque Santa Cruz,Manchester City,Centre-Forward,0.0,2013/2014,Departure
+Maicon,Manchester City,Right-Back,0.0,2013/2014,Departure
+Rubén Sobrino,Manchester City,Centre-Forward,0.0,2016/2017,Departure
+Krystian Bielik,Arsenal,Defensive Midfield,0.0,2016/2017,Departure
+Denílson,Arsenal,Defensive Midfield,0.0,2013/2014,Departure
+Kelechi Iheanacho,Manchester City,Centre-Forward,0.0,2015/2016,Arrival
+Chuba Akpom,Arsenal,Centre-Forward,0.0,2015/2016,Arrival
+Thomas Agyepong,Manchester City,Left Winger,0.0,2018/2019,Departure
+Luke Brattan,Manchester City,Defensive Midfield,0.0,2015/2016,Arrival
+Bruno Zuculini,Manchester City,Defensive Midfield,0.0,2015/2016,Arrival
+Jack Wilshere,Arsenal,Central Midfield,0.0,2016/2017,Arrival
+Calum Chambers,Arsenal,Centre-Back,0.0,2016/2017,Arrival
+Mathieu Debuchy,Arsenal,Right-Back,0.0,2016/2017,Arrival
+Krystian Bielik,Arsenal,Defensive Midfield,0.0,2016/2017,Arrival
+Chuba Akpom,Arsenal,Centre-Forward,0.0,2016/2017,Arrival
+Matt Macey,Arsenal,Goalkeeper,0.0,2016/2017,Arrival
+Marlos Moreno,Manchester City,Left Winger,0.0,2018/2019,Departure
+Anthony Cáceres,Manchester City,Attacking Midfield,0.0,2018/2019,Departure
+Anthony Cáceres,Manchester City,Attacking Midfield,0.0,2018/2019,Departure
+Bruno Zuculini,Manchester City,Defensive Midfield,0.0,2015/2016,Arrival
+Sead Kolasinac,Arsenal,Centre-Back,0.0,2017/2018,Arrival
+Scott Sinclair,Manchester City,Left Winger,0.0,2015/2016,Arrival
+Enes Ünal,Manchester City,Centre-Forward,0.0,2015/2016,Arrival
+Bruno Zuculini,Manchester City,Defensive Midfield,0.0,2014/2015,Departure
+John Guidetti,Manchester City,Centre-Forward,0.0,2014/2015,Departure
+Scott Sinclair,Manchester City,Left Winger,0.0,2014/2015,Departure
+Karim Rekik,Manchester City,Centre-Back,0.0,2015/2016,Arrival
+Ante Palaversa,Manchester City,Central Midfield,0.0,2018/2019,Departure
+Ainsley Maitland-Niles,Arsenal,Right Midfield,0.0,2017/2018,Arrival
+Wojciech Szczęsny,Arsenal,Goalkeeper,0.0,2017/2018,Arrival
+Joel Campbell,Arsenal,Right Winger,0.0,2017/2018,Arrival
+Carl Jenkinson,Arsenal,Right-Back,0.0,2017/2018,Arrival
+Krystian Bielik,Arsenal,Defensive Midfield,0.0,2017/2018,Arrival
+Ko Itakura,Manchester City,Centre-Back,0.0,2018/2019,Departure
+Pablo Marí,Manchester City,Centre-Back,0.0,2018/2019,Departure
+Rony Lopes,Manchester City,Right Winger,0.0,2015/2016,Arrival
+Jason Denayer,Manchester City,Centre-Back,0.0,2015/2016,Arrival
+Ryo Miyaichi,Arsenal,Right Winger,0.0,2015/2016,Arrival
+Emiliano Martínez,Arsenal,Goalkeeper,0.0,2013/2014,Departure
+Yaya Sanogo,Arsenal,Centre-Forward,0.0,2015/2016,Arrival
+Martín Demichelis,Manchester City,Centre-Back,0.0,2016/2017,Departure
+Héctor Bellerín,Arsenal,Right-Back,0.0,2014/2015,Arrival
+Joel Campbell,Arsenal,Right Winger,0.0,2014/2015,Arrival
+Johan Djourou,Arsenal,Centre-Back,0.0,2014/2015,Arrival
+Francis Coquelin,Arsenal,Defensive Midfield,0.0,2014/2015,Arrival
+Francis Coquelin,Arsenal,Defensive Midfield,0.0,2014/2015,Arrival
+Yaya Sanogo,Arsenal,Centre-Forward,0.0,2014/2015,Arrival
+Wellington Silva,Arsenal,Right Winger,0.0,2014/2015,Arrival
+Emiliano Martínez,Arsenal,Goalkeeper,0.0,2014/2015,Arrival
+Wellington Silva,Arsenal,Right Winger,0.0,2014/2015,Arrival
+Kristoffer Olsson,Arsenal,Central Midfield,0.0,2014/2015,Arrival
+Eliaquim Mangala,Manchester City,Centre-Back,0.0,2016/2017,Departure
+Semi Ajayi,Arsenal,Centre-Back,0.0,2014/2015,Arrival
+Joe Hart,Manchester City,Goalkeeper,0.0,2016/2017,Departure
+Samir Nasri,Manchester City,Attacking Midfield,0.0,2016/2017,Departure
+Chuba Akpom,Arsenal,Centre-Forward,0.0,2015/2016,Arrival
+Matt Macey,Arsenal,Goalkeeper,0.0,2015/2016,Arrival
+Alex Iwobi,Arsenal,Attacking Midfield,0.0,2015/2016,Arrival
+Carl Jenkinson,Arsenal,Right-Back,0.0,2015/2016,Arrival
+Lukas Podolski,Arsenal,Attacking Midfield,0.0,2015/2016,Arrival
+Joel Campbell,Arsenal,Right Winger,0.0,2015/2016,Arrival
+Serge Gnabry,Arsenal,Right Winger,0.0,2015/2016,Arrival
+Wellington Silva,Arsenal,Right Winger,0.0,2015/2016,Arrival
+Yaya Sanogo,Arsenal,Centre-Forward,0.0,2015/2016,Arrival
+Rony Lopes,Manchester City,Right Winger,0.0,2014/2015,Departure
+Jason Denayer,Manchester City,Centre-Back,0.0,2014/2015,Departure
+Adam Drury,Manchester City,Right-Back,0.0,2014/2015,Departure
+Bruno Zuculini,Manchester City,Defensive Midfield,0.0,2014/2015,Departure
+Emiliano Martínez,Arsenal,Goalkeeper,0.0,2015/2016,Arrival
+Matija Nastasic,Manchester City,Centre-Back,0.0,2014/2015,Departure
+Micah Richards,Manchester City,Right-Back,0.0,2015/2016,Arrival
+Stephan Lichtsteiner,Arsenal,Right-Back,0.0,2018/2019,Arrival
+Dejan Iliev,Arsenal,Goalkeeper,0.0,2018/2019,Arrival
+Emmanuel Frimpong,Arsenal,Defensive Midfield,0.0,2012/2013,Departure
+Oleksandr Zinchenko,Manchester City,Left-Back,0.0,2016/2017,Departure
+Matija Nastasic,Manchester City,Centre-Back,0.0,2015/2016,Arrival
+Eirik Holmen Johansen,Manchester City,Goalkeeper,0.0,2013/2014,Departure
+Reece Wabara,Manchester City,Right-Back,0.0,2013/2014,Departure
+Mohammed Abu,Manchester City,Defensive Midfield,0.0,2013/2014,Departure
+Abdul Razak,Manchester City,Central Midfield,0.0,2013/2014,Departure
+Karim Rekik,Manchester City,Centre-Back,0.0,2013/2014,Departure
+John Guidetti,Manchester City,Centre-Forward,0.0,2013/2014,Departure
+Craig Eastmond,Arsenal,Central Midfield,0.0,2012/2013,Departure
+Wellington Silva,Arsenal,Right Winger,0.0,2012/2013,Departure
+Gareth Barry,Manchester City,Defensive Midfield,0.0,2013/2014,Departure
+Álvaro Negredo,Manchester City,Centre-Forward,0.0,2015/2016,Arrival
+Louis Hutton,Manchester City,Central Midfield,0.0,2013/2014,Departure
+Adam Smith,Tottenham Hotspur,Right-Back,0.0,2012/2013,Arrival
+Andrey Arshavin,Arsenal,Left Winger,0.0,2013/2014,Departure
+André Santos,Arsenal,Left-Back,0.0,2013/2014,Departure
+Sébastien Squillaci,Arsenal,Centre-Back,0.0,2013/2014,Departure
+Craig Eastmond,Arsenal,Central Midfield,0.0,2013/2014,Departure
+Martin Angha,Arsenal,Centre-Back,0.0,2013/2014,Departure
+James Shea,Arsenal,Goalkeeper,0.0,2013/2014,Departure
+Elton Monteiro,Arsenal,Centre-Back,0.0,2013/2014,Departure
+Johan Djourou,Arsenal,Centre-Back,0.0,2013/2014,Departure
+Joel Campbell,Arsenal,Right Winger,0.0,2013/2014,Departure
+Chu-young Park,Arsenal,Centre-Forward,0.0,2013/2014,Departure
+Ignasi Miquel,Arsenal,Centre-Back,0.0,2013/2014,Departure
+Wellington Silva,Arsenal,Right Winger,0.0,2013/2014,Departure
+Nico Yennaris,Arsenal,Defensive Midfield,0.0,2013/2014,Departure
+Daniel Boateng,Arsenal,Centre-Back,0.0,2013/2014,Departure
+Joel Campbell,Arsenal,Right Winger,0.0,2012/2013,Departure
+Emmanuel Frimpong,Arsenal,Defensive Midfield,0.0,2012/2013,Departure
+Ryo Miyaichi,Arsenal,Right Winger,0.0,2012/2013,Departure
+Gareth Barry,Manchester City,Defensive Midfield,0.0,2014/2015,Departure
+Eddie Nketiah,Arsenal,Centre-Forward,0.0,2018/2019,Arrival
+Calum Chambers,Arsenal,Centre-Back,0.0,2018/2019,Arrival
+Lucas Pérez,Arsenal,Centre-Forward,0.0,2018/2019,Arrival
+Joel Campbell,Arsenal,Right Winger,0.0,2018/2019,Arrival
+Takuma Asano,Arsenal,Right Winger,0.0,2018/2019,Arrival
+Krystian Bielik,Arsenal,Defensive Midfield,0.0,2018/2019,Arrival
+Chuba Akpom,Arsenal,Centre-Forward,0.0,2018/2019,Arrival
+Emiliano Martínez,Arsenal,Goalkeeper,0.0,2018/2019,Arrival
+Gerónimo Rulli,Manchester City,Goalkeeper,0.0,2016/2017,Departure
+Jason Denayer,Manchester City,Centre-Back,0.0,2016/2017,Departure
+Álvaro Negredo,Manchester City,Centre-Forward,0.0,2014/2015,Departure
+Eirik Holmen Johansen,Manchester City,Goalkeeper,0.0,2014/2015,Departure
+Costel Pantilimon,Manchester City,Goalkeeper,0.0,2014/2015,Departure
+Joleon Lescott,Manchester City,Centre-Back,0.0,2014/2015,Departure
+André Santos,Arsenal,Left-Back,0.0,2012/2013,Departure
+Yangel Herrera,Manchester City,Central Midfield,0.0,2018/2019,Departure
+Daniel Arzani,Manchester City,Right Winger,0.0,2018/2019,Departure
+Luka Ilic,Manchester City,Attacking Midfield,0.0,2018/2019,Departure
+Manu García,Manchester City,Attacking Midfield,0.0,2018/2019,Departure
+Emiliano Martínez,Arsenal,Goalkeeper,0.0,2018/2019,Arrival
+Matt Macey,Arsenal,Goalkeeper,0.0,2018/2019,Arrival
+Jack Harrison,Manchester City,Right Winger,0.0,2018/2019,Departure
+Reece Wabara,Manchester City,Right-Back,0.0,2013/2014,Departure
+Pedro Botelho,Arsenal,Centre-Back,0.0,2012/2013,Departure
+Manuel Almunia,Arsenal,Goalkeeper,0.0,2012/2013,Departure
+Gavin Hoyte,Arsenal,Right-Back,0.0,2012/2013,Departure
+Nicklas Bendtner,Arsenal,Centre-Forward,0.0,2012/2013,Departure
+Marouane Chamakh,Arsenal,Centre-Forward,0.0,2012/2013,Departure
+Jonathan Obika,Tottenham Hotspur,Centre-Forward,0.0,2012/2013,Arrival
+Dedryck Boyata,Manchester City,Centre-Back,0.0,2012/2013,Arrival
+John Bostock,Tottenham Hotspur,Central Midfield,0.0,2012/2013,Arrival
+Cameron Lancaster,Tottenham Hotspur,Centre-Forward,0.0,2014/2015,Departure
+Marlos Moreno,Manchester City,Left Winger,0.0,2017/2018,Arrival
+Pablo Maffeo,Manchester City,Right-Back,0.0,2017/2018,Arrival
+Abdul Razak,Manchester City,Central Midfield,0.0,2012/2013,Arrival
+Abdul Razak,Manchester City,Central Midfield,0.0,2012/2013,Arrival
+Richard Wright,Manchester City,Goalkeeper,0.0,2016/2017,Departure
+Aaron Lennon,Tottenham Hotspur,Right Winger,0.0,2014/2015,Departure
+Heurelho Gomes,Tottenham Hotspur,Goalkeeper,0.0,2014/2015,Departure
+Pablo Zabaleta,Manchester City,Right-Back,0.0,2017/2018,Departure
+Bersant Celina,Manchester City,Attacking Midfield,0.0,2016/2017,Departure
+Pablo Maffeo,Manchester City,Right-Back,0.0,2016/2017,Departure
+Gerónimo Rulli,Manchester City,Goalkeeper,0.0,2016/2017,Arrival
+Pablo Marí,Manchester City,Centre-Back,0.0,2017/2018,Arrival
+Enes Ünal,Manchester City,Centre-Forward,0.0,2015/2016,Departure
+Stevan Jovetic,Manchester City,Centre-Forward,0.0,2016/2017,Arrival
+Rubén Sobrino,Manchester City,Centre-Forward,0.0,2017/2018,Arrival
+Jesús Navas,Manchester City,Right-Back,0.0,2017/2018,Departure
+Bersant Celina,Manchester City,Attacking Midfield,0.0,2017/2018,Arrival
+Ryan Fredericks,Tottenham Hotspur,Right-Back,0.0,2014/2015,Departure
+Angus Gunn,Manchester City,Goalkeeper,0.0,2017/2018,Arrival
+Bruno Zuculini,Manchester City,Defensive Midfield,0.0,2017/2018,Arrival
+Marlos Moreno,Manchester City,Left Winger,0.0,2017/2018,Arrival
+Benoît Assou-Ekotto,Tottenham Hotspur,Left-Back,0.0,2014/2015,Departure
+Tomislav Gomelt,Tottenham Hotspur,Central Midfield,0.0,2014/2015,Departure
+Jordan Archer,Tottenham Hotspur,Goalkeeper,0.0,2014/2015,Departure
+Jordan Archer,Tottenham Hotspur,Goalkeeper,0.0,2014/2015,Departure
+Tom Carroll,Tottenham Hotspur,Central Midfield,0.0,2014/2015,Departure
+Grant Hall,Tottenham Hotspur,Centre-Back,0.0,2014/2015,Departure
+Grant Hall,Tottenham Hotspur,Centre-Back,0.0,2014/2015,Departure
+Alex Pritchard,Tottenham Hotspur,Attacking Midfield,0.0,2014/2015,Departure
+DeAndre Yedlin,Tottenham Hotspur,Right-Back,0.0,2014/2015,Departure
+Bongani Khumalo,Tottenham Hotspur,Centre-Back,0.0,2014/2015,Departure
+Dele Alli,Tottenham Hotspur,Attacking Midfield,0.0,2014/2015,Departure
+William Gallas,Tottenham Hotspur,Centre-Back,0.0,2013/2014,Departure
+David Bentley,Tottenham Hotspur,Right Midfield,0.0,2013/2014,Departure
+Tomislav Gomelt,Tottenham Hotspur,Central Midfield,0.0,2013/2014,Departure
+Pablo Maffeo,Manchester City,Right-Back,0.0,2018/2019,Arrival
+Benoît Assou-Ekotto,Tottenham Hotspur,Left-Back,0.0,2013/2014,Departure
+Adam Smith,Tottenham Hotspur,Right-Back,0.0,2013/2014,Departure
+John Bostock,Tottenham Hotspur,Central Midfield,0.0,2013/2014,Departure
+John Guidetti,Manchester City,Centre-Forward,0.0,2013/2014,Arrival
+Patrick Roberts,Manchester City,Right Winger,0.0,2015/2016,Departure
+Arijanet Muric,Manchester City,Goalkeeper,0.0,2018/2019,Arrival
+Olarenwaju Kayode,Manchester City,Centre-Forward,0.0,2018/2019,Arrival
+Jonathan Miles,Tottenham Hotspur,Goalkeeper,0.0,2013/2014,Departure
+Jason Denayer,Manchester City,Centre-Back,0.0,2018/2019,Arrival
+Gaël Clichy,Manchester City,Left-Back,0.0,2017/2018,Departure
+Ledley King,Tottenham Hotspur,Centre-Back,0.0,2012/2013,Departure
+Harry Kane,Tottenham Hotspur,Centre-Forward,0.0,2012/2013,Departure
+Ryan Fredericks,Tottenham Hotspur,Right-Back,0.0,2012/2013,Departure
+Jonathan Miles,Tottenham Hotspur,Goalkeeper,0.0,2012/2013,Departure
+Gareth Barry,Manchester City,Defensive Midfield,0.0,2013/2014,Arrival
+Scott Sinclair,Manchester City,Left Winger,0.0,2013/2014,Arrival
+Louis Hutton,Manchester City,Central Midfield,0.0,2013/2014,Arrival
+Manu García,Manchester City,Attacking Midfield,0.0,2018/2019,Arrival
+Lewis Holtby,Tottenham Hotspur,Central Midfield,0.0,2013/2014,Departure
+Iago Falque,Tottenham Hotspur,Right Winger,0.0,2013/2014,Departure
+Tom Carroll,Tottenham Hotspur,Central Midfield,0.0,2013/2014,Departure
+Bongani Khumalo,Tottenham Hotspur,Centre-Back,0.0,2013/2014,Departure
+Simon Dawkins,Tottenham Hotspur,Left Winger,0.0,2013/2014,Departure
+Adam Smith,Tottenham Hotspur,Right-Back,0.0,2013/2014,Departure
+Ryan Mason,Tottenham Hotspur,Central Midfield,0.0,2013/2014,Departure
+Jonathan Obika,Tottenham Hotspur,Centre-Forward,0.0,2013/2014,Departure
+Jonathan Obika,Tottenham Hotspur,Centre-Forward,0.0,2013/2014,Departure
+Grant Hall,Tottenham Hotspur,Centre-Back,0.0,2013/2014,Departure
+Ryan Fredericks,Tottenham Hotspur,Right-Back,0.0,2013/2014,Departure
+Alex Pritchard,Tottenham Hotspur,Attacking Midfield,0.0,2013/2014,Departure
+Cristian Ceballos,Tottenham Hotspur,Attacking Midfield,0.0,2013/2014,Departure
+Bersant Celina,Manchester City,Attacking Midfield,0.0,2017/2018,Arrival
+Enes Ünal,Manchester City,Centre-Forward,0.0,2015/2016,Departure
+John Bostock,Tottenham Hotspur,Central Midfield,0.0,2012/2013,Departure
+Cameron Carter-Vickers,Tottenham Hotspur,Centre-Back,0.0,2017/2018,Departure
+Josh Onomah,Tottenham Hotspur,Central Midfield,0.0,2018/2019,Departure
+Georges-Kevin N'Koudou,Tottenham Hotspur,Left Winger,0.0,2018/2019,Departure
+Thomas Agyepong,Manchester City,Left Winger,0.0,2016/2017,Arrival
+Pau López,Tottenham Hotspur,Goalkeeper,0.0,2017/2018,Departure
+David Button,Tottenham Hotspur,Goalkeeper,0.0,2017/2018,Departure
+Cameron Carter-Vickers,Tottenham Hotspur,Centre-Back,0.0,2017/2018,Departure
+Josh Onomah,Tottenham Hotspur,Central Midfield,0.0,2017/2018,Departure
+Mohammed Abu,Manchester City,Defensive Midfield,0.0,2012/2013,Arrival
+Georges-Kevin N'Koudou,Tottenham Hotspur,Left Winger,0.0,2017/2018,Departure
+Ryan McGivern,Manchester City,Centre-Back,0.0,2012/2013,Arrival
+Thomas Agyepong,Manchester City,Left Winger,0.0,2015/2016,Departure
+Anthony Cáceres,Manchester City,Attacking Midfield,0.0,2015/2016,Departure
+Rubén Sobrino,Manchester City,Centre-Forward,0.0,2015/2016,Departure
+Luke Brattan,Manchester City,Defensive Midfield,0.0,2015/2016,Departure
+Mohammed Abu,Manchester City,Defensive Midfield,0.0,2012/2013,Arrival
+Rubén Sobrino,Manchester City,Centre-Forward,0.0,2016/2017,Arrival
+Olarenwaju Kayode,Manchester City,Centre-Forward,0.0,2017/2018,Arrival
+Enes Ünal,Manchester City,Centre-Forward,0.0,2016/2017,Arrival
+Roque Santa Cruz,Manchester City,Centre-Forward,0.0,2012/2013,Arrival
+John Guidetti,Manchester City,Centre-Forward,0.0,2012/2013,Arrival
+Rony Lopes,Manchester City,Right Winger,0.0,2012/2013,Arrival
+Adam Drury,Manchester City,Right-Back,0.0,2012/2013,Arrival
+Richard Wright,Manchester City,Goalkeeper,0.0,2012/2013,Arrival
+Karim Rekik,Manchester City,Centre-Back,0.0,2012/2013,Arrival
+Bruno Zuculini,Manchester City,Defensive Midfield,0.0,2016/2017,Arrival
+Anthony Cáceres,Manchester City,Attacking Midfield,0.0,2016/2017,Arrival
+Wayne Bridge,Manchester City,Left-Back,0.0,2012/2013,Arrival
+Frank Lampard,Manchester City,Central Midfield,0.0,2015/2016,Departure
+Cameron Carter-Vickers,Tottenham Hotspur,Centre-Back,0.0,2018/2019,Departure
+Bruno Zuculini,Manchester City,Defensive Midfield,0.0,2016/2017,Arrival
+Aaron Mooy,Manchester City,Central Midfield,0.0,2016/2017,Arrival
+Florian Lejeune,Manchester City,Centre-Back,0.0,2016/2017,Arrival
+Florian Lejeune,Manchester City,Centre-Back,0.0,2015/2016,Departure
+Jason Denayer,Manchester City,Centre-Back,0.0,2016/2017,Arrival
+Jason Denayer,Manchester City,Centre-Back,0.0,2016/2017,Arrival
+Bongani Khumalo,Tottenham Hotspur,Centre-Back,0.0,2015/2016,Departure
+Eliaquim Mangala,Manchester City,Centre-Back,0.0,2017/2018,Arrival
+Grant Hall,Tottenham Hotspur,Centre-Back,0.0,2015/2016,Departure
+Jordan Archer,Tottenham Hotspur,Goalkeeper,0.0,2015/2016,Departure
+Jonathan Miles,Tottenham Hotspur,Goalkeeper,0.0,2015/2016,Departure
+Tomislav Gomelt,Tottenham Hotspur,Central Midfield,0.0,2015/2016,Departure
+Cristian Ceballos,Tottenham Hotspur,Attacking Midfield,0.0,2015/2016,Departure
+Eirik Holmen Johansen,Manchester City,Goalkeeper,0.0,2012/2013,Arrival
+Patrick Roberts,Manchester City,Right Winger,0.0,2016/2017,Arrival
+Joe Hart,Manchester City,Goalkeeper,0.0,2017/2018,Arrival
+Joe Hart,Manchester City,Goalkeeper,0.0,2017/2018,Arrival
+Enes Ünal,Manchester City,Centre-Forward,0.0,2017/2018,Arrival
+Patrick Roberts,Manchester City,Right Winger,0.0,2017/2018,Arrival
+Oleksandr Zinchenko,Manchester City,Left-Back,0.0,2017/2018,Arrival
+Jack Harrison,Manchester City,Right Winger,0.0,2017/2018,Arrival
+Eliaquim Mangala,Manchester City,Centre-Back,0.0,2017/2018,Arrival
+Samir Nasri,Manchester City,Attacking Midfield,0.0,2017/2018,Arrival
+Federico Fazio,Tottenham Hotspur,Centre-Back,0.0,2015/2016,Departure
+Alex Pritchard,Tottenham Hotspur,Attacking Midfield,0.0,2015/2016,Departure
+DeAndre Yedlin,Tottenham Hotspur,Right-Back,0.0,2015/2016,Departure
+Emmanuel Adebayor,Tottenham Hotspur,Centre-Forward,0.0,2015/2016,Departure
+Brad Friedel,Tottenham Hotspur,Goalkeeper,0.0,2015/2016,Departure
+Phil Foden,Manchester City,Right Winger,0.0,2017/2018,Arrival
+Brahim Díaz,Manchester City,Attacking Midfield,0.0,2017/2018,Arrival
+Adam Drury,Manchester City,Right-Back,0.0,2012/2013,Arrival
+Bruno Zuculini,Manchester City,Defensive Midfield,0.0,2015/2016,Departure
+Reece Wabara,Manchester City,Right-Back,0.0,2012/2013,Arrival
+Bruno Zuculini,Manchester City,Defensive Midfield,0.0,2015/2016,Departure
+Reece Wabara,Manchester City,Right-Back,0.0,2012/2013,Arrival
+Abdisalam Ibrahim,Manchester City,Central Midfield,0.0,2012/2013,Arrival
+Clinton N'Jie,Tottenham Hotspur,Right Winger,0.0,2016/2017,Departure
+Nabil Bentaleb,Tottenham Hotspur,Defensive Midfield,0.0,2016/2017,Departure
+Alex Pritchard,Tottenham Hotspur,Attacking Midfield,0.0,2012/2013,Departure
+John Bostock,Tottenham Hotspur,Central Midfield,0.0,2012/2013,Departure
+John Bostock,Tottenham Hotspur,Central Midfield,0.0,2012/2013,Arrival
+Stuart Taylor,Manchester City,Goalkeeper,0.0,2012/2013,Departure
+Alex Pritchard,Tottenham Hotspur,Attacking Midfield,0.0,2014/2015,Arrival
+Iago Falque,Tottenham Hotspur,Right Winger,0.0,2014/2015,Arrival
+Tom Carroll,Tottenham Hotspur,Central Midfield,0.0,2014/2015,Arrival
+Dele Alli,Tottenham Hotspur,Attacking Midfield,0.0,2014/2015,Arrival
+Aaron Lennon,Tottenham Hotspur,Right Winger,0.0,2014/2015,Arrival
+Stefan Savic,Manchester City,Centre-Back,0.0,2012/2013,Departure
+Ahmad Benali,Manchester City,Central Midfield,0.0,2012/2013,Departure
+Cristian Ceballos,Tottenham Hotspur,Attacking Midfield,0.0,2014/2015,Arrival
+Roque Santa Cruz,Manchester City,Centre-Forward,0.0,2012/2013,Departure
+Wayne Bridge,Manchester City,Left-Back,0.0,2012/2013,Departure
+Dedryck Boyata,Manchester City,Centre-Back,0.0,2012/2013,Departure
+Jonathan Miles,Tottenham Hotspur,Goalkeeper,0.0,2013/2014,Arrival
+Ryan Fredericks,Tottenham Hotspur,Right-Back,0.0,2013/2014,Arrival
+Grant Hall,Tottenham Hotspur,Centre-Back,0.0,2013/2014,Arrival
+Bongani Khumalo,Tottenham Hotspur,Centre-Back,0.0,2014/2015,Arrival
+Thomas Agyepong,Manchester City,Left Winger,0.0,2014/2015,Arrival
+Enock Kwakwa,Manchester City,Defensive Midfield,0.0,2013/2014,Arrival
+Ryan Fredericks,Tottenham Hotspur,Right-Back,0.0,2014/2015,Arrival
+Pablo Marí,Manchester City,Centre-Back,0.0,2017/2018,Departure
+Tomislav Gomelt,Tottenham Hotspur,Central Midfield,0.0,2014/2015,Arrival
+Jordan Archer,Tottenham Hotspur,Goalkeeper,0.0,2014/2015,Arrival
+Grant Hall,Tottenham Hotspur,Centre-Back,0.0,2014/2015,Arrival
+Grant Hall,Tottenham Hotspur,Centre-Back,0.0,2014/2015,Arrival
+DeAndre Yedlin,Tottenham Hotspur,Right-Back,0.0,2014/2015,Arrival
+Angus Gunn,Manchester City,Goalkeeper,0.0,2017/2018,Departure
+James Milner,Manchester City,Central Midfield,0.0,2015/2016,Departure
+Douglas Luiz,Manchester City,Central Midfield,0.0,2017/2018,Departure
+Edin Dzeko,Manchester City,Centre-Forward,0.0,2016/2017,Arrival
+Thomas Agyepong,Manchester City,Left Winger,0.0,2016/2017,Departure
+Wilfried Bony,Manchester City,Centre-Forward,0.0,2016/2017,Arrival
+Bersant Celina,Manchester City,Attacking Midfield,0.0,2016/2017,Arrival
+Bacary Sagna,Manchester City,Right-Back,0.0,2014/2015,Arrival
+Jonathan Obika,Tottenham Hotspur,Centre-Forward,0.0,2013/2014,Arrival
+Jonathan Obika,Tottenham Hotspur,Centre-Forward,0.0,2013/2014,Arrival
+Alex Pritchard,Tottenham Hotspur,Attacking Midfield,0.0,2013/2014,Arrival
+Vladimír Weiss,Manchester City,Left Winger,0.0,2012/2013,Arrival
+Nabil Bentaleb,Tottenham Hotspur,Defensive Midfield,0.0,2013/2014,Arrival
+Cristian Ceballos,Tottenham Hotspur,Attacking Midfield,0.0,2013/2014,Arrival
+Jordan Archer,Tottenham Hotspur,Goalkeeper,0.0,2013/2014,Arrival
+Ryan McGivern,Manchester City,Centre-Back,0.0,2012/2013,Departure
+Abdisalam Ibrahim,Manchester City,Central Midfield,0.0,2012/2013,Departure
+Abdisalam Ibrahim,Manchester City,Central Midfield,0.0,2012/2013,Departure
+Reece Wabara,Manchester City,Right-Back,0.0,2012/2013,Departure
+Ryan Mason,Tottenham Hotspur,Central Midfield,0.0,2013/2014,Arrival
+Adam Drury,Manchester City,Right-Back,0.0,2012/2013,Departure
+Eirik Holmen Johansen,Manchester City,Goalkeeper,0.0,2012/2013,Departure
+Ryan Fredericks,Tottenham Hotspur,Right-Back,0.0,2012/2013,Arrival
+Jonathan Miles,Tottenham Hotspur,Goalkeeper,0.0,2012/2013,Arrival
+Alex Pritchard,Tottenham Hotspur,Attacking Midfield,0.0,2012/2013,Arrival
+John Bostock,Tottenham Hotspur,Central Midfield,0.0,2012/2013,Arrival
+Tomislav Gomelt,Tottenham Hotspur,Central Midfield,0.0,2013/2014,Arrival
+Lewis Holtby,Tottenham Hotspur,Central Midfield,0.0,2013/2014,Arrival
+Benoît Assou-Ekotto,Tottenham Hotspur,Left-Back,0.0,2013/2014,Arrival
+Mohammed Abu,Manchester City,Defensive Midfield,0.0,2012/2013,Departure
+Bacary Sagna,Manchester City,Right-Back,0.0,2017/2018,Departure
+Luka Ilic,Manchester City,Attacking Midfield,0.0,2017/2018,Departure
+Mohammed Abu,Manchester City,Defensive Midfield,0.0,2012/2013,Departure
+Jake Livermore,Tottenham Hotspur,Defensive Midfield,0.0,2013/2014,Arrival
+Iago Falque,Tottenham Hotspur,Right Winger,0.0,2013/2014,Arrival
+Tom Carroll,Tottenham Hotspur,Central Midfield,0.0,2013/2014,Arrival
+Heurelho Gomes,Tottenham Hotspur,Goalkeeper,0.0,2013/2014,Arrival
+Simon Dawkins,Tottenham Hotspur,Left Winger,0.0,2013/2014,Arrival
+Bongani Khumalo,Tottenham Hotspur,Centre-Back,0.0,2013/2014,Arrival
+Simon Dawkins,Tottenham Hotspur,Left Winger,0.0,2013/2014,Arrival
+Bongani Khumalo,Tottenham Hotspur,Centre-Back,0.0,2013/2014,Arrival
+Adam Smith,Tottenham Hotspur,Right-Back,0.0,2013/2014,Arrival
+Ryan Mason,Tottenham Hotspur,Central Midfield,0.0,2013/2014,Arrival
+Reece Wabara,Manchester City,Right-Back,0.0,2013/2014,Arrival
+Micah Richards,Manchester City,Right-Back,0.0,2015/2016,Departure
+Adam Smith,Tottenham Hotspur,Right-Back,0.0,2012/2013,Departure
+Abdul Razak,Manchester City,Central Midfield,0.0,2013/2014,Arrival
+Eliaquim Mangala,Manchester City,Centre-Back,0.0,2017/2018,Departure
+Luka Ilic,Manchester City,Attacking Midfield,0.0,2018/2019,Arrival
+Yangel Herrera,Manchester City,Central Midfield,0.0,2018/2019,Arrival
+Pablo Marí,Manchester City,Centre-Back,0.0,2018/2019,Arrival
+Anthony Cáceres,Manchester City,Attacking Midfield,0.0,2018/2019,Arrival
+Roque Santa Cruz,Manchester City,Centre-Forward,0.0,2013/2014,Arrival
+Abdisalam Ibrahim,Manchester City,Central Midfield,0.0,2013/2014,Arrival
+Jermaine Jenas,Tottenham Hotspur,Central Midfield,0.0,2012/2013,Departure
+Mohammed Abu,Manchester City,Defensive Midfield,0.0,2013/2014,Arrival
+Mohammed Abu,Manchester City,Defensive Midfield,0.0,2013/2014,Arrival
+Adam Drury,Manchester City,Right-Back,0.0,2015/2016,Departure
+John Guidetti,Manchester City,Centre-Forward,0.0,2015/2016,Departure
+Anthony Cáceres,Manchester City,Attacking Midfield,0.0,2018/2019,Arrival
+Patrick Roberts,Manchester City,Right Winger,0.0,2017/2018,Departure
+Willy Caballero,Manchester City,Goalkeeper,0.0,2017/2018,Departure
+Louis Saha,Tottenham Hotspur,Centre-Forward,0.0,2012/2013,Departure
+Josh Onomah,Tottenham Hotspur,Central Midfield,0.0,2015/2016,Arrival
+Iago Falque,Tottenham Hotspur,Right Winger,0.0,2012/2013,Departure
+Ryan Mason,Tottenham Hotspur,Central Midfield,0.0,2012/2013,Departure
+Jonathan Obika,Tottenham Hotspur,Centre-Forward,0.0,2012/2013,Departure
+Simon Dawkins,Tottenham Hotspur,Left Winger,0.0,2012/2013,Departure
+Harry Kane,Tottenham Hotspur,Centre-Forward,0.0,2012/2013,Departure
+Andros Townsend,Tottenham Hotspur,Right Winger,0.0,2012/2013,Departure
+Bongani Khumalo,Tottenham Hotspur,Centre-Back,0.0,2012/2013,Departure
+Danny Rose,Tottenham Hotspur,Left-Back,0.0,2012/2013,Departure
+Ryan Nelsen,Tottenham Hotspur,Centre-Back,0.0,2012/2013,Departure
+David Bentley,Tottenham Hotspur,Right Midfield,0.0,2012/2013,Departure
+David Bentley,Tottenham Hotspur,Right Midfield,0.0,2012/2013,Departure
+Jermaine Jenas,Tottenham Hotspur,Central Midfield,0.0,2012/2013,Departure
+Oscar Jansson,Tottenham Hotspur,Goalkeeper,0.0,2012/2013,Departure
+Ben Alnwick,Tottenham Hotspur,Goalkeeper,0.0,2012/2013,Departure
+Carlo Cudicini,Tottenham Hotspur,Goalkeeper,0.0,2012/2013,Departure
+Cameron Carter-Vickers,Tottenham Hotspur,Centre-Back,0.0,2018/2019,Arrival
+Josh Onomah,Tottenham Hotspur,Central Midfield,0.0,2018/2019,Arrival
+Vincent Janssen,Tottenham Hotspur,Centre-Forward,0.0,2018/2019,Arrival
+Arijanet Muric,Manchester City,Goalkeeper,0.0,2018/2019,Arrival
+Jack Harrison,Manchester City,Right Winger,0.0,2017/2018,Departure
+Aleix García,Manchester City,Central Midfield,0.0,2017/2018,Departure
+Marlos Moreno,Manchester City,Left Winger,0.0,2017/2018,Departure
+Anthony Cáceres,Manchester City,Attacking Midfield,0.0,2017/2018,Departure
+Harry Winks,Tottenham Hotspur,Defensive Midfield,0.0,2016/2017,Arrival
+Thomas Agyepong,Manchester City,Left Winger,0.0,2018/2019,Arrival
+Marlos Moreno,Manchester City,Left Winger,0.0,2017/2018,Departure
+Oliver Skipp,Tottenham Hotspur,Defensive Midfield,0.0,2018/2019,Arrival
+Pablo Maffeo,Manchester City,Right-Back,0.0,2017/2018,Departure
+Jordan Archer,Tottenham Hotspur,Goalkeeper,0.0,2015/2016,Arrival
+Tomislav Gomelt,Tottenham Hotspur,Central Midfield,0.0,2015/2016,Arrival
+DeAndre Yedlin,Tottenham Hotspur,Right-Back,0.0,2015/2016,Arrival
+Alex Pritchard,Tottenham Hotspur,Attacking Midfield,0.0,2015/2016,Arrival
+Lewis Holtby,Tottenham Hotspur,Central Midfield,0.0,2015/2016,Arrival
+Cameron Carter-Vickers,Tottenham Hotspur,Centre-Back,0.0,2016/2017,Arrival
+Federico Fazio,Tottenham Hotspur,Centre-Back,0.0,2016/2017,Arrival
+Bersant Celina,Manchester City,Attacking Midfield,0.0,2017/2018,Departure
+Olarenwaju Kayode,Manchester City,Centre-Forward,0.0,2017/2018,Departure
+Olarenwaju Kayode,Manchester City,Centre-Forward,0.0,2017/2018,Departure
+Thomas Agyepong,Manchester City,Left Winger,0.0,2018/2019,Arrival
+Marlos Moreno,Manchester City,Left Winger,0.0,2018/2019,Arrival
+Paulo Gazzaniga,Tottenham Hotspur,Goalkeeper,0.0,2017/2018,Arrival
+Kyle Walker-Peters,Tottenham Hotspur,Right-Back,0.0,2017/2018,Arrival
+Nabil Bentaleb,Tottenham Hotspur,Defensive Midfield,0.0,2017/2018,Arrival
+Federico Fazio,Tottenham Hotspur,Centre-Back,0.0,2017/2018,Arrival
+Georges-Kevin N'Koudou,Tottenham Hotspur,Left Winger,0.0,2017/2018,Arrival
+Clinton N'Jie,Tottenham Hotspur,Right Winger,0.0,2017/2018,Arrival
+Josh Onomah,Tottenham Hotspur,Central Midfield,0.0,2017/2018,Arrival
+Cameron Carter-Vickers,Tottenham Hotspur,Centre-Back,0.0,2017/2018,Arrival
+Cameron Carter-Vickers,Tottenham Hotspur,Centre-Back,0.0,2017/2018,Arrival
+David Button,Tottenham Hotspur,Goalkeeper,0.0,2017/2018,Arrival
+Reece Wabara,Manchester City,Right-Back,0.0,2012/2013,Departure
+Kenneth Omeruo,Chelsea,Centre-Back,0.0,2015/2016,Departure
+Daniel Boateng,Arsenal,Centre-Back,0.0,2013/2014,Arrival
+Ángelo Henríquez,Manchester United,Centre-Forward,0.0,2015/2016,Arrival
+Adnan Januzaj,Manchester United,Right Winger,0.0,2016/2017,Arrival
+Axel Tuanzebe,Manchester United,Right-Back,0.0,2016/2017,Arrival
+Zlatan Ibrahimović,Manchester United,Centre-Forward,0.0,2016/2017,Arrival
+Sam Johnstone,Manchester United,Goalkeeper,0.0,2015/2016,Arrival
+Will Keane,Manchester United,Centre-Forward,0.0,2015/2016,Arrival
+Vanja Milinković-Savić,Manchester United,Goalkeeper,0.0,2015/2016,Arrival
+Tyler Blackett,Manchester United,Left-Back,0.0,2015/2016,Arrival
+Nick Powell,Manchester United,Attacking Midfield,0.0,2015/2016,Arrival
+James Wilson,Manchester United,Centre-Forward,0.0,2015/2016,Arrival
+Víctor Valdés,Manchester United,Goalkeeper,0.0,2015/2016,Arrival
+Sam Johnstone,Manchester United,Goalkeeper,0.0,2016/2017,Arrival
+Adnan Januzaj,Manchester United,Right Winger,0.0,2015/2016,Arrival
+Chicharito,Manchester United,Centre-Forward,0.0,2015/2016,Arrival
+Nani,Manchester United,Left Winger,0.0,2015/2016,Arrival
+Timothy Fosu-Mensah,Manchester United,Right-Back,0.0,2015/2016,Arrival
+Marcus Rashford,Manchester United,Left Winger,0.0,2015/2016,Arrival
+Guillermo Varela,Manchester United,Right-Back,0.0,2015/2016,Arrival
+Andreas Pereira,Manchester United,Attacking Midfield,0.0,2015/2016,Arrival
+Sergio Romero,Manchester United,Goalkeeper,0.0,2015/2016,Arrival
+Sam Johnstone,Manchester United,Goalkeeper,0.0,2014/2015,Arrival
+James Wilson,Manchester United,Centre-Forward,0.0,2016/2017,Arrival
+Joel Pereira,Manchester United,Goalkeeper,0.0,2017/2018,Arrival
+Allan,Liverpool,Defensive Midfield,0.0,2018/2019,Departure
+Cameron Borthwick-Jackson,Manchester United,Left-Back,0.0,2018/2019,Arrival
+Reece Brown,Manchester United,Centre-Back,0.0,2012/2013,Departure
+Ben Amos,Manchester United,Goalkeeper,0.0,2012/2013,Departure
+Bebé,Manchester United,Left Winger,0.0,2012/2013,Departure
+Wilfried Zaha,Manchester United,Left Winger,0.0,2012/2013,Departure
+Ángelo Henríquez,Manchester United,Centre-Forward,0.0,2012/2013,Departure
+Fábio,Manchester United,Right-Back,0.0,2012/2013,Departure
+Tomasz Kuszczak,Manchester United,Goalkeeper,0.0,2012/2013,Departure
+Joel Pereira,Manchester United,Goalkeeper,0.0,2018/2019,Arrival
+James Wilson,Manchester United,Centre-Forward,0.0,2018/2019,Arrival
+Axel Tuanzebe,Manchester United,Right-Back,0.0,2018/2019,Arrival
+Scott McTominay,Manchester United,Defensive Midfield,0.0,2017/2018,Arrival
+Andreas Pereira,Manchester United,Attacking Midfield,0.0,2018/2019,Arrival
+Timothy Fosu-Mensah,Manchester United,Right-Back,0.0,2018/2019,Arrival
+Cameron Borthwick-Jackson,Manchester United,Left-Back,0.0,2018/2019,Arrival
+Guillermo Varela,Manchester United,Right-Back,0.0,2017/2018,Arrival
+Axel Tuanzebe,Manchester United,Right-Back,0.0,2017/2018,Arrival
+James Wilson,Manchester United,Centre-Forward,0.0,2017/2018,Arrival
+Sam Johnstone,Manchester United,Goalkeeper,0.0,2017/2018,Arrival
+Andreas Pereira,Manchester United,Attacking Midfield,0.0,2017/2018,Arrival
+Timothy Fosu-Mensah,Manchester United,Right-Back,0.0,2017/2018,Arrival
+Sam Johnstone,Manchester United,Goalkeeper,0.0,2014/2015,Arrival
+Will Keane,Manchester United,Centre-Forward,0.0,2014/2015,Arrival
+Marnick Vermijl,Manchester United,Left-Back,0.0,2014/2015,Arrival
+Reece Brown,Manchester United,Centre-Back,0.0,2012/2013,Arrival
+Federico Macheda,Manchester United,Centre-Forward,0.0,2013/2014,Arrival
+Nick Powell,Manchester United,Attacking Midfield,0.0,2013/2014,Arrival
+Wilfried Zaha,Manchester United,Left Winger,0.0,2013/2014,Arrival
+Adnan Januzaj,Manchester United,Right Winger,0.0,2013/2014,Arrival
+Will Keane,Manchester United,Centre-Forward,0.0,2013/2014,Arrival
+Tom Thorpe,Manchester United,Centre-Back,0.0,2013/2014,Arrival
+Sam Johnstone,Manchester United,Goalkeeper,0.0,2012/2013,Arrival
+Davide Petrucci,Manchester United,Central Midfield,0.0,2012/2013,Arrival
+Reece Brown,Manchester United,Centre-Back,0.0,2012/2013,Arrival
+Ben Amos,Manchester United,Goalkeeper,0.0,2012/2013,Arrival
+Ben Amos,Manchester United,Goalkeeper,0.0,2014/2015,Arrival
+Bebé,Manchester United,Left Winger,0.0,2012/2013,Arrival
+Tomasz Kuszczak,Manchester United,Goalkeeper,0.0,2012/2013,Arrival
+Ángelo Henríquez,Manchester United,Centre-Forward,0.0,2012/2013,Arrival
+Fábio,Manchester United,Right-Back,0.0,2012/2013,Arrival
+Wilfried Zaha,Manchester United,Left Winger,0.0,2012/2013,Arrival
+Davide Petrucci,Manchester United,Central Midfield,0.0,2012/2013,Arrival
+Marnick Vermijl,Manchester United,Left-Back,0.0,2012/2013,Arrival
+Connor Randall,Liverpool,Right-Back,0.0,2018/2019,Departure
+Ovie Ejaria,Liverpool,Left Midfield,0.0,2018/2019,Departure
+Federico Macheda,Manchester United,Centre-Forward,0.0,2013/2014,Arrival
+Ben Amos,Manchester United,Goalkeeper,0.0,2013/2014,Arrival
+Bebé,Manchester United,Left Winger,0.0,2013/2014,Arrival
+Will Keane,Manchester United,Centre-Forward,0.0,2013/2014,Arrival
+Jesse Lingard,Manchester United,Attacking Midfield,0.0,2014/2015,Arrival
+Bebé,Manchester United,Left Winger,0.0,2014/2015,Arrival
+Federico Macheda,Manchester United,Centre-Forward,0.0,2014/2015,Arrival
+Ángelo Henríquez,Manchester United,Centre-Forward,0.0,2014/2015,Arrival
+Nick Powell,Manchester United,Attacking Midfield,0.0,2014/2015,Arrival
+Anderson,Manchester United,Central Midfield,0.0,2014/2015,Arrival
+Wilfried Zaha,Manchester United,Left Winger,0.0,2014/2015,Arrival
+Tom Cleverley,Manchester United,Central Midfield,0.0,2014/2015,Arrival
+James Wilson,Manchester United,Centre-Forward,0.0,2014/2015,Arrival
+Paddy McNair,Manchester United,Centre-Back,0.0,2014/2015,Arrival
+Tyler Blackett,Manchester United,Left-Back,0.0,2014/2015,Arrival
+Jesse Lingard,Manchester United,Attacking Midfield,0.0,2014/2015,Arrival
+Víctor Valdés,Manchester United,Goalkeeper,0.0,2014/2015,Arrival
+Will Keane,Manchester United,Centre-Forward,0.0,2013/2014,Arrival
+Davide Petrucci,Manchester United,Central Midfield,0.0,2013/2014,Arrival
+Davide Petrucci,Manchester United,Central Midfield,0.0,2013/2014,Arrival
+Tom Thorpe,Manchester United,Centre-Back,0.0,2013/2014,Arrival
+Sam Johnstone,Manchester United,Goalkeeper,0.0,2013/2014,Arrival
+Sam Johnstone,Manchester United,Goalkeeper,0.0,2013/2014,Arrival
+Reece Brown,Manchester United,Centre-Back,0.0,2012/2013,Departure
+Davide Petrucci,Manchester United,Central Midfield,0.0,2012/2013,Departure
+Sam Johnstone,Manchester United,Goalkeeper,0.0,2012/2013,Departure
+Sam Johnstone,Manchester United,Goalkeeper,0.0,2016/2017,Departure
+Cameron Borthwick-Jackson,Manchester United,Left-Back,0.0,2018/2019,Departure
+Timothy Fosu-Mensah,Manchester United,Right-Back,0.0,2018/2019,Departure
+Axel Tuanzebe,Manchester United,Right-Back,0.0,2017/2018,Departure
+Sam Johnstone,Manchester United,Goalkeeper,0.0,2017/2018,Departure
+James Wilson,Manchester United,Centre-Forward,0.0,2017/2018,Departure
+Timothy Fosu-Mensah,Manchester United,Right-Back,0.0,2017/2018,Departure
+Guillermo Varela,Manchester United,Right-Back,0.0,2017/2018,Departure
+Zlatan Ibrahimović,Manchester United,Centre-Forward,0.0,2017/2018,Departure
+Wayne Rooney,Manchester United,Centre-Forward,0.0,2017/2018,Departure
+Guillermo Varela,Manchester United,Right-Back,0.0,2016/2017,Departure
+James Wilson,Manchester United,Centre-Forward,0.0,2015/2016,Departure
+Andreas Pereira,Manchester United,Attacking Midfield,0.0,2016/2017,Departure
+James Wilson,Manchester United,Centre-Forward,0.0,2016/2017,Departure
+Adnan Januzaj,Manchester United,Right Winger,0.0,2016/2017,Departure
+Nick Powell,Manchester United,Attacking Midfield,0.0,2016/2017,Departure
+Víctor Valdés,Manchester United,Goalkeeper,0.0,2016/2017,Departure
+Bastian Schweinsteiger,Manchester United,Central Midfield,0.0,2016/2017,Departure
+Radamel Falcao,Manchester United,Centre-Forward,0.0,2015/2016,Departure
+Sam Johnstone,Manchester United,Goalkeeper,0.0,2015/2016,Departure
+Will Keane,Manchester United,Centre-Forward,0.0,2015/2016,Departure
+James Wilson,Manchester United,Centre-Forward,0.0,2018/2019,Departure
+Joel Pereira,Manchester United,Goalkeeper,0.0,2018/2019,Departure
+Joel Pereira,Manchester United,Goalkeeper,0.0,2018/2019,Departure
+Axel Tuanzebe,Manchester United,Right-Back,0.0,2018/2019,Departure
+Conor Clifford,Chelsea,Central Midfield,0.0,2012/2013,Arrival
+Conor Clifford,Chelsea,Central Midfield,0.0,2012/2013,Arrival
+Sam Hutchinson,Chelsea,Defensive Midfield,0.0,2012/2013,Arrival
+Matej Delac,Chelsea,Goalkeeper,0.0,2012/2013,Arrival
+Amin Affane,Chelsea,Attacking Midfield,0.0,2012/2013,Arrival
+Matej Delac,Chelsea,Goalkeeper,0.0,2012/2013,Arrival
+Ulises Dávila,Chelsea,Attacking Midfield,0.0,2012/2013,Arrival
+Nathaniel Chalobah,Chelsea,Defensive Midfield,0.0,2012/2013,Arrival
+Yossi Benayoun,Chelsea,Right Winger,0.0,2012/2013,Arrival
+Gaël Kakuta,Chelsea,Attacking Midfield,0.0,2012/2013,Arrival
+Josh McEachran,Chelsea,Central Midfield,0.0,2012/2013,Arrival
+Kevin De Bruyne,Chelsea,Attacking Midfield,0.0,2012/2013,Arrival
+Romelu Lukaku,Chelsea,Centre-Forward,0.0,2012/2013,Arrival
+Nathan Aké,Chelsea,Centre-Back,0.0,2012/2013,Arrival
+Nathaniel Chalobah,Chelsea,Defensive Midfield,0.0,2012/2013,Arrival
+Todd Kane,Chelsea,Right-Back,0.0,2012/2013,Arrival
+Anjur Osmanovic,Chelsea,Central Midfield,0.0,2012/2013,Arrival
+Lamisha Musonda,Chelsea,Central Midfield,0.0,2012/2013,Arrival
+Michael Carrick,Manchester United,Defensive Midfield,0.0,2018/2019,Departure
+Tyler Blackett,Manchester United,Left-Back,0.0,2015/2016,Departure
+Nick Powell,Manchester United,Attacking Midfield,0.0,2015/2016,Departure
+Michael Owen,Manchester United,Centre-Forward,0.0,2012/2013,Departure
+Sam Johnstone,Manchester United,Goalkeeper,0.0,2013/2014,Departure
+Nemanja Vidic‎,Manchester United,Centre-Back,0.0,2014/2015,Departure
+Paul Scholes,Manchester United,Central Midfield,0.0,2013/2014,Departure
+Will Keane,Manchester United,Centre-Forward,0.0,2013/2014,Departure
+Davide Petrucci,Manchester United,Central Midfield,0.0,2013/2014,Departure
+Marnick Vermijl,Manchester United,Left-Back,0.0,2013/2014,Departure
+Will Keane,Manchester United,Centre-Forward,0.0,2013/2014,Departure
+Davide Petrucci,Manchester United,Central Midfield,0.0,2013/2014,Departure
+Tom Thorpe,Manchester United,Centre-Back,0.0,2013/2014,Departure
+Sam Johnstone,Manchester United,Goalkeeper,0.0,2013/2014,Departure
+Bebé,Manchester United,Left Winger,0.0,2013/2014,Departure
+Víctor Valdés,Manchester United,Goalkeeper,0.0,2015/2016,Departure
+Ben Amos,Manchester United,Goalkeeper,0.0,2013/2014,Departure
+Federico Macheda,Manchester United,Centre-Forward,0.0,2013/2014,Departure
+Federico Macheda,Manchester United,Centre-Forward,0.0,2013/2014,Departure
+Ángelo Henríquez,Manchester United,Centre-Forward,0.0,2013/2014,Departure
+Nick Powell,Manchester United,Attacking Midfield,0.0,2013/2014,Departure
+Anderson,Manchester United,Central Midfield,0.0,2013/2014,Departure
+Frédéric Veseli,Manchester United,Right-Back,0.0,2013/2014,Departure
+Reece Brown,Manchester United,Centre-Back,0.0,2013/2014,Departure
+Fábio,Manchester United,Right-Back,0.0,2013/2014,Departure
+Anderson,Manchester United,Central Midfield,0.0,2014/2015,Departure
+Darren Fletcher,Manchester United,Central Midfield,0.0,2014/2015,Departure
+Rio Ferdinand,Manchester United,Centre-Back,0.0,2014/2015,Departure
+Federico Macheda,Manchester United,Centre-Forward,0.0,2014/2015,Departure
+Adnan Januzaj,Manchester United,Right Winger,0.0,2015/2016,Departure
+Tom Thorpe,Manchester United,Centre-Back,0.0,2015/2016,Departure
+Vanja Milinković-Savić,Manchester United,Goalkeeper,0.0,2015/2016,Departure
+Ben Amos,Manchester United,Goalkeeper,0.0,2015/2016,Departure
+Anders Lindegaard,Manchester United,Goalkeeper,0.0,2015/2016,Departure
+Tom Cleverley,Manchester United,Central Midfield,0.0,2015/2016,Departure
+Ryan Giggs,Manchester United,Left Midfield,0.0,2014/2015,Departure
+Vanja Milinković-Savić,Manchester United,Goalkeeper,0.0,2014/2015,Departure
+Sam Johnstone,Manchester United,Goalkeeper,0.0,2014/2015,Departure
+Sam Johnstone,Manchester United,Goalkeeper,0.0,2014/2015,Departure
+Will Keane,Manchester United,Centre-Forward,0.0,2014/2015,Departure
+Jesse Lingard,Manchester United,Attacking Midfield,0.0,2014/2015,Departure
+Ben Amos,Manchester United,Goalkeeper,0.0,2014/2015,Departure
+Nick Powell,Manchester United,Attacking Midfield,0.0,2014/2015,Departure
+Wilfried Zaha,Manchester United,Left Winger,0.0,2014/2015,Departure
+Tom Cleverley,Manchester United,Central Midfield,0.0,2014/2015,Departure
+Nani,Manchester United,Left Winger,0.0,2014/2015,Departure
+Marnick Vermijl,Manchester United,Left-Back,0.0,2014/2015,Departure
+Davide Petrucci,Manchester United,Central Midfield,0.0,2014/2015,Departure
+Ovie Ejaria,Liverpool,Left Midfield,0.0,2018/2019,Departure
+Ádám Bogdán,Liverpool,Goalkeeper,0.0,2018/2019,Departure
+Nico Yennaris,Arsenal,Defensive Midfield,0.0,2013/2014,Arrival
+Alexander Manninger,Liverpool,Goalkeeper,0.0,2016/2017,Arrival
+Marko Grujic,Liverpool,Defensive Midfield,0.0,2016/2017,Arrival
+Mario Balotelli,Liverpool,Centre-Forward,0.0,2016/2017,Arrival
+Lazar Markovic,Liverpool,Right Winger,0.0,2016/2017,Arrival
+Mamadou Sakho,Liverpool,Centre-Back,0.0,2016/2017,Arrival
+Lazar Markovic,Liverpool,Right Winger,0.0,2016/2017,Arrival
+Lazar Markovic,Liverpool,Right Winger,0.0,2016/2017,Arrival
+Ben Woodburn,Liverpool,Attacking Midfield,0.0,2016/2017,Arrival
+Trent Alexander-Arnold,Liverpool,Right-Back,0.0,2016/2017,Arrival
+Ovie Ejaria,Liverpool,Left Midfield,0.0,2016/2017,Arrival
+Joel Matip,Liverpool,Centre-Back,0.0,2016/2017,Arrival
+Jon Flanagan,Liverpool,Right-Back,0.0,2016/2017,Arrival
+Kevin Stewart,Liverpool,Defensive Midfield,0.0,2015/2016,Arrival
+Lawrence Vigouroux,Liverpool,Goalkeeper,0.0,2015/2016,Arrival
+Danny Ward,Liverpool,Goalkeeper,0.0,2015/2016,Arrival
+Sheyi Ojo,Liverpool,Right Winger,0.0,2015/2016,Arrival
+Rafa Páez,Liverpool,Centre-Back,0.0,2015/2016,Arrival
+Luis Alberto,Liverpool,Central Midfield,0.0,2015/2016,Arrival
+Tiago Ilori,Liverpool,Centre-Back,0.0,2015/2016,Arrival
+Tiago Ilori,Liverpool,Centre-Back,0.0,2015/2016,Arrival
+Andre Wisdom,Liverpool,Right-Back,0.0,2015/2016,Arrival
+Luis Alberto,Liverpool,Central Midfield,0.0,2016/2017,Arrival
+Ádám Bogdán,Liverpool,Goalkeeper,0.0,2016/2017,Arrival
+Taiwo Awoniyi,Liverpool,Centre-Forward,0.0,2018/2019,Departure
+Taiwo Awoniyi,Liverpool,Centre-Forward,0.0,2017/2018,Arrival
+Taiwo Awoniyi,Liverpool,Centre-Forward,0.0,2018/2019,Arrival
+Ryan Kent,Liverpool,Left Winger,0.0,2018/2019,Arrival
+Ben Woodburn,Liverpool,Attacking Midfield,0.0,2018/2019,Arrival
+Harry Wilson,Liverpool,Right Winger,0.0,2018/2019,Arrival
+Lazar Markovic,Liverpool,Right Winger,0.0,2018/2019,Arrival
+Divock Origi,Liverpool,Centre-Forward,0.0,2018/2019,Arrival
+Nathaniel Clyne,Liverpool,Right-Back,0.0,2018/2019,Arrival
+Harry Wilson,Liverpool,Right Winger,0.0,2018/2019,Arrival
+Ryan Kent,Liverpool,Left Winger,0.0,2018/2019,Arrival
+Connor Randall,Liverpool,Right-Back,0.0,2017/2018,Arrival
+Danny Ward,Liverpool,Goalkeeper,0.0,2016/2017,Arrival
+Ovie Ejaria,Liverpool,Left Midfield,0.0,2017/2018,Arrival
+Sheyi Ojo,Liverpool,Right Winger,0.0,2017/2018,Arrival
+Jon Flanagan,Liverpool,Right-Back,0.0,2017/2018,Arrival
+Andre Wisdom,Liverpool,Right-Back,0.0,2017/2018,Arrival
+Marko Grujic,Liverpool,Defensive Midfield,0.0,2017/2018,Arrival
+Daniel Sturridge,Liverpool,Centre-Forward,0.0,2017/2018,Arrival
+Dominic Solanke,Liverpool,Centre-Forward,0.0,2017/2018,Arrival
+Taiwo Awoniyi,Liverpool,Centre-Forward,0.0,2016/2017,Arrival
+Samed Yesil,Liverpool,Centre-Forward,0.0,2016/2017,Arrival
+Iago Aspas,Liverpool,Centre-Forward,0.0,2015/2016,Arrival
+Divock Origi,Liverpool,Centre-Forward,0.0,2015/2016,Arrival
+Connor Randall,Liverpool,Right-Back,0.0,2015/2016,Arrival
+Jamie Stephens,Liverpool,Goalkeeper,0.0,2012/2013,Arrival
+Dani Pacheco,Liverpool,Defensive Midfield,0.0,2013/2014,Arrival
+Jack Robinson,Liverpool,Centre-Back,0.0,2013/2014,Arrival
+Andre Wisdom,Liverpool,Right-Back,0.0,2013/2014,Arrival
+Fabio Borini,Liverpool,Left Winger,0.0,2013/2014,Arrival
+Krisztián Adorján,Liverpool,Attacking Midfield,0.0,2013/2014,Arrival
+Craig Roddan,Liverpool,Central Midfield,0.0,2013/2014,Arrival
+Jordon Ibe,Liverpool,Right Winger,0.0,2013/2014,Arrival
+Kolo Touré,Liverpool,Centre-Back,0.0,2013/2014,Arrival
+Jack Robinson,Liverpool,Centre-Back,0.0,2012/2013,Arrival
+Dani Pacheco,Liverpool,Defensive Midfield,0.0,2012/2013,Arrival
+Brad Smith,Liverpool,Left-Back,0.0,2015/2016,Arrival
+Danny Wilson,Liverpool,Centre-Back,0.0,2012/2013,Arrival
+Danny Wilson,Liverpool,Centre-Back,0.0,2012/2013,Arrival
+Jay Spearing,Liverpool,Defensive Midfield,0.0,2012/2013,Arrival
+Joe Cole,Liverpool,Attacking Midfield,0.0,2012/2013,Arrival
+Alberto Aquilani,Liverpool,Central Midfield,0.0,2012/2013,Arrival
+Andy Carroll,Liverpool,Centre-Forward,0.0,2012/2013,Arrival
+Tom King,Liverpool,Centre-Back,0.0,2012/2013,Arrival
+Raheem Sterling,Liverpool,Left Winger,0.0,2012/2013,Arrival
+Suso,Liverpool,Right Winger,0.0,2012/2013,Arrival
+Jordon Ibe,Liverpool,Right Winger,0.0,2013/2014,Arrival
+Craig Roddan,Liverpool,Central Midfield,0.0,2013/2014,Arrival
+Craig Roddan,Liverpool,Central Midfield,0.0,2013/2014,Arrival
+Kevin Stewart,Liverpool,Defensive Midfield,0.0,2014/2015,Arrival
+Sheyi Ojo,Liverpool,Right Winger,0.0,2015/2016,Arrival
+Steven Caulker,Liverpool,Centre-Back,0.0,2015/2016,Arrival
+Ádám Bogdán,Liverpool,Goalkeeper,0.0,2015/2016,Arrival
+James Milner,Liverpool,Central Midfield,0.0,2015/2016,Arrival
+Kevin Stewart,Liverpool,Defensive Midfield,0.0,2014/2015,Arrival
+Kevin Stewart,Liverpool,Defensive Midfield,0.0,2014/2015,Arrival
+Danny Ward,Liverpool,Goalkeeper,0.0,2014/2015,Arrival
+Jordon Ibe,Liverpool,Right Winger,0.0,2014/2015,Arrival
+Krisztián Adorján,Liverpool,Attacking Midfield,0.0,2014/2015,Arrival
+Rafa Páez,Liverpool,Centre-Back,0.0,2014/2015,Arrival
+Sebastián Coates,Liverpool,Centre-Back,0.0,2014/2015,Arrival
+Sebastián Coates,Liverpool,Centre-Back,0.0,2014/2015,Arrival
+Tiago Ilori,Liverpool,Centre-Back,0.0,2014/2015,Arrival
+Suso,Liverpool,Right Winger,0.0,2014/2015,Arrival
+Oussama Assaidi,Liverpool,Left Winger,0.0,2014/2015,Arrival
+Andre Wisdom,Liverpool,Right-Back,0.0,2014/2015,Arrival
+Pepe Reina,Liverpool,Goalkeeper,0.0,2014/2015,Arrival
+Rafa Páez,Liverpool,Centre-Back,0.0,2014/2015,Arrival
+Lawrence Vigouroux,Liverpool,Goalkeeper,0.0,2014/2015,Arrival
+Taiwo Awoniyi,Liverpool,Centre-Forward,0.0,2018/2019,Arrival
+Ovie Ejaria,Liverpool,Left Midfield,0.0,2018/2019,Arrival
+Ovie Ejaria,Liverpool,Left Midfield,0.0,2018/2019,Arrival
+Kevin Stewart,Liverpool,Defensive Midfield,0.0,2015/2016,Departure
+Lazar Markovic,Liverpool,Right Winger,0.0,2016/2017,Departure
+Lazar Markovic,Liverpool,Right Winger,0.0,2016/2017,Departure
+Kolo Touré,Liverpool,Centre-Back,0.0,2016/2017,Departure
+Mario Balotelli,Liverpool,Centre-Forward,0.0,2016/2017,Departure
+Javier Manquillo,Liverpool,Right-Back,0.0,2015/2016,Departure
+Steven Caulker,Liverpool,Centre-Back,0.0,2015/2016,Departure
+José Enrique,Liverpool,Left-Back,0.0,2015/2016,Departure
+Taiwo Awoniyi,Liverpool,Centre-Forward,0.0,2015/2016,Departure
+Lawrence Vigouroux,Liverpool,Goalkeeper,0.0,2015/2016,Departure
+Danny Ward,Liverpool,Goalkeeper,0.0,2015/2016,Departure
+Craig Roddan,Liverpool,Central Midfield,0.0,2014/2015,Departure
+Sheyi Ojo,Liverpool,Right Winger,0.0,2015/2016,Departure
+Samed Yesil,Liverpool,Centre-Forward,0.0,2015/2016,Departure
+Luis Alberto,Liverpool,Central Midfield,0.0,2015/2016,Departure
+Mario Balotelli,Liverpool,Centre-Forward,0.0,2015/2016,Departure
+Lazar Markovic,Liverpool,Right Winger,0.0,2015/2016,Departure
+Rafa Páez,Liverpool,Centre-Back,0.0,2015/2016,Departure
+Brad Jones,Liverpool,Goalkeeper,0.0,2015/2016,Departure
+Steven Gerrard,Liverpool,Central Midfield,0.0,2015/2016,Departure
+Glen Johnson,Liverpool,Right-Back,0.0,2015/2016,Departure
+Jon Flanagan,Liverpool,Right-Back,0.0,2016/2017,Departure
+Andre Wisdom,Liverpool,Right-Back,0.0,2016/2017,Departure
+Ádám Bogdán,Liverpool,Goalkeeper,0.0,2016/2017,Departure
+Danny Ward,Liverpool,Goalkeeper,0.0,2016/2017,Departure
+Taiwo Awoniyi,Liverpool,Centre-Forward,0.0,2018/2019,Departure
+Ryan Kent,Liverpool,Left Winger,0.0,2018/2019,Departure
+Sheyi Ojo,Liverpool,Right Winger,0.0,2018/2019,Departure
+Ben Woodburn,Liverpool,Attacking Midfield,0.0,2018/2019,Departure
+Danny Ings,Liverpool,Centre-Forward,0.0,2018/2019,Departure
+Nathaniel Clyne,Liverpool,Right-Back,0.0,2018/2019,Departure
+Jon Flanagan,Liverpool,Right-Back,0.0,2018/2019,Departure
+Lazar Markovic,Liverpool,Right Winger,0.0,2018/2019,Departure
+Emre Can,Liverpool,Defensive Midfield,0.0,2018/2019,Departure
+Alexander Manninger,Liverpool,Goalkeeper,0.0,2017/2018,Departure
+Taiwo Awoniyi,Liverpool,Centre-Forward,0.0,2017/2018,Departure
+Ovie Ejaria,Liverpool,Left Midfield,0.0,2017/2018,Departure
+Connor Randall,Liverpool,Right-Back,0.0,2017/2018,Departure
+Sheyi Ojo,Liverpool,Right Winger,0.0,2017/2018,Departure
+Jon Flanagan,Liverpool,Right-Back,0.0,2017/2018,Departure
+Marko Grujic,Liverpool,Defensive Midfield,0.0,2017/2018,Departure
+Lazar Markovic,Liverpool,Right Winger,0.0,2017/2018,Departure
+Samed Yesil,Liverpool,Centre-Forward,0.0,2016/2017,Departure
+Taiwo Awoniyi,Liverpool,Centre-Forward,0.0,2016/2017,Departure
+Aly Cissokho,Liverpool,Centre-Back,0.0,2014/2015,Departure
+Kevin Stewart,Liverpool,Defensive Midfield,0.0,2014/2015,Departure
+Ádám Bogdán,Liverpool,Goalkeeper,0.0,2018/2019,Arrival
+Danny Wilson,Liverpool,Centre-Back,0.0,2012/2013,Departure
+Tom King,Liverpool,Centre-Back,0.0,2013/2014,Departure
+Jamie Stephens,Liverpool,Goalkeeper,0.0,2013/2014,Departure
+Péter Gulácsi,Liverpool,Goalkeeper,0.0,2013/2014,Departure
+Dani Pacheco,Liverpool,Defensive Midfield,0.0,2013/2014,Departure
+Danny Wilson,Liverpool,Centre-Back,0.0,2013/2014,Departure
+Nuri Şahin,Liverpool,Defensive Midfield,0.0,2012/2013,Departure
+Jack Robinson,Liverpool,Centre-Back,0.0,2012/2013,Departure
+Jamie Stephens,Liverpool,Goalkeeper,0.0,2012/2013,Departure
+Dani Pacheco,Liverpool,Defensive Midfield,0.0,2012/2013,Departure
+Danny Wilson,Liverpool,Centre-Back,0.0,2012/2013,Departure
+Kevin Stewart,Liverpool,Defensive Midfield,0.0,2014/2015,Departure
+Jay Spearing,Liverpool,Defensive Midfield,0.0,2012/2013,Departure
+Lewis Hatch,Liverpool,Central Midfield,0.0,2012/2013,Departure
+Nathan Eccleston,Liverpool,Centre-Forward,0.0,2012/2013,Departure
+Stephen Darby,Liverpool,Right-Back,0.0,2012/2013,Departure
+Doni,Liverpool,Goalkeeper,0.0,2012/2013,Departure
+Craig Bellamy,Liverpool,Left Winger,0.0,2012/2013,Departure
+Maxi Rodríguez,Liverpool,Left Winger,0.0,2012/2013,Departure
+Joe Cole,Liverpool,Attacking Midfield,0.0,2012/2013,Departure
+Connor Randall,Liverpool,Right-Back,0.0,2018/2019,Arrival
+Pepe Reina,Liverpool,Goalkeeper,0.0,2013/2014,Departure
+Tiago Ilori,Liverpool,Centre-Back,0.0,2013/2014,Departure
+Suso,Liverpool,Right Winger,0.0,2013/2014,Departure
+Oussama Assaidi,Liverpool,Left Winger,0.0,2013/2014,Departure
+Danny Ward,Liverpool,Goalkeeper,0.0,2014/2015,Departure
+Jordon Ibe,Liverpool,Right Winger,0.0,2014/2015,Departure
+Rafa Páez,Liverpool,Centre-Back,0.0,2014/2015,Departure
+Divock Origi,Liverpool,Centre-Forward,0.0,2014/2015,Departure
+Rafa Páez,Liverpool,Centre-Back,0.0,2014/2015,Departure
+Andre Wisdom,Liverpool,Right-Back,0.0,2014/2015,Departure
+Sebastián Coates,Liverpool,Centre-Back,0.0,2014/2015,Departure
+Tiago Ilori,Liverpool,Centre-Back,0.0,2014/2015,Departure
+Luis Alberto,Liverpool,Central Midfield,0.0,2014/2015,Departure
+Iago Aspas,Liverpool,Centre-Forward,0.0,2014/2015,Departure
+Victor Moses,Liverpool,Right Midfield,0.0,2013/2014,Departure
+Jamie Carragher,Liverpool,Centre-Back,0.0,2013/2014,Departure
+Krisztián Adorján,Liverpool,Attacking Midfield,0.0,2013/2014,Departure
+Craig Roddan,Liverpool,Central Midfield,0.0,2013/2014,Departure
+Craig Roddan,Liverpool,Central Midfield,0.0,2013/2014,Departure
+Jack Robinson,Liverpool,Centre-Back,0.0,2013/2014,Departure
+Jordon Ibe,Liverpool,Right Winger,0.0,2013/2014,Departure
+Andre Wisdom,Liverpool,Right-Back,0.0,2013/2014,Departure
+Sebastián Coates,Liverpool,Centre-Back,0.0,2013/2014,Departure
+Todd Kane,Chelsea,Right-Back,0.0,2012/2013,Arrival
+Todd Kane,Chelsea,Right-Back,0.0,2012/2013,Arrival
+Patrick Bamford,Chelsea,Centre-Forward,0.0,2012/2013,Arrival
+Mario Pasalic,Chelsea,Central Midfield,0.0,2014/2015,Departure
+Kenneth Omeruo,Chelsea,Centre-Back,0.0,2014/2015,Departure
+Todd Kane,Chelsea,Right-Back,0.0,2014/2015,Departure
+Todd Kane,Chelsea,Right-Back,0.0,2014/2015,Departure
+Cristian Cuevas,Chelsea,Left Winger,0.0,2014/2015,Departure
+Nathan Aké,Chelsea,Centre-Back,0.0,2014/2015,Departure
+Patrick Bamford,Chelsea,Centre-Forward,0.0,2014/2015,Departure
+Ulises Dávila,Chelsea,Attacking Midfield,0.0,2014/2015,Departure
+Ulises Dávila,Chelsea,Attacking Midfield,0.0,2014/2015,Departure
+Gaël Kakuta,Chelsea,Attacking Midfield,0.0,2014/2015,Departure
+Tomas Kalas,Chelsea,Centre-Back,0.0,2014/2015,Departure
+Stipe Perica,Chelsea,Centre-Forward,0.0,2014/2015,Departure
+Marko Marin,Chelsea,Attacking Midfield,0.0,2014/2015,Departure
+Nathaniel Chalobah,Chelsea,Defensive Midfield,0.0,2014/2015,Departure
+Nathaniel Chalobah,Chelsea,Defensive Midfield,0.0,2014/2015,Departure
+Wallace Oliveira,Chelsea,Right-Back,0.0,2014/2015,Departure
+Josh McEachran,Chelsea,Central Midfield,0.0,2014/2015,Departure
+Marko Marin,Chelsea,Attacking Midfield,0.0,2014/2015,Departure
+Christian Atsu,Chelsea,Left Winger,0.0,2014/2015,Departure
+Ryan Bertrand,Chelsea,Left-Back,0.0,2014/2015,Departure
+Victor Moses,Chelsea,Right Midfield,0.0,2014/2015,Departure
+Stipe Perica,Chelsea,Centre-Forward,0.0,2014/2015,Departure
+Matej Delac,Chelsea,Goalkeeper,0.0,2014/2015,Departure
+Samuel Eto'o,Chelsea,Centre-Forward,0.0,2013/2014,Arrival
+Christian Atsu,Chelsea,Left Winger,0.0,2015/2016,Departure
+Wallace Oliveira,Chelsea,Right-Back,0.0,2015/2016,Departure
+Nathan Aké,Chelsea,Centre-Back,0.0,2015/2016,Departure
+Wallace Oliveira,Chelsea,Right-Back,0.0,2015/2016,Departure
+Marko Marin,Chelsea,Attacking Midfield,0.0,2015/2016,Departure
+Nathan,Chelsea,Attacking Midfield,0.0,2015/2016,Departure
+Lucas Piazón,Chelsea,Attacking Midfield,0.0,2015/2016,Departure
+Mario Pasalic,Chelsea,Central Midfield,0.0,2015/2016,Departure
+Patrick Bamford,Chelsea,Centre-Forward,0.0,2015/2016,Departure
+Patrick Bamford,Chelsea,Centre-Forward,0.0,2015/2016,Departure
+Christian Atsu,Chelsea,Left Winger,0.0,2015/2016,Departure
+Matej Delac,Chelsea,Goalkeeper,0.0,2014/2015,Departure
+Marco van Ginkel,Chelsea,Central Midfield,0.0,2015/2016,Departure
+Marco van Ginkel,Chelsea,Central Midfield,0.0,2015/2016,Departure
+Victor Moses,Chelsea,Right Midfield,0.0,2015/2016,Departure
+Ulises Dávila,Chelsea,Attacking Midfield,0.0,2015/2016,Departure
+Didier Drogba,Chelsea,Centre-Forward,0.0,2015/2016,Departure
+Hilário,Chelsea,Goalkeeper,0.0,2014/2015,Departure
+Lewis Baker,Chelsea,Central Midfield,0.0,2014/2015,Departure
+Jamal Blackman,Chelsea,Goalkeeper,0.0,2014/2015,Departure
+Lewis Baker,Chelsea,Central Midfield,0.0,2014/2015,Departure
+Fernando Torres,Chelsea,Centre-Forward,0.0,2014/2015,Departure
+Mohamed Salah,Chelsea,Right Winger,0.0,2014/2015,Departure
+Jhon Pírez,Chelsea,Centre-Forward,0.0,2014/2015,Departure
+Conor Clifford,Chelsea,Central Midfield,0.0,2012/2013,Departure
+Lucas Piazón,Chelsea,Attacking Midfield,0.0,2013/2014,Departure
+Christian Atsu,Chelsea,Left Winger,0.0,2013/2014,Departure
+Ryan Bertrand,Chelsea,Left-Back,0.0,2013/2014,Departure
+Marko Marin,Chelsea,Attacking Midfield,0.0,2013/2014,Departure
+Kurt Zouma,Chelsea,Centre-Back,0.0,2013/2014,Departure
+Lamisha Musonda,Chelsea,Central Midfield,0.0,2013/2014,Departure
+Amin Affane,Chelsea,Attacking Midfield,0.0,2013/2014,Departure
+Ross Turnbull,Chelsea,Goalkeeper,0.0,2013/2014,Departure
+Florent Malouda,Chelsea,Left Winger,0.0,2013/2014,Departure
+Nathaniel Chalobah,Chelsea,Defensive Midfield,0.0,2012/2013,Departure
+Sam Hutchinson,Chelsea,Defensive Midfield,0.0,2014/2015,Departure
+Todd Kane,Chelsea,Right-Back,0.0,2012/2013,Departure
+Todd Kane,Chelsea,Right-Back,0.0,2012/2013,Departure
+Todd Kane,Chelsea,Right-Back,0.0,2012/2013,Departure
+Patrick Bamford,Chelsea,Centre-Forward,0.0,2012/2013,Departure
+Conor Clifford,Chelsea,Central Midfield,0.0,2012/2013,Departure
+Conor Clifford,Chelsea,Central Midfield,0.0,2012/2013,Departure
+Anjur Osmanovic,Chelsea,Central Midfield,0.0,2012/2013,Departure
+Sam Hutchinson,Chelsea,Defensive Midfield,0.0,2012/2013,Departure
+Amin Affane,Chelsea,Attacking Midfield,0.0,2012/2013,Departure
+Josh McEachran,Chelsea,Central Midfield,0.0,2013/2014,Departure
+Josh McEachran,Chelsea,Central Midfield,0.0,2013/2014,Departure
+Nathaniel Chalobah,Chelsea,Defensive Midfield,0.0,2013/2014,Departure
+Nathaniel Chalobah,Chelsea,Defensive Midfield,0.0,2013/2014,Departure
+Mark Schwarzer,Chelsea,Goalkeeper,0.0,2014/2015,Departure
+Frank Lampard,Chelsea,Central Midfield,0.0,2014/2015,Departure
+Ashley Cole,Chelsea,Left-Back,0.0,2014/2015,Departure
+Samuel Eto'o,Chelsea,Centre-Forward,0.0,2014/2015,Departure
+Paulo Ferreira,Chelsea,Right-Back,0.0,2013/2014,Departure
+Yossi Benayoun,Chelsea,Right Winger,0.0,2013/2014,Departure
+Patrick Bamford,Chelsea,Centre-Forward,0.0,2013/2014,Departure
+Bertrand Traoré,Chelsea,Right Winger,0.0,2013/2014,Departure
+Sam Hutchinson,Chelsea,Defensive Midfield,0.0,2013/2014,Departure
+Sam Hutchinson,Chelsea,Defensive Midfield,0.0,2013/2014,Departure
+Stipe Perica,Chelsea,Centre-Forward,0.0,2013/2014,Departure
+Matej Delac,Chelsea,Goalkeeper,0.0,2013/2014,Departure
+Patrick Bamford,Chelsea,Centre-Forward,0.0,2013/2014,Departure
+Matej Delac,Chelsea,Goalkeeper,0.0,2013/2014,Departure
+Kenneth Omeruo,Chelsea,Centre-Back,0.0,2013/2014,Departure
+Ulises Dávila,Chelsea,Attacking Midfield,0.0,2013/2014,Departure
+Cristian Cuevas,Chelsea,Left Winger,0.0,2013/2014,Departure
+Cristian Cuevas,Chelsea,Left Winger,0.0,2013/2014,Departure
+Gaël Kakuta,Chelsea,Attacking Midfield,0.0,2013/2014,Departure
+Cristian Cuevas,Chelsea,Left Winger,0.0,2015/2016,Departure
+Andreas Christensen,Chelsea,Centre-Back,0.0,2015/2016,Departure
+Danilo Pantic,Chelsea,Attacking Midfield,0.0,2015/2016,Departure
+Eduardo,Chelsea,Goalkeeper,0.0,2018/2019,Departure
+Carlos Vela,Arsenal,Right Winger,0.0,2012/2013,Arrival
+Emiliano Martínez,Arsenal,Goalkeeper,0.0,2012/2013,Arrival
+James Shea,Arsenal,Goalkeeper,0.0,2012/2013,Arrival
+Martin Angha,Arsenal,Centre-Back,0.0,2012/2013,Arrival
+Wallace Oliveira,Chelsea,Right-Back,0.0,2018/2019,Departure
+Jamal Blackman,Chelsea,Goalkeeper,0.0,2018/2019,Departure
+Jake Clarke-Salter,Chelsea,Centre-Back,0.0,2018/2019,Departure
+Fikayo Tomori,Chelsea,Centre-Back,0.0,2018/2019,Departure
+Nathan,Chelsea,Attacking Midfield,0.0,2018/2019,Departure
+Todd Kane,Chelsea,Right-Back,0.0,2018/2019,Departure
+Victor Moses,Chelsea,Right Midfield,0.0,2018/2019,Departure
+Lucas Piazón,Chelsea,Attacking Midfield,0.0,2018/2019,Departure
+Matt Miazga,Chelsea,Centre-Back,0.0,2018/2019,Departure
+Michael Hector,Chelsea,Centre-Back,0.0,2018/2019,Departure
+Charly Musonda Jr.,Chelsea,Left Winger,0.0,2018/2019,Departure
+Izzy Brown,Chelsea,Left Winger,0.0,2018/2019,Departure
+Abdul Rahman Baba,Chelsea,Left-Back,0.0,2018/2019,Departure
+Tomas Kalas,Chelsea,Centre-Back,0.0,2018/2019,Departure
+Lewis Baker,Chelsea,Central Midfield,0.0,2018/2019,Departure
+Lewis Baker,Chelsea,Central Midfield,0.0,2018/2019,Departure
+Marouane Chamakh,Arsenal,Centre-Forward,0.0,2012/2013,Arrival
+Ryo Miyaichi,Arsenal,Right Winger,0.0,2012/2013,Arrival
+Pedro Botelho,Arsenal,Centre-Back,0.0,2012/2013,Arrival
+Emmanuel Frimpong,Arsenal,Defensive Midfield,0.0,2012/2013,Arrival
+Emiliano Martínez,Arsenal,Goalkeeper,0.0,2013/2014,Arrival
+Wellington Silva,Arsenal,Right Winger,0.0,2013/2014,Arrival
+Ignasi Miquel,Arsenal,Centre-Back,0.0,2013/2014,Arrival
+Chu-young Park,Arsenal,Centre-Forward,0.0,2013/2014,Arrival
+Chu-young Park,Arsenal,Centre-Forward,0.0,2013/2014,Arrival
+Joel Campbell,Arsenal,Right Winger,0.0,2013/2014,Arrival
+André Santos,Arsenal,Left-Back,0.0,2013/2014,Arrival
+Denílson,Arsenal,Defensive Midfield,0.0,2013/2014,Arrival
+Johan Djourou,Arsenal,Centre-Back,0.0,2013/2014,Arrival
+Nicklas Bendtner,Arsenal,Centre-Forward,0.0,2013/2014,Arrival
+Serge Gnabry,Arsenal,Right Winger,0.0,2013/2014,Arrival
+Kristoffer Olsson,Arsenal,Central Midfield,0.0,2013/2014,Arrival
+Daniel Boateng,Arsenal,Centre-Back,0.0,2013/2014,Arrival
+Yaya Sanogo,Arsenal,Centre-Forward,0.0,2013/2014,Arrival
+Mathieu Flamini,Arsenal,Defensive Midfield,0.0,2013/2014,Arrival
+Wellington Silva,Arsenal,Right Winger,0.0,2012/2013,Arrival
+Craig Eastmond,Arsenal,Central Midfield,0.0,2012/2013,Arrival
+Joel Campbell,Arsenal,Right Winger,0.0,2012/2013,Arrival
+Emmanuel Frimpong,Arsenal,Defensive Midfield,0.0,2012/2013,Arrival
+Tammy Abraham,Chelsea,Centre-Forward,0.0,2018/2019,Departure
+Christian Pulisic,Chelsea,Right Winger,0.0,2018/2019,Departure
+Ulises Dávila,Chelsea,Attacking Midfield,0.0,2015/2016,Departure
+Nathan Aké,Chelsea,Centre-Back,0.0,2016/2017,Departure
+Jamal Blackman,Chelsea,Goalkeeper,0.0,2016/2017,Departure
+Danilo Pantic,Chelsea,Attacking Midfield,0.0,2016/2017,Departure
+Matej Delac,Chelsea,Goalkeeper,0.0,2016/2017,Departure
+Cristian Cuevas,Chelsea,Left Winger,0.0,2016/2017,Departure
+Kenneth Omeruo,Chelsea,Centre-Back,0.0,2016/2017,Departure
+Matt Miazga,Chelsea,Centre-Back,0.0,2016/2017,Departure
+Lucas Piazón,Chelsea,Attacking Midfield,0.0,2016/2017,Departure
+Tomas Kalas,Chelsea,Centre-Back,0.0,2016/2017,Departure
+Michael Hector,Chelsea,Centre-Back,0.0,2016/2017,Departure
+Patrick Bamford,Chelsea,Centre-Forward,0.0,2016/2017,Departure
+Matej Delac,Chelsea,Goalkeeper,0.0,2018/2019,Departure
+Marco van Ginkel,Chelsea,Central Midfield,0.0,2016/2017,Departure
+Kenedy,Chelsea,Left Winger,0.0,2016/2017,Departure
+Branislav Ivanovic,Chelsea,Right-Back,0.0,2016/2017,Departure
+John Obi Mikel,Chelsea,Defensive Midfield,0.0,2016/2017,Departure
+Jamal Blackman,Chelsea,Goalkeeper,0.0,2015/2016,Departure
+Lewis Baker,Chelsea,Central Midfield,0.0,2015/2016,Departure
+Todd Kane,Chelsea,Right-Back,0.0,2015/2016,Departure
+Matej Delac,Chelsea,Goalkeeper,0.0,2015/2016,Departure
+Michael Hector,Chelsea,Centre-Back,0.0,2015/2016,Departure
+Marco Amelia,Chelsea,Goalkeeper,0.0,2016/2017,Departure
+Radamel Falcao,Chelsea,Centre-Forward,0.0,2016/2017,Departure
+Alexandre Pato,Chelsea,Centre-Forward,0.0,2016/2017,Departure
+Loïc Rémy,Chelsea,Centre-Forward,0.0,2017/2018,Departure
+Fikayo Tomori,Chelsea,Centre-Back,0.0,2017/2018,Departure
+Jamal Blackman,Chelsea,Goalkeeper,0.0,2017/2018,Departure
+Danilo Pantic,Chelsea,Attacking Midfield,0.0,2017/2018,Departure
+Ola Aina,Chelsea,Right-Back,0.0,2017/2018,Departure
+Nathan,Chelsea,Attacking Midfield,0.0,2017/2018,Departure
+Nathan,Chelsea,Attacking Midfield,0.0,2017/2018,Departure
+Todd Kane,Chelsea,Right-Back,0.0,2017/2018,Departure
+Todd Kane,Chelsea,Right-Back,0.0,2017/2018,Departure
+Kenneth Omeruo,Chelsea,Centre-Back,0.0,2017/2018,Departure
+Michael Hector,Chelsea,Centre-Back,0.0,2017/2018,Departure
+Tomas Kalas,Chelsea,Centre-Back,0.0,2017/2018,Departure
+Ruben Loftus-Cheek,Chelsea,Central Midfield,0.0,2017/2018,Departure
+Lewis Baker,Chelsea,Central Midfield,0.0,2017/2018,Departure
+Kenedy,Chelsea,Left Winger,0.0,2017/2018,Departure
+Tammy Abraham,Chelsea,Centre-Forward,0.0,2017/2018,Departure
+Mario Pasalic,Chelsea,Central Midfield,0.0,2017/2018,Departure
+Abdul Rahman Baba,Chelsea,Left-Back,0.0,2017/2018,Departure
+Cristian Cuevas,Chelsea,Left Winger,0.0,2017/2018,Departure
+John Terry,Chelsea,Centre-Back,0.0,2017/2018,Departure
+Thorgan Hazard,Chelsea,Left Winger,0.0,2012/2013,Departure
+Matej Delac,Chelsea,Goalkeeper,0.0,2012/2013,Departure
+Matej Delac,Chelsea,Goalkeeper,0.0,2012/2013,Departure
+Stipe Perica,Chelsea,Centre-Forward,0.0,2014/2015,Arrival
+Andreas Christensen,Chelsea,Centre-Back,0.0,2015/2016,Arrival
+Alexandre Pato,Chelsea,Centre-Forward,0.0,2015/2016,Arrival
+Danilo Pantic,Chelsea,Attacking Midfield,0.0,2015/2016,Arrival
+Lewis Baker,Chelsea,Central Midfield,0.0,2014/2015,Arrival
+Jamal Blackman,Chelsea,Goalkeeper,0.0,2014/2015,Arrival
+Lewis Baker,Chelsea,Central Midfield,0.0,2014/2015,Arrival
+Matej Delac,Chelsea,Goalkeeper,0.0,2014/2015,Arrival
+Todd Kane,Chelsea,Right-Back,0.0,2014/2015,Arrival
+Matej Delac,Chelsea,Goalkeeper,0.0,2014/2015,Arrival
+Stipe Perica,Chelsea,Centre-Forward,0.0,2014/2015,Arrival
+Marko Marin,Chelsea,Attacking Midfield,0.0,2014/2015,Arrival
+Kenneth Omeruo,Chelsea,Centre-Back,0.0,2014/2015,Arrival
+Todd Kane,Chelsea,Right-Back,0.0,2014/2015,Arrival
+Cristian Cuevas,Chelsea,Left Winger,0.0,2014/2015,Arrival
+Nathan Aké,Chelsea,Centre-Back,0.0,2014/2015,Arrival
+Ulises Dávila,Chelsea,Attacking Midfield,0.0,2014/2015,Arrival
+Ulises Dávila,Chelsea,Attacking Midfield,0.0,2014/2015,Arrival
+Patrick Bamford,Chelsea,Centre-Forward,0.0,2014/2015,Arrival
+Gaël Kakuta,Chelsea,Attacking Midfield,0.0,2014/2015,Arrival
+Tomas Kalas,Chelsea,Centre-Back,0.0,2014/2015,Arrival
+Marco Amelia,Chelsea,Goalkeeper,0.0,2015/2016,Arrival
+Mohamed Salah,Chelsea,Right Winger,0.0,2015/2016,Arrival
+Thorgan Hazard,Chelsea,Left Winger,0.0,2015/2016,Arrival
+Victor Moses,Chelsea,Right Midfield,0.0,2015/2016,Arrival
+Wallace Oliveira,Chelsea,Right-Back,0.0,2015/2016,Arrival
+Bertrand Traoré,Chelsea,Right Winger,0.0,2015/2016,Arrival
+Marko Marin,Chelsea,Attacking Midfield,0.0,2015/2016,Arrival
+Mario Pasalic,Chelsea,Central Midfield,0.0,2015/2016,Arrival
+Wallace Oliveira,Chelsea,Right-Back,0.0,2015/2016,Arrival
+Josh McEachran,Chelsea,Central Midfield,0.0,2015/2016,Arrival
+Lucas Piazón,Chelsea,Attacking Midfield,0.0,2015/2016,Arrival
+Tomas Kalas,Chelsea,Centre-Back,0.0,2015/2016,Arrival
+Michael Hector,Chelsea,Centre-Back,0.0,2015/2016,Arrival
+Oriol Romeu,Chelsea,Defensive Midfield,0.0,2015/2016,Arrival
+Gaël Kakuta,Chelsea,Attacking Midfield,0.0,2015/2016,Arrival
+Nathan Aké,Chelsea,Centre-Back,0.0,2015/2016,Arrival
+Lucas Piazón,Chelsea,Attacking Midfield,0.0,2015/2016,Arrival
+Patrick Bamford,Chelsea,Centre-Forward,0.0,2015/2016,Arrival
+Patrick Bamford,Chelsea,Centre-Forward,0.0,2015/2016,Arrival
+Christian Atsu,Chelsea,Left Winger,0.0,2015/2016,Arrival
+Christian Atsu,Chelsea,Left Winger,0.0,2015/2016,Arrival
+Marco van Ginkel,Chelsea,Central Midfield,0.0,2015/2016,Arrival
+Marco van Ginkel,Chelsea,Central Midfield,0.0,2015/2016,Arrival
+Patrick van Aanholt,Chelsea,Left-Back,0.0,2014/2015,Arrival
+Nathaniel Chalobah,Chelsea,Defensive Midfield,0.0,2014/2015,Arrival
+Ulises Dávila,Chelsea,Attacking Midfield,0.0,2015/2016,Arrival
+Gaël Kakuta,Chelsea,Attacking Midfield,0.0,2013/2014,Arrival
+Kenneth Omeruo,Chelsea,Centre-Back,0.0,2013/2014,Arrival
+Patrick Bamford,Chelsea,Centre-Forward,0.0,2013/2014,Arrival
+Ulises Dávila,Chelsea,Attacking Midfield,0.0,2013/2014,Arrival
+Cristian Cuevas,Chelsea,Left Winger,0.0,2013/2014,Arrival
+Wallace Oliveira,Chelsea,Right-Back,0.0,2013/2014,Arrival
+Jeffrey Bruma,Chelsea,Centre-Back,0.0,2013/2014,Arrival
+Nathaniel Chalobah,Chelsea,Defensive Midfield,0.0,2013/2014,Arrival
+Nathaniel Chalobah,Chelsea,Defensive Midfield,0.0,2013/2014,Arrival
+Josh McEachran,Chelsea,Central Midfield,0.0,2013/2014,Arrival
+Josh McEachran,Chelsea,Central Midfield,0.0,2013/2014,Arrival
+Nathaniel Chalobah,Chelsea,Defensive Midfield,0.0,2014/2015,Arrival
+Lucas Piazón,Chelsea,Attacking Midfield,0.0,2013/2014,Arrival
+Tomas Kalas,Chelsea,Centre-Back,0.0,2013/2014,Arrival
+Ryan Bertrand,Chelsea,Left-Back,0.0,2013/2014,Arrival
+Kevin De Bruyne,Chelsea,Attacking Midfield,0.0,2013/2014,Arrival
+Michael Essien,Chelsea,Defensive Midfield,0.0,2013/2014,Arrival
+Victor Moses,Chelsea,Right Midfield,0.0,2013/2014,Arrival
+Romelu Lukaku,Chelsea,Centre-Forward,0.0,2013/2014,Arrival
+Bertrand Traoré,Chelsea,Right Winger,0.0,2013/2014,Arrival
+Mark Schwarzer,Chelsea,Goalkeeper,0.0,2013/2014,Arrival
+Todd Kane,Chelsea,Right-Back,0.0,2013/2014,Arrival
+Kenneth Omeruo,Chelsea,Centre-Back,0.0,2013/2014,Arrival
+Matej Delac,Chelsea,Goalkeeper,0.0,2013/2014,Arrival
+Patrick Bamford,Chelsea,Centre-Forward,0.0,2013/2014,Arrival
+Marko Marin,Chelsea,Attacking Midfield,0.0,2014/2015,Arrival
+Wallace Oliveira,Chelsea,Right-Back,0.0,2014/2015,Arrival
+Christian Atsu,Chelsea,Left Winger,0.0,2014/2015,Arrival
+Ryan Bertrand,Chelsea,Left-Back,0.0,2014/2015,Arrival
+Lucas Piazón,Chelsea,Attacking Midfield,0.0,2014/2015,Arrival
+Oriol Romeu,Chelsea,Defensive Midfield,0.0,2014/2015,Arrival
+Fernando Torres,Chelsea,Centre-Forward,0.0,2014/2015,Arrival
+Victor Moses,Chelsea,Right Midfield,0.0,2014/2015,Arrival
+Kurt Zouma,Chelsea,Centre-Back,0.0,2014/2015,Arrival
+Thorgan Hazard,Chelsea,Left Winger,0.0,2014/2015,Arrival
+Thibaut Courtois,Chelsea,Goalkeeper,0.0,2014/2015,Arrival
+Ruben Loftus-Cheek,Chelsea,Central Midfield,0.0,2014/2015,Arrival
+Jamal Blackman,Chelsea,Goalkeeper,0.0,2014/2015,Arrival
+Lewis Baker,Chelsea,Central Midfield,0.0,2014/2015,Arrival
+Didier Drogba,Chelsea,Centre-Forward,0.0,2014/2015,Arrival
+Anjur Osmanovic,Chelsea,Central Midfield,0.0,2013/2014,Arrival
+Sam Hutchinson,Chelsea,Defensive Midfield,0.0,2013/2014,Arrival
+Sam Hutchinson,Chelsea,Defensive Midfield,0.0,2013/2014,Arrival
+Matej Delac,Chelsea,Goalkeeper,0.0,2013/2014,Arrival
+Cristian Cuevas,Chelsea,Left Winger,0.0,2015/2016,Arrival
+Matej Delac,Chelsea,Goalkeeper,0.0,2015/2016,Arrival
+Ulises Dávila,Chelsea,Attacking Midfield,0.0,2012/2013,Departure
+Jake Clarke-Salter,Chelsea,Centre-Back,0.0,2018/2019,Arrival
+Fikayo Tomori,Chelsea,Centre-Back,0.0,2018/2019,Arrival
+Mario Pasalic,Chelsea,Central Midfield,0.0,2018/2019,Arrival
+Kenedy,Chelsea,Left Winger,0.0,2018/2019,Arrival
+Marco van Ginkel,Chelsea,Central Midfield,0.0,2018/2019,Arrival
+Tammy Abraham,Chelsea,Centre-Forward,0.0,2018/2019,Arrival
+Kurt Zouma,Chelsea,Centre-Back,0.0,2018/2019,Arrival
+Michy Batshuayi,Chelsea,Centre-Forward,0.0,2018/2019,Arrival
+Michy Batshuayi,Chelsea,Centre-Forward,0.0,2018/2019,Arrival
+Callum Hudson-Odoi,Chelsea,Left Winger,0.0,2018/2019,Arrival
+Izzy Brown,Chelsea,Left Winger,0.0,2018/2019,Arrival
+Todd Kane,Chelsea,Right-Back,0.0,2017/2018,Arrival
+Mateo Kovacic,Chelsea,Central Midfield,0.0,2018/2019,Arrival
+Rob Green,Chelsea,Goalkeeper,0.0,2018/2019,Arrival
+Jamal Blackman,Chelsea,Goalkeeper,0.0,2017/2018,Arrival
+Danilo Pantic,Chelsea,Attacking Midfield,0.0,2017/2018,Arrival
+Cristian Cuevas,Chelsea,Left Winger,0.0,2017/2018,Arrival
+Matej Delac,Chelsea,Goalkeeper,0.0,2017/2018,Arrival
+Fikayo Tomori,Chelsea,Centre-Back,0.0,2017/2018,Arrival
+Wallace Oliveira,Chelsea,Right-Back,0.0,2017/2018,Arrival
+Nathan,Chelsea,Attacking Midfield,0.0,2017/2018,Arrival
+Lewis Baker,Chelsea,Central Midfield,0.0,2018/2019,Arrival
+Lewis Baker,Chelsea,Central Midfield,0.0,2018/2019,Arrival
+Abdul Rahman Baba,Chelsea,Left-Back,0.0,2018/2019,Arrival
+Izzy Brown,Chelsea,Left Winger,0.0,2018/2019,Arrival
+Wallace Oliveira,Chelsea,Right-Back,0.0,2012/2013,Departure
+Gaël Kakuta,Chelsea,Attacking Midfield,0.0,2012/2013,Departure
+Josh McEachran,Chelsea,Central Midfield,0.0,2012/2013,Departure
+Yossi Benayoun,Chelsea,Right Winger,0.0,2012/2013,Departure
+Lucas Piazón,Chelsea,Attacking Midfield,0.0,2012/2013,Departure
+Romelu Lukaku,Chelsea,Centre-Forward,0.0,2012/2013,Departure
+Michael Essien,Chelsea,Defensive Midfield,0.0,2012/2013,Departure
+Bosingwa,Chelsea,Right-Back,0.0,2012/2013,Departure
+Didier Drogba,Chelsea,Centre-Forward,0.0,2012/2013,Departure
+Salomon Kalou,Chelsea,Left Winger,0.0,2012/2013,Departure
+Jamal Blackman,Chelsea,Goalkeeper,0.0,2018/2019,Arrival
+Nathan,Chelsea,Attacking Midfield,0.0,2018/2019,Arrival
+Todd Kane,Chelsea,Right-Back,0.0,2018/2019,Arrival
+Kenneth Omeruo,Chelsea,Centre-Back,0.0,2018/2019,Arrival
+Matt Miazga,Chelsea,Centre-Back,0.0,2018/2019,Arrival
+Matt Miazga,Chelsea,Centre-Back,0.0,2018/2019,Arrival
+Matt Miazga,Chelsea,Centre-Back,0.0,2018/2019,Arrival
+Michael Hector,Chelsea,Centre-Back,0.0,2018/2019,Arrival
+Tomas Kalas,Chelsea,Centre-Back,0.0,2018/2019,Arrival
+Nathan,Chelsea,Attacking Midfield,0.0,2017/2018,Arrival
+Todd Kane,Chelsea,Right-Back,0.0,2017/2018,Arrival
+Ulises Dávila,Chelsea,Attacking Midfield,0.0,2015/2016,Arrival
+Tomas Kalas,Chelsea,Centre-Back,0.0,2016/2017,Arrival
+Stipe Perica,Chelsea,Centre-Forward,0.0,2016/2017,Arrival
+Matej Delac,Chelsea,Goalkeeper,0.0,2016/2017,Arrival
+Todd Kane,Chelsea,Right-Back,0.0,2016/2017,Arrival
+Cristian Cuevas,Chelsea,Left Winger,0.0,2016/2017,Arrival
+Kenneth Omeruo,Chelsea,Centre-Back,0.0,2016/2017,Arrival
+Nathaniel Chalobah,Chelsea,Defensive Midfield,0.0,2016/2017,Arrival
+Christian Atsu,Chelsea,Left Winger,0.0,2016/2017,Arrival
+Papy Djilobodji,Chelsea,Centre-Back,0.0,2016/2017,Arrival
+Marko Marin,Chelsea,Attacking Midfield,0.0,2016/2017,Arrival
+Mario Pasalic,Chelsea,Central Midfield,0.0,2016/2017,Arrival
+Ola Aina,Chelsea,Right-Back,0.0,2017/2018,Arrival
+Nathan Aké,Chelsea,Centre-Back,0.0,2016/2017,Arrival
+Patrick Bamford,Chelsea,Centre-Forward,0.0,2016/2017,Arrival
+Marco van Ginkel,Chelsea,Central Midfield,0.0,2016/2017,Arrival
+Kenedy,Chelsea,Left Winger,0.0,2016/2017,Arrival
+Loïc Rémy,Chelsea,Centre-Forward,0.0,2016/2017,Arrival
+Mohamed Salah,Chelsea,Right Winger,0.0,2016/2017,Arrival
+Juan Cuadrado,Chelsea,Right Midfield,0.0,2016/2017,Arrival
+Ola Aina,Chelsea,Right-Back,0.0,2016/2017,Arrival
+Eduardo,Chelsea,Goalkeeper,0.0,2016/2017,Arrival
+Danilo Pantic,Chelsea,Attacking Midfield,0.0,2016/2017,Arrival
+Jamal Blackman,Chelsea,Goalkeeper,0.0,2016/2017,Arrival
+Jamal Blackman,Chelsea,Goalkeeper,0.0,2016/2017,Arrival
+Willy Caballero,Chelsea,Goalkeeper,0.0,2017/2018,Arrival
+Kenneth Omeruo,Chelsea,Centre-Back,0.0,2017/2018,Arrival
+Lucas Piazón,Chelsea,Attacking Midfield,0.0,2017/2018,Arrival
+Michael Hector,Chelsea,Centre-Back,0.0,2017/2018,Arrival
+Charly Musonda Jr.,Chelsea,Left Winger,0.0,2017/2018,Arrival
+Christian Atsu,Chelsea,Left Winger,0.0,2017/2018,Arrival
+Tomas Kalas,Chelsea,Centre-Back,0.0,2017/2018,Arrival
+Lewis Baker,Chelsea,Central Midfield,0.0,2017/2018,Arrival
+Lewis Baker,Chelsea,Central Midfield,0.0,2017/2018,Arrival
+Bertrand Traoré,Chelsea,Right Winger,0.0,2017/2018,Arrival
+Mario Pasalic,Chelsea,Central Midfield,0.0,2017/2018,Arrival
+Abdul Rahman Baba,Chelsea,Left-Back,0.0,2017/2018,Arrival
+Tammy Abraham,Chelsea,Centre-Forward,0.0,2017/2018,Arrival
+Ruben Loftus-Cheek,Chelsea,Central Midfield,0.0,2017/2018,Arrival
+Kurt Zouma,Chelsea,Centre-Back,0.0,2017/2018,Arrival
+Andreas Christensen,Chelsea,Centre-Back,0.0,2017/2018,Arrival
+Juan Cuadrado,Chelsea,Right Midfield,0.0,2017/2018,Arrival
+Fikayo Tomori,Chelsea,Centre-Back,0.0,2017/2018,Arrival
+Charly Musonda Jr.,Chelsea,Left Winger,0.0,2017/2018,Arrival
+Tammy Abraham,Chelsea,Centre-Forward,0.0,2017/2018,Arrival
+Arijanet Muric,Manchester City,Goalkeeper,0.0,2018/2019,Departure
