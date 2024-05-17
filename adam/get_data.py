@@ -104,15 +104,3 @@ for club_id, club_name in clubs:
     all_transfers = pd.concat([all_transfers, club_transfers], ignore_index=True)
     club_transfers = scrape_all_seasons(2012, 2018, club_id, club_name, False)
     all_transfers = pd.concat([all_transfers, club_transfers], ignore_index=True)
-
-# all_transfers now contains the transfer data of all clubs from 2012 to 2022
-
-#########
-
-# write a sciprt which plots a barplot with departures and arrivals of each club in the 2818/2019 season with plotly
-import plotly.graph_objs as go
-import plotly.express as px
-
-season_2018_2019 = all_transfers[all_transfers["Season"] == "2018/2019"]
-fig = px.bar(season_2018_2019, x="Team", y="Fee", color="Transfer", barmode="group", title="Transfer fees of Premier League clubs in 2018/2019 season")
-fig.show()
