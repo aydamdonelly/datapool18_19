@@ -4,7 +4,7 @@ from dash import Dash, dcc, html
 from PIL import Image
 import numpy as np
 
-df = pd.read_csv("adrian/pl_club_results.csv")
+df = pd.read_csv("adrian/data/pl_club_results.csv")
 
 # sort df based on 'Date' column
 df['Date'] = pd.to_datetime(df['Date'])
@@ -125,21 +125,23 @@ fig.update_layout(
     yaxis_title='League Position',
     legend_title='Club',
     yaxis=dict(autorange='reversed'), 
+    height=450,
     xaxis=dict(tickmode='linear', dtick='M1', range = [0.5,38.5]),
     xaxis_rangeslider=dict( 
         visible=True,
         thickness=0.02, 
         bgcolor='lightgrey',
-        range = [0.5,38.5], 
-
+        range = [0.5,38.5],
     )
 )
 
-app = Dash()
-app.layout = html.Div([
-    dcc.Graph(figure=fig),
-])
+fig.show()
 
-# app.run_server(debug=True)
-if __name__ == '__main__':
-    app.run_server(debug=True)
+# app = Dash()
+# app.layout = html.Div([
+#     dcc.Graph(figure=fig),
+# ])
+
+# # app.run_server(debug=True)
+# if __name__ == '__main__':
+#     app.run_server(debug=True)
