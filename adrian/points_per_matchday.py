@@ -6,7 +6,7 @@ import numpy as np
 
 df = pd.read_csv("adrian/pl_club_results.csv")
 
-# sort DataFrame based on 'Date' column
+# sort df based on 'Date' column
 df['Date'] = pd.to_datetime(df['Date'])
 df = df.sort_values(by='Date')
 
@@ -21,7 +21,7 @@ df['League Position'] = 0
 # dictionary to store each club's current position and statistics
 club_info = {}
 
-# calculate accumulated points and goal difference
+# calculate accumulated points and goal difference (and store them in new columns)
 for index, row in df.iterrows():
     club = row['Club']
     points = row['Points']
@@ -64,17 +64,19 @@ for matchday in range(1, 39):
     for club in top_6_clubs_df['Club'].unique():
         top_6_status.loc[matchday, club] = (club in matchday_data['Club'].values)
 
-# Iterate over each club and add traces to the figure
 for club in top_6_clubs_df['Club'].unique():
     club_data = top_6_clubs_df[top_6_clubs_df['Club'] == club]
     hover_text = club_data.apply(lambda row: f"<b>{club}</b><br>Points: {row['Accumulated Points']}<br>Goal Difference: {row['Goal Difference']}", axis=1)
     
-    # Initialize lists to store x, y, and hover text values
+    # lists to store x, y, and hover text values
     x_values = []
     y_values = []
     hover_texts = []
     
     # Iterate over each matchday and determine if the club is in the top 6
+    # before this part existed, there was a mistake in the graphic
+    # Bournemouth dropped out of the Top 6 after MD 5 and got in on MD 8 again
+    # without this code, the datapoints from MD 5 and 8 would be connected, which implies they never dropped out
     for matchday in range(1, 39):
         if top_6_status.loc[matchday, club]:
             # If the club is in the top 6, add the data to the lists
@@ -88,7 +90,7 @@ for club in top_6_clubs_df['Club'].unique():
             y_values.append(None)
             hover_texts.append(None)
     
-    # Add the trace with the data
+    # add the trace with the data
     fig.add_trace(go.Scatter(
         x=x_values,
         y=y_values,
@@ -99,12 +101,9 @@ for club in top_6_clubs_df['Club'].unique():
         hoverinfo="text",
         hovertext=hover_texts,
         hoverlabel=dict(
-            font=dict(color="black")  # Set the font color to black
+            font=dict(color="black")  
         )
     ))
-
-    
-
 
 fig.add_layout_image(
     dict(
@@ -135,11 +134,12 @@ fig.update_layout(
 
     )
 )
-# fig.show()
 
 app = Dash()
 app.layout = html.Div([
     dcc.Graph(figure=fig),
 ])
 
-app.run_server(debug=True)
+# app.run_server(debug=True)
+if __name__ == '__main__':
+    app.run_server(debug=True)
