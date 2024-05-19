@@ -34,10 +34,12 @@ end_of_season_df = df[df['Round'] == "Matchweek 38"]
 # calculate difference between actual goals and xg 
 end_of_season_df['xG_difference'] = end_of_season_df['Accumulated GF'] - end_of_season_df['Accumulated xG']
 
-# sort by xG difference in descending order
+# sort by xG difference in ascending order
 end_of_season_df = end_of_season_df.sort_values(by='xG_difference', ascending=True)
 
-# Create hover text with additional data
+####### Plotting ###########################################################################
+
+# create custom hover text with additional data
 hover_text = [f"<b>{club}</b><br>"
               f"Goals: {int(goals)}<br>"
               f"xG: {xg:.1f}<br>"
@@ -55,11 +57,10 @@ fig.add_trace(go.Bar(
     x=end_of_season_df['xG_difference'],
     marker_color='indianred',
     orientation='h', 
-    hoverinfo='text',  # Set hover info to custom text
-    hovertext=hover_text  # Use custom hover text
+    hoverinfo='text',
+    hovertext=hover_text  
 ))
 
-# Update layout
 fig.update_layout(
     title='xG-Over-/Underperformance at the End of the Season',
     xaxis_title='xG Difference',
