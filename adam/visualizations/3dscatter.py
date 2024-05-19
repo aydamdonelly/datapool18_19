@@ -5,6 +5,7 @@ from dash.dependencies import Input, Output
 import plotly.express as px
 import plotly.graph_objects as go
 import numpy as np
+import dash_bootstrap_components as dbc
 
 # Einlesen der CSV-Datei
 transfers_df = pd.read_csv('../filtered_arrivals_with_additional_data.csv')
@@ -20,6 +21,13 @@ def categorize_age(age):
 
 transfers_df['Age Group'] = transfers_df['Age'].apply(categorize_age)
 
+# Farben für die Positionen
+colors = {
+    'DF': 'green',
+    'MF': 'blue',
+    'FW': 'red'
+}
+
 # Trendlinien-Funktion für jede Position
 def add_trendline(fig, df, position, color):
     df_position = df[df['Position'] == position]
@@ -31,38 +39,49 @@ def add_trendline(fig, df, position, color):
             y=p(df_position['Fee']),
             mode='lines',
             name=f'Trendline {position}',
-            line=dict(color=color, dash='dash')
+            line=dict(color=color, width=3),
+            showlegend=True
         ))
 
-# Farben für die Trendlinien
-colors = {
-    'DF': 'blue',
-    'MF': 'green',
-    'FW': 'red'
-}
+# Durchschnittliche Alterslinie hinzufügen
+def add_age_line(fig, df):
+    df_sorted = df.sort_values('Fee')
+    z = np.polyfit(df_sorted['Fee'], df_sorted['Age'], 1)
+    p = np.poly1d(z)
+    fig.add_trace(go.Scatter(
+        x=df_sorted['Fee'],
+        y=p(df_sorted['Fee']),
+        mode='lines',
+        name='Average Age',
+        line=dict(color='yellow', width=3),
+        yaxis='y2',
+        showlegend=True
+    ))
 
 # Dash-Anwendung initialisieren
-app = dash.Dash(__name__)
+app = dash.Dash(__name__, external_stylesheets=[dbc.themes.DARKLY])
 
 # Layout der Dash-Anwendung
 app.layout = html.Div([
-    html.H1("Player Transfers Analysis"),
+    html.H1("Player Transfers Analysis", style={'color': 'orange'}),
     dcc.Dropdown(
         id='club-dropdown',
         options=[{'label': club, 'value': club} for club in transfers_df['Club'].unique()] + [{'label': 'All', 'value': 'All'}],
         value='All',
         multi=False,
-        placeholder='Select a club'
+        placeholder='Select a club',
+        style={'backgroundColor': 'black', 'color': 'orange'}
     ),
     dcc.Dropdown(
         id='position-dropdown',
-        options=[{'label': pos, 'value': pos} for pos in transfers_df['Position'].unique()] + [{'label': 'All', 'value': 'All'}],
+        options=[{'label': pos, 'value': pos} for pos in transfers_df['Position'].unique() if pd.notna(pos)] + [{'label': 'All', 'value': 'All'}],
         value='All',
         multi=False,
-        placeholder='Select a position'
+        placeholder='Select a position',
+        style={'backgroundColor': 'black', 'color': 'orange'}
     ),
     dcc.Graph(id='scatter-plot')
-])
+], style={'backgroundColor': 'black'})
 
 # Callback-Funktion für die Interaktivität
 @app.callback(
@@ -84,27 +103,40 @@ def update_scatter_plot(selected_club, selected_position):
         x='Fee',
         y='Total Score',
         color='Position',
-        hover_data=['Player', 'Age', 'Fee', 'Total Score', 'Club', 'Position'],
+        color_discrete_map=colors,
+        hover_data={'Player': True, 'Age': True, 'Fee': True, 'Total Score': True, 'Club': True, 'Position': True},
         title="Scatter Plot of Fee vs. Total Score",
         labels={'Fee': 'Transfer Fee (€m)', 'Total Score': 'Total Score'},
         template='plotly_dark'
     )
 
+    scatter_fig.update_traces(marker=dict(size=14, opacity=0.8))
     scatter_fig.update_layout(
+        height=1600,  # Double the height of the plot again
         xaxis_title='Transfer Fee (€m)',
         yaxis_title='Total Score',
         title={
             'text': "Scatter Plot of Fee vs. Total Score",
-            'y':0.9,
-            'x':0.5,
+            'y': 0.9,
+            'x': 0.5,
             'xanchor': 'center',
             'yanchor': 'top'
         },
-        legend_title_text='Position'
+        legend_title_text='Position',
+        font=dict(color='orange'),
+        yaxis2=dict(
+            title='Average Age',
+            overlaying='y',
+            side='right',
+            showgrid=False,
+            range=[18, 35]
+        )
     )
 
     for position, color in colors.items():
         add_trendline(scatter_fig, filtered_df, position, color)
+
+    add_age_line(scatter_fig, filtered_df)
 
     return scatter_fig
 
