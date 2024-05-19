@@ -1,0 +1,94 @@
+Player,Club,Age,Fee,Total Score,Position
+Jordan Henderson,Liverpool,28,18.0,859.1177081710041,MF
+Daniel Sturridge,Liverpool,28,15.0,681.8709551773729,FW
+Adam Lallana,Liverpool,30,31.0,678.1295776842762,MF
+Dejan Lovren,Liverpool,29,25.3,500.4755434782609,DF
+Roberto Firmino,Liverpool,26,41.0,754.8565336369447,FW
+Joe Gomez,Liverpool,21,4.9,665.2173913043479,DF
+Sadio Mané,Liverpool,26,41.2,803.6393416426973,FW
+Georginio Wijnaldum,Liverpool,27,27.5,697.0774245493741,MF
+Virgil van Dijk,Liverpool,27,84.65,578.1929347826086,DF
+Mohamed Salah,Liverpool,26,42.0,800.0554290508148,FW
+Andrew Robertson,Liverpool,24,9.0,644.9728260869565,DF
+Naby Keïta,Liverpool,23,60.0,847.4571450833723,MF
+Fabinho,Liverpool,24,45.0,781.8125032465846,MF
+Xherdan Shaqiri,Liverpool,26,14.7,667.3657718120805,FW
+Antonio Valencia,Manchester United,32,18.8,669.429347826087,DF
+Chris Smalling,Manchester United,28,8.0,569.0896739130435,DF
+Phil Jones,Manchester United,26,19.3,630.5027173913044,DF
+Ashley Young,Manchester United,33,18.0,715.828804347826,DF
+Juan Mata,Manchester United,30,44.73,589.1840943592202,MF
+Marouane Fellaini,Manchester United,30,32.4,740.5097137811023,MF
+Luke Shaw,Manchester United,23,37.5,636.4130434782609,DF
+Ander Herrera,Manchester United,28,36.0,805.8783959274842,MF
+Anthony Martial,Manchester United,22,60.0,822.2645014381592,FW
+Matteo Darmian,Manchester United,28,18.0,755.163043478261,DF
+Paul Pogba,Manchester United,25,105.0,840.9426783024259,MF
+Eric Bailly,Manchester United,24,38.0,811.2092391304348,DF
+Romelu Lukaku,Manchester United,25,84.7,732.6741770533717,FW
+Victor Lindelöf,Manchester United,24,35.0,480.9782608695652,DF
+Alexis Sánchez,Manchester United,29,34.0,682.1680748641738,FW
+Fred,Manchester United,25,59.0,888.1724326009039,MF
+Diogo Dalot,Manchester United,19,22.0,579.483695652174,DF
+David Luiz,Chelsea,31,25.0,529.8233695652174,DF
+Eden Hazard,Chelsea,27,35.0,864.5351450143816,FW
+César Azpilicueta,Chelsea,28,8.8,730.570652173913,DF
+Willian,Chelsea,29,35.5,736.1157718120805,FW
+Pedro,Chelsea,31,27.0,875.9934783477149,FW
+N'Golo Kanté,Chelsea,27,35.8,796.0618928886811,MF
+David Luiz,Chelsea,31,35.0,529.8233695652174,DF
+Marcos Alonso,Chelsea,27,23.0,678.6005434782608,DF
+Álvaro Morata,Chelsea,25,66.0,575.5732662192394,FW
+Antonio Rüdiger,Chelsea,25,35.0,429.8233695652174,DF
+Olivier Giroud,Chelsea,31,17.0,836.7726809683605,FW
+Ross Barkley,Chelsea,24,16.8,965.8347618305542,MF
+Jorginho,Chelsea,26,57.0,840.5677627136253,MF
+Gonzalo Higuaín,Chelsea,30,7.8,422.6687340204538,FW
+Aaron Ramsey,Arsenal,27,6.4,924.3365279725728,MF
+Laurent Koscielny,Arsenal,32,12.5,760.5978260869566,DF
+Nacho Monreal,Arsenal,32,10.0,778.9402173913044,DF
+Mesut Özil,Arsenal,29,47.0,821.576411614981,MF
+Granit Xhaka,Arsenal,25,45.0,845.2655706197081,MF
+Shkodran Mustafi,Arsenal,26,41.0,672.8940217391305,DF
+Rob Holding,Arsenal,22,3.0,667.7309782608696,DF
+Pierre-Emerick Aubameyang,Arsenal,29,63.75,772.162382150847,FW
+Alexandre Lacazette,Arsenal,27,53.0,774.5952680568871,FW
+Henrikh Mkhitaryan,Arsenal,29,34.0,751.3317953020135,MF
+Lucas Torreira,Arsenal,22,28.65,713.0468547088462,MF
+Sokratis Papastathopoulos,Arsenal,30,16.0,687.8396739130435,DF
+Mattéo Guendouzi,Arsenal,19,8.0,853.5813723962392,MF
+Danny Rose,Tottenham Hotspur,28,1.0,669.0896739130435,DF
+Mousa Dembélé,Tottenham Hotspur,31,19.0,607.0920991117345,MF
+Jan Vertonghen,Tottenham Hotspur,31,12.5,756.453804347826,DF
+Christian Eriksen,Tottenham Hotspur,26,14.15,829.9653264765467,MF
+Ben Davies,Tottenham Hotspur,25,12.65,732.4728260869565,DF
+Dele Alli,Tottenham Hotspur,22,6.63,799.0394005506207,MF
+Eric Dier,Tottenham Hotspur,24,5.0,643.359435873461,DF
+Toby Alderweireld,Tottenham Hotspur,29,16.0,675.1358695652175,DF
+Kieran Trippier,Tottenham Hotspur,27,4.9,751.086956521739,DF
+Moussa Sissoko,Tottenham Hotspur,28,35.0,665.2956989247311,MF
+Victor Wanyama,Tottenham Hotspur,27,14.4,711.3287621422264,MF
+Davinson Sánchez,Tottenham Hotspur,22,42.0,629.008152173913,DF
+Lucas Moura,Tottenham Hotspur,25,28.4,689.2227948226271,FW
+Serge Aurier,Tottenham Hotspur,25,25.0,891.711956521739,DF
+Fernando Llorente,Tottenham Hotspur,33,15.1,834.0097175615211,FW
+Juan Foyth,Tottenham Hotspur,20,10.5,640.4891304347826,DF
+Vincent Kompany,Manchester City,32,8.5,539.4021739130435,DF
+David Silva,Manchester City,32,28.75,902.1245649576648,MF
+Sergio Agüero,Manchester City,30,40.0,829.651795701502,FW
+Fernandinho,Manchester City,33,40.0,877.3779284193029,MF
+Kevin De Bruyne,Manchester City,27,76.0,903.6451353176458,MF
+Raheem Sterling,Manchester City,23,63.7,946.620325982742,FW
+Nicolás Otamendi,Manchester City,30,44.5,615.4211956521739,DF
+Fabian Delph,Manchester City,28,11.5,595.3804347826086,MF
+John Stones,Manchester City,24,55.6,576.0190217391304,DF
+Leroy Sané,Manchester City,22,52.0,873.5928012144457,FW
+Gabriel Jesus,Manchester City,21,32.0,831.8562240332374,FW
+İlkay Gündoğan,Manchester City,27,27.0,896.2637005869824,MF
+Oleksandr Zinchenko,Manchester City,21,2.25,658.967391304348,MF
+Aymeric Laporte,Manchester City,24,65.0,486.4809782608695,DF
+Benjamin Mendy,Manchester City,24,57.5,546.875,DF
+Kyle Walker,Manchester City,28,52.7,512.3641304347825,DF
+Bernardo Silva,Manchester City,23,50.0,815.2210274790918,MF
+Danilo,Manchester City,27,30.0,528.8722826086957,DF
+Riyad Mahrez,Manchester City,27,67.8,885.7230245286034,FW

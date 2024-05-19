@@ -1,0 +1,767 @@
+Date,Minute,Player,Squad,xG_x,PSxG,Outcome,Distance,Body Part,Notes,Time,Round,Day,Venue,Result,GF,GA,Points,Opponent,xG_y,xGA,Poss,Attendance,Captain,Formation,Referee
+2018-08-12,17,Sadio Mané,Liverpool,0.04,,Blocked,16.0,Right Foot,,13:30,Matchweek 1,Sun,Home,W,4.0,0.0,3.0,West Ham,4.0,0.7,64.0,53235.0,James Milner,4-3-3,Anthony Taylor
+2018-08-12,18,Roberto Firmino,Liverpool,0.59,,Off Target,5.0,Right Foot,Volley,13:30,Matchweek 1,Sun,Home,W,4.0,0.0,3.0,West Ham,4.0,0.7,64.0,53235.0,James Milner,4-3-3,Anthony Taylor
+2018-08-12,19,Mohamed Salah,Liverpool,0.74,0.95,Goal,4.0,Right Foot,,13:30,Matchweek 1,Sun,Home,W,4.0,0.0,3.0,West Ham,4.0,0.7,64.0,53235.0,James Milner,4-3-3,Anthony Taylor
+2018-08-12,24,Trent Alexander-Arnold,Liverpool,0.06,0.57,Saved,31.0,Right Foot,Free kick,13:30,Matchweek 1,Sun,Home,W,4.0,0.0,3.0,West Ham,4.0,0.7,64.0,53235.0,James Milner,4-3-3,Anthony Taylor
+2018-08-12,25,Georginio Wijnaldum,Liverpool,0.09,,Off Target,12.0,Left Foot,,13:30,Matchweek 1,Sun,Home,W,4.0,0.0,3.0,West Ham,4.0,0.7,64.0,53235.0,James Milner,4-3-3,Anthony Taylor
+2018-08-12,36,Mohamed Salah,Liverpool,0.06,0.06,Saved,12.0,Head,,13:30,Matchweek 1,Sun,Home,W,4.0,0.0,3.0,West Ham,4.0,0.7,64.0,53235.0,James Milner,4-3-3,Anthony Taylor
+2018-08-12,37,Mohamed Salah,Liverpool,0.53,0.62,Saved,5.0,Right Foot,,13:30,Matchweek 1,Sun,Home,W,4.0,0.0,3.0,West Ham,4.0,0.7,64.0,53235.0,James Milner,4-3-3,Anthony Taylor
+2018-08-12,45,Sadio Mané,Liverpool,0.75,0.94,Goal,4.0,Right Foot,,13:30,Matchweek 1,Sun,Home,W,4.0,0.0,3.0,West Ham,4.0,0.7,64.0,53235.0,James Milner,4-3-3,Anthony Taylor
+2018-08-12,53,Sadio Mané,Liverpool,0.11,0.28,Goal,16.0,Right Foot,,13:30,Matchweek 1,Sun,Home,W,4.0,0.0,3.0,West Ham,4.0,0.7,64.0,53235.0,James Milner,4-3-3,Anthony Taylor
+2018-08-12,65,James Milner,Liverpool,0.08,,Blocked,23.0,Right Foot,Free kick,13:30,Matchweek 1,Sun,Home,W,4.0,0.0,3.0,West Ham,4.0,0.7,64.0,53235.0,James Milner,4-3-3,Anthony Taylor
+2018-08-12,65,Mohamed Salah,Liverpool,0.04,,Off Target,21.0,Left Foot,,13:30,Matchweek 1,Sun,Home,W,4.0,0.0,3.0,West Ham,4.0,0.7,64.0,53235.0,James Milner,4-3-3,Anthony Taylor
+2018-08-12,68,Sadio Mané,Liverpool,0.08,,Off Target,6.0,Head,,13:30,Matchweek 1,Sun,Home,W,4.0,0.0,3.0,West Ham,4.0,0.7,64.0,53235.0,James Milner,4-3-3,Anthony Taylor
+2018-08-12,70,Joe Gomez,Liverpool,0.15,,Off Target,10.0,Other,,13:30,Matchweek 1,Sun,Home,W,4.0,0.0,3.0,West Ham,4.0,0.7,64.0,53235.0,James Milner,4-3-3,Anthony Taylor
+2018-08-12,73,Georginio Wijnaldum,Liverpool,0.03,,Off Target,30.0,Right Foot,,13:30,Matchweek 1,Sun,Home,W,4.0,0.0,3.0,West Ham,4.0,0.7,64.0,53235.0,James Milner,4-3-3,Anthony Taylor
+2018-08-12,78,Naby Keïta,Liverpool,0.03,,Off Target,14.0,Left Foot,,13:30,Matchweek 1,Sun,Home,W,4.0,0.0,3.0,West Ham,4.0,0.7,64.0,53235.0,James Milner,4-3-3,Anthony Taylor
+2018-08-12,80,Georginio Wijnaldum,Liverpool,0.05,,Blocked,20.0,Right Foot,,13:30,Matchweek 1,Sun,Home,W,4.0,0.0,3.0,West Ham,4.0,0.7,64.0,53235.0,James Milner,4-3-3,Anthony Taylor
+2018-08-12,88,Daniel Sturridge,Liverpool,0.59,0.94,Goal,3.0,Left Foot,Volley,13:30,Matchweek 1,Sun,Home,W,4.0,0.0,3.0,West Ham,4.0,0.7,64.0,53235.0,James Milner,4-3-3,Anthony Taylor
+2018-08-12,90,Daniel Sturridge,Liverpool,0.05,0.1,Saved,15.0,Left Foot,,13:30,Matchweek 1,Sun,Home,W,4.0,0.0,3.0,West Ham,4.0,0.7,64.0,53235.0,James Milner,4-3-3,Anthony Taylor
+2018-08-20,3,Mohamed Salah,Liverpool,0.05,,Blocked,14.0,Left Foot,,20:00,Matchweek 2,Mon,Away,W,2.0,0.0,3.0,Crystal Palace,2.6,0.4,63.0,25750.0,James Milner,4-3-3,Michael Oliver
+2018-08-20,23,Mohamed Salah,Liverpool,0.38,,Off Target,16.0,Left Foot,,20:00,Matchweek 2,Mon,Away,W,2.0,0.0,3.0,Crystal Palace,2.6,0.4,63.0,25750.0,James Milner,4-3-3,Michael Oliver
+2018-08-20,27,Mohamed Salah,Liverpool,0.07,,Blocked,21.0,Left Foot,,20:00,Matchweek 2,Mon,Away,W,2.0,0.0,3.0,Crystal Palace,2.6,0.4,63.0,25750.0,James Milner,4-3-3,Michael Oliver
+2018-08-20,27,Naby Keïta,Liverpool,0.26,0.31,Saved,10.0,Left Foot,,20:00,Matchweek 2,Mon,Away,W,2.0,0.0,3.0,Crystal Palace,2.6,0.4,63.0,25750.0,James Milner,4-3-3,Michael Oliver
+2018-08-20,35,Andrew Robertson,Liverpool,0.06,,Off Target,15.0,Left Foot,Volley,20:00,Matchweek 2,Mon,Away,W,2.0,0.0,3.0,Crystal Palace,2.6,0.4,63.0,25750.0,James Milner,4-3-3,Michael Oliver
+2018-08-20,44,James Milner,Liverpool,0.02,,Blocked,33.0,Right Foot,,20:00,Matchweek 2,Mon,Away,W,2.0,0.0,3.0,Crystal Palace,2.6,0.4,63.0,25750.0,James Milner,4-3-3,Michael Oliver
+2018-08-20,45,James Milner,Liverpool,0.79,0.99,Goal,13.0,Right Foot,,20:00,Matchweek 2,Mon,Away,W,2.0,0.0,3.0,Crystal Palace,2.6,0.4,63.0,25750.0,James Milner,4-3-3,Michael Oliver
+2018-08-20,49,Naby Keïta,Liverpool,0.07,,Off Target,17.0,Right Foot,,20:00,Matchweek 2,Mon,Away,W,2.0,0.0,3.0,Crystal Palace,2.6,0.4,63.0,25750.0,James Milner,4-3-3,Michael Oliver
+2018-08-20,60,Mohamed Salah,Liverpool,0.02,,Blocked,25.0,Left Foot,Volley,20:00,Matchweek 2,Mon,Away,W,2.0,0.0,3.0,Crystal Palace,2.6,0.4,63.0,25750.0,James Milner,4-3-3,Michael Oliver
+2018-08-20,61,Trent Alexander-Arnold,Liverpool,0.03,,Blocked,26.0,Right Foot,,20:00,Matchweek 2,Mon,Away,W,2.0,0.0,3.0,Crystal Palace,2.6,0.4,63.0,25750.0,James Milner,4-3-3,Michael Oliver
+2018-08-20,77,Mohamed Salah,Liverpool,0.16,,Blocked,21.0,Left Foot,Free kick,20:00,Matchweek 2,Mon,Away,W,2.0,0.0,3.0,Crystal Palace,2.6,0.4,63.0,25750.0,James Milner,4-3-3,Michael Oliver
+2018-08-20,78,Naby Keïta,Liverpool,0.01,0.06,Saved,31.0,Right Foot,,20:00,Matchweek 2,Mon,Away,W,2.0,0.0,3.0,Crystal Palace,2.6,0.4,63.0,25750.0,James Milner,4-3-3,Michael Oliver
+2018-08-20,81,Sadio Mané,Liverpool,0.07,0.17,Saved,14.0,Right Foot,,20:00,Matchweek 2,Mon,Away,W,2.0,0.0,3.0,Crystal Palace,2.6,0.4,63.0,25750.0,James Milner,4-3-3,Michael Oliver
+2018-08-20,84,Mohamed Salah,Liverpool,0.08,0.22,Saved,10.0,Head,,20:00,Matchweek 2,Mon,Away,W,2.0,0.0,3.0,Crystal Palace,2.6,0.4,63.0,25750.0,James Milner,4-3-3,Michael Oliver
+2018-08-20,87,Roberto Firmino,Liverpool,0.03,,Off Target,21.0,Right Foot,,20:00,Matchweek 2,Mon,Away,W,2.0,0.0,3.0,Crystal Palace,2.6,0.4,63.0,25750.0,James Milner,4-3-3,Michael Oliver
+2018-08-20,90,Sadio Mané,Liverpool,0.51,0.73,Goal,11.0,Right Foot,,20:00,Matchweek 2,Mon,Away,W,2.0,0.0,3.0,Crystal Palace,2.6,0.4,63.0,25750.0,James Milner,4-3-3,Michael Oliver
+2018-08-25,5,Sadio Mané,Liverpool,0.06,,Off Target,16.0,Left Foot,,17:30,Matchweek 3,Sat,Home,W,1.0,0.0,3.0,Brighton,1.6,0.6,69.0,53294.0,James Milner,4-3-3,Chris Kavanagh
+2018-08-25,9,Roberto Firmino,Liverpool,0.35,0.51,Saved,4.0,Head,,17:30,Matchweek 3,Sat,Home,W,1.0,0.0,3.0,Brighton,1.6,0.6,69.0,53294.0,James Milner,4-3-3,Chris Kavanagh
+2018-08-25,15,Trent Alexander-Arnold,Liverpool,0.11,,Woodwork,21.0,Right Foot,Free kick,17:30,Matchweek 3,Sat,Home,W,1.0,0.0,3.0,Brighton,1.6,0.6,69.0,53294.0,James Milner,4-3-3,Chris Kavanagh
+2018-08-25,19,Mohamed Salah,Liverpool,0.04,0.06,Saved,12.0,Left Foot,,17:30,Matchweek 3,Sat,Home,W,1.0,0.0,3.0,Brighton,1.6,0.6,69.0,53294.0,James Milner,4-3-3,Chris Kavanagh
+2018-08-25,23,Mohamed Salah,Liverpool,0.06,0.58,Goal,16.0,Left Foot,,17:30,Matchweek 3,Sat,Home,W,1.0,0.0,3.0,Brighton,1.6,0.6,69.0,53294.0,James Milner,4-3-3,Chris Kavanagh
+2018-08-25,31,Georginio Wijnaldum,Liverpool,0.06,0.15,Saved,10.0,Right Foot,,17:30,Matchweek 3,Sat,Home,W,1.0,0.0,3.0,Brighton,1.6,0.6,69.0,53294.0,James Milner,4-3-3,Chris Kavanagh
+2018-08-25,34,Sadio Mané,Liverpool,0.1,0.15,Saved,9.0,Head,,17:30,Matchweek 3,Sat,Home,W,1.0,0.0,3.0,Brighton,1.6,0.6,69.0,53294.0,James Milner,4-3-3,Chris Kavanagh
+2018-08-25,44,Roberto Firmino,Liverpool,0.03,,Blocked,28.0,Right Foot,,17:30,Matchweek 3,Sat,Home,W,1.0,0.0,3.0,Brighton,1.6,0.6,69.0,53294.0,James Milner,4-3-3,Chris Kavanagh
+2018-08-25,44,Roberto Firmino,Liverpool,0.03,,Off Target,23.0,Right Foot,,17:30,Matchweek 3,Sat,Home,W,1.0,0.0,3.0,Brighton,1.6,0.6,69.0,53294.0,James Milner,4-3-3,Chris Kavanagh
+2018-08-25,46,Roberto Firmino,Liverpool,0.06,,Blocked,12.0,Right Foot,,17:30,Matchweek 3,Sat,Home,W,1.0,0.0,3.0,Brighton,1.6,0.6,69.0,53294.0,James Milner,4-3-3,Chris Kavanagh
+2018-08-25,58,Naby Keïta,Liverpool,0.03,,Off Target,29.0,Right Foot,,17:30,Matchweek 3,Sat,Home,W,1.0,0.0,3.0,Brighton,1.6,0.6,69.0,53294.0,James Milner,4-3-3,Chris Kavanagh
+2018-08-25,58,Mohamed Salah,Liverpool,0.08,,Blocked,14.0,Left Foot,,17:30,Matchweek 3,Sat,Home,W,1.0,0.0,3.0,Brighton,1.6,0.6,69.0,53294.0,James Milner,4-3-3,Chris Kavanagh
+2018-08-25,61,Joe Gomez,Liverpool,0.07,0.04,Saved,13.0,Head,,17:30,Matchweek 3,Sat,Home,W,1.0,0.0,3.0,Brighton,1.6,0.6,69.0,53294.0,James Milner,4-3-3,Chris Kavanagh
+2018-08-25,69,Roberto Firmino,Liverpool,0.05,0.07,Saved,13.0,Right Foot,,17:30,Matchweek 3,Sat,Home,W,1.0,0.0,3.0,Brighton,1.6,0.6,69.0,53294.0,James Milner,4-3-3,Chris Kavanagh
+2018-08-25,72,Mohamed Salah,Liverpool,0.03,,Blocked,31.0,Left Foot,,17:30,Matchweek 3,Sat,Home,W,1.0,0.0,3.0,Brighton,1.6,0.6,69.0,53294.0,James Milner,4-3-3,Chris Kavanagh
+2018-08-25,86,Daniel Sturridge,Liverpool,0.03,,Blocked,25.0,Left Foot,,17:30,Matchweek 3,Sat,Home,W,1.0,0.0,3.0,Brighton,1.6,0.6,69.0,53294.0,James Milner,4-3-3,Chris Kavanagh
+2018-08-25,86,Trent Alexander-Arnold,Liverpool,0.06,,Blocked,17.0,Left Foot,,17:30,Matchweek 3,Sat,Home,W,1.0,0.0,3.0,Brighton,1.6,0.6,69.0,53294.0,James Milner,4-3-3,Chris Kavanagh
+2018-08-25,87,Georginio Wijnaldum,Liverpool,0.19,,Blocked,4.0,Right Foot,Deflected,17:30,Matchweek 3,Sat,Home,W,1.0,0.0,3.0,Brighton,1.6,0.6,69.0,53294.0,James Milner,4-3-3,Chris Kavanagh
+2018-08-25,87,Mohamed Salah,Liverpool,0.04,,Off Target,19.0,Left Foot,,17:30,Matchweek 3,Sat,Home,W,1.0,0.0,3.0,Brighton,1.6,0.6,69.0,53294.0,James Milner,4-3-3,Chris Kavanagh
+2018-08-25,90,Georginio Wijnaldum,Liverpool,0.06,,Blocked,16.0,Right Foot,,17:30,Matchweek 3,Sat,Home,W,1.0,0.0,3.0,Brighton,1.6,0.6,69.0,53294.0,James Milner,4-3-3,Chris Kavanagh
+2018-08-25,90,Daniel Sturridge,Liverpool,0.03,,Off Target,20.0,Left Foot,,17:30,Matchweek 3,Sat,Home,W,1.0,0.0,3.0,Brighton,1.6,0.6,69.0,53294.0,James Milner,4-3-3,Chris Kavanagh
+2018-08-25,90,Mohamed Salah,Liverpool,0.07,,Off Target,18.0,Left Foot,,17:30,Matchweek 3,Sat,Home,W,1.0,0.0,3.0,Brighton,1.6,0.6,69.0,53294.0,James Milner,4-3-3,Chris Kavanagh
+2018-09-01,4,Roberto Firmino,Liverpool,0.28,0.11,Saved,15.0,Right Foot,,12:30,Matchweek 4,Sat,Away,W,2.0,1.0,3.0,Leicester City,1.0,1.0,49.0,32149.0,Jordan Henderson,4-3-3,Paul Tierney
+2018-09-01,4,Mohamed Salah,Liverpool,0.34,,Off Target,12.0,Left Foot,,12:30,Matchweek 4,Sat,Away,W,2.0,1.0,3.0,Leicester City,1.0,1.0,49.0,32149.0,Jordan Henderson,4-3-3,Paul Tierney
+2018-09-01,10,Sadio Mané,Liverpool,0.1,0.12,Goal,12.0,Left Foot,,12:30,Matchweek 4,Sat,Away,W,2.0,1.0,3.0,Leicester City,1.0,1.0,49.0,32149.0,Jordan Henderson,4-3-3,Paul Tierney
+2018-09-01,16,Joe Gomez,Liverpool,0.06,,Off Target,11.0,Head,,12:30,Matchweek 4,Sat,Away,W,2.0,1.0,3.0,Leicester City,1.0,1.0,49.0,32149.0,Jordan Henderson,4-3-3,Paul Tierney
+2018-09-01,21,Georginio Wijnaldum,Liverpool,0.07,,Blocked,14.0,Left Foot,,12:30,Matchweek 4,Sat,Away,W,2.0,1.0,3.0,Leicester City,1.0,1.0,49.0,32149.0,Jordan Henderson,4-3-3,Paul Tierney
+2018-09-01,43,Mohamed Salah,Liverpool,0.03,0.25,Saved,27.0,Left Foot,,12:30,Matchweek 4,Sat,Away,W,2.0,1.0,3.0,Leicester City,1.0,1.0,49.0,32149.0,Jordan Henderson,4-3-3,Paul Tierney
+2018-09-01,45,Roberto Firmino,Liverpool,0.06,0.31,Goal,10.0,Head,,12:30,Matchweek 4,Sat,Away,W,2.0,1.0,3.0,Leicester City,1.0,1.0,49.0,32149.0,Jordan Henderson,4-3-3,Paul Tierney
+2018-09-01,54,Mohamed Salah,Liverpool,0.03,,Blocked,25.0,Left Foot,,12:30,Matchweek 4,Sat,Away,W,2.0,1.0,3.0,Leicester City,1.0,1.0,49.0,32149.0,Jordan Henderson,4-3-3,Paul Tierney
+2018-09-01,82,Sadio Mané,Liverpool,0.15,,Off Target,8.0,Head,,12:30,Matchweek 4,Sat,Away,W,2.0,1.0,3.0,Leicester City,1.0,1.0,49.0,32149.0,Jordan Henderson,4-3-3,Paul Tierney
+2018-09-01,86,Trent Alexander-Arnold,Liverpool,0.03,,Off Target,29.0,Right Foot,,12:30,Matchweek 4,Sat,Away,W,2.0,1.0,3.0,Leicester City,1.0,1.0,49.0,32149.0,Jordan Henderson,4-3-3,Paul Tierney
+2018-09-15,3,Virgil van Dijk,Liverpool,0.08,,Off Target,8.0,Head,,12:30,Matchweek 5,Sat,Away,W,2.0,1.0,3.0,Tottenham,2.6,1.0,40.0,80188.0,James Milner,4-3-3,Michael Oliver
+2018-09-15,6,Trent Alexander-Arnold,Liverpool,0.06,0.14,Saved,28.0,Right Foot,Free kick,12:30,Matchweek 5,Sat,Away,W,2.0,1.0,3.0,Tottenham,2.6,1.0,40.0,80188.0,James Milner,4-3-3,Michael Oliver
+2018-09-15,22,Mohamed Salah,Liverpool,0.27,0.55,Saved,12.0,Left Foot,,12:30,Matchweek 5,Sat,Away,W,2.0,1.0,3.0,Tottenham,2.6,1.0,40.0,80188.0,James Milner,4-3-3,Michael Oliver
+2018-09-15,35,Sadio Mané,Liverpool,0.09,0.51,Saved,11.0,Left Foot,,12:30,Matchweek 5,Sat,Away,W,2.0,1.0,3.0,Tottenham,2.6,1.0,40.0,80188.0,James Milner,4-3-3,Michael Oliver
+2018-09-15,39,Georginio Wijnaldum,Liverpool,0.08,0.43,Goal,8.0,Head,,12:30,Matchweek 5,Sat,Away,W,2.0,1.0,3.0,Tottenham,2.6,1.0,40.0,80188.0,James Milner,4-3-3,Michael Oliver
+2018-09-15,43,Georginio Wijnaldum,Liverpool,0.06,,Off Target,12.0,Right Foot,,12:30,Matchweek 5,Sat,Away,W,2.0,1.0,3.0,Tottenham,2.6,1.0,40.0,80188.0,James Milner,4-3-3,Michael Oliver
+2018-09-15,49,Naby Keïta,Liverpool,0.02,0.04,Saved,26.0,Right Foot,Volley,12:30,Matchweek 5,Sat,Away,W,2.0,1.0,3.0,Tottenham,2.6,1.0,40.0,80188.0,James Milner,4-3-3,Michael Oliver
+2018-09-15,49,Sadio Mané,Liverpool,0.08,0.13,Saved,15.0,Left Foot,,12:30,Matchweek 5,Sat,Away,W,2.0,1.0,3.0,Tottenham,2.6,1.0,40.0,80188.0,James Milner,4-3-3,Michael Oliver
+2018-09-15,54,Roberto Firmino,Liverpool,0.98,0.97,Goal,1.0,Left Foot,,12:30,Matchweek 5,Sat,Away,W,2.0,1.0,3.0,Tottenham,2.6,1.0,40.0,80188.0,James Milner,4-3-3,Michael Oliver
+2018-09-15,60,Virgil van Dijk,Liverpool,0.08,,Off Target,11.0,Head,,12:30,Matchweek 5,Sat,Away,W,2.0,1.0,3.0,Tottenham,2.6,1.0,40.0,80188.0,James Milner,4-3-3,Michael Oliver
+2018-09-15,63,Naby Keïta,Liverpool,0.32,0.39,Saved,10.0,Left Foot,,12:30,Matchweek 5,Sat,Away,W,2.0,1.0,3.0,Tottenham,2.6,1.0,40.0,80188.0,James Milner,4-3-3,Michael Oliver
+2018-09-15,81,Mohamed Salah,Liverpool,0.05,0.11,Saved,17.0,Left Foot,,12:30,Matchweek 5,Sat,Away,W,2.0,1.0,3.0,Tottenham,2.6,1.0,40.0,80188.0,James Milner,4-3-3,Michael Oliver
+2018-09-15,81,Sadio Mané,Liverpool,0.11,,Off Target,8.0,Left Foot,,12:30,Matchweek 5,Sat,Away,W,2.0,1.0,3.0,Tottenham,2.6,1.0,40.0,80188.0,James Milner,4-3-3,Michael Oliver
+2018-09-15,81,Sadio Mané,Liverpool,0.06,0.03,Saved,17.0,Left Foot,,12:30,Matchweek 5,Sat,Away,W,2.0,1.0,3.0,Tottenham,2.6,1.0,40.0,80188.0,James Milner,4-3-3,Michael Oliver
+2018-09-15,84,Mohamed Salah,Liverpool,0.12,,Blocked,13.0,Left Foot,,12:30,Matchweek 5,Sat,Away,W,2.0,1.0,3.0,Tottenham,2.6,1.0,40.0,80188.0,James Milner,4-3-3,Michael Oliver
+2018-09-15,84,Mohamed Salah,Liverpool,0.1,,Blocked,11.0,Left Foot,,12:30,Matchweek 5,Sat,Away,W,2.0,1.0,3.0,Tottenham,2.6,1.0,40.0,80188.0,James Milner,4-3-3,Michael Oliver
+2018-09-15,90,Sadio Mané,Liverpool,0.03,,Off Target,27.0,Left Foot,,12:30,Matchweek 5,Sat,Away,W,2.0,1.0,3.0,Tottenham,2.6,1.0,40.0,80188.0,James Milner,4-3-3,Michael Oliver
+2018-09-18,6,Virgil van Dijk,Liverpool,0.04,0.2,Saved,15.0,Right Foot,,,,,,,,,,,,,,,,,
+2018-09-18,7,James Milner,Liverpool,0.04,0.46,Saved,25.0,Left Foot,,,,,,,,,,,,,,,,,
+2018-09-18,10,Sadio Mané,Liverpool,0.04,0.03,Saved,24.0,Left Foot,,,,,,,,,,,,,,,,,
+2018-09-18,15,Joe Gomez,Liverpool,0.07,,Off Target,9.0,Head,,,,,,,,,,,,,,,,,
+2018-09-18,26,Sadio Mané,Liverpool,0.06,,Off Target,13.0,Left Foot,,,,,,,,,,,,,,,,,
+2018-09-18,30,Daniel Sturridge,Liverpool,0.39,0.42,Goal,7.0,Head,,,,,,,,,,,,,,,,,
+2018-09-18,32,Daniel Sturridge,Liverpool,0.19,,Blocked,4.0,Left Foot,,,,,,,,,,,,,,,,,
+2018-09-18,36,James Milner,Liverpool,0.79,1.0,Goal,13.0,Right Foot,,,,,,,,,,,,,,,,,
+2018-09-18,58,Georginio Wijnaldum,Liverpool,0.03,,Blocked,23.0,Right Foot,,,,,,,,,,,,,,,,,
+2018-09-18,61,Daniel Sturridge,Liverpool,0.26,0.22,Saved,11.0,Head,,,,,,,,,,,,,,,,,
+2018-09-18,65,Daniel Sturridge,Liverpool,0.03,,Off Target,22.0,Right Foot,,,,,,,,,,,,,,,,,
+2018-09-18,68,Mohamed Salah,Liverpool,0.04,,Blocked,18.0,Left Foot,,,,,,,,,,,,,,,,,
+2018-09-18,72,Mohamed Salah,Liverpool,0.04,,Off Target,15.0,Left Foot,,,,,,,,,,,,,,,,,
+2018-09-18,82,Sadio Mané,Liverpool,0.17,,Off Target,5.0,Left Foot,,,,,,,,,,,,,,,,,
+2018-09-18,87,Trent Alexander-Arnold,Liverpool,0.07,,Blocked,23.0,Right Foot,Free kick,,,,,,,,,,,,,,,,
+2018-09-18,89,Trent Alexander-Arnold,Liverpool,0.03,,Blocked,22.0,Right Foot,,,,,,,,,,,,,,,,,
+2018-09-18,90,Roberto Firmino,Liverpool,0.06,0.52,Goal,13.0,Right Foot,,,,,,,,,,,,,,,,,
+2018-09-22,4,Roberto Firmino,Liverpool,0.08,,Off Target,9.0,Head,,15:00,Matchweek 6,Sat,Home,W,3.0,0.0,3.0,Southampton,1.7,0.3,61.0,50965.0,Jordan Henderson,4-2-3-1,Paul Tierney
+2018-09-22,10,Xherdan Shaqiri,Liverpool,0.03,,Blocked,17.0,Right Foot,,15:00,Matchweek 6,Sat,Home,W,3.0,0.0,3.0,Southampton,1.7,0.3,61.0,50965.0,Jordan Henderson,4-2-3-1,Paul Tierney
+2018-09-22,21,Joël Matip,Liverpool,0.07,0.56,Goal,9.0,Head,,15:00,Matchweek 6,Sat,Home,W,3.0,0.0,3.0,Southampton,1.7,0.3,61.0,50965.0,Jordan Henderson,4-2-3-1,Paul Tierney
+2018-09-22,31,Georginio Wijnaldum,Liverpool,0.04,,Off Target,25.0,Right Foot,,15:00,Matchweek 6,Sat,Home,W,3.0,0.0,3.0,Southampton,1.7,0.3,61.0,50965.0,Jordan Henderson,4-2-3-1,Paul Tierney
+2018-09-22,43,Mohamed Salah,Liverpool,0.23,,Off Target,4.0,Left Foot,,15:00,Matchweek 6,Sat,Home,W,3.0,0.0,3.0,Southampton,1.7,0.3,61.0,50965.0,Jordan Henderson,4-2-3-1,Paul Tierney
+2018-09-22,45,Roberto Firmino,Liverpool,0.04,,Blocked,18.0,Right Foot,,15:00,Matchweek 6,Sat,Home,W,3.0,0.0,3.0,Southampton,1.7,0.3,61.0,50965.0,Jordan Henderson,4-2-3-1,Paul Tierney
+2018-09-22,45,Sadio Mané,Liverpool,0.03,0.04,Saved,26.0,Right Foot,,15:00,Matchweek 6,Sat,Home,W,3.0,0.0,3.0,Southampton,1.7,0.3,61.0,50965.0,Jordan Henderson,4-2-3-1,Paul Tierney
+2018-09-22,45,Xherdan Shaqiri,Liverpool,0.06,,Woodwork,30.0,Left Foot,Free kick,15:00,Matchweek 6,Sat,Home,W,3.0,0.0,3.0,Southampton,1.7,0.3,61.0,50965.0,Jordan Henderson,4-2-3-1,Paul Tierney
+2018-09-22,45,Mohamed Salah,Liverpool,0.96,0.98,Goal,1.0,Left Foot,,15:00,Matchweek 6,Sat,Home,W,3.0,0.0,3.0,Southampton,1.7,0.3,61.0,50965.0,Jordan Henderson,4-2-3-1,Paul Tierney
+2018-09-22,85,Andrew Robertson,Liverpool,0.04,,Off Target,16.0,Left Foot,Volley,15:00,Matchweek 6,Sat,Home,W,3.0,0.0,3.0,Southampton,1.7,0.3,61.0,50965.0,Jordan Henderson,4-2-3-1,Paul Tierney
+2018-09-22,89,James Milner,Liverpool,0.07,,Blocked,15.0,Right Foot,,15:00,Matchweek 6,Sat,Home,W,3.0,0.0,3.0,Southampton,1.7,0.3,61.0,50965.0,Jordan Henderson,4-2-3-1,Paul Tierney
+2018-09-22,89,James Milner,Liverpool,0.09,,Blocked,12.0,Left Foot,,15:00,Matchweek 6,Sat,Home,W,3.0,0.0,3.0,Southampton,1.7,0.3,61.0,50965.0,Jordan Henderson,4-2-3-1,Paul Tierney
+2018-09-29,5,Mohamed Salah,Liverpool,0.03,0.02,Saved,22.0,Left Foot,,17:30,Matchweek 7,Sat,Away,D,1.0,1.0,1.0,Chelsea,1.6,1.1,53.0,40625.0,Jordan Henderson,4-3-3,Andre Marriner
+2018-09-29,11,Mohamed Salah,Liverpool,0.06,,Off Target,22.0,Left Foot,,17:30,Matchweek 7,Sat,Away,D,1.0,1.0,1.0,Chelsea,1.6,1.1,53.0,40625.0,Jordan Henderson,4-3-3,Andre Marriner
+2018-09-29,15,Sadio Mané,Liverpool,0.04,,Off Target,23.0,Right Foot,,17:30,Matchweek 7,Sat,Away,D,1.0,1.0,1.0,Chelsea,1.6,1.1,53.0,40625.0,Jordan Henderson,4-3-3,Andre Marriner
+2018-09-29,18,Roberto Firmino,Liverpool,0.05,,Blocked,16.0,Right Foot,,17:30,Matchweek 7,Sat,Away,D,1.0,1.0,1.0,Chelsea,1.6,1.1,53.0,40625.0,Jordan Henderson,4-3-3,Andre Marriner
+2018-09-29,32,Mohamed Salah,Liverpool,0.45,,Blocked,8.0,Right Foot,,17:30,Matchweek 7,Sat,Away,D,1.0,1.0,1.0,Chelsea,1.6,1.1,53.0,40625.0,Jordan Henderson,4-3-3,Andre Marriner
+2018-09-29,44,Sadio Mané,Liverpool,0.07,,Off Target,15.0,Left Foot,Volley,17:30,Matchweek 7,Sat,Away,D,1.0,1.0,1.0,Chelsea,1.6,1.1,53.0,40625.0,Jordan Henderson,4-3-3,Andre Marriner
+2018-09-29,58,Sadio Mané,Liverpool,0.07,0.2,Saved,11.0,Right Foot,,17:30,Matchweek 7,Sat,Away,D,1.0,1.0,1.0,Chelsea,1.6,1.1,53.0,40625.0,Jordan Henderson,4-3-3,Andre Marriner
+2018-09-29,59,Mohamed Salah,Liverpool,0.04,,Off Target,16.0,Left Foot,,17:30,Matchweek 7,Sat,Away,D,1.0,1.0,1.0,Chelsea,1.6,1.1,53.0,40625.0,Jordan Henderson,4-3-3,Andre Marriner
+2018-09-29,70,Xherdan Shaqiri,Liverpool,0.3,,Off Target,11.0,Right Foot,,17:30,Matchweek 7,Sat,Away,D,1.0,1.0,1.0,Chelsea,1.6,1.1,53.0,40625.0,Jordan Henderson,4-3-3,Andre Marriner
+2018-09-29,72,Roberto Firmino,Liverpool,0.39,,Blocked,7.0,Head,,17:30,Matchweek 7,Sat,Away,D,1.0,1.0,1.0,Chelsea,1.6,1.1,53.0,40625.0,Jordan Henderson,4-3-3,Andre Marriner
+2018-09-29,84,Xherdan Shaqiri,Liverpool,0.06,0.17,Saved,30.0,Left Foot,Free kick,17:30,Matchweek 7,Sat,Away,D,1.0,1.0,1.0,Chelsea,1.6,1.1,53.0,40625.0,Jordan Henderson,4-3-3,Andre Marriner
+2018-09-29,85,Naby Keïta,Liverpool,0.03,,Off Target,24.0,Right Foot,,17:30,Matchweek 7,Sat,Away,D,1.0,1.0,1.0,Chelsea,1.6,1.1,53.0,40625.0,Jordan Henderson,4-3-3,Andre Marriner
+2018-09-29,89,Daniel Sturridge,Liverpool,0.03,0.58,Goal,27.0,Left Foot,,17:30,Matchweek 7,Sat,Away,D,1.0,1.0,1.0,Chelsea,1.6,1.1,53.0,40625.0,Jordan Henderson,4-3-3,Andre Marriner
+2018-10-03,26,Georginio Wijnaldum,Liverpool,0.03,,Off Target,26.0,Right Foot,,,,,,,,,,,,,,,,,
+2018-10-03,38,Mohamed Salah,Liverpool,0.04,,Blocked,23.0,Left Foot,,,,,,,,,,,,,,,,,
+2018-10-03,38,Trent Alexander-Arnold,Liverpool,0.03,,Off Target,26.0,Right Foot,,,,,,,,,,,,,,,,,
+2018-10-03,68,Mohamed Salah,Liverpool,0.03,,Off Target,22.0,Left Foot,,,,,,,,,,,,,,,,,
+2018-10-07,4,Mohamed Salah,Liverpool,0.05,,Off Target,16.0,Left Foot,,16:30,Matchweek 8,Sun,Home,D,0.0,0.0,1.0,Manchester City,0.4,1.0,49.0,52117.0,Jordan Henderson,4-3-3,Martin Atkinson
+2018-10-07,12,Dejan Lovren,Liverpool,0.08,,Off Target,9.0,Head,,16:30,Matchweek 8,Sun,Home,D,0.0,0.0,1.0,Manchester City,0.4,1.0,49.0,52117.0,Jordan Henderson,4-3-3,Martin Atkinson
+2018-10-07,50,Joe Gomez,Liverpool,0.04,,Blocked,21.0,Left Foot,,16:30,Matchweek 8,Sun,Home,D,0.0,0.0,1.0,Manchester City,0.4,1.0,49.0,52117.0,Jordan Henderson,4-3-3,Martin Atkinson
+2018-10-07,62,Mohamed Salah,Liverpool,0.05,0.09,Saved,16.0,Left Foot,,16:30,Matchweek 8,Sun,Home,D,0.0,0.0,1.0,Manchester City,0.4,1.0,49.0,52117.0,Jordan Henderson,4-3-3,Martin Atkinson
+2018-10-07,65,Joe Gomez,Liverpool,0.03,,Off Target,26.0,Right Foot,Volley,16:30,Matchweek 8,Sun,Home,D,0.0,0.0,1.0,Manchester City,0.4,1.0,49.0,52117.0,Jordan Henderson,4-3-3,Martin Atkinson
+2018-10-07,69,Mohamed Salah,Liverpool,0.04,,Off Target,18.0,Left Foot,,16:30,Matchweek 8,Sun,Home,D,0.0,0.0,1.0,Manchester City,0.4,1.0,49.0,52117.0,Jordan Henderson,4-3-3,Martin Atkinson
+2018-10-07,79,Daniel Sturridge,Liverpool,0.07,0.37,Saved,11.0,Head,,16:30,Matchweek 8,Sun,Home,D,0.0,0.0,1.0,Manchester City,0.4,1.0,49.0,52117.0,Jordan Henderson,4-3-3,Martin Atkinson
+2018-10-20,17,Xherdan Shaqiri,Liverpool,0.08,,Blocked,17.0,Left Foot,Volley,17:30,Matchweek 9,Sat,Away,W,1.0,0.0,3.0,Huddersfield,0.6,0.7,52.0,24263.0,Jordan Henderson,4-3-3,Michael Oliver
+2018-10-20,24,Mohamed Salah,Liverpool,0.07,0.68,Goal,11.0,Right Foot,,17:30,Matchweek 9,Sat,Away,W,1.0,0.0,3.0,Huddersfield,0.6,0.7,52.0,24263.0,Jordan Henderson,4-3-3,Michael Oliver
+2018-10-20,26,Xherdan Shaqiri,Liverpool,0.03,,Blocked,26.0,Left Foot,,17:30,Matchweek 9,Sat,Away,W,1.0,0.0,3.0,Huddersfield,0.6,0.7,52.0,24263.0,Jordan Henderson,4-3-3,Michael Oliver
+2018-10-20,26,Andrew Robertson,Liverpool,0.03,,Blocked,25.0,Left Foot,,17:30,Matchweek 9,Sat,Away,W,1.0,0.0,3.0,Huddersfield,0.6,0.7,52.0,24263.0,Jordan Henderson,4-3-3,Michael Oliver
+2018-10-20,47,Andrew Robertson,Liverpool,0.03,,Blocked,19.0,Left Foot,,17:30,Matchweek 9,Sat,Away,W,1.0,0.0,3.0,Huddersfield,0.6,0.7,52.0,24263.0,Jordan Henderson,4-3-3,Michael Oliver
+2018-10-20,47,Daniel Sturridge,Liverpool,0.03,,Off Target,20.0,Right Foot,,17:30,Matchweek 9,Sat,Away,W,1.0,0.0,3.0,Huddersfield,0.6,0.7,52.0,24263.0,Jordan Henderson,4-3-3,Michael Oliver
+2018-10-20,49,Daniel Sturridge,Liverpool,0.04,,Off Target,22.0,Left Foot,,17:30,Matchweek 9,Sat,Away,W,1.0,0.0,3.0,Huddersfield,0.6,0.7,52.0,24263.0,Jordan Henderson,4-3-3,Michael Oliver
+2018-10-20,60,Mohamed Salah,Liverpool,0.03,,Blocked,27.0,Left Foot,,17:30,Matchweek 9,Sat,Away,W,1.0,0.0,3.0,Huddersfield,0.6,0.7,52.0,24263.0,Jordan Henderson,4-3-3,Michael Oliver
+2018-10-20,64,Mohamed Salah,Liverpool,0.09,,Off Target,18.0,Left Foot,,17:30,Matchweek 9,Sat,Away,W,1.0,0.0,3.0,Huddersfield,0.6,0.7,52.0,24263.0,Jordan Henderson,4-3-3,Michael Oliver
+2018-10-20,88,Mohamed Salah,Liverpool,0.15,0.08,Saved,5.0,Left Foot,,17:30,Matchweek 9,Sat,Away,W,1.0,0.0,3.0,Huddersfield,0.6,0.7,52.0,24263.0,Jordan Henderson,4-3-3,Michael Oliver
+2018-10-20,89,Roberto Firmino,Liverpool,0.06,,Off Target,20.0,Left Foot,,17:30,Matchweek 9,Sat,Away,W,1.0,0.0,3.0,Huddersfield,0.6,0.7,52.0,24263.0,Jordan Henderson,4-3-3,Michael Oliver
+2018-10-24,10,Roberto Firmino,Liverpool,0.05,,Blocked,14.0,Right Foot,,,,,,,,,,,,,,,,,
+2018-10-24,11,Mohamed Salah,Liverpool,0.49,0.59,Saved,11.0,Right Foot,,,,,,,,,,,,,,,,,
+2018-10-24,20,Roberto Firmino,Liverpool,0.14,0.11,Goal,12.0,Left Foot,Deflected,,,,,,,,,,,,,,,,
+2018-10-24,25,Mohamed Salah,Liverpool,0.1,,Off Target,14.0,Left Foot,,,,,,,,,,,,,,,,,
+2018-10-24,38,Xherdan Shaqiri,Liverpool,0.03,0.02,Saved,27.0,Left Foot,,,,,,,,,,,,,,,,,
+2018-10-24,43,Andrew Robertson,Liverpool,0.05,,Off Target,16.0,Left Foot,,,,,,,,,,,,,,,,,
+2018-10-24,45,Mohamed Salah,Liverpool,0.3,0.45,Goal,12.0,Right Foot,,,,,,,,,,,,,,,,,
+2018-10-24,48,Fabinho,Liverpool,0.04,,Off Target,25.0,Right Foot,,,,,,,,,,,,,,,,,
+2018-10-24,51,Mohamed Salah,Liverpool,0.79,0.94,Goal,13.0,Left Foot,,,,,,,,,,,,,,,,,
+2018-10-24,54,Trent Alexander-Arnold,Liverpool,0.47,0.68,Saved,11.0,Left Foot,Volley,,,,,,,,,,,,,,,,
+2018-10-24,56,Xherdan Shaqiri,Liverpool,0.05,,Blocked,31.0,Left Foot,Free kick,,,,,,,,,,,,,,,,
+2018-10-24,63,Roberto Firmino,Liverpool,0.03,0.08,Saved,31.0,Right Foot,,,,,,,,,,,,,,,,,
+2018-10-24,68,Virgil van Dijk,Liverpool,0.05,,Blocked,9.0,Head,,,,,,,,,,,,,,,,,
+2018-10-24,76,Sadio Mané,Liverpool,0.79,0.99,Saved,13.0,Right Foot,,,,,,,,,,,,,,,,,
+2018-10-24,76,Sadio Mané,Liverpool,0.66,,Off Target,5.0,Right Foot,,,,,,,,,,,,,,,,,
+2018-10-24,80,Sadio Mané,Liverpool,0.5,0.93,Goal,10.0,Right Foot,,,,,,,,,,,,,,,,,
+2018-10-24,81,Adam Lallana,Liverpool,0.53,0.75,Saved,17.0,Right Foot,,,,,,,,,,,,,,,,,
+2018-10-24,90,Daniel Sturridge,Liverpool,0.03,,Saved off Target,32.0,Left Foot,,,,,,,,,,,,,,,,,
+2018-10-24,90,Alberto Moreno,Liverpool,0.02,,Off Target,29.0,Left Foot,Volley,,,,,,,,,,,,,,,,
+2018-10-24,90,Sadio Mané,Liverpool,0.4,,Off Target,15.0,Left Foot,,,,,,,,,,,,,,,,,
+2018-10-24,90,Daniel Sturridge,Liverpool,0.03,0.15,Saved,24.0,Left Foot,,,,,,,,,,,,,,,,,
+2018-10-27,10,Sadio Mané,Liverpool,0.08,,Blocked,14.0,Left Foot,,15:00,Matchweek 10,Sat,Home,W,4.0,1.0,3.0,Cardiff City,2.4,0.8,78.0,53373.0,Virgil van Dijk,4-2-3-1,Stuart Attwell
+2018-10-27,10,Georginio Wijnaldum,Liverpool,0.46,,Blocked,9.0,Right Foot,,15:00,Matchweek 10,Sat,Home,W,4.0,1.0,3.0,Cardiff City,2.4,0.8,78.0,53373.0,Virgil van Dijk,4-2-3-1,Stuart Attwell
+2018-10-27,10,Mohamed Salah,Liverpool,0.46,0.74,Goal,5.0,Left Foot,Deflected,15:00,Matchweek 10,Sat,Home,W,4.0,1.0,3.0,Cardiff City,2.4,0.8,78.0,53373.0,Virgil van Dijk,4-2-3-1,Stuart Attwell
+2018-10-27,13,Virgil van Dijk,Liverpool,0.1,,Woodwork,7.0,Head,,15:00,Matchweek 10,Sat,Home,W,4.0,1.0,3.0,Cardiff City,2.4,0.8,78.0,53373.0,Virgil van Dijk,4-2-3-1,Stuart Attwell
+2018-10-27,15,Trent Alexander-Arnold,Liverpool,0.01,,Blocked,51.0,Right Foot,,15:00,Matchweek 10,Sat,Home,W,4.0,1.0,3.0,Cardiff City,2.4,0.8,78.0,53373.0,Virgil van Dijk,4-2-3-1,Stuart Attwell
+2018-10-27,18,Mohamed Salah,Liverpool,0.06,,Blocked,21.0,Left Foot,,15:00,Matchweek 10,Sat,Home,W,4.0,1.0,3.0,Cardiff City,2.4,0.8,78.0,53373.0,Virgil van Dijk,4-2-3-1,Stuart Attwell
+2018-10-27,25,Trent Alexander-Arnold,Liverpool,0.04,,Off Target,22.0,Left Foot,,15:00,Matchweek 10,Sat,Home,W,4.0,1.0,3.0,Cardiff City,2.4,0.8,78.0,53373.0,Virgil van Dijk,4-2-3-1,Stuart Attwell
+2018-10-27,30,Alberto Moreno,Liverpool,0.03,,Off Target,29.0,Left Foot,,15:00,Matchweek 10,Sat,Home,W,4.0,1.0,3.0,Cardiff City,2.4,0.8,78.0,53373.0,Virgil van Dijk,4-2-3-1,Stuart Attwell
+2018-10-27,35,Adam Lallana,Liverpool,0.03,,Blocked,32.0,Left Foot,,15:00,Matchweek 10,Sat,Home,W,4.0,1.0,3.0,Cardiff City,2.4,0.8,78.0,53373.0,Virgil van Dijk,4-2-3-1,Stuart Attwell
+2018-10-27,41,Virgil van Dijk,Liverpool,0.09,,Off Target,9.0,Right Foot,Volley,15:00,Matchweek 10,Sat,Home,W,4.0,1.0,3.0,Cardiff City,2.4,0.8,78.0,53373.0,Virgil van Dijk,4-2-3-1,Stuart Attwell
+2018-10-27,42,Roberto Firmino,Liverpool,0.03,,Off Target,26.0,Right Foot,,15:00,Matchweek 10,Sat,Home,W,4.0,1.0,3.0,Cardiff City,2.4,0.8,78.0,53373.0,Virgil van Dijk,4-2-3-1,Stuart Attwell
+2018-10-27,45,Adam Lallana,Liverpool,0.06,,Blocked,9.0,Head,,15:00,Matchweek 10,Sat,Home,W,4.0,1.0,3.0,Cardiff City,2.4,0.8,78.0,53373.0,Virgil van Dijk,4-2-3-1,Stuart Attwell
+2018-10-27,66,Sadio Mané,Liverpool,0.08,0.53,Goal,13.0,Left Foot,,15:00,Matchweek 10,Sat,Home,W,4.0,1.0,3.0,Cardiff City,2.4,0.8,78.0,53373.0,Virgil van Dijk,4-2-3-1,Stuart Attwell
+2018-10-27,79,James Milner,Liverpool,0.04,,Blocked,20.0,Right Foot,,15:00,Matchweek 10,Sat,Home,W,4.0,1.0,3.0,Cardiff City,2.4,0.8,78.0,53373.0,Virgil van Dijk,4-2-3-1,Stuart Attwell
+2018-10-27,79,Trent Alexander-Arnold,Liverpool,0.03,0.04,Saved,28.0,Right Foot,Deflected,15:00,Matchweek 10,Sat,Home,W,4.0,1.0,3.0,Cardiff City,2.4,0.8,78.0,53373.0,Virgil van Dijk,4-2-3-1,Stuart Attwell
+2018-10-27,82,Mohamed Salah,Liverpool,0.06,0.7,Saved,28.0,Right Foot,,15:00,Matchweek 10,Sat,Home,W,4.0,1.0,3.0,Cardiff City,2.4,0.8,78.0,53373.0,Virgil van Dijk,4-2-3-1,Stuart Attwell
+2018-10-27,84,Xherdan Shaqiri,Liverpool,0.53,0.95,Goal,11.0,Left Foot,,15:00,Matchweek 10,Sat,Home,W,4.0,1.0,3.0,Cardiff City,2.4,0.8,78.0,53373.0,Virgil van Dijk,4-2-3-1,Stuart Attwell
+2018-10-27,87,Sadio Mané,Liverpool,0.54,0.71,Goal,15.0,Right Foot,,15:00,Matchweek 10,Sat,Home,W,4.0,1.0,3.0,Cardiff City,2.4,0.8,78.0,53373.0,Virgil van Dijk,4-2-3-1,Stuart Attwell
+2018-10-27,90,Mohamed Salah,Liverpool,0.01,,Off Target,62.0,Left Foot,,15:00,Matchweek 10,Sat,Home,W,4.0,1.0,3.0,Cardiff City,2.4,0.8,78.0,53373.0,Virgil van Dijk,4-2-3-1,Stuart Attwell
+2018-11-03,9,Georginio Wijnaldum,Liverpool,0.06,,Off Target,17.0,Right Foot,,17:30,Matchweek 11,Sat,Away,D,1.0,1.0,1.0,Arsenal,1.3,1.4,39.0,59993.0,James Milner,4-3-3,Andre Marriner
+2018-11-03,13,Roberto Firmino,Liverpool,0.03,,Blocked,30.0,Left Foot,,17:30,Matchweek 11,Sat,Away,D,1.0,1.0,1.0,Arsenal,1.3,1.4,39.0,59993.0,James Milner,4-3-3,Andre Marriner
+2018-11-03,18,Roberto Firmino,Liverpool,0.33,,Woodwork,13.0,Right Foot,,17:30,Matchweek 11,Sat,Away,D,1.0,1.0,1.0,Arsenal,1.3,1.4,39.0,59993.0,James Milner,4-3-3,Andre Marriner
+2018-11-03,23,Virgil van Dijk,Liverpool,0.48,0.36,Saved,9.0,Right Foot,Volley,17:30,Matchweek 11,Sat,Away,D,1.0,1.0,1.0,Arsenal,1.3,1.4,39.0,59993.0,James Milner,4-3-3,Andre Marriner
+2018-11-03,24,Mohamed Salah,Liverpool,0.03,,Blocked,22.0,Left Foot,,17:30,Matchweek 11,Sat,Away,D,1.0,1.0,1.0,Arsenal,1.3,1.4,39.0,59993.0,James Milner,4-3-3,Andre Marriner
+2018-11-03,24,Andrew Robertson,Liverpool,0.04,0.06,Saved,17.0,Left Foot,,17:30,Matchweek 11,Sat,Away,D,1.0,1.0,1.0,Arsenal,1.3,1.4,39.0,59993.0,James Milner,4-3-3,Andre Marriner
+2018-11-03,45,Virgil van Dijk,Liverpool,0.05,,Woodwork,15.0,Head,,17:30,Matchweek 11,Sat,Away,D,1.0,1.0,1.0,Arsenal,1.3,1.4,39.0,59993.0,James Milner,4-3-3,Andre Marriner
+2018-11-03,50,Mohamed Salah,Liverpool,0.05,,Blocked,18.0,Left Foot,,17:30,Matchweek 11,Sat,Away,D,1.0,1.0,1.0,Arsenal,1.3,1.4,39.0,59993.0,James Milner,4-3-3,Andre Marriner
+2018-11-03,61,James Milner,Liverpool,0.06,0.16,Goal,17.0,Right Foot,,17:30,Matchweek 11,Sat,Away,D,1.0,1.0,1.0,Arsenal,1.3,1.4,39.0,59993.0,James Milner,4-3-3,Andre Marriner
+2018-11-03,69,Roberto Firmino,Liverpool,0.05,,Off Target,11.0,Head,,17:30,Matchweek 11,Sat,Away,D,1.0,1.0,1.0,Arsenal,1.3,1.4,39.0,59993.0,James Milner,4-3-3,Andre Marriner
+2018-11-03,74,Virgil van Dijk,Liverpool,0.05,0.05,Saved,11.0,Head,,17:30,Matchweek 11,Sat,Away,D,1.0,1.0,1.0,Arsenal,1.3,1.4,39.0,59993.0,James Milner,4-3-3,Andre Marriner
+2018-11-03,83,Sadio Mané,Liverpool,0.06,,Blocked,22.0,Right Foot,,17:30,Matchweek 11,Sat,Away,D,1.0,1.0,1.0,Arsenal,1.3,1.4,39.0,59993.0,James Milner,4-3-3,Andre Marriner
+2018-11-03,84,Mohamed Salah,Liverpool,0.02,,Off Target,24.0,Left Foot,,17:30,Matchweek 11,Sat,Away,D,1.0,1.0,1.0,Arsenal,1.3,1.4,39.0,59993.0,James Milner,4-3-3,Andre Marriner
+2018-11-06,8,James Milner,Liverpool,0.06,,Off Target,19.0,Right Foot,Volley,,,,,,,,,,,,,,,,
+2018-11-06,12,Trent Alexander-Arnold,Liverpool,0.04,,Off Target,18.0,Right Foot,Volley,,,,,,,,,,,,,,,,
+2018-11-06,17,Andrew Robertson,Liverpool,0.12,,Off Target,8.0,Left Foot,,,,,,,,,,,,,,,,,
+2018-11-06,17,Daniel Sturridge,Liverpool,0.55,,Off Target,7.0,Left Foot,,,,,,,,,,,,,,,,,
+2018-11-06,20,Daniel Sturridge,Liverpool,0.07,,Blocked,13.0,Right Foot,,,,,,,,,,,,,,,,,
+2018-11-06,24,Mohamed Salah,Liverpool,0.05,,Blocked,18.0,Left Foot,,,,,,,,,,,,,,,,,
+2018-11-06,30,Mohamed Salah,Liverpool,0.03,,Off Target,20.0,Left Foot,Volley,,,,,,,,,,,,,,,,
+2018-11-06,32,Georginio Wijnaldum,Liverpool,0.05,,Blocked,11.0,Head,,,,,,,,,,,,,,,,,
+2018-11-06,33,Adam Lallana,Liverpool,0.04,,Blocked,14.0,Head,,,,,,,,,,,,,,,,,
+2018-11-06,35,Daniel Sturridge,Liverpool,0.07,,Off Target,18.0,Right Foot,,,,,,,,,,,,,,,,,
+2018-11-06,48,Sadio Mané,Liverpool,0.34,,Blocked,4.0,Right Foot,,,,,,,,,,,,,,,,,
+2018-11-06,49,Adam Lallana,Liverpool,0.07,,Blocked,15.0,Left Foot,,,,,,,,,,,,,,,,,
+2018-11-06,71,Mohamed Salah,Liverpool,0.03,0.21,Saved,25.0,Left Foot,Deflected,,,,,,,,,,,,,,,,
+2018-11-06,71,Mohamed Salah,Liverpool,0.05,,Woodwork,15.0,Left Foot,Volley,,,,,,,,,,,,,,,,
+2018-11-06,74,Joël Matip,Liverpool,0.07,,Off Target,8.0,Head,,,,,,,,,,,,,,,,,
+2018-11-06,79,Mohamed Salah,Liverpool,0.14,,Blocked,10.0,Left Foot,,,,,,,,,,,,,,,,,
+2018-11-06,82,Joël Matip,Liverpool,0.11,,Off Target,7.0,Head,,,,,,,,,,,,,,,,,
+2018-11-06,82,Mohamed Salah,Liverpool,0.11,0.03,Saved,4.0,Left Foot,,,,,,,,,,,,,,,,,
+2018-11-06,85,Virgil van Dijk,Liverpool,0.08,,Off Target,7.0,Head,,,,,,,,,,,,,,,,,
+2018-11-06,86,Mohamed Salah,Liverpool,0.04,,Blocked,18.0,Left Foot,,,,,,,,,,,,,,,,,
+2018-11-06,87,Georginio Wijnaldum,Liverpool,0.04,,Blocked,26.0,Right Foot,,,,,,,,,,,,,,,,,
+2018-11-06,90,Virgil van Dijk,Liverpool,0.04,0.04,Saved,15.0,Head,,,,,,,,,,,,,,,,,
+2018-11-06,90,Mohamed Salah,Liverpool,0.06,0.14,Saved,17.0,Left Foot,,,,,,,,,,,,,,,,,
+2018-11-11,4,Sadio Mané,Liverpool,0.05,,Off Target,15.0,Right Foot,,12:00,Matchweek 12,Sun,Home,W,2.0,0.0,3.0,Fulham,1.8,0.5,71.0,53128.0,Virgil van Dijk,4-2-3-1,Paul Tierney
+2018-11-11,13,Xherdan Shaqiri,Liverpool,0.02,,Off Target,28.0,Left Foot,,12:00,Matchweek 12,Sun,Home,W,2.0,0.0,3.0,Fulham,1.8,0.5,71.0,53128.0,Virgil van Dijk,4-2-3-1,Paul Tierney
+2018-11-11,16,Mohamed Salah,Liverpool,0.53,0.5,Saved,9.0,Right Foot,,12:00,Matchweek 12,Sun,Home,W,2.0,0.0,3.0,Fulham,1.8,0.5,71.0,53128.0,Virgil van Dijk,4-2-3-1,Paul Tierney
+2018-11-11,20,Trent Alexander-Arnold,Liverpool,0.05,,Off Target,13.0,Head,,12:00,Matchweek 12,Sun,Home,W,2.0,0.0,3.0,Fulham,1.8,0.5,71.0,53128.0,Virgil van Dijk,4-2-3-1,Paul Tierney
+2018-11-11,22,Mohamed Salah,Liverpool,0.06,0.08,Saved,11.0,Right Foot,,12:00,Matchweek 12,Sun,Home,W,2.0,0.0,3.0,Fulham,1.8,0.5,71.0,53128.0,Virgil van Dijk,4-2-3-1,Paul Tierney
+2018-11-11,25,Fabinho,Liverpool,0.03,,Blocked,32.0,Right Foot,,12:00,Matchweek 12,Sun,Home,W,2.0,0.0,3.0,Fulham,1.8,0.5,71.0,53128.0,Virgil van Dijk,4-2-3-1,Paul Tierney
+2018-11-11,28,Sadio Mané,Liverpool,0.04,,Off Target,20.0,Right Foot,,12:00,Matchweek 12,Sun,Home,W,2.0,0.0,3.0,Fulham,1.8,0.5,71.0,53128.0,Virgil van Dijk,4-2-3-1,Paul Tierney
+2018-11-11,30,Mohamed Salah,Liverpool,0.03,,Blocked,29.0,Left Foot,,12:00,Matchweek 12,Sun,Home,W,2.0,0.0,3.0,Fulham,1.8,0.5,71.0,53128.0,Virgil van Dijk,4-2-3-1,Paul Tierney
+2018-11-11,32,Xherdan Shaqiri,Liverpool,0.06,,Blocked,29.0,Left Foot,Free kick,12:00,Matchweek 12,Sun,Home,W,2.0,0.0,3.0,Fulham,1.8,0.5,71.0,53128.0,Virgil van Dijk,4-2-3-1,Paul Tierney
+2018-11-11,32,Trent Alexander-Arnold,Liverpool,0.02,,Blocked,31.0,Right Foot,Volley,12:00,Matchweek 12,Sun,Home,W,2.0,0.0,3.0,Fulham,1.8,0.5,71.0,53128.0,Virgil van Dijk,4-2-3-1,Paul Tierney
+2018-11-11,35,Xherdan Shaqiri,Liverpool,0.05,,Off Target,20.0,Left Foot,,12:00,Matchweek 12,Sun,Home,W,2.0,0.0,3.0,Fulham,1.8,0.5,71.0,53128.0,Virgil van Dijk,4-2-3-1,Paul Tierney
+2018-11-11,41,Mohamed Salah,Liverpool,0.21,0.49,Goal,14.0,Left Foot,,12:00,Matchweek 12,Sun,Home,W,2.0,0.0,3.0,Fulham,1.8,0.5,71.0,53128.0,Virgil van Dijk,4-2-3-1,Paul Tierney
+2018-11-11,53,Sadio Mané,Liverpool,0.03,0.11,Saved,28.0,Right Foot,,12:00,Matchweek 12,Sun,Home,W,2.0,0.0,3.0,Fulham,1.8,0.5,71.0,53128.0,Virgil van Dijk,4-2-3-1,Paul Tierney
+2018-11-11,53,Sadio Mané,Liverpool,0.08,,Off Target,8.0,Head,,12:00,Matchweek 12,Sun,Home,W,2.0,0.0,3.0,Fulham,1.8,0.5,71.0,53128.0,Virgil van Dijk,4-2-3-1,Paul Tierney
+2018-11-11,53,Xherdan Shaqiri,Liverpool,0.16,0.49,Goal,7.0,Left Foot,Volley,12:00,Matchweek 12,Sun,Home,W,2.0,0.0,3.0,Fulham,1.8,0.5,71.0,53128.0,Virgil van Dijk,4-2-3-1,Paul Tierney
+2018-11-11,59,Virgil van Dijk,Liverpool,0.06,,Blocked,30.0,Right Foot,Free kick,12:00,Matchweek 12,Sun,Home,W,2.0,0.0,3.0,Fulham,1.8,0.5,71.0,53128.0,Virgil van Dijk,4-2-3-1,Paul Tierney
+2018-11-11,62,Andrew Robertson,Liverpool,0.05,0.18,Saved,16.0,Left Foot,,12:00,Matchweek 12,Sun,Home,W,2.0,0.0,3.0,Fulham,1.8,0.5,71.0,53128.0,Virgil van Dijk,4-2-3-1,Paul Tierney
+2018-11-11,68,Trent Alexander-Arnold,Liverpool,0.14,,Blocked,21.0,Right Foot,Free kick,12:00,Matchweek 12,Sun,Home,W,2.0,0.0,3.0,Fulham,1.8,0.5,71.0,53128.0,Virgil van Dijk,4-2-3-1,Paul Tierney
+2018-11-11,81,Trent Alexander-Arnold,Liverpool,0.03,,Off Target,27.0,Right Foot,,12:00,Matchweek 12,Sun,Home,W,2.0,0.0,3.0,Fulham,1.8,0.5,71.0,53128.0,Virgil van Dijk,4-2-3-1,Paul Tierney
+2018-11-11,90,Roberto Firmino,Liverpool,0.02,0.02,Saved,19.0,Right Foot,,12:00,Matchweek 12,Sun,Home,W,2.0,0.0,3.0,Fulham,1.8,0.5,71.0,53128.0,Virgil van Dijk,4-2-3-1,Paul Tierney
+2018-11-11,90,Mohamed Salah,Liverpool,0.05,,Blocked,14.0,Left Foot,,12:00,Matchweek 12,Sun,Home,W,2.0,0.0,3.0,Fulham,1.8,0.5,71.0,53128.0,Virgil van Dijk,4-2-3-1,Paul Tierney
+2018-11-24,39,Roberto Firmino,Liverpool,0.03,0.22,Saved,19.0,Right Foot,,15:00,Matchweek 13,Sat,Away,W,3.0,0.0,3.0,Watford,1.2,0.4,63.0,20540.0,Jordan Henderson,4-2-3-1,Jonathan Moss
+2018-11-24,41,Sadio Mané,Liverpool,0.08,0.05,Saved,12.0,Right Foot,Volley,15:00,Matchweek 13,Sat,Away,W,3.0,0.0,3.0,Watford,1.2,0.4,63.0,20540.0,Jordan Henderson,4-2-3-1,Jonathan Moss
+2018-11-24,42,Mohamed Salah,Liverpool,0.05,0.22,Saved,10.0,Head,,15:00,Matchweek 13,Sat,Away,W,3.0,0.0,3.0,Watford,1.2,0.4,63.0,20540.0,Jordan Henderson,4-2-3-1,Jonathan Moss
+2018-11-24,53,Roberto Firmino,Liverpool,0.06,,Off Target,15.0,Right Foot,Volley,15:00,Matchweek 13,Sat,Away,W,3.0,0.0,3.0,Watford,1.2,0.4,63.0,20540.0,Jordan Henderson,4-2-3-1,Jonathan Moss
+2018-11-24,60,Xherdan Shaqiri,Liverpool,0.03,,Off Target,27.0,Left Foot,,15:00,Matchweek 13,Sat,Away,W,3.0,0.0,3.0,Watford,1.2,0.4,63.0,20540.0,Jordan Henderson,4-2-3-1,Jonathan Moss
+2018-11-24,67,Mohamed Salah,Liverpool,0.12,0.07,Goal,10.0,Left Foot,Volley,15:00,Matchweek 13,Sat,Away,W,3.0,0.0,3.0,Watford,1.2,0.4,63.0,20540.0,Jordan Henderson,4-2-3-1,Jonathan Moss
+2018-11-24,76,Trent Alexander-Arnold,Liverpool,0.06,0.42,Goal,32.0,Right Foot,Free kick,15:00,Matchweek 13,Sat,Away,W,3.0,0.0,3.0,Watford,1.2,0.4,63.0,20540.0,Jordan Henderson,4-2-3-1,Jonathan Moss
+2018-11-24,79,Jordan Henderson,Liverpool,0.02,,Off Target,24.0,Right Foot,,15:00,Matchweek 13,Sat,Away,W,3.0,0.0,3.0,Watford,1.2,0.4,63.0,20540.0,Jordan Henderson,4-2-3-1,Jonathan Moss
+2018-11-24,89,Sadio Mané,Liverpool,0.41,0.47,Saved,14.0,Right Foot,,15:00,Matchweek 13,Sat,Away,W,3.0,0.0,3.0,Watford,1.2,0.4,63.0,20540.0,Jordan Henderson,4-2-3-1,Jonathan Moss
+2018-11-24,89,Roberto Firmino,Liverpool,0.56,0.92,Goal,5.0,Head,,15:00,Matchweek 13,Sat,Away,W,3.0,0.0,3.0,Watford,1.2,0.4,63.0,20540.0,Jordan Henderson,4-2-3-1,Jonathan Moss
+2018-11-28,22,Mohamed Salah,Liverpool,0.04,,Off Target,20.0,Left Foot,,,,,,,,,,,,,,,,,
+2018-11-28,26,Georginio Wijnaldum,Liverpool,0.05,,Blocked,17.0,Right Foot,,,,,,,,,,,,,,,,,
+2018-11-28,30,Roberto Firmino,Liverpool,0.12,,Off Target,5.0,Head,,,,,,,,,,,,,,,,,
+2018-11-28,44,Mohamed Salah,Liverpool,0.12,,Off Target,10.0,Left Foot,,,,,,,,,,,,,,,,,
+2018-11-28,45,James Milner,Liverpool,0.79,0.99,Goal,13.0,Right Foot,,,,,,,,,,,,,,,,,
+2018-11-28,60,Mohamed Salah,Liverpool,0.06,,Blocked,16.0,Left Foot,,,,,,,,,,,,,,,,,
+2018-11-28,60,Roberto Firmino,Liverpool,0.06,,Off Target,10.0,Head,,,,,,,,,,,,,,,,,
+2018-11-28,61,Mohamed Salah,Liverpool,0.03,,Blocked,25.0,Left Foot,Volley,,,,,,,,,,,,,,,,
+2018-12-02,12,Sadio Mané,Liverpool,0.38,,Off Target,13.0,Left Foot,Volley,16:15,Matchweek 14,Sun,Home,W,1.0,0.0,3.0,Everton,2.9,1.1,58.0,51756.0,Virgil van Dijk,4-2-3-1,Chris Kavanagh
+2018-12-02,13,Sadio Mané,Liverpool,0.05,,Blocked,14.0,Left Foot,,16:15,Matchweek 14,Sun,Home,W,1.0,0.0,3.0,Everton,2.9,1.1,58.0,51756.0,Virgil van Dijk,4-2-3-1,Chris Kavanagh
+2018-12-02,19,Roberto Firmino,Liverpool,0.07,,Off Target,16.0,Left Foot,,16:15,Matchweek 14,Sun,Home,W,1.0,0.0,3.0,Everton,2.9,1.1,58.0,51756.0,Virgil van Dijk,4-2-3-1,Chris Kavanagh
+2018-12-02,29,Roberto Firmino,Liverpool,0.03,0.05,Saved,28.0,Right Foot,,16:15,Matchweek 14,Sun,Home,W,1.0,0.0,3.0,Everton,2.9,1.1,58.0,51756.0,Virgil van Dijk,4-2-3-1,Chris Kavanagh
+2018-12-02,34,Xherdan Shaqiri,Liverpool,0.47,0.55,Saved,10.0,Right Foot,,16:15,Matchweek 14,Sun,Home,W,1.0,0.0,3.0,Everton,2.9,1.1,58.0,51756.0,Virgil van Dijk,4-2-3-1,Chris Kavanagh
+2018-12-02,48,Mohamed Salah,Liverpool,0.03,,Off Target,27.0,Left Foot,,16:15,Matchweek 14,Sun,Home,W,1.0,0.0,3.0,Everton,2.9,1.1,58.0,51756.0,Virgil van Dijk,4-2-3-1,Chris Kavanagh
+2018-12-02,53,Sadio Mané,Liverpool,0.29,,Off Target,13.0,Left Foot,,16:15,Matchweek 14,Sun,Home,W,1.0,0.0,3.0,Everton,2.9,1.1,58.0,51756.0,Virgil van Dijk,4-2-3-1,Chris Kavanagh
+2018-12-02,57,Xherdan Shaqiri,Liverpool,0.04,,Blocked,24.0,Right Foot,,16:15,Matchweek 14,Sun,Home,W,1.0,0.0,3.0,Everton,2.9,1.1,58.0,51756.0,Virgil van Dijk,4-2-3-1,Chris Kavanagh
+2018-12-02,59,Sadio Mané,Liverpool,0.04,,Off Target,23.0,Right Foot,,16:15,Matchweek 14,Sun,Home,W,1.0,0.0,3.0,Everton,2.9,1.1,58.0,51756.0,Virgil van Dijk,4-2-3-1,Chris Kavanagh
+2018-12-02,81,Roberto Firmino,Liverpool,0.07,,Off Target,15.0,Left Foot,,16:15,Matchweek 14,Sun,Home,W,1.0,0.0,3.0,Everton,2.9,1.1,58.0,51756.0,Virgil van Dijk,4-2-3-1,Chris Kavanagh
+2018-12-02,87,Virgil van Dijk,Liverpool,0.08,,Off Target,9.0,Head,,16:15,Matchweek 14,Sun,Home,W,1.0,0.0,3.0,Everton,2.9,1.1,58.0,51756.0,Virgil van Dijk,4-2-3-1,Chris Kavanagh
+2018-12-02,87,Divock Origi,Liverpool,0.48,,Woodwork,3.0,Right Foot,Volley,16:15,Matchweek 14,Sun,Home,W,1.0,0.0,3.0,Everton,2.9,1.1,58.0,51756.0,Virgil van Dijk,4-2-3-1,Chris Kavanagh
+2018-12-02,87,Daniel Sturridge,Liverpool,0.03,,Blocked,20.0,Left Foot,Volley,16:15,Matchweek 14,Sun,Home,W,1.0,0.0,3.0,Everton,2.9,1.1,58.0,51756.0,Virgil van Dijk,4-2-3-1,Chris Kavanagh
+2018-12-02,90,Naby Keïta,Liverpool,0.04,,Off Target,22.0,Right Foot,,16:15,Matchweek 14,Sun,Home,W,1.0,0.0,3.0,Everton,2.9,1.1,58.0,51756.0,Virgil van Dijk,4-2-3-1,Chris Kavanagh
+2018-12-02,90,Virgil van Dijk,Liverpool,0.03,,Saved off Target,22.0,Right Foot,Volley,16:15,Matchweek 14,Sun,Home,W,1.0,0.0,3.0,Everton,2.9,1.1,58.0,51756.0,Virgil van Dijk,4-2-3-1,Chris Kavanagh
+2018-12-02,90,Divock Origi,Liverpool,0.88,0.99,Goal,2.0,Head,,16:15,Matchweek 14,Sun,Home,W,1.0,0.0,3.0,Everton,2.9,1.1,58.0,51756.0,Virgil van Dijk,4-2-3-1,Chris Kavanagh
+2018-12-05,29,Virgil van Dijk,Liverpool,0.05,0.07,Saved,12.0,Head,,19:45,Matchweek 15,Wed,Away,W,3.0,1.0,3.0,Burnley,2.4,0.9,73.0,21741.0,Jordan Henderson,4-4-2,Stuart Attwell
+2018-12-05,35,Naby Keïta,Liverpool,0.06,,Blocked,15.0,Right Foot,,19:45,Matchweek 15,Wed,Away,W,3.0,1.0,3.0,Burnley,2.4,0.9,73.0,21741.0,Jordan Henderson,4-4-2,Stuart Attwell
+2018-12-05,38,James Milner,Liverpool,0.08,,Blocked,15.0,Right Foot,,19:45,Matchweek 15,Wed,Away,W,3.0,1.0,3.0,Burnley,2.4,0.9,73.0,21741.0,Jordan Henderson,4-4-2,Stuart Attwell
+2018-12-05,39,Naby Keïta,Liverpool,0.06,0.08,Saved,15.0,Right Foot,Deflected,19:45,Matchweek 15,Wed,Away,W,3.0,1.0,3.0,Burnley,2.4,0.9,73.0,21741.0,Jordan Henderson,4-4-2,Stuart Attwell
+2018-12-05,47,Daniel Sturridge,Liverpool,0.03,0.19,Saved,26.0,Left Foot,,19:45,Matchweek 15,Wed,Away,W,3.0,1.0,3.0,Burnley,2.4,0.9,73.0,21741.0,Jordan Henderson,4-4-2,Stuart Attwell
+2018-12-05,52,Virgil van Dijk,Liverpool,0.09,,Blocked,8.0,Head,,19:45,Matchweek 15,Wed,Away,W,3.0,1.0,3.0,Burnley,2.4,0.9,73.0,21741.0,Jordan Henderson,4-4-2,Stuart Attwell
+2018-12-05,52,Naby Keïta,Liverpool,0.03,0.53,Saved,29.0,Left Foot,,19:45,Matchweek 15,Wed,Away,W,3.0,1.0,3.0,Burnley,2.4,0.9,73.0,21741.0,Jordan Henderson,4-4-2,Stuart Attwell
+2018-12-05,52,Virgil van Dijk,Liverpool,0.07,,Off Target,10.0,Head,,19:45,Matchweek 15,Wed,Away,W,3.0,1.0,3.0,Burnley,2.4,0.9,73.0,21741.0,Jordan Henderson,4-4-2,Stuart Attwell
+2018-12-05,58,Trent Alexander-Arnold,Liverpool,0.06,0.23,Saved,9.0,Right Foot,Volley,19:45,Matchweek 15,Wed,Away,W,3.0,1.0,3.0,Burnley,2.4,0.9,73.0,21741.0,Jordan Henderson,4-4-2,Stuart Attwell
+2018-12-05,62,James Milner,Liverpool,0.06,0.52,Goal,25.0,Right Foot,,19:45,Matchweek 15,Wed,Away,W,3.0,1.0,3.0,Burnley,2.4,0.9,73.0,21741.0,Jordan Henderson,4-4-2,Stuart Attwell
+2018-12-05,69,Roberto Firmino,Liverpool,0.84,0.96,Goal,2.0,Right Foot,,19:45,Matchweek 15,Wed,Away,W,3.0,1.0,3.0,Burnley,2.4,0.9,73.0,21741.0,Jordan Henderson,4-4-2,Stuart Attwell
+2018-12-05,82,Naby Keïta,Liverpool,0.03,0.05,Saved,25.0,Left Foot,,19:45,Matchweek 15,Wed,Away,W,3.0,1.0,3.0,Burnley,2.4,0.9,73.0,21741.0,Jordan Henderson,4-4-2,Stuart Attwell
+2018-12-05,82,Mohamed Salah,Liverpool,0.09,0.11,Saved,6.0,Right Foot,,19:45,Matchweek 15,Wed,Away,W,3.0,1.0,3.0,Burnley,2.4,0.9,73.0,21741.0,Jordan Henderson,4-4-2,Stuart Attwell
+2018-12-05,82,Naby Keïta,Liverpool,0.12,,Blocked,10.0,Right Foot,,19:45,Matchweek 15,Wed,Away,W,3.0,1.0,3.0,Burnley,2.4,0.9,73.0,21741.0,Jordan Henderson,4-4-2,Stuart Attwell
+2018-12-05,82,Jordan Henderson,Liverpool,0.03,,Off Target,23.0,Right Foot,,19:45,Matchweek 15,Wed,Away,W,3.0,1.0,3.0,Burnley,2.4,0.9,73.0,21741.0,Jordan Henderson,4-4-2,Stuart Attwell
+2018-12-05,82,Naby Keïta,Liverpool,0.17,,Blocked,8.0,Right Foot,,19:45,Matchweek 15,Wed,Away,W,3.0,1.0,3.0,Burnley,2.4,0.9,73.0,21741.0,Jordan Henderson,4-4-2,Stuart Attwell
+2018-12-05,86,Mohamed Salah,Liverpool,0.09,0.11,Saved,14.0,Right Foot,,19:45,Matchweek 15,Wed,Away,W,3.0,1.0,3.0,Burnley,2.4,0.9,73.0,21741.0,Jordan Henderson,4-4-2,Stuart Attwell
+2018-12-05,90,Xherdan Shaqiri,Liverpool,0.48,0.96,Goal,15.0,Left Foot,,19:45,Matchweek 15,Wed,Away,W,3.0,1.0,3.0,Burnley,2.4,0.9,73.0,21741.0,Jordan Henderson,4-4-2,Stuart Attwell
+2018-12-08,13,Xherdan Shaqiri,Liverpool,0.09,,Blocked,26.0,Left Foot,Free kick,12:30,Matchweek 16,Sat,Away,W,4.0,0.0,3.0,Bournemouth,1.6,0.3,59.0,10752.0,James Milner,4-4-2,Lee Mason
+2018-12-08,14,Mohamed Salah,Liverpool,0.09,,Off Target,8.0,Right Foot,,12:30,Matchweek 16,Sat,Away,W,4.0,0.0,3.0,Bournemouth,1.6,0.3,59.0,10752.0,James Milner,4-4-2,Lee Mason
+2018-12-08,19,Fabinho,Liverpool,0.03,,Off Target,29.0,Right Foot,,12:30,Matchweek 16,Sat,Away,W,4.0,0.0,3.0,Bournemouth,1.6,0.3,59.0,10752.0,James Milner,4-4-2,Lee Mason
+2018-12-08,20,Naby Keïta,Liverpool,0.05,,Blocked,16.0,Left Foot,Volley,12:30,Matchweek 16,Sat,Away,W,4.0,0.0,3.0,Bournemouth,1.6,0.3,59.0,10752.0,James Milner,4-4-2,Lee Mason
+2018-12-08,25,Roberto Firmino,Liverpool,0.03,0.04,Saved,31.0,Left Foot,Volley,12:30,Matchweek 16,Sat,Away,W,4.0,0.0,3.0,Bournemouth,1.6,0.3,59.0,10752.0,James Milner,4-4-2,Lee Mason
+2018-12-08,25,Mohamed Salah,Liverpool,0.37,0.44,Goal,11.0,Left Foot,,12:30,Matchweek 16,Sat,Away,W,4.0,0.0,3.0,Bournemouth,1.6,0.3,59.0,10752.0,James Milner,4-4-2,Lee Mason
+2018-12-08,48,Mohamed Salah,Liverpool,0.13,0.73,Goal,15.0,Left Foot,Deflected,12:30,Matchweek 16,Sat,Away,W,4.0,0.0,3.0,Bournemouth,1.6,0.3,59.0,10752.0,James Milner,4-4-2,Lee Mason
+2018-12-08,77,Mohamed Salah,Liverpool,0.72,0.97,Goal,6.0,Left Foot,,12:30,Matchweek 16,Sat,Away,W,4.0,0.0,3.0,Bournemouth,1.6,0.3,59.0,10752.0,James Milner,4-4-2,Lee Mason
+2018-12-08,85,James Milner,Liverpool,0.03,,Off Target,27.0,Right Foot,,12:30,Matchweek 16,Sat,Away,W,4.0,0.0,3.0,Bournemouth,1.6,0.3,59.0,10752.0,James Milner,4-4-2,Lee Mason
+2018-12-08,86,Georginio Wijnaldum,Liverpool,0.05,,Off Target,11.0,Head,,12:30,Matchweek 16,Sat,Away,W,4.0,0.0,3.0,Bournemouth,1.6,0.3,59.0,10752.0,James Milner,4-4-2,Lee Mason
+2018-12-11,9,James Milner,Liverpool,0.06,,Off Target,9.0,Head,,,,,,,,,,,,,,,,,
+2018-12-11,16,Roberto Firmino,Liverpool,0.03,,Blocked,28.0,Left Foot,,,,,,,,,,,,,,,,,
+2018-12-11,18,Jordan Henderson,Liverpool,0.03,,Off Target,23.0,Left Foot,Volley,,,,,,,,,,,,,,,,
+2018-12-11,26,Roberto Firmino,Liverpool,0.1,,Blocked,15.0,Left Foot,,,,,,,,,,,,,,,,,
+2018-12-11,32,Jordan Henderson,Liverpool,0.03,,Off Target,25.0,Left Foot,,,,,,,,,,,,,,,,,
+2018-12-11,34,Mohamed Salah,Liverpool,0.15,0.15,Goal,6.0,Right Foot,,,,,,,,,,,,,,,,,
+2018-12-11,41,Trent Alexander-Arnold,Liverpool,0.03,,Off Target,22.0,Right Foot,,,,,,,,,,,,,,,,,
+2018-12-11,48,Georginio Wijnaldum,Liverpool,0.08,,Off Target,14.0,Right Foot,Volley,,,,,,,,,,,,,,,,
+2018-12-11,50,Mohamed Salah,Liverpool,0.09,,Off Target,11.0,Left Foot,,,,,,,,,,,,,,,,,
+2018-12-11,56,Mohamed Salah,Liverpool,0.04,,Blocked,25.0,Left Foot,,,,,,,,,,,,,,,,,
+2018-12-11,57,Roberto Firmino,Liverpool,0.03,0.02,Saved,18.0,Head,,,,,,,,,,,,,,,,,
+2018-12-11,58,Virgil van Dijk,Liverpool,0.02,,Off Target,39.0,Right Foot,,,,,,,,,,,,,,,,,
+2018-12-11,61,Jordan Henderson,Liverpool,0.03,0.37,Saved,30.0,Right Foot,Volley,,,,,,,,,,,,,,,,
+2018-12-11,62,James Milner,Liverpool,0.05,,Off Target,17.0,Right Foot,,,,,,,,,,,,,,,,,
+2018-12-11,69,Trent Alexander-Arnold,Liverpool,0.03,,Blocked,29.0,Right Foot,,,,,,,,,,,,,,,,,
+2018-12-11,74,Mohamed Salah,Liverpool,0.08,0.34,Saved,16.0,Right Foot,,,,,,,,,,,,,,,,,
+2018-12-11,77,Sadio Mané,Liverpool,0.57,0.55,Saved,10.0,Left Foot,,,,,,,,,,,,,,,,,
+2018-12-11,78,Virgil van Dijk,Liverpool,0.37,,Off Target,8.0,Right Foot,Volley,,,,,,,,,,,,,,,,
+2018-12-11,82,Georginio Wijnaldum,Liverpool,0.07,,Off Target,10.0,Head,,,,,,,,,,,,,,,,,
+2018-12-11,83,Georginio Wijnaldum,Liverpool,0.07,,Blocked,15.0,Left Foot,,,,,,,,,,,,,,,,,
+2018-12-11,85,Georginio Wijnaldum,Liverpool,0.06,,Off Target,16.0,Right Foot,,,,,,,,,,,,,,,,,
+2018-12-11,87,Sadio Mané,Liverpool,0.5,,Off Target,9.0,Left Foot,,,,,,,,,,,,,,,,,
+2018-12-11,90,Sadio Mané,Liverpool,0.65,,Off Target,13.0,Right Foot,,,,,,,,,,,,,,,,,
+2018-12-16,2,Roberto Firmino,Liverpool,0.04,,Blocked,17.0,Right Foot,,16:00,Matchweek 17,Sun,Home,W,3.0,1.0,3.0,Manchester Utd,2.5,0.7,64.0,52908.0,Virgil van Dijk,4-4-1-1,Martin Atkinson
+2018-12-16,6,Roberto Firmino,Liverpool,0.1,,Off Target,8.0,Head,,16:00,Matchweek 17,Sun,Home,W,3.0,1.0,3.0,Manchester Utd,2.5,0.7,64.0,52908.0,Virgil van Dijk,4-4-1-1,Martin Atkinson
+2018-12-16,7,Roberto Firmino,Liverpool,0.03,0.21,Saved,28.0,Left Foot,,16:00,Matchweek 17,Sun,Home,W,3.0,1.0,3.0,Manchester Utd,2.5,0.7,64.0,52908.0,Virgil van Dijk,4-4-1-1,Martin Atkinson
+2018-12-16,9,Fabinho,Liverpool,0.03,0.29,Saved,25.0,Right Foot,,16:00,Matchweek 17,Sun,Home,W,3.0,1.0,3.0,Manchester Utd,2.5,0.7,64.0,52908.0,Virgil van Dijk,4-4-1-1,Martin Atkinson
+2018-12-16,10,Roberto Firmino,Liverpool,0.17,,Blocked,8.0,Left Foot,"Deflected, Volley",16:00,Matchweek 17,Sun,Home,W,3.0,1.0,3.0,Manchester Utd,2.5,0.7,64.0,52908.0,Virgil van Dijk,4-4-1-1,Martin Atkinson
+2018-12-16,10,Andrew Robertson,Liverpool,0.02,,Off Target,20.0,Left Foot,,16:00,Matchweek 17,Sun,Home,W,3.0,1.0,3.0,Manchester Utd,2.5,0.7,64.0,52908.0,Virgil van Dijk,4-4-1-1,Martin Atkinson
+2018-12-16,10,Virgil van Dijk,Liverpool,0.06,,Blocked,13.0,Right Foot,,16:00,Matchweek 17,Sun,Home,W,3.0,1.0,3.0,Manchester Utd,2.5,0.7,64.0,52908.0,Virgil van Dijk,4-4-1-1,Martin Atkinson
+2018-12-16,11,Mohamed Salah,Liverpool,0.03,,Blocked,23.0,Left Foot,,16:00,Matchweek 17,Sun,Home,W,3.0,1.0,3.0,Manchester Utd,2.5,0.7,64.0,52908.0,Virgil van Dijk,4-4-1-1,Martin Atkinson
+2018-12-16,12,Fabinho,Liverpool,0.03,,Off Target,30.0,Right Foot,,16:00,Matchweek 17,Sun,Home,W,3.0,1.0,3.0,Manchester Utd,2.5,0.7,64.0,52908.0,Virgil van Dijk,4-4-1-1,Martin Atkinson
+2018-12-16,14,Roberto Firmino,Liverpool,0.03,,Off Target,28.0,Left Foot,,16:00,Matchweek 17,Sun,Home,W,3.0,1.0,3.0,Manchester Utd,2.5,0.7,64.0,52908.0,Virgil van Dijk,4-4-1-1,Martin Atkinson
+2018-12-16,24,Sadio Mané,Liverpool,0.5,0.82,Goal,9.0,Left Foot,Volley,16:00,Matchweek 17,Sun,Home,W,3.0,1.0,3.0,Manchester Utd,2.5,0.7,64.0,52908.0,Virgil van Dijk,4-4-1-1,Martin Atkinson
+2018-12-16,27,Dejan Lovren,Liverpool,0.35,,Off Target,7.0,Right Foot,,16:00,Matchweek 17,Sun,Home,W,3.0,1.0,3.0,Manchester Utd,2.5,0.7,64.0,52908.0,Virgil van Dijk,4-4-1-1,Martin Atkinson
+2018-12-16,27,Roberto Firmino,Liverpool,0.05,,Blocked,14.0,Left Foot,,16:00,Matchweek 17,Sun,Home,W,3.0,1.0,3.0,Manchester Utd,2.5,0.7,64.0,52908.0,Virgil van Dijk,4-4-1-1,Martin Atkinson
+2018-12-16,37,Sadio Mané,Liverpool,0.04,0.14,Saved,22.0,Left Foot,,16:00,Matchweek 17,Sun,Home,W,3.0,1.0,3.0,Manchester Utd,2.5,0.7,64.0,52908.0,Virgil van Dijk,4-4-1-1,Martin Atkinson
+2018-12-16,45,Fabinho,Liverpool,0.03,,Blocked,30.0,Right Foot,,16:00,Matchweek 17,Sun,Home,W,3.0,1.0,3.0,Manchester Utd,2.5,0.7,64.0,52908.0,Virgil van Dijk,4-4-1-1,Martin Atkinson
+2018-12-16,48,Mohamed Salah,Liverpool,0.05,,Blocked,21.0,Left Foot,,16:00,Matchweek 17,Sun,Home,W,3.0,1.0,3.0,Manchester Utd,2.5,0.7,64.0,52908.0,Virgil van Dijk,4-4-1-1,Martin Atkinson
+2018-12-16,51,Fabinho,Liverpool,0.09,,Blocked,8.0,Head,,16:00,Matchweek 17,Sun,Home,W,3.0,1.0,3.0,Manchester Utd,2.5,0.7,64.0,52908.0,Virgil van Dijk,4-4-1-1,Martin Atkinson
+2018-12-16,52,Roberto Firmino,Liverpool,0.1,0.19,Saved,14.0,Right Foot,,16:00,Matchweek 17,Sun,Home,W,3.0,1.0,3.0,Manchester Utd,2.5,0.7,64.0,52908.0,Virgil van Dijk,4-4-1-1,Martin Atkinson
+2018-12-16,52,Naby Keïta,Liverpool,0.09,,Blocked,6.0,Right Foot,,16:00,Matchweek 17,Sun,Home,W,3.0,1.0,3.0,Manchester Utd,2.5,0.7,64.0,52908.0,Virgil van Dijk,4-4-1-1,Martin Atkinson
+2018-12-16,56,Nathaniel Clyne,Liverpool,0.02,,Blocked,34.0,Right Foot,,16:00,Matchweek 17,Sun,Home,W,3.0,1.0,3.0,Manchester Utd,2.5,0.7,64.0,52908.0,Virgil van Dijk,4-4-1-1,Martin Atkinson
+2018-12-16,57,Nathaniel Clyne,Liverpool,0.01,,Off Target,31.0,Right Foot,,16:00,Matchweek 17,Sun,Home,W,3.0,1.0,3.0,Manchester Utd,2.5,0.7,64.0,52908.0,Virgil van Dijk,4-4-1-1,Martin Atkinson
+2018-12-16,59,Dejan Lovren,Liverpool,0.02,,Off Target,30.0,Right Foot,,16:00,Matchweek 17,Sun,Home,W,3.0,1.0,3.0,Manchester Utd,2.5,0.7,64.0,52908.0,Virgil van Dijk,4-4-1-1,Martin Atkinson
+2018-12-16,61,Virgil van Dijk,Liverpool,0.02,,Blocked,29.0,Right Foot,,16:00,Matchweek 17,Sun,Home,W,3.0,1.0,3.0,Manchester Utd,2.5,0.7,64.0,52908.0,Virgil van Dijk,4-4-1-1,Martin Atkinson
+2018-12-16,61,Roberto Firmino,Liverpool,0.06,,Blocked,14.0,Right Foot,,16:00,Matchweek 17,Sun,Home,W,3.0,1.0,3.0,Manchester Utd,2.5,0.7,64.0,52908.0,Virgil van Dijk,4-4-1-1,Martin Atkinson
+2018-12-16,62,Dejan Lovren,Liverpool,0.13,,Blocked,4.0,Head,,16:00,Matchweek 17,Sun,Home,W,3.0,1.0,3.0,Manchester Utd,2.5,0.7,64.0,52908.0,Virgil van Dijk,4-4-1-1,Martin Atkinson
+2018-12-16,63,Virgil van Dijk,Liverpool,0.07,,Blocked,16.0,Left Foot,,16:00,Matchweek 17,Sun,Home,W,3.0,1.0,3.0,Manchester Utd,2.5,0.7,64.0,52908.0,Virgil van Dijk,4-4-1-1,Martin Atkinson
+2018-12-16,69,Sadio Mané,Liverpool,0.03,,Blocked,22.0,Left Foot,,16:00,Matchweek 17,Sun,Home,W,3.0,1.0,3.0,Manchester Utd,2.5,0.7,64.0,52908.0,Virgil van Dijk,4-4-1-1,Martin Atkinson
+2018-12-16,69,Georginio Wijnaldum,Liverpool,0.03,0.04,Saved,24.0,Right Foot,,16:00,Matchweek 17,Sun,Home,W,3.0,1.0,3.0,Manchester Utd,2.5,0.7,64.0,52908.0,Virgil van Dijk,4-4-1-1,Martin Atkinson
+2018-12-16,71,Fabinho,Liverpool,0.02,0.04,Saved,33.0,Right Foot,,16:00,Matchweek 17,Sun,Home,W,3.0,1.0,3.0,Manchester Utd,2.5,0.7,64.0,52908.0,Virgil van Dijk,4-4-1-1,Martin Atkinson
+2018-12-16,73,Xherdan Shaqiri,Liverpool,0.06,0.4,Goal,14.0,Right Foot,Deflected,16:00,Matchweek 17,Sun,Home,W,3.0,1.0,3.0,Manchester Utd,2.5,0.7,64.0,52908.0,Virgil van Dijk,4-4-1-1,Martin Atkinson
+2018-12-16,75,Georginio Wijnaldum,Liverpool,0.05,,Off Target,24.0,Left Foot,,16:00,Matchweek 17,Sun,Home,W,3.0,1.0,3.0,Manchester Utd,2.5,0.7,64.0,52908.0,Virgil van Dijk,4-4-1-1,Martin Atkinson
+2018-12-16,80,Xherdan Shaqiri,Liverpool,0.04,0.16,Goal,22.0,Left Foot,Deflected,16:00,Matchweek 17,Sun,Home,W,3.0,1.0,3.0,Manchester Utd,2.5,0.7,64.0,52908.0,Virgil van Dijk,4-4-1-1,Martin Atkinson
+2018-12-16,83,Georginio Wijnaldum,Liverpool,0.04,0.02,Saved,22.0,Right Foot,,16:00,Matchweek 17,Sun,Home,W,3.0,1.0,3.0,Manchester Utd,2.5,0.7,64.0,52908.0,Virgil van Dijk,4-4-1-1,Martin Atkinson
+2018-12-16,90,Jordan Henderson,Liverpool,0.06,,Off Target,17.0,Left Foot,,16:00,Matchweek 17,Sun,Home,W,3.0,1.0,3.0,Manchester Utd,2.5,0.7,64.0,52908.0,Virgil van Dijk,4-4-1-1,Martin Atkinson
+2018-12-16,90,Roberto Firmino,Liverpool,0.04,,Off Target,17.0,Right Foot,,16:00,Matchweek 17,Sun,Home,W,3.0,1.0,3.0,Manchester Utd,2.5,0.7,64.0,52908.0,Virgil van Dijk,4-4-1-1,Martin Atkinson
+2018-12-16,90,Mohamed Salah,Liverpool,0.04,,Off Target,24.0,Left Foot,,16:00,Matchweek 17,Sun,Home,W,3.0,1.0,3.0,Manchester Utd,2.5,0.7,64.0,52908.0,Virgil van Dijk,4-4-1-1,Martin Atkinson
+2018-12-21,3,Roberto Firmino,Liverpool,0.07,,Blocked,20.0,Left Foot,,20:00,Matchweek 18,Fri,Away,W,2.0,0.0,3.0,Wolves,1.9,0.9,61.0,31358.0,Jordan Henderson,4-2-3-1,Craig Pawson
+2018-12-21,12,Roberto Firmino,Liverpool,0.03,,Blocked,24.0,Right Foot,,20:00,Matchweek 18,Fri,Away,W,2.0,0.0,3.0,Wolves,1.9,0.9,61.0,31358.0,Jordan Henderson,4-2-3-1,Craig Pawson
+2018-12-21,13,Virgil van Dijk,Liverpool,0.04,,Blocked,15.0,Right Foot,,20:00,Matchweek 18,Fri,Away,W,2.0,0.0,3.0,Wolves,1.9,0.9,61.0,31358.0,Jordan Henderson,4-2-3-1,Craig Pawson
+2018-12-21,18,Mohamed Salah,Liverpool,0.19,0.23,Goal,8.0,Left Foot,,20:00,Matchweek 18,Fri,Away,W,2.0,0.0,3.0,Wolves,1.9,0.9,61.0,31358.0,Jordan Henderson,4-2-3-1,Craig Pawson
+2018-12-21,26,James Milner,Liverpool,0.03,0.07,Saved,23.0,Left Foot,,20:00,Matchweek 18,Fri,Away,W,2.0,0.0,3.0,Wolves,1.9,0.9,61.0,31358.0,Jordan Henderson,4-2-3-1,Craig Pawson
+2018-12-21,48,Mohamed Salah,Liverpool,0.04,,Off Target,18.0,Left Foot,Volley,20:00,Matchweek 18,Fri,Away,W,2.0,0.0,3.0,Wolves,1.9,0.9,61.0,31358.0,Jordan Henderson,4-2-3-1,Craig Pawson
+2018-12-21,52,Naby Keïta,Liverpool,0.03,,Blocked,26.0,Right Foot,,20:00,Matchweek 18,Fri,Away,W,2.0,0.0,3.0,Wolves,1.9,0.9,61.0,31358.0,Jordan Henderson,4-2-3-1,Craig Pawson
+2018-12-21,53,Naby Keïta,Liverpool,0.03,,Blocked,25.0,Right Foot,,20:00,Matchweek 18,Fri,Away,W,2.0,0.0,3.0,Wolves,1.9,0.9,61.0,31358.0,Jordan Henderson,4-2-3-1,Craig Pawson
+2018-12-21,55,James Milner,Liverpool,0.05,,Off Target,24.0,Left Foot,,20:00,Matchweek 18,Fri,Away,W,2.0,0.0,3.0,Wolves,1.9,0.9,61.0,31358.0,Jordan Henderson,4-2-3-1,Craig Pawson
+2018-12-21,67,Adam Lallana,Liverpool,0.09,0.11,Saved,11.0,Left Foot,Deflected,20:00,Matchweek 18,Fri,Away,W,2.0,0.0,3.0,Wolves,1.9,0.9,61.0,31358.0,Jordan Henderson,4-2-3-1,Craig Pawson
+2018-12-21,68,Virgil van Dijk,Liverpool,0.18,0.51,Goal,8.0,Left Foot,Volley,20:00,Matchweek 18,Fri,Away,W,2.0,0.0,3.0,Wolves,1.9,0.9,61.0,31358.0,Jordan Henderson,4-2-3-1,Craig Pawson
+2018-12-21,84,Mohamed Salah,Liverpool,0.34,0.42,Saved,7.0,Left Foot,,20:00,Matchweek 18,Fri,Away,W,2.0,0.0,3.0,Wolves,1.9,0.9,61.0,31358.0,Jordan Henderson,4-2-3-1,Craig Pawson
+2018-12-21,85,Sadio Mané,Liverpool,0.07,,Off Target,10.0,Head,,20:00,Matchweek 18,Fri,Away,W,2.0,0.0,3.0,Wolves,1.9,0.9,61.0,31358.0,Jordan Henderson,4-2-3-1,Craig Pawson
+2018-12-21,90,Mohamed Salah,Liverpool,0.49,0.48,Saved,6.0,Left Foot,,20:00,Matchweek 18,Fri,Away,W,2.0,0.0,3.0,Wolves,1.9,0.9,61.0,31358.0,Jordan Henderson,4-2-3-1,Craig Pawson
+2018-12-21,90,Georginio Wijnaldum,Liverpool,0.28,,Off Target,15.0,Right Foot,,20:00,Matchweek 18,Fri,Away,W,2.0,0.0,3.0,Wolves,1.9,0.9,61.0,31358.0,Jordan Henderson,4-2-3-1,Craig Pawson
+2018-12-26,10,Xherdan Shaqiri,Liverpool,0.4,,Off Target,10.0,Left Foot,,15:00,Matchweek 19,Wed,Home,W,4.0,0.0,3.0,Newcastle Utd,2.9,0.5,74.0,53318.0,Jordan Henderson,4-2-3-1,Graham Scott
+2018-12-26,11,Xherdan Shaqiri,Liverpool,0.05,,Blocked,16.0,Left Foot,,15:00,Matchweek 19,Wed,Home,W,4.0,0.0,3.0,Newcastle Utd,2.9,0.5,74.0,53318.0,Jordan Henderson,4-2-3-1,Graham Scott
+2018-12-26,11,Dejan Lovren,Liverpool,0.05,0.28,Goal,15.0,Right Foot,Volley,15:00,Matchweek 19,Wed,Home,W,4.0,0.0,3.0,Newcastle Utd,2.9,0.5,74.0,53318.0,Jordan Henderson,4-2-3-1,Graham Scott
+2018-12-26,22,Xherdan Shaqiri,Liverpool,0.02,,Off Target,30.0,Left Foot,Volley,15:00,Matchweek 19,Wed,Home,W,4.0,0.0,3.0,Newcastle Utd,2.9,0.5,74.0,53318.0,Jordan Henderson,4-2-3-1,Graham Scott
+2018-12-26,41,Virgil van Dijk,Liverpool,0.15,0.09,Saved,6.0,Head,,15:00,Matchweek 19,Wed,Home,W,4.0,0.0,3.0,Newcastle Utd,2.9,0.5,74.0,53318.0,Jordan Henderson,4-2-3-1,Graham Scott
+2018-12-26,42,Jordan Henderson,Liverpool,0.03,,Off Target,29.0,Right Foot,,15:00,Matchweek 19,Wed,Home,W,4.0,0.0,3.0,Newcastle Utd,2.9,0.5,74.0,53318.0,Jordan Henderson,4-2-3-1,Graham Scott
+2018-12-26,44,Xherdan Shaqiri,Liverpool,0.06,0.2,Saved,28.0,Left Foot,"Free kick, Deflected",15:00,Matchweek 19,Wed,Home,W,4.0,0.0,3.0,Newcastle Utd,2.9,0.5,74.0,53318.0,Jordan Henderson,4-2-3-1,Graham Scott
+2018-12-26,48,Mohamed Salah,Liverpool,0.79,0.99,Goal,13.0,Left Foot,,15:00,Matchweek 19,Wed,Home,W,4.0,0.0,3.0,Newcastle Utd,2.9,0.5,74.0,53318.0,Jordan Henderson,4-2-3-1,Graham Scott
+2018-12-26,65,Sadio Mané,Liverpool,0.1,,Blocked,12.0,Right Foot,Volley,15:00,Matchweek 19,Wed,Home,W,4.0,0.0,3.0,Newcastle Utd,2.9,0.5,74.0,53318.0,Jordan Henderson,4-2-3-1,Graham Scott
+2018-12-26,67,Roberto Firmino,Liverpool,0.06,0.16,Saved,9.0,Right Foot,,15:00,Matchweek 19,Wed,Home,W,4.0,0.0,3.0,Newcastle Utd,2.9,0.5,74.0,53318.0,Jordan Henderson,4-2-3-1,Graham Scott
+2018-12-26,79,Sadio Mané,Liverpool,0.13,,Blocked,6.0,Right Foot,,15:00,Matchweek 19,Wed,Home,W,4.0,0.0,3.0,Newcastle Utd,2.9,0.5,74.0,53318.0,Jordan Henderson,4-2-3-1,Graham Scott
+2018-12-26,79,Xherdan Shaqiri,Liverpool,0.61,0.96,Goal,6.0,Left Foot,,15:00,Matchweek 19,Wed,Home,W,4.0,0.0,3.0,Newcastle Utd,2.9,0.5,74.0,53318.0,Jordan Henderson,4-2-3-1,Graham Scott
+2018-12-26,85,Fabinho,Liverpool,0.41,0.63,Goal,3.0,Head,,15:00,Matchweek 19,Wed,Home,W,4.0,0.0,3.0,Newcastle Utd,2.9,0.5,74.0,53318.0,Jordan Henderson,4-2-3-1,Graham Scott
+2018-12-26,88,Sadio Mané,Liverpool,0.08,,Off Target,18.0,Right Foot,,15:00,Matchweek 19,Wed,Home,W,4.0,0.0,3.0,Newcastle Utd,2.9,0.5,74.0,53318.0,Jordan Henderson,4-2-3-1,Graham Scott
+2018-12-26,90,Daniel Sturridge,Liverpool,0.05,,Blocked,7.0,Head,,15:00,Matchweek 19,Wed,Home,W,4.0,0.0,3.0,Newcastle Utd,2.9,0.5,74.0,53318.0,Jordan Henderson,4-2-3-1,Graham Scott
+2018-12-26,90,Nathaniel Clyne,Liverpool,0.04,0.02,Saved,19.0,Right Foot,Deflected,15:00,Matchweek 19,Wed,Home,W,4.0,0.0,3.0,Newcastle Utd,2.9,0.5,74.0,53318.0,Jordan Henderson,4-2-3-1,Graham Scott
+2018-12-29,6,Roberto Firmino,Liverpool,0.04,,Blocked,17.0,Left Foot,,17:30,Matchweek 20,Sat,Home,W,5.0,1.0,3.0,Arsenal,3.8,1.0,48.0,53326.0,Virgil van Dijk,4-2-3-1,Michael Oliver
+2018-12-29,6,Mohamed Salah,Liverpool,0.15,,Off Target,5.0,Left Foot,,17:30,Matchweek 20,Sat,Home,W,5.0,1.0,3.0,Arsenal,3.8,1.0,48.0,53326.0,Virgil van Dijk,4-2-3-1,Michael Oliver
+2018-12-29,14,Roberto Firmino,Liverpool,0.92,0.98,Goal,2.0,Right Foot,,17:30,Matchweek 20,Sat,Home,W,5.0,1.0,3.0,Arsenal,3.8,1.0,48.0,53326.0,Virgil van Dijk,4-2-3-1,Michael Oliver
+2018-12-29,16,Roberto Firmino,Liverpool,0.37,0.86,Goal,15.0,Left Foot,,17:30,Matchweek 20,Sat,Home,W,5.0,1.0,3.0,Arsenal,3.8,1.0,48.0,53326.0,Virgil van Dijk,4-2-3-1,Michael Oliver
+2018-12-29,23,Sadio Mané,Liverpool,0.06,0.03,Saved,17.0,Right Foot,,17:30,Matchweek 20,Sat,Home,W,5.0,1.0,3.0,Arsenal,3.8,1.0,48.0,53326.0,Virgil van Dijk,4-2-3-1,Michael Oliver
+2018-12-29,32,Sadio Mané,Liverpool,0.46,0.8,Goal,8.0,Right Foot,,17:30,Matchweek 20,Sat,Home,W,5.0,1.0,3.0,Arsenal,3.8,1.0,48.0,53326.0,Virgil van Dijk,4-2-3-1,Michael Oliver
+2018-12-29,45,Mohamed Salah,Liverpool,0.79,0.86,Goal,13.0,Left Foot,,17:30,Matchweek 20,Sat,Home,W,5.0,1.0,3.0,Arsenal,3.8,1.0,48.0,53326.0,Virgil van Dijk,4-2-3-1,Michael Oliver
+2018-12-29,56,Roberto Firmino,Liverpool,0.03,0.02,Saved,24.0,Right Foot,,17:30,Matchweek 20,Sat,Home,W,5.0,1.0,3.0,Arsenal,3.8,1.0,48.0,53326.0,Virgil van Dijk,4-2-3-1,Michael Oliver
+2018-12-29,60,Trent Alexander-Arnold,Liverpool,0.03,,Blocked,25.0,Right Foot,,17:30,Matchweek 20,Sat,Home,W,5.0,1.0,3.0,Arsenal,3.8,1.0,48.0,53326.0,Virgil van Dijk,4-2-3-1,Michael Oliver
+2018-12-29,63,Fabinho,Liverpool,0.08,0.2,Saved,16.0,Right Foot,,17:30,Matchweek 20,Sat,Home,W,5.0,1.0,3.0,Arsenal,3.8,1.0,48.0,53326.0,Virgil van Dijk,4-2-3-1,Michael Oliver
+2018-12-29,65,Roberto Firmino,Liverpool,0.79,0.99,Goal,13.0,Right Foot,,17:30,Matchweek 20,Sat,Home,W,5.0,1.0,3.0,Arsenal,3.8,1.0,48.0,53326.0,Virgil van Dijk,4-2-3-1,Michael Oliver
+2018-12-29,74,Xherdan Shaqiri,Liverpool,0.03,0.07,Saved,28.0,Left Foot,,17:30,Matchweek 20,Sat,Home,W,5.0,1.0,3.0,Arsenal,3.8,1.0,48.0,53326.0,Virgil van Dijk,4-2-3-1,Michael Oliver
+2018-12-29,85,Jordan Henderson,Liverpool,0.02,,Off Target,34.0,Right Foot,Volley,17:30,Matchweek 20,Sat,Home,W,5.0,1.0,3.0,Arsenal,3.8,1.0,48.0,53326.0,Virgil van Dijk,4-2-3-1,Michael Oliver
+2018-12-29,89,Jordan Henderson,Liverpool,0.05,,Off Target,23.0,Right Foot,,17:30,Matchweek 20,Sat,Home,W,5.0,1.0,3.0,Arsenal,3.8,1.0,48.0,53326.0,Virgil van Dijk,4-2-3-1,Michael Oliver
+2018-12-29,90,Mohamed Salah,Liverpool,0.09,0.24,Saved,11.0,Left Foot,,17:30,Matchweek 20,Sat,Home,W,5.0,1.0,3.0,Arsenal,3.8,1.0,48.0,53326.0,Virgil van Dijk,4-2-3-1,Michael Oliver
+2019-01-03,18,Sadio Mané,Liverpool,0.35,,Woodwork,15.0,Right Foot,,20:00,Matchweek 21,Thu,Away,L,1.0,2.0,0.0,Manchester City,1.5,1.1,51.0,54511.0,Jordan Henderson,4-3-3,Anthony Taylor
+2019-01-03,20,Sadio Mané,Liverpool,0.09,0.09,Saved,11.0,Right Foot,,20:00,Matchweek 21,Thu,Away,L,1.0,2.0,0.0,Manchester City,1.5,1.1,51.0,54511.0,Jordan Henderson,4-3-3,Anthony Taylor
+2019-01-03,56,Trent Alexander-Arnold,Liverpool,0.04,,Off Target,18.0,Right Foot,,20:00,Matchweek 21,Thu,Away,L,1.0,2.0,0.0,Manchester City,1.5,1.1,51.0,54511.0,Jordan Henderson,4-3-3,Anthony Taylor
+2019-01-03,63,Roberto Firmino,Liverpool,0.06,0.27,Saved,13.0,Right Foot,,20:00,Matchweek 21,Thu,Away,L,1.0,2.0,0.0,Manchester City,1.5,1.1,51.0,54511.0,Jordan Henderson,4-3-3,Anthony Taylor
+2019-01-03,64,Roberto Firmino,Liverpool,0.77,0.96,Goal,3.0,Head,,20:00,Matchweek 21,Thu,Away,L,1.0,2.0,0.0,Manchester City,1.5,1.1,51.0,54511.0,Jordan Henderson,4-3-3,Anthony Taylor
+2019-01-03,84,Mohamed Salah,Liverpool,0.08,0.11,Saved,13.0,Left Foot,,20:00,Matchweek 21,Thu,Away,L,1.0,2.0,0.0,Manchester City,1.5,1.1,51.0,54511.0,Jordan Henderson,4-3-3,Anthony Taylor
+2019-01-03,85,Georginio Wijnaldum,Liverpool,0.1,,Blocked,6.0,Right Foot,Volley,20:00,Matchweek 21,Thu,Away,L,1.0,2.0,0.0,Manchester City,1.5,1.1,51.0,54511.0,Jordan Henderson,4-3-3,Anthony Taylor
+2019-01-12,9,Roberto Firmino,Liverpool,0.4,,Off Target,8.0,Right Foot,,15:00,Matchweek 22,Sat,Away,W,1.0,0.0,3.0,Brighton,2.0,0.4,70.0,30682.0,Jordan Henderson,4-2-3-1,Kevin Friend
+2019-01-12,24,Fabinho,Liverpool,0.08,,Off Target,8.0,Head,,15:00,Matchweek 22,Sat,Away,W,1.0,0.0,3.0,Brighton,2.0,0.4,70.0,30682.0,Jordan Henderson,4-2-3-1,Kevin Friend
+2019-01-12,27,Xherdan Shaqiri,Liverpool,0.08,,Off Target,9.0,Head,,15:00,Matchweek 22,Sat,Away,W,1.0,0.0,3.0,Brighton,2.0,0.4,70.0,30682.0,Jordan Henderson,4-2-3-1,Kevin Friend
+2019-01-12,35,Jordan Henderson,Liverpool,0.05,,Blocked,13.0,Head,,15:00,Matchweek 22,Sat,Away,W,1.0,0.0,3.0,Brighton,2.0,0.4,70.0,30682.0,Jordan Henderson,4-2-3-1,Kevin Friend
+2019-01-12,48,Mohamed Salah,Liverpool,0.04,0.05,Saved,16.0,Left Foot,,15:00,Matchweek 22,Sat,Away,W,1.0,0.0,3.0,Brighton,2.0,0.4,70.0,30682.0,Jordan Henderson,4-2-3-1,Kevin Friend
+2019-01-12,50,Mohamed Salah,Liverpool,0.79,0.99,Goal,13.0,Left Foot,,15:00,Matchweek 22,Sat,Away,W,1.0,0.0,3.0,Brighton,2.0,0.4,70.0,30682.0,Jordan Henderson,4-2-3-1,Kevin Friend
+2019-01-12,75,Roberto Firmino,Liverpool,0.04,0.02,Saved,22.0,Right Foot,,15:00,Matchweek 22,Sat,Away,W,1.0,0.0,3.0,Brighton,2.0,0.4,70.0,30682.0,Jordan Henderson,4-2-3-1,Kevin Friend
+2019-01-12,80,Georginio Wijnaldum,Liverpool,0.03,,Off Target,21.0,Left Foot,,15:00,Matchweek 22,Sat,Away,W,1.0,0.0,3.0,Brighton,2.0,0.4,70.0,30682.0,Jordan Henderson,4-2-3-1,Kevin Friend
+2019-01-12,87,Sadio Mané,Liverpool,0.06,,Blocked,16.0,Left Foot,,15:00,Matchweek 22,Sat,Away,W,1.0,0.0,3.0,Brighton,2.0,0.4,70.0,30682.0,Jordan Henderson,4-2-3-1,Kevin Friend
+2019-01-12,88,Mohamed Salah,Liverpool,0.42,,Off Target,9.0,Left Foot,,15:00,Matchweek 22,Sat,Away,W,1.0,0.0,3.0,Brighton,2.0,0.4,70.0,30682.0,Jordan Henderson,4-2-3-1,Kevin Friend
+2019-01-19,8,Joël Matip,Liverpool,0.11,0.05,Saved,8.0,Right Foot,,15:00,Matchweek 23,Sat,Home,W,4.0,3.0,3.0,Crystal Palace,2.6,0.7,70.0,53171.0,Jordan Henderson,4-2-3-1,Jonathan Moss
+2019-01-19,10,Fabinho,Liverpool,0.03,,Blocked,30.0,Right Foot,,15:00,Matchweek 23,Sat,Home,W,4.0,3.0,3.0,Crystal Palace,2.6,0.7,70.0,53171.0,Jordan Henderson,4-2-3-1,Jonathan Moss
+2019-01-19,13,Roberto Firmino,Liverpool,0.03,,Off Target,24.0,Right Foot,,15:00,Matchweek 23,Sat,Home,W,4.0,3.0,3.0,Crystal Palace,2.6,0.7,70.0,53171.0,Jordan Henderson,4-2-3-1,Jonathan Moss
+2019-01-19,22,Sadio Mané,Liverpool,0.08,0.07,Saved,8.0,Head,,15:00,Matchweek 23,Sat,Home,W,4.0,3.0,3.0,Crystal Palace,2.6,0.7,70.0,53171.0,Jordan Henderson,4-2-3-1,Jonathan Moss
+2019-01-19,30,Joël Matip,Liverpool,0.08,,Off Target,9.0,Head,,15:00,Matchweek 23,Sat,Home,W,4.0,3.0,3.0,Crystal Palace,2.6,0.7,70.0,53171.0,Jordan Henderson,4-2-3-1,Jonathan Moss
+2019-01-19,32,Virgil van Dijk,Liverpool,0.13,,Blocked,9.0,Head,,15:00,Matchweek 23,Sat,Home,W,4.0,3.0,3.0,Crystal Palace,2.6,0.7,70.0,53171.0,Jordan Henderson,4-2-3-1,Jonathan Moss
+2019-01-19,36,James Milner,Liverpool,0.08,,Blocked,14.0,Left Foot,,15:00,Matchweek 23,Sat,Home,W,4.0,3.0,3.0,Crystal Palace,2.6,0.7,70.0,53171.0,Jordan Henderson,4-2-3-1,Jonathan Moss
+2019-01-19,37,Virgil van Dijk,Liverpool,0.04,,Off Target,12.0,Head,,15:00,Matchweek 23,Sat,Home,W,4.0,3.0,3.0,Crystal Palace,2.6,0.7,70.0,53171.0,Jordan Henderson,4-2-3-1,Jonathan Moss
+2019-01-19,44,Fabinho,Liverpool,0.03,,Off Target,28.0,Right Foot,,15:00,Matchweek 23,Sat,Home,W,4.0,3.0,3.0,Crystal Palace,2.6,0.7,70.0,53171.0,Jordan Henderson,4-2-3-1,Jonathan Moss
+2019-01-19,44,Andrew Robertson,Liverpool,0.08,0.6,Saved,11.0,Left Foot,,15:00,Matchweek 23,Sat,Home,W,4.0,3.0,3.0,Crystal Palace,2.6,0.7,70.0,53171.0,Jordan Henderson,4-2-3-1,Jonathan Moss
+2019-01-19,46,Virgil van Dijk,Liverpool,0.02,,Off Target,34.0,Right Foot,,15:00,Matchweek 23,Sat,Home,W,4.0,3.0,3.0,Crystal Palace,2.6,0.7,70.0,53171.0,Jordan Henderson,4-2-3-1,Jonathan Moss
+2019-01-19,46,Mohamed Salah,Liverpool,0.5,0.94,Goal,9.0,Left Foot,Volley,15:00,Matchweek 23,Sat,Home,W,4.0,3.0,3.0,Crystal Palace,2.6,0.7,70.0,53171.0,Jordan Henderson,4-2-3-1,Jonathan Moss
+2019-01-19,49,Andrew Robertson,Liverpool,0.03,,Off Target,28.0,Left Foot,,15:00,Matchweek 23,Sat,Home,W,4.0,3.0,3.0,Crystal Palace,2.6,0.7,70.0,53171.0,Jordan Henderson,4-2-3-1,Jonathan Moss
+2019-01-19,53,Roberto Firmino,Liverpool,0.04,0.42,Goal,16.0,Right Foot,Deflected,15:00,Matchweek 23,Sat,Home,W,4.0,3.0,3.0,Crystal Palace,2.6,0.7,70.0,53171.0,Jordan Henderson,4-2-3-1,Jonathan Moss
+2019-01-19,69,Sadio Mané,Liverpool,0.06,0.04,Saved,10.0,Right Foot,,15:00,Matchweek 23,Sat,Home,W,4.0,3.0,3.0,Crystal Palace,2.6,0.7,70.0,53171.0,Jordan Henderson,4-2-3-1,Jonathan Moss
+2019-01-19,75,Mohamed Salah,Liverpool,0.97,0.96,Goal,1.0,Left Foot,Volley,15:00,Matchweek 23,Sat,Home,W,4.0,3.0,3.0,Crystal Palace,2.6,0.7,70.0,53171.0,Jordan Henderson,4-2-3-1,Jonathan Moss
+2019-01-19,82,Sadio Mané,Liverpool,0.07,0.38,Saved,22.0,Right Foot,,15:00,Matchweek 23,Sat,Home,W,4.0,3.0,3.0,Crystal Palace,2.6,0.7,70.0,53171.0,Jordan Henderson,4-2-3-1,Jonathan Moss
+2019-01-19,90,Sadio Mané,Liverpool,0.15,,Off Target,14.0,Left Foot,,15:00,Matchweek 23,Sat,Home,W,4.0,3.0,3.0,Crystal Palace,2.6,0.7,70.0,53171.0,Jordan Henderson,4-2-3-1,Jonathan Moss
+2019-01-19,90,Sadio Mané,Liverpool,0.05,0.18,Goal,12.0,Right Foot,,15:00,Matchweek 23,Sat,Home,W,4.0,3.0,3.0,Crystal Palace,2.6,0.7,70.0,53171.0,Jordan Henderson,4-2-3-1,Jonathan Moss
+2019-01-30,3,Sadio Mané,Liverpool,0.05,0.64,Goal,15.0,Right Foot,Deflected,20:00,Matchweek 24,Wed,Home,D,1.0,1.0,1.0,Leicester City,0.6,1.1,72.0,53092.0,Jordan Henderson,4-2-3-1,Martin Atkinson
+2019-01-30,6,Roberto Firmino,Liverpool,0.09,0.44,Saved,12.0,Right Foot,,20:00,Matchweek 24,Wed,Home,D,1.0,1.0,1.0,Leicester City,0.6,1.1,72.0,53092.0,Jordan Henderson,4-2-3-1,Martin Atkinson
+2019-01-30,6,Sadio Mané,Liverpool,0.07,,Off Target,9.0,Head,,20:00,Matchweek 24,Wed,Home,D,1.0,1.0,1.0,Leicester City,0.6,1.1,72.0,53092.0,Jordan Henderson,4-2-3-1,Martin Atkinson
+2019-01-30,36,Mohamed Salah,Liverpool,0.06,,Blocked,19.0,Left Foot,,20:00,Matchweek 24,Wed,Home,D,1.0,1.0,1.0,Leicester City,0.6,1.1,72.0,53092.0,Jordan Henderson,4-2-3-1,Martin Atkinson
+2019-01-30,74,Roberto Firmino,Liverpool,0.08,0.03,Saved,14.0,Right Foot,,20:00,Matchweek 24,Wed,Home,D,1.0,1.0,1.0,Leicester City,0.6,1.1,72.0,53092.0,Jordan Henderson,4-2-3-1,Martin Atkinson
+2019-01-30,75,Joël Matip,Liverpool,0.06,,Off Target,10.0,Head,,20:00,Matchweek 24,Wed,Home,D,1.0,1.0,1.0,Leicester City,0.6,1.1,72.0,53092.0,Jordan Henderson,4-2-3-1,Martin Atkinson
+2019-01-30,77,Andrew Robertson,Liverpool,0.03,,Off Target,25.0,Left Foot,Volley,20:00,Matchweek 24,Wed,Home,D,1.0,1.0,1.0,Leicester City,0.6,1.1,72.0,53092.0,Jordan Henderson,4-2-3-1,Martin Atkinson
+2019-01-30,82,Mohamed Salah,Liverpool,0.06,,Blocked,27.0,Left Foot,Free kick,20:00,Matchweek 24,Wed,Home,D,1.0,1.0,1.0,Leicester City,0.6,1.1,72.0,53092.0,Jordan Henderson,4-2-3-1,Martin Atkinson
+2019-01-30,87,Daniel Sturridge,Liverpool,0.04,,Off Target,27.0,Left Foot,,20:00,Matchweek 24,Wed,Home,D,1.0,1.0,1.0,Leicester City,0.6,1.1,72.0,53092.0,Jordan Henderson,4-2-3-1,Martin Atkinson
+2019-01-30,90,Sadio Mané,Liverpool,0.04,,Off Target,10.0,Head,,20:00,Matchweek 24,Wed,Home,D,1.0,1.0,1.0,Leicester City,0.6,1.1,72.0,53092.0,Jordan Henderson,4-2-3-1,Martin Atkinson
+2019-02-04,9,Adam Lallana,Liverpool,0.04,,Off Target,17.0,Left Foot,,20:00,Matchweek 25,Mon,Away,D,1.0,1.0,1.0,West Ham,1.1,0.8,73.0,59903.0,James Milner,4-3-3,Kevin Friend
+2019-02-04,20,Roberto Firmino,Liverpool,0.06,0.21,Saved,13.0,Left Foot,,20:00,Matchweek 25,Mon,Away,D,1.0,1.0,1.0,West Ham,1.1,0.8,73.0,59903.0,James Milner,4-3-3,Kevin Friend
+2019-02-04,22,Sadio Mané,Liverpool,0.43,0.82,Goal,9.0,Left Foot,,20:00,Matchweek 25,Mon,Away,D,1.0,1.0,1.0,West Ham,1.1,0.8,73.0,59903.0,James Milner,4-3-3,Kevin Friend
+2019-02-04,30,Naby Keïta,Liverpool,0.03,,Blocked,28.0,Left Foot,,20:00,Matchweek 25,Mon,Away,D,1.0,1.0,1.0,West Ham,1.1,0.8,73.0,59903.0,James Milner,4-3-3,Kevin Friend
+2019-02-04,44,Sadio Mané,Liverpool,0.2,0.1,Saved,6.0,Head,,20:00,Matchweek 25,Mon,Away,D,1.0,1.0,1.0,West Ham,1.1,0.8,73.0,59903.0,James Milner,4-3-3,Kevin Friend
+2019-02-04,51,Mohamed Salah,Liverpool,0.06,0.02,Saved,22.0,Left Foot,,20:00,Matchweek 25,Mon,Away,D,1.0,1.0,1.0,West Ham,1.1,0.8,73.0,59903.0,James Milner,4-3-3,Kevin Friend
+2019-02-04,61,Mohamed Salah,Liverpool,0.08,0.15,Saved,13.0,Left Foot,,20:00,Matchweek 25,Mon,Away,D,1.0,1.0,1.0,West Ham,1.1,0.8,73.0,59903.0,James Milner,4-3-3,Kevin Friend
+2019-02-04,63,Mohamed Salah,Liverpool,0.04,,Off Target,18.0,Left Foot,,20:00,Matchweek 25,Mon,Away,D,1.0,1.0,1.0,West Ham,1.1,0.8,73.0,59903.0,James Milner,4-3-3,Kevin Friend
+2019-02-04,64,Andrew Robertson,Liverpool,0.02,,Off Target,29.0,Left Foot,,20:00,Matchweek 25,Mon,Away,D,1.0,1.0,1.0,West Ham,1.1,0.8,73.0,59903.0,James Milner,4-3-3,Kevin Friend
+2019-02-04,81,Mohamed Salah,Liverpool,0.03,,Blocked,26.0,Left Foot,,20:00,Matchweek 25,Mon,Away,D,1.0,1.0,1.0,West Ham,1.1,0.8,73.0,59903.0,James Milner,4-3-3,Kevin Friend
+2019-02-04,90,Divock Origi,Liverpool,0.12,0.03,Saved,11.0,Left Foot,,20:00,Matchweek 25,Mon,Away,D,1.0,1.0,1.0,West Ham,1.1,0.8,73.0,59903.0,James Milner,4-3-3,Kevin Friend
+2019-02-09,10,Mohamed Salah,Liverpool,0.04,,Off Target,18.0,Left Foot,,15:00,Matchweek 26,Sat,Home,W,3.0,0.0,3.0,Bournemouth,2.0,0.4,65.0,53178.0,James Milner,4-3-3,Anthony Taylor
+2019-02-09,12,Roberto Firmino,Liverpool,0.11,0.23,Saved,6.0,Left Foot,,15:00,Matchweek 26,Sat,Home,W,3.0,0.0,3.0,Bournemouth,2.0,0.4,65.0,53178.0,James Milner,4-3-3,Anthony Taylor
+2019-02-09,13,Mohamed Salah,Liverpool,0.03,0.02,Saved,24.0,Left Foot,Deflected,15:00,Matchweek 26,Sat,Home,W,3.0,0.0,3.0,Bournemouth,2.0,0.4,65.0,53178.0,James Milner,4-3-3,Anthony Taylor
+2019-02-09,24,Sadio Mané,Liverpool,0.11,0.17,Goal,7.0,Head,,15:00,Matchweek 26,Sat,Home,W,3.0,0.0,3.0,Bournemouth,2.0,0.4,65.0,53178.0,James Milner,4-3-3,Anthony Taylor
+2019-02-09,28,James Milner,Liverpool,0.04,,Blocked,16.0,Right Foot,,15:00,Matchweek 26,Sat,Home,W,3.0,0.0,3.0,Bournemouth,2.0,0.4,65.0,53178.0,James Milner,4-3-3,Anthony Taylor
+2019-02-09,29,Mohamed Salah,Liverpool,0.04,,Off Target,12.0,Left Foot,Volley,15:00,Matchweek 26,Sat,Home,W,3.0,0.0,3.0,Bournemouth,2.0,0.4,65.0,53178.0,James Milner,4-3-3,Anthony Taylor
+2019-02-09,34,Georginio Wijnaldum,Liverpool,0.06,0.05,Goal,13.0,Right Foot,,15:00,Matchweek 26,Sat,Home,W,3.0,0.0,3.0,Bournemouth,2.0,0.4,65.0,53178.0,James Milner,4-3-3,Anthony Taylor
+2019-02-09,45,Mohamed Salah,Liverpool,0.04,0.13,Saved,21.0,Left Foot,Volley,15:00,Matchweek 26,Sat,Home,W,3.0,0.0,3.0,Bournemouth,2.0,0.4,65.0,53178.0,James Milner,4-3-3,Anthony Taylor
+2019-02-09,45,Georginio Wijnaldum,Liverpool,0.02,0.03,Saved,26.0,Left Foot,,15:00,Matchweek 26,Sat,Home,W,3.0,0.0,3.0,Bournemouth,2.0,0.4,65.0,53178.0,James Milner,4-3-3,Anthony Taylor
+2019-02-09,48,Mohamed Salah,Liverpool,0.26,0.88,Goal,14.0,Left Foot,,15:00,Matchweek 26,Sat,Home,W,3.0,0.0,3.0,Bournemouth,2.0,0.4,65.0,53178.0,James Milner,4-3-3,Anthony Taylor
+2019-02-09,55,Sadio Mané,Liverpool,0.03,,Blocked,20.0,Right Foot,,15:00,Matchweek 26,Sat,Home,W,3.0,0.0,3.0,Bournemouth,2.0,0.4,65.0,53178.0,James Milner,4-3-3,Anthony Taylor
+2019-02-09,56,Sadio Mané,Liverpool,0.31,,Off Target,6.0,Head,,15:00,Matchweek 26,Sat,Home,W,3.0,0.0,3.0,Bournemouth,2.0,0.4,65.0,53178.0,James Milner,4-3-3,Anthony Taylor
+2019-02-09,60,Mohamed Salah,Liverpool,0.03,,Blocked,23.0,Left Foot,,15:00,Matchweek 26,Sat,Home,W,3.0,0.0,3.0,Bournemouth,2.0,0.4,65.0,53178.0,James Milner,4-3-3,Anthony Taylor
+2019-02-09,76,Mohamed Salah,Liverpool,0.06,,Woodwork,12.0,Left Foot,,15:00,Matchweek 26,Sat,Home,W,3.0,0.0,3.0,Bournemouth,2.0,0.4,65.0,53178.0,James Milner,4-3-3,Anthony Taylor
+2019-02-09,80,Roberto Firmino,Liverpool,0.08,,Blocked,15.0,Right Foot,,15:00,Matchweek 26,Sat,Home,W,3.0,0.0,3.0,Bournemouth,2.0,0.4,65.0,53178.0,James Milner,4-3-3,Anthony Taylor
+2019-02-09,80,Naby Keïta,Liverpool,0.08,,Off Target,12.0,Right Foot,,15:00,Matchweek 26,Sat,Home,W,3.0,0.0,3.0,Bournemouth,2.0,0.4,65.0,53178.0,James Milner,4-3-3,Anthony Taylor
+2019-02-09,82,James Milner,Liverpool,0.04,,Blocked,18.0,Right Foot,,15:00,Matchweek 26,Sat,Home,W,3.0,0.0,3.0,Bournemouth,2.0,0.4,65.0,53178.0,James Milner,4-3-3,Anthony Taylor
+2019-02-09,83,James Milner,Liverpool,0.04,,Off Target,28.0,Right Foot,,15:00,Matchweek 26,Sat,Home,W,3.0,0.0,3.0,Bournemouth,2.0,0.4,65.0,53178.0,James Milner,4-3-3,Anthony Taylor
+2019-02-09,87,Roberto Firmino,Liverpool,0.32,0.73,Saved,20.0,Right Foot,,15:00,Matchweek 26,Sat,Home,W,3.0,0.0,3.0,Bournemouth,2.0,0.4,65.0,53178.0,James Milner,4-3-3,Anthony Taylor
+2019-02-09,90,Trent Alexander-Arnold,Liverpool,0.27,0.12,Saved,13.0,Right Foot,,15:00,Matchweek 26,Sat,Home,W,3.0,0.0,3.0,Bournemouth,2.0,0.4,65.0,53178.0,James Milner,4-3-3,Anthony Taylor
+2019-02-19,12,Mohamed Salah,Liverpool,0.18,0.14,Saved,10.0,Left Foot,Volley,,,,,,,,,,,,,,,,
+2019-02-19,16,Sadio Mané,Liverpool,0.06,,Off Target,15.0,Left Foot,,,,,,,,,,,,,,,,,
+2019-02-19,20,Naby Keïta,Liverpool,0.07,,Off Target,22.0,Right Foot,Volley,,,,,,,,,,,,,,,,
+2019-02-19,24,Mohamed Salah,Liverpool,0.31,,Off Target,6.0,Head,,,,,,,,,,,,,,,,,
+2019-02-19,33,Naby Keïta,Liverpool,0.05,,Blocked,21.0,Left Foot,,,,,,,,,,,,,,,,,
+2019-02-19,33,Sadio Mané,Liverpool,0.44,,Off Target,10.0,Left Foot,,,,,,,,,,,,,,,,,
+2019-02-19,38,Sadio Mané,Liverpool,0.48,,Off Target,8.0,Right Foot,Volley,,,,,,,,,,,,,,,,
+2019-02-19,38,Naby Keïta,Liverpool,0.04,,Blocked,24.0,Left Foot,,,,,,,,,,,,,,,,,
+2019-02-19,41,Joël Matip,Liverpool,0.13,,Off Target,10.0,Left Foot,,,,,,,,,,,,,,,,,
+2019-02-19,45,Roberto Firmino,Liverpool,0.09,,Off Target,9.0,Right Foot,,,,,,,,,,,,,,,,,
+2019-02-19,81,Joël Matip,Liverpool,0.07,,Blocked,9.0,Head,,,,,,,,,,,,,,,,,
+2019-02-19,81,Trent Alexander-Arnold,Liverpool,0.03,,Off Target,29.0,Right Foot,,,,,,,,,,,,,,,,,
+2019-02-19,83,Joël Matip,Liverpool,0.03,,Off Target,21.0,Right Foot,,,,,,,,,,,,,,,,,
+2019-02-19,85,Sadio Mané,Liverpool,0.06,0.17,Saved,9.0,Head,Deflected,,,,,,,,,,,,,,,,
+2019-02-19,86,Joël Matip,Liverpool,0.11,,Off Target,8.0,Other,,,,,,,,,,,,,,,,,
+2019-02-24,2,James Milner,Liverpool,0.04,,Blocked,16.0,Right Foot,,14:05,Matchweek 27,Sun,Away,D,0.0,0.0,1.0,Manchester Utd,0.5,0.3,64.0,74519.0,Jordan Henderson,4-3-3,Michael Oliver
+2019-02-24,16,Mohamed Salah,Liverpool,0.14,,Off Target,22.0,Left Foot,Free kick,14:05,Matchweek 27,Sun,Away,D,0.0,0.0,1.0,Manchester Utd,0.5,0.3,64.0,74519.0,Jordan Henderson,4-3-3,Michael Oliver
+2019-02-24,33,Daniel Sturridge,Liverpool,0.02,0.47,Saved,34.0,Left Foot,,14:05,Matchweek 27,Sun,Away,D,0.0,0.0,1.0,Manchester Utd,0.5,0.3,64.0,74519.0,Jordan Henderson,4-3-3,Michael Oliver
+2019-02-24,44,Joël Matip,Liverpool,0.05,,Off Target,11.0,Head,,14:05,Matchweek 27,Sun,Away,D,0.0,0.0,1.0,Manchester Utd,0.5,0.3,64.0,74519.0,Jordan Henderson,4-3-3,Michael Oliver
+2019-02-24,66,Georginio Wijnaldum,Liverpool,0.03,,Off Target,23.0,Right Foot,,14:05,Matchweek 27,Sun,Away,D,0.0,0.0,1.0,Manchester Utd,0.5,0.3,64.0,74519.0,Jordan Henderson,4-3-3,Michael Oliver
+2019-02-24,70,Georginio Wijnaldum,Liverpool,0.06,,Blocked,10.0,Head,,14:05,Matchweek 27,Sun,Away,D,0.0,0.0,1.0,Manchester Utd,0.5,0.3,64.0,74519.0,Jordan Henderson,4-3-3,Michael Oliver
+2019-02-24,71,Joël Matip,Liverpool,0.13,,Off Target,6.0,Head,,14:05,Matchweek 27,Sun,Away,D,0.0,0.0,1.0,Manchester Utd,0.5,0.3,64.0,74519.0,Jordan Henderson,4-3-3,Michael Oliver
+2019-02-27,8,Fabinho,Liverpool,0.03,,Blocked,23.0,Right Foot,,20:00,Matchweek 28,Wed,Home,W,5.0,0.0,3.0,Watford,1.9,0.3,62.0,53316.0,James Milner,4-3-3,Graham Scott
+2019-02-27,9,Sadio Mané,Liverpool,0.36,0.81,Goal,7.0,Head,,20:00,Matchweek 28,Wed,Home,W,5.0,0.0,3.0,Watford,1.9,0.3,62.0,53316.0,James Milner,4-3-3,Graham Scott
+2019-02-27,12,Sadio Mané,Liverpool,0.1,,Off Target,7.0,Right Foot,Volley,20:00,Matchweek 28,Wed,Home,W,5.0,0.0,3.0,Watford,1.9,0.3,62.0,53316.0,James Milner,4-3-3,Graham Scott
+2019-02-27,20,Sadio Mané,Liverpool,0.29,0.32,Goal,12.0,Right Foot,,20:00,Matchweek 28,Wed,Home,W,5.0,0.0,3.0,Watford,1.9,0.3,62.0,53316.0,James Milner,4-3-3,Graham Scott
+2019-02-27,23,Mohamed Salah,Liverpool,0.03,,Off Target,22.0,Left Foot,,20:00,Matchweek 28,Wed,Home,W,5.0,0.0,3.0,Watford,1.9,0.3,62.0,53316.0,James Milner,4-3-3,Graham Scott
+2019-02-27,28,Mohamed Salah,Liverpool,0.04,0.02,Saved,23.0,Left Foot,,20:00,Matchweek 28,Wed,Home,W,5.0,0.0,3.0,Watford,1.9,0.3,62.0,53316.0,James Milner,4-3-3,Graham Scott
+2019-02-27,37,Mohamed Salah,Liverpool,0.05,0.14,Saved,12.0,Right Foot,,20:00,Matchweek 28,Wed,Home,W,5.0,0.0,3.0,Watford,1.9,0.3,62.0,53316.0,James Milner,4-3-3,Graham Scott
+2019-02-27,37,James Milner,Liverpool,0.14,0.05,Saved,8.0,Left Foot,,20:00,Matchweek 28,Wed,Home,W,5.0,0.0,3.0,Watford,1.9,0.3,62.0,53316.0,James Milner,4-3-3,Graham Scott
+2019-02-27,37,Fabinho,Liverpool,0.03,,Off Target,28.0,Right Foot,,20:00,Matchweek 28,Wed,Home,W,5.0,0.0,3.0,Watford,1.9,0.3,62.0,53316.0,James Milner,4-3-3,Graham Scott
+2019-02-27,49,Mohamed Salah,Liverpool,0.04,,Blocked,17.0,Left Foot,,20:00,Matchweek 28,Wed,Home,W,5.0,0.0,3.0,Watford,1.9,0.3,62.0,53316.0,James Milner,4-3-3,Graham Scott
+2019-02-27,49,Andrew Robertson,Liverpool,0.07,,Off Target,11.0,Left Foot,,20:00,Matchweek 28,Wed,Home,W,5.0,0.0,3.0,Watford,1.9,0.3,62.0,53316.0,James Milner,4-3-3,Graham Scott
+2019-02-27,57,Divock Origi,Liverpool,0.05,,Blocked,29.0,Right Foot,,20:00,Matchweek 28,Wed,Home,W,5.0,0.0,3.0,Watford,1.9,0.3,62.0,53316.0,James Milner,4-3-3,Graham Scott
+2019-02-27,57,Divock Origi,Liverpool,0.05,,Blocked,27.0,Right Foot,,20:00,Matchweek 28,Wed,Home,W,5.0,0.0,3.0,Watford,1.9,0.3,62.0,53316.0,James Milner,4-3-3,Graham Scott
+2019-02-27,61,Divock Origi,Liverpool,0.03,0.02,Saved,23.0,Right Foot,,20:00,Matchweek 28,Wed,Home,W,5.0,0.0,3.0,Watford,1.9,0.3,62.0,53316.0,James Milner,4-3-3,Graham Scott
+2019-02-27,63,Sadio Mané,Liverpool,0.12,,Blocked,11.0,Right Foot,,20:00,Matchweek 28,Wed,Home,W,5.0,0.0,3.0,Watford,1.9,0.3,62.0,53316.0,James Milner,4-3-3,Graham Scott
+2019-02-27,64,Georginio Wijnaldum,Liverpool,0.05,0.02,Saved,25.0,Left Foot,,20:00,Matchweek 28,Wed,Home,W,5.0,0.0,3.0,Watford,1.9,0.3,62.0,53316.0,James Milner,4-3-3,Graham Scott
+2019-02-27,66,Divock Origi,Liverpool,0.05,0.32,Goal,15.0,Right Foot,,20:00,Matchweek 28,Wed,Home,W,5.0,0.0,3.0,Watford,1.9,0.3,62.0,53316.0,James Milner,4-3-3,Graham Scott
+2019-02-27,79,Virgil van Dijk,Liverpool,0.31,0.62,Goal,6.0,Head,,20:00,Matchweek 28,Wed,Home,W,5.0,0.0,3.0,Watford,1.9,0.3,62.0,53316.0,James Milner,4-3-3,Graham Scott
+2019-02-27,82,Virgil van Dijk,Liverpool,0.14,0.49,Goal,9.0,Head,,20:00,Matchweek 28,Wed,Home,W,5.0,0.0,3.0,Watford,1.9,0.3,62.0,53316.0,James Milner,4-3-3,Graham Scott
+2019-03-03,15,Mohamed Salah,Liverpool,0.06,0.07,Saved,17.0,Left Foot,,16:15,Matchweek 29,Sun,Away,D,0.0,0.0,1.0,Everton,1.1,0.3,57.0,39335.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-03-03,28,Mohamed Salah,Liverpool,0.53,0.71,Saved,9.0,Left Foot,,16:15,Matchweek 29,Sun,Away,D,0.0,0.0,1.0,Everton,1.1,0.3,57.0,39335.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-03-03,28,Jordan Henderson,Liverpool,0.08,,Blocked,19.0,Left Foot,,16:15,Matchweek 29,Sun,Away,D,0.0,0.0,1.0,Everton,1.1,0.3,57.0,39335.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-03-03,44,Virgil van Dijk,Liverpool,0.05,,Off Target,10.0,Head,,16:15,Matchweek 29,Sun,Away,D,0.0,0.0,1.0,Everton,1.1,0.3,57.0,39335.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-03-03,54,Trent Alexander-Arnold,Liverpool,0.05,0.12,Saved,31.0,Right Foot,Free kick,16:15,Matchweek 29,Sun,Away,D,0.0,0.0,1.0,Everton,1.1,0.3,57.0,39335.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-03-03,55,Divock Origi,Liverpool,0.03,,Off Target,20.0,Right Foot,,16:15,Matchweek 29,Sun,Away,D,0.0,0.0,1.0,Everton,1.1,0.3,57.0,39335.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-03-03,68,James Milner,Liverpool,0.03,,Blocked,26.0,Right Foot,,16:15,Matchweek 29,Sun,Away,D,0.0,0.0,1.0,Everton,1.1,0.3,57.0,39335.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-03-03,70,James Milner,Liverpool,0.04,,Blocked,24.0,Right Foot,,16:15,Matchweek 29,Sun,Away,D,0.0,0.0,1.0,Everton,1.1,0.3,57.0,39335.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-03-03,84,Joël Matip,Liverpool,0.14,,Off Target,7.0,Head,,16:15,Matchweek 29,Sun,Away,D,0.0,0.0,1.0,Everton,1.1,0.3,57.0,39335.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-03-03,85,Roberto Firmino,Liverpool,0.15,,Blocked,9.0,Right Foot,,16:15,Matchweek 29,Sun,Away,D,0.0,0.0,1.0,Everton,1.1,0.3,57.0,39335.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-03-10,14,Roberto Firmino,Liverpool,0.06,,Blocked,16.0,Right Foot,,12:00,Matchweek 30,Sun,Home,W,4.0,2.0,3.0,Burnley,4.0,0.4,67.0,53310.0,Virgil van Dijk,4-3-3,Andre Marriner
+2019-03-10,15,Fabinho,Liverpool,0.02,,Blocked,32.0,Right Foot,,12:00,Matchweek 30,Sun,Home,W,4.0,2.0,3.0,Burnley,4.0,0.4,67.0,53310.0,Virgil van Dijk,4-3-3,Andre Marriner
+2019-03-10,17,Sadio Mané,Liverpool,0.08,,Off Target,10.0,Head,,12:00,Matchweek 30,Sun,Home,W,4.0,2.0,3.0,Burnley,4.0,0.4,67.0,53310.0,Virgil van Dijk,4-3-3,Andre Marriner
+2019-03-10,19,Roberto Firmino,Liverpool,0.98,0.98,Goal,1.0,Left Foot,,12:00,Matchweek 30,Sun,Home,W,4.0,2.0,3.0,Burnley,4.0,0.4,67.0,53310.0,Virgil van Dijk,4-3-3,Andre Marriner
+2019-03-10,22,Trent Alexander-Arnold,Liverpool,0.03,,Off Target,27.0,Right Foot,,12:00,Matchweek 30,Sun,Home,W,4.0,2.0,3.0,Burnley,4.0,0.4,67.0,53310.0,Virgil van Dijk,4-3-3,Andre Marriner
+2019-03-10,24,Trent Alexander-Arnold,Liverpool,0.01,,Off Target,29.0,Right Foot,,12:00,Matchweek 30,Sun,Home,W,4.0,2.0,3.0,Burnley,4.0,0.4,67.0,53310.0,Virgil van Dijk,4-3-3,Andre Marriner
+2019-03-10,29,Sadio Mané,Liverpool,0.3,0.88,Goal,12.0,Right Foot,,12:00,Matchweek 30,Sun,Home,W,4.0,2.0,3.0,Burnley,4.0,0.4,67.0,53310.0,Virgil van Dijk,4-3-3,Andre Marriner
+2019-03-10,31,Mohamed Salah,Liverpool,0.06,,Off Target,15.0,Left Foot,,12:00,Matchweek 30,Sun,Home,W,4.0,2.0,3.0,Burnley,4.0,0.4,67.0,53310.0,Virgil van Dijk,4-3-3,Andre Marriner
+2019-03-10,38,Trent Alexander-Arnold,Liverpool,0.06,,Off Target,26.0,Right Foot,Free kick,12:00,Matchweek 30,Sun,Home,W,4.0,2.0,3.0,Burnley,4.0,0.4,67.0,53310.0,Virgil van Dijk,4-3-3,Andre Marriner
+2019-03-10,51,Mohamed Salah,Liverpool,0.03,,Off Target,24.0,Left Foot,,12:00,Matchweek 30,Sun,Home,W,4.0,2.0,3.0,Burnley,4.0,0.4,67.0,53310.0,Virgil van Dijk,4-3-3,Andre Marriner
+2019-03-10,55,Mohamed Salah,Liverpool,0.02,,Blocked,25.0,Left Foot,Volley,12:00,Matchweek 30,Sun,Home,W,4.0,2.0,3.0,Burnley,4.0,0.4,67.0,53310.0,Virgil van Dijk,4-3-3,Andre Marriner
+2019-03-10,59,Adam Lallana,Liverpool,0.04,,Blocked,18.0,Right Foot,,12:00,Matchweek 30,Sun,Home,W,4.0,2.0,3.0,Burnley,4.0,0.4,67.0,53310.0,Virgil van Dijk,4-3-3,Andre Marriner
+2019-03-10,67,Georginio Wijnaldum,Liverpool,0.31,,Off Target,8.0,Head,,12:00,Matchweek 30,Sun,Home,W,4.0,2.0,3.0,Burnley,4.0,0.4,67.0,53310.0,Virgil van Dijk,4-3-3,Andre Marriner
+2019-03-10,67,Roberto Firmino,Liverpool,0.49,0.75,Goal,9.0,Right Foot,,12:00,Matchweek 30,Sun,Home,W,4.0,2.0,3.0,Burnley,4.0,0.4,67.0,53310.0,Virgil van Dijk,4-3-3,Andre Marriner
+2019-03-10,70,Virgil van Dijk,Liverpool,0.02,,Blocked,37.0,Right Foot,,12:00,Matchweek 30,Sun,Home,W,4.0,2.0,3.0,Burnley,4.0,0.4,67.0,53310.0,Virgil van Dijk,4-3-3,Andre Marriner
+2019-03-10,75,Sadio Mané,Liverpool,0.04,,Blocked,20.0,Right Foot,,12:00,Matchweek 30,Sun,Home,W,4.0,2.0,3.0,Burnley,4.0,0.4,67.0,53310.0,Virgil van Dijk,4-3-3,Andre Marriner
+2019-03-10,76,Mohamed Salah,Liverpool,0.01,,Blocked,31.0,Left Foot,,12:00,Matchweek 30,Sun,Home,W,4.0,2.0,3.0,Burnley,4.0,0.4,67.0,53310.0,Virgil van Dijk,4-3-3,Andre Marriner
+2019-03-10,78,Jordan Henderson,Liverpool,0.07,,Blocked,10.0,Right Foot,,12:00,Matchweek 30,Sun,Home,W,4.0,2.0,3.0,Burnley,4.0,0.4,67.0,53310.0,Virgil van Dijk,4-3-3,Andre Marriner
+2019-03-10,82,Sadio Mané,Liverpool,0.79,,Woodwork,3.0,Left Foot,,12:00,Matchweek 30,Sun,Home,W,4.0,2.0,3.0,Burnley,4.0,0.4,67.0,53310.0,Virgil van Dijk,4-3-3,Andre Marriner
+2019-03-10,85,Andrew Robertson,Liverpool,0.06,,Blocked,13.0,Left Foot,,12:00,Matchweek 30,Sun,Home,W,4.0,2.0,3.0,Burnley,4.0,0.4,67.0,53310.0,Virgil van Dijk,4-3-3,Andre Marriner
+2019-03-10,88,Mohamed Salah,Liverpool,0.08,0.37,Saved,14.0,Left Foot,,12:00,Matchweek 30,Sun,Home,W,4.0,2.0,3.0,Burnley,4.0,0.4,67.0,53310.0,Virgil van Dijk,4-3-3,Andre Marriner
+2019-03-10,89,Daniel Sturridge,Liverpool,0.02,,Blocked,30.0,Left Foot,,12:00,Matchweek 30,Sun,Home,W,4.0,2.0,3.0,Burnley,4.0,0.4,67.0,53310.0,Virgil van Dijk,4-3-3,Andre Marriner
+2019-03-10,90,Sadio Mané,Liverpool,0.44,0.45,Goal,11.0,Left Foot,,12:00,Matchweek 30,Sun,Home,W,4.0,2.0,3.0,Burnley,4.0,0.4,67.0,53310.0,Virgil van Dijk,4-3-3,Andre Marriner
+2019-03-13,25,Roberto Firmino,Liverpool,0.04,,Off Target,22.0,Right Foot,,,,,,,,,,,,,,,,,
+2019-03-13,26,Sadio Mané,Liverpool,0.19,0.7,Goal,18.0,Left Foot,,,,,,,,,,,,,,,,,
+2019-03-13,34,Andrew Robertson,Liverpool,0.06,0.06,Saved,13.0,Left Foot,,,,,,,,,,,,,,,,,
+2019-03-13,50,Mohamed Salah,Liverpool,0.07,0.03,Saved,22.0,Left Foot,,,,,,,,,,,,,,,,,
+2019-03-13,69,Virgil van Dijk,Liverpool,0.09,0.37,Goal,8.0,Head,,,,,,,,,,,,,,,,,
+2019-03-13,71,Fabinho,Liverpool,0.03,,Blocked,20.0,Right Foot,,,,,,,,,,,,,,,,,
+2019-03-13,72,Mohamed Salah,Liverpool,0.04,,Off Target,16.0,Left Foot,Volley,,,,,,,,,,,,,,,,
+2019-03-13,80,Roberto Firmino,Liverpool,0.03,0.02,Saved,27.0,Right Foot,,,,,,,,,,,,,,,,,
+2019-03-13,84,Sadio Mané,Liverpool,0.53,0.92,Goal,6.0,Head,,,,,,,,,,,,,,,,,
+2019-03-13,90,Georginio Wijnaldum,Liverpool,0.03,,Off Target,27.0,Right Foot,,,,,,,,,,,,,,,,,
+2019-03-17,4,Mohamed Salah,Liverpool,0.05,,Off Target,13.0,Right Foot,,14:15,Matchweek 31,Sun,Away,W,2.0,1.0,3.0,Fulham,2.6,1.1,62.0,25043.0,Virgil van Dijk,4-3-3,Craig Pawson
+2019-03-17,18,Joël Matip,Liverpool,0.09,,Off Target,8.0,Head,,14:15,Matchweek 31,Sun,Away,W,2.0,1.0,3.0,Fulham,2.6,1.1,62.0,25043.0,Virgil van Dijk,4-3-3,Craig Pawson
+2019-03-17,26,Sadio Mané,Liverpool,0.53,0.65,Goal,9.0,Right Foot,,14:15,Matchweek 31,Sun,Away,W,2.0,1.0,3.0,Fulham,2.6,1.1,62.0,25043.0,Virgil van Dijk,4-3-3,Craig Pawson
+2019-03-17,28,Mohamed Salah,Liverpool,0.02,0.03,Saved,30.0,Left Foot,,14:15,Matchweek 31,Sun,Away,W,2.0,1.0,3.0,Fulham,2.6,1.1,62.0,25043.0,Virgil van Dijk,4-3-3,Craig Pawson
+2019-03-17,35,Andrew Robertson,Liverpool,0.1,0.2,Saved,6.0,Left Foot,,14:15,Matchweek 31,Sun,Away,W,2.0,1.0,3.0,Fulham,2.6,1.1,62.0,25043.0,Virgil van Dijk,4-3-3,Craig Pawson
+2019-03-17,47,Georginio Wijnaldum,Liverpool,0.05,,Off Target,15.0,Right Foot,,14:15,Matchweek 31,Sun,Away,W,2.0,1.0,3.0,Fulham,2.6,1.1,62.0,25043.0,Virgil van Dijk,4-3-3,Craig Pawson
+2019-03-17,47,Roberto Firmino,Liverpool,0.18,,Blocked,8.0,Right Foot,,14:15,Matchweek 31,Sun,Away,W,2.0,1.0,3.0,Fulham,2.6,1.1,62.0,25043.0,Virgil van Dijk,4-3-3,Craig Pawson
+2019-03-17,51,Roberto Firmino,Liverpool,0.04,,Blocked,22.0,Left Foot,,14:15,Matchweek 31,Sun,Away,W,2.0,1.0,3.0,Fulham,2.6,1.1,62.0,25043.0,Virgil van Dijk,4-3-3,Craig Pawson
+2019-03-17,52,Georginio Wijnaldum,Liverpool,0.15,,Off Target,4.0,Head,,14:15,Matchweek 31,Sun,Away,W,2.0,1.0,3.0,Fulham,2.6,1.1,62.0,25043.0,Virgil van Dijk,4-3-3,Craig Pawson
+2019-03-17,73,Sadio Mané,Liverpool,0.12,,Woodwork,5.0,Head,,14:15,Matchweek 31,Sun,Away,W,2.0,1.0,3.0,Fulham,2.6,1.1,62.0,25043.0,Virgil van Dijk,4-3-3,Craig Pawson
+2019-03-17,79,Divock Origi,Liverpool,0.02,,Blocked,29.0,Right Foot,,14:15,Matchweek 31,Sun,Away,W,2.0,1.0,3.0,Fulham,2.6,1.1,62.0,25043.0,Virgil van Dijk,4-3-3,Craig Pawson
+2019-03-17,80,Mohamed Salah,Liverpool,0.05,0.05,Saved,13.0,Left Foot,,14:15,Matchweek 31,Sun,Away,W,2.0,1.0,3.0,Fulham,2.6,1.1,62.0,25043.0,Virgil van Dijk,4-3-3,Craig Pawson
+2019-03-17,81,James Milner,Liverpool,0.79,0.88,Goal,13.0,Right Foot,,14:15,Matchweek 31,Sun,Away,W,2.0,1.0,3.0,Fulham,2.6,1.1,62.0,25043.0,Virgil van Dijk,4-3-3,Craig Pawson
+2019-03-17,85,Georginio Wijnaldum,Liverpool,0.04,,Off Target,23.0,Right Foot,,14:15,Matchweek 31,Sun,Away,W,2.0,1.0,3.0,Fulham,2.6,1.1,62.0,25043.0,Virgil van Dijk,4-3-3,Craig Pawson
+2019-03-17,87,Mohamed Salah,Liverpool,0.36,0.32,Saved,14.0,Left Foot,,14:15,Matchweek 31,Sun,Away,W,2.0,1.0,3.0,Fulham,2.6,1.1,62.0,25043.0,Virgil van Dijk,4-3-3,Craig Pawson
+2019-03-17,89,Mohamed Salah,Liverpool,0.03,,Off Target,23.0,Left Foot,,14:15,Matchweek 31,Sun,Away,W,2.0,1.0,3.0,Fulham,2.6,1.1,62.0,25043.0,Virgil van Dijk,4-3-3,Craig Pawson
+2019-03-31,4,Mohamed Salah,Liverpool,0.03,,Off Target,22.0,Left Foot,,16:30,Matchweek 32,Sun,Home,W,2.0,1.0,3.0,Tottenham,1.0,0.7,48.0,53322.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-03-31,16,Roberto Firmino,Liverpool,0.29,0.35,Goal,9.0,Head,,16:30,Matchweek 32,Sun,Home,W,2.0,1.0,3.0,Tottenham,1.0,0.7,48.0,53322.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-03-31,18,Trent Alexander-Arnold,Liverpool,0.03,,Off Target,26.0,Right Foot,Volley,16:30,Matchweek 32,Sun,Home,W,2.0,1.0,3.0,Tottenham,1.0,0.7,48.0,53322.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-03-31,20,Sadio Mané,Liverpool,0.06,,Off Target,21.0,Right Foot,,16:30,Matchweek 32,Sun,Home,W,2.0,1.0,3.0,Tottenham,1.0,0.7,48.0,53322.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-03-31,37,Sadio Mané,Liverpool,0.04,,Off Target,22.0,Right Foot,,16:30,Matchweek 32,Sun,Home,W,2.0,1.0,3.0,Tottenham,1.0,0.7,48.0,53322.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-03-31,49,Virgil van Dijk,Liverpool,0.1,,Off Target,6.0,Head,,16:30,Matchweek 32,Sun,Home,W,2.0,1.0,3.0,Tottenham,1.0,0.7,48.0,53322.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-03-31,54,Roberto Firmino,Liverpool,0.06,,Off Target,11.0,Head,,16:30,Matchweek 32,Sun,Home,W,2.0,1.0,3.0,Tottenham,1.0,0.7,48.0,53322.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-03-31,59,Mohamed Salah,Liverpool,0.11,,Blocked,18.0,Left Foot,,16:30,Matchweek 32,Sun,Home,W,2.0,1.0,3.0,Tottenham,1.0,0.7,48.0,53322.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-03-31,59,Jordan Henderson,Liverpool,0.05,,Blocked,25.0,Right Foot,,16:30,Matchweek 32,Sun,Home,W,2.0,1.0,3.0,Tottenham,1.0,0.7,48.0,53322.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-03-31,69,Mohamed Salah,Liverpool,0.03,,Off Target,26.0,Left Foot,,16:30,Matchweek 32,Sun,Home,W,2.0,1.0,3.0,Tottenham,1.0,0.7,48.0,53322.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-03-31,72,Mohamed Salah,Liverpool,0.08,,Off Target,9.0,Head,,16:30,Matchweek 32,Sun,Home,W,2.0,1.0,3.0,Tottenham,1.0,0.7,48.0,53322.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-03-31,76,Trent Alexander-Arnold,Liverpool,0.05,0.1,Saved,20.0,Left Foot,,16:30,Matchweek 32,Sun,Home,W,2.0,1.0,3.0,Tottenham,1.0,0.7,48.0,53322.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-03-31,81,Divock Origi,Liverpool,0.07,,Blocked,30.0,Right Foot,Free kick,16:30,Matchweek 32,Sun,Home,W,2.0,1.0,3.0,Tottenham,1.0,0.7,48.0,53322.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-03-31,90,Mohamed Salah,Liverpool,0.06,0.02,Saved,6.0,Head,,16:30,Matchweek 32,Sun,Home,W,2.0,1.0,3.0,Tottenham,1.0,0.7,48.0,53322.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-04-05,16,Sadio Mané,Liverpool,0.33,0.19,Saved,8.0,Head,,20:00,Matchweek 33,Fri,Away,W,3.0,1.0,3.0,Southampton,1.9,0.9,67.0,31797.0,Virgil van Dijk,4-3-3,Paul Tierney
+2019-04-05,16,Naby Keïta,Liverpool,0.22,,Off Target,3.0,Right Foot,,20:00,Matchweek 33,Fri,Away,W,3.0,1.0,3.0,Southampton,1.9,0.9,67.0,31797.0,Virgil van Dijk,4-3-3,Paul Tierney
+2019-04-05,23,Mohamed Salah,Liverpool,0.05,,Blocked,13.0,Left Foot,,20:00,Matchweek 33,Fri,Away,W,3.0,1.0,3.0,Southampton,1.9,0.9,67.0,31797.0,Virgil van Dijk,4-3-3,Paul Tierney
+2019-04-05,30,Roberto Firmino,Liverpool,0.03,,Off Target,25.0,Right Foot,Volley,20:00,Matchweek 33,Fri,Away,W,3.0,1.0,3.0,Southampton,1.9,0.9,67.0,31797.0,Virgil van Dijk,4-3-3,Paul Tierney
+2019-04-05,36,Naby Keïta,Liverpool,0.06,0.25,Goal,8.0,Head,,20:00,Matchweek 33,Fri,Away,W,3.0,1.0,3.0,Southampton,1.9,0.9,67.0,31797.0,Virgil van Dijk,4-3-3,Paul Tierney
+2019-04-05,39,Sadio Mané,Liverpool,0.14,,Off Target,6.0,Head,,20:00,Matchweek 33,Fri,Away,W,3.0,1.0,3.0,Southampton,1.9,0.9,67.0,31797.0,Virgil van Dijk,4-3-3,Paul Tierney
+2019-04-05,45,Roberto Firmino,Liverpool,0.03,,Off Target,20.0,Right Foot,,20:00,Matchweek 33,Fri,Away,W,3.0,1.0,3.0,Southampton,1.9,0.9,67.0,31797.0,Virgil van Dijk,4-3-3,Paul Tierney
+2019-04-05,60,Fabinho,Liverpool,0.03,,Off Target,27.0,Right Foot,,20:00,Matchweek 33,Fri,Away,W,3.0,1.0,3.0,Southampton,1.9,0.9,67.0,31797.0,Virgil van Dijk,4-3-3,Paul Tierney
+2019-04-05,60,James Milner,Liverpool,0.01,,Blocked,32.0,Left Foot,,20:00,Matchweek 33,Fri,Away,W,3.0,1.0,3.0,Southampton,1.9,0.9,67.0,31797.0,Virgil van Dijk,4-3-3,Paul Tierney
+2019-04-05,60,Roberto Firmino,Liverpool,0.01,0.05,Saved,29.0,Right Foot,,20:00,Matchweek 33,Fri,Away,W,3.0,1.0,3.0,Southampton,1.9,0.9,67.0,31797.0,Virgil van Dijk,4-3-3,Paul Tierney
+2019-04-05,62,Roberto Firmino,Liverpool,0.11,,Off Target,10.0,Left Foot,,20:00,Matchweek 33,Fri,Away,W,3.0,1.0,3.0,Southampton,1.9,0.9,67.0,31797.0,Virgil van Dijk,4-3-3,Paul Tierney
+2019-04-05,66,Roberto Firmino,Liverpool,0.24,,Blocked,9.0,Right Foot,,20:00,Matchweek 33,Fri,Away,W,3.0,1.0,3.0,Southampton,1.9,0.9,67.0,31797.0,Virgil van Dijk,4-3-3,Paul Tierney
+2019-04-05,66,James Milner,Liverpool,0.04,,Blocked,18.0,Right Foot,,20:00,Matchweek 33,Fri,Away,W,3.0,1.0,3.0,Southampton,1.9,0.9,67.0,31797.0,Virgil van Dijk,4-3-3,Paul Tierney
+2019-04-05,68,Jordan Henderson,Liverpool,0.03,,Blocked,18.0,Right Foot,Volley,20:00,Matchweek 33,Fri,Away,W,3.0,1.0,3.0,Southampton,1.9,0.9,67.0,31797.0,Virgil van Dijk,4-3-3,Paul Tierney
+2019-04-05,72,Sadio Mané,Liverpool,0.07,,Off Target,9.0,Head,,20:00,Matchweek 33,Fri,Away,W,3.0,1.0,3.0,Southampton,1.9,0.9,67.0,31797.0,Virgil van Dijk,4-3-3,Paul Tierney
+2019-04-05,80,Mohamed Salah,Liverpool,0.09,0.6,Goal,18.0,Left Foot,,20:00,Matchweek 33,Fri,Away,W,3.0,1.0,3.0,Southampton,1.9,0.9,67.0,31797.0,Virgil van Dijk,4-3-3,Paul Tierney
+2019-04-05,86,Jordan Henderson,Liverpool,0.46,0.75,Goal,8.0,Left Foot,,20:00,Matchweek 33,Fri,Away,W,3.0,1.0,3.0,Southampton,1.9,0.9,67.0,31797.0,Virgil van Dijk,4-3-3,Paul Tierney
+2019-04-09,5,Naby Keïta,Liverpool,0.06,0.12,Goal,18.0,Right Foot,Deflected,,,,,,,,,,,,,,,,
+2019-04-09,6,Roberto Firmino,Liverpool,0.05,,Blocked,14.0,Left Foot,,,,,,,,,,,,,,,,,
+2019-04-09,16,Naby Keïta,Liverpool,0.05,,Blocked,22.0,Right Foot,,,,,,,,,,,,,,,,,
+2019-04-09,18,Mohamed Salah,Liverpool,0.04,,Blocked,19.0,Left Foot,,,,,,,,,,,,,,,,,
+2019-04-09,18,Mohamed Salah,Liverpool,0.04,0.05,Saved,25.0,Left Foot,Volley,,,,,,,,,,,,,,,,
+2019-04-09,22,Mohamed Salah,Liverpool,0.46,,Off Target,14.0,Left Foot,,,,,,,,,,,,,,,,,
+2019-04-09,26,Roberto Firmino,Liverpool,0.82,0.93,Goal,3.0,Right Foot,,,,,,,,,,,,,,,,,
+2019-04-09,34,Roberto Firmino,Liverpool,0.35,,Off Target,11.0,Left Foot,,,,,,,,,,,,,,,,,
+2019-04-09,52,Mohamed Salah,Liverpool,0.16,,Blocked,13.0,Left Foot,,,,,,,,,,,,,,,,,
+2019-04-09,60,James Milner,Liverpool,0.03,,Blocked,23.0,Right Foot,,,,,,,,,,,,,,,,,
+2019-04-09,61,Mohamed Salah,Liverpool,0.03,,Off Target,20.0,Left Foot,Volley,,,,,,,,,,,,,,,,
+2019-04-09,63,Mohamed Salah,Liverpool,0.06,,Blocked,19.0,Left Foot,,,,,,,,,,,,,,,,,
+2019-04-09,63,Mohamed Salah,Liverpool,0.07,,Blocked,16.0,Left Foot,,,,,,,,,,,,,,,,,
+2019-04-09,70,Sadio Mané,Liverpool,0.04,,Off Target,25.0,Right Foot,,,,,,,,,,,,,,,,,
+2019-04-09,75,Trent Alexander-Arnold,Liverpool,0.03,,Blocked,26.0,Right Foot,,,,,,,,,,,,,,,,,
+2019-04-14,6,Mohamed Salah,Liverpool,0.07,0.03,Saved,11.0,Left Foot,Volley,16:30,Matchweek 34,Sun,Home,W,2.0,0.0,3.0,Chelsea,1.2,0.7,62.0,53279.0,Jordan Henderson,4-3-3,Michael Oliver
+2019-04-14,17,Mohamed Salah,Liverpool,0.05,,Blocked,17.0,Left Foot,,16:30,Matchweek 34,Sun,Home,W,2.0,0.0,3.0,Chelsea,1.2,0.7,62.0,53279.0,Jordan Henderson,4-3-3,Michael Oliver
+2019-04-14,26,Jordan Henderson,Liverpool,0.06,,Blocked,17.0,Right Foot,Volley,16:30,Matchweek 34,Sun,Home,W,2.0,0.0,3.0,Chelsea,1.2,0.7,62.0,53279.0,Jordan Henderson,4-3-3,Michael Oliver
+2019-04-14,38,Sadio Mané,Liverpool,0.12,,Off Target,15.0,Right Foot,,16:30,Matchweek 34,Sun,Home,W,2.0,0.0,3.0,Chelsea,1.2,0.7,62.0,53279.0,Jordan Henderson,4-3-3,Michael Oliver
+2019-04-14,48,Trent Alexander-Arnold,Liverpool,0.03,,Blocked,25.0,Right Foot,,16:30,Matchweek 34,Sun,Home,W,2.0,0.0,3.0,Chelsea,1.2,0.7,62.0,53279.0,Jordan Henderson,4-3-3,Michael Oliver
+2019-04-14,49,Naby Keïta,Liverpool,0.06,,Off Target,17.0,Right Foot,Volley,16:30,Matchweek 34,Sun,Home,W,2.0,0.0,3.0,Chelsea,1.2,0.7,62.0,53279.0,Jordan Henderson,4-3-3,Michael Oliver
+2019-04-14,51,Sadio Mané,Liverpool,0.56,0.73,Goal,4.0,Head,,16:30,Matchweek 34,Sun,Home,W,2.0,0.0,3.0,Chelsea,1.2,0.7,62.0,53279.0,Jordan Henderson,4-3-3,Michael Oliver
+2019-04-14,53,Mohamed Salah,Liverpool,0.03,0.35,Goal,27.0,Left Foot,,16:30,Matchweek 34,Sun,Home,W,2.0,0.0,3.0,Chelsea,1.2,0.7,62.0,53279.0,Jordan Henderson,4-3-3,Michael Oliver
+2019-04-14,57,Roberto Firmino,Liverpool,0.03,,Off Target,26.0,Right Foot,,16:30,Matchweek 34,Sun,Home,W,2.0,0.0,3.0,Chelsea,1.2,0.7,62.0,53279.0,Jordan Henderson,4-3-3,Michael Oliver
+2019-04-14,60,Fabinho,Liverpool,0.03,,Blocked,29.0,Right Foot,,16:30,Matchweek 34,Sun,Home,W,2.0,0.0,3.0,Chelsea,1.2,0.7,62.0,53279.0,Jordan Henderson,4-3-3,Michael Oliver
+2019-04-14,65,Mohamed Salah,Liverpool,0.04,0.22,Saved,17.0,Left Foot,,16:30,Matchweek 34,Sun,Home,W,2.0,0.0,3.0,Chelsea,1.2,0.7,62.0,53279.0,Jordan Henderson,4-3-3,Michael Oliver
+2019-04-14,71,Mohamed Salah,Liverpool,0.04,,Blocked,17.0,Left Foot,,16:30,Matchweek 34,Sun,Home,W,2.0,0.0,3.0,Chelsea,1.2,0.7,62.0,53279.0,Jordan Henderson,4-3-3,Michael Oliver
+2019-04-14,72,Trent Alexander-Arnold,Liverpool,0.03,0.05,Saved,15.0,Right Foot,,16:30,Matchweek 34,Sun,Home,W,2.0,0.0,3.0,Chelsea,1.2,0.7,62.0,53279.0,Jordan Henderson,4-3-3,Michael Oliver
+2019-04-14,80,Roberto Firmino,Liverpool,0.02,0.18,Saved,19.0,Left Foot,,16:30,Matchweek 34,Sun,Home,W,2.0,0.0,3.0,Chelsea,1.2,0.7,62.0,53279.0,Jordan Henderson,4-3-3,Michael Oliver
+2019-04-14,89,Sadio Mané,Liverpool,0.05,0.08,Saved,13.0,Left Foot,,16:30,Matchweek 34,Sun,Home,W,2.0,0.0,3.0,Chelsea,1.2,0.7,62.0,53279.0,Jordan Henderson,4-3-3,Michael Oliver
+2019-04-17,26,Mohamed Salah,Liverpool,0.04,,Off Target,20.0,Left Foot,,,,,,,,,,,,,,,,,
+2019-04-17,26,Mohamed Salah,Liverpool,0.1,,Off Target,9.0,Right Foot,,,,,,,,,,,,,,,,,
+2019-04-17,26,Sadio Mané,Liverpool,0.77,0.95,Goal,3.0,Right Foot,,,,,,,,,,,,,,,,,
+2019-04-17,45,James Milner,Liverpool,0.06,,Off Target,12.0,Right Foot,Volley,,,,,,,,,,,,,,,,
+2019-04-17,57,Mohamed Salah,Liverpool,0.05,,Off Target,15.0,Head,,,,,,,,,,,,,,,,,
+2019-04-17,65,Mohamed Salah,Liverpool,0.64,0.94,Goal,13.0,Left Foot,,,,,,,,,,,,,,,,,
+2019-04-17,72,Sadio Mané,Liverpool,0.73,,Off Target,11.0,Right Foot,,,,,,,,,,,,,,,,,
+2019-04-17,77,Roberto Firmino,Liverpool,0.38,0.19,Goal,7.0,Head,,,,,,,,,,,,,,,,,
+2019-04-17,84,Virgil van Dijk,Liverpool,0.7,0.71,Goal,3.0,Head,,,,,,,,,,,,,,,,,
+2019-04-17,88,Mohamed Salah,Liverpool,0.06,,Off Target,28.0,Left Foot,Free kick,,,,,,,,,,,,,,,,
+2019-04-17,90,Sadio Mané,Liverpool,0.05,,Off Target,19.0,Right Foot,,,,,,,,,,,,,,,,,
+2019-04-17,90,Mohamed Salah,Liverpool,0.03,0.02,Saved,23.0,Left Foot,Volley,,,,,,,,,,,,,,,,
+2019-04-17,90,Mohamed Salah,Liverpool,0.03,,Blocked,27.0,Left Foot,,,,,,,,,,,,,,,,,
+2019-04-21,13,Sadio Mané,Liverpool,0.03,,Off Target,31.0,Right Foot,,16:00,Matchweek 35,Sun,Away,W,2.0,0.0,3.0,Cardiff City,3.0,1.1,75.0,33082.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-04-21,18,Roberto Firmino,Liverpool,0.04,,Blocked,18.0,Left Foot,,16:00,Matchweek 35,Sun,Away,W,2.0,0.0,3.0,Cardiff City,3.0,1.1,75.0,33082.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-04-21,22,Roberto Firmino,Liverpool,0.48,,Off Target,12.0,Left Foot,,16:00,Matchweek 35,Sun,Away,W,2.0,0.0,3.0,Cardiff City,3.0,1.1,75.0,33082.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-04-21,31,Sadio Mané,Liverpool,0.13,,Off Target,8.0,Left Foot,,16:00,Matchweek 35,Sun,Away,W,2.0,0.0,3.0,Cardiff City,3.0,1.1,75.0,33082.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-04-21,34,Mohamed Salah,Liverpool,0.46,0.73,Saved,13.0,Left Foot,,16:00,Matchweek 35,Sun,Away,W,2.0,0.0,3.0,Cardiff City,3.0,1.1,75.0,33082.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-04-21,41,Roberto Firmino,Liverpool,0.07,0.03,Saved,5.0,Head,,16:00,Matchweek 35,Sun,Away,W,2.0,0.0,3.0,Cardiff City,3.0,1.1,75.0,33082.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-04-21,45,Trent Alexander-Arnold,Liverpool,0.07,,Blocked,28.0,Right Foot,Free kick,16:00,Matchweek 35,Sun,Away,W,2.0,0.0,3.0,Cardiff City,3.0,1.1,75.0,33082.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-04-21,50,Mohamed Salah,Liverpool,0.03,0.52,Saved,29.0,Left Foot,,16:00,Matchweek 35,Sun,Away,W,2.0,0.0,3.0,Cardiff City,3.0,1.1,75.0,33082.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-04-21,51,Sadio Mané,Liverpool,0.04,,Off Target,17.0,Right Foot,,16:00,Matchweek 35,Sun,Away,W,2.0,0.0,3.0,Cardiff City,3.0,1.1,75.0,33082.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-04-21,55,Trent Alexander-Arnold,Liverpool,0.03,,Off Target,28.0,Right Foot,,16:00,Matchweek 35,Sun,Away,W,2.0,0.0,3.0,Cardiff City,3.0,1.1,75.0,33082.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-04-21,57,Georginio Wijnaldum,Liverpool,0.08,0.3,Goal,12.0,Right Foot,,16:00,Matchweek 35,Sun,Away,W,2.0,0.0,3.0,Cardiff City,3.0,1.1,75.0,33082.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-04-21,60,Naby Keïta,Liverpool,0.02,,Blocked,28.0,Right Foot,,16:00,Matchweek 35,Sun,Away,W,2.0,0.0,3.0,Cardiff City,3.0,1.1,75.0,33082.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-04-21,61,Jordan Henderson,Liverpool,0.29,,Off Target,13.0,Right Foot,,16:00,Matchweek 35,Sun,Away,W,2.0,0.0,3.0,Cardiff City,3.0,1.1,75.0,33082.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-04-21,66,Mohamed Salah,Liverpool,0.07,,Off Target,17.0,Left Foot,,16:00,Matchweek 35,Sun,Away,W,2.0,0.0,3.0,Cardiff City,3.0,1.1,75.0,33082.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-04-21,72,Virgil van Dijk,Liverpool,0.28,,Off Target,4.0,Head,,16:00,Matchweek 35,Sun,Away,W,2.0,0.0,3.0,Cardiff City,3.0,1.1,75.0,33082.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-04-21,81,James Milner,Liverpool,0.79,0.99,Goal,13.0,Right Foot,,16:00,Matchweek 35,Sun,Away,W,2.0,0.0,3.0,Cardiff City,3.0,1.1,75.0,33082.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-04-21,90,Mohamed Salah,Liverpool,0.1,0.15,Saved,10.0,Left Foot,,16:00,Matchweek 35,Sun,Away,W,2.0,0.0,3.0,Cardiff City,3.0,1.1,75.0,33082.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-04-26,1,Naby Keïta,Liverpool,0.08,0.61,Goal,13.0,Right Foot,,20:00,Matchweek 36,Fri,Home,W,5.0,0.0,3.0,Huddersfield,3.1,0.2,69.0,53249.0,Jordan Henderson,4-3-3,Kevin Friend
+2019-04-26,2,Mohamed Salah,Liverpool,0.04,0.03,Saved,17.0,Left Foot,,20:00,Matchweek 36,Fri,Home,W,5.0,0.0,3.0,Huddersfield,3.1,0.2,69.0,53249.0,Jordan Henderson,4-3-3,Kevin Friend
+2019-04-26,15,Mohamed Salah,Liverpool,0.07,,Off Target,12.0,Right Foot,,20:00,Matchweek 36,Fri,Home,W,5.0,0.0,3.0,Huddersfield,3.1,0.2,69.0,53249.0,Jordan Henderson,4-3-3,Kevin Friend
+2019-04-26,17,Virgil van Dijk,Liverpool,0.07,,Off Target,9.0,Head,,20:00,Matchweek 36,Fri,Home,W,5.0,0.0,3.0,Huddersfield,3.1,0.2,69.0,53249.0,Jordan Henderson,4-3-3,Kevin Friend
+2019-04-26,23,Sadio Mané,Liverpool,0.26,0.52,Goal,10.0,Head,,20:00,Matchweek 36,Fri,Home,W,5.0,0.0,3.0,Huddersfield,3.1,0.2,69.0,53249.0,Jordan Henderson,4-3-3,Kevin Friend
+2019-04-26,28,Mohamed Salah,Liverpool,0.03,,Off Target,26.0,Left Foot,,20:00,Matchweek 36,Fri,Home,W,5.0,0.0,3.0,Huddersfield,3.1,0.2,69.0,53249.0,Jordan Henderson,4-3-3,Kevin Friend
+2019-04-26,29,Daniel Sturridge,Liverpool,0.03,,Off Target,29.0,Left Foot,,20:00,Matchweek 36,Fri,Home,W,5.0,0.0,3.0,Huddersfield,3.1,0.2,69.0,53249.0,Jordan Henderson,4-3-3,Kevin Friend
+2019-04-26,43,Jordan Henderson,Liverpool,0.07,,Off Target,15.0,Left Foot,,20:00,Matchweek 36,Fri,Home,W,5.0,0.0,3.0,Huddersfield,3.1,0.2,69.0,53249.0,Jordan Henderson,4-3-3,Kevin Friend
+2019-04-26,45,Mohamed Salah,Liverpool,0.28,0.23,Goal,17.0,Left Foot,,20:00,Matchweek 36,Fri,Home,W,5.0,0.0,3.0,Huddersfield,3.1,0.2,69.0,53249.0,Jordan Henderson,4-3-3,Kevin Friend
+2019-04-26,49,Sadio Mané,Liverpool,0.28,,Off Target,16.0,Right Foot,,20:00,Matchweek 36,Fri,Home,W,5.0,0.0,3.0,Huddersfield,3.1,0.2,69.0,53249.0,Jordan Henderson,4-3-3,Kevin Friend
+2019-04-26,60,Naby Keïta,Liverpool,0.03,,Off Target,24.0,Right Foot,,20:00,Matchweek 36,Fri,Home,W,5.0,0.0,3.0,Huddersfield,3.1,0.2,69.0,53249.0,Jordan Henderson,4-3-3,Kevin Friend
+2019-04-26,62,Mohamed Salah,Liverpool,0.04,,Off Target,29.0,Left Foot,Volley,20:00,Matchweek 36,Fri,Home,W,5.0,0.0,3.0,Huddersfield,3.1,0.2,69.0,53249.0,Jordan Henderson,4-3-3,Kevin Friend
+2019-04-26,63,Daniel Sturridge,Liverpool,0.03,,Blocked,23.0,Left Foot,,20:00,Matchweek 36,Fri,Home,W,5.0,0.0,3.0,Huddersfield,3.1,0.2,69.0,53249.0,Jordan Henderson,4-3-3,Kevin Friend
+2019-04-26,66,Sadio Mané,Liverpool,0.07,0.16,Goal,8.0,Head,,20:00,Matchweek 36,Fri,Home,W,5.0,0.0,3.0,Huddersfield,3.1,0.2,69.0,53249.0,Jordan Henderson,4-3-3,Kevin Friend
+2019-04-26,74,Mohamed Salah,Liverpool,0.03,,Blocked,29.0,Left Foot,,20:00,Matchweek 36,Fri,Home,W,5.0,0.0,3.0,Huddersfield,3.1,0.2,69.0,53249.0,Jordan Henderson,4-3-3,Kevin Friend
+2019-04-26,76,Alex Oxlade-Chamberlain,Liverpool,0.54,0.91,Saved,10.0,Left Foot,,20:00,Matchweek 36,Fri,Home,W,5.0,0.0,3.0,Huddersfield,3.1,0.2,69.0,53249.0,Jordan Henderson,4-3-3,Kevin Friend
+2019-04-26,78,Sadio Mané,Liverpool,0.38,,Woodwork,4.0,Head,,20:00,Matchweek 36,Fri,Home,W,5.0,0.0,3.0,Huddersfield,3.1,0.2,69.0,53249.0,Jordan Henderson,4-3-3,Kevin Friend
+2019-04-26,80,Dejan Lovren,Liverpool,0.07,,Off Target,12.0,Right Foot,,20:00,Matchweek 36,Fri,Home,W,5.0,0.0,3.0,Huddersfield,3.1,0.2,69.0,53249.0,Jordan Henderson,4-3-3,Kevin Friend
+2019-04-26,83,Mohamed Salah,Liverpool,0.66,0.8,Goal,5.0,Right Foot,,20:00,Matchweek 36,Fri,Home,W,5.0,0.0,3.0,Huddersfield,3.1,0.2,69.0,53249.0,Jordan Henderson,4-3-3,Kevin Friend
+2019-04-26,90,Mohamed Salah,Liverpool,0.07,,Off Target,15.0,Left Foot,,20:00,Matchweek 36,Fri,Home,W,5.0,0.0,3.0,Huddersfield,3.1,0.2,69.0,53249.0,Jordan Henderson,4-3-3,Kevin Friend
+2019-04-26,90,Xherdan Shaqiri,Liverpool,0.03,,Off Target,26.0,Right Foot,,20:00,Matchweek 36,Fri,Home,W,5.0,0.0,3.0,Huddersfield,3.1,0.2,69.0,53249.0,Jordan Henderson,4-3-3,Kevin Friend
+2019-05-01,2,Mohamed Salah,Liverpool,0.08,,Blocked,16.0,Left Foot,,,,,,,,,,,,,,,,,
+2019-05-01,14,Sadio Mané,Liverpool,0.04,,Off Target,14.0,Head,,,,,,,,,,,,,,,,,
+2019-05-01,23,Sadio Mané,Liverpool,0.07,,Blocked,13.0,Right Foot,,,,,,,,,,,,,,,,,
+2019-05-01,35,Sadio Mané,Liverpool,0.41,,Off Target,14.0,Left Foot,,,,,,,,,,,,,,,,,
+2019-05-01,38,Mohamed Salah,Liverpool,0.06,,Blocked,18.0,Left Foot,,,,,,,,,,,,,,,,,
+2019-05-01,38,James Milner,Liverpool,0.03,,Off Target,30.0,Right Foot,,,,,,,,,,,,,,,,,
+2019-05-01,47,James Milner,Liverpool,0.05,0.38,Saved,18.0,Right Foot,,,,,,,,,,,,,,,,,
+2019-05-01,53,Mohamed Salah,Liverpool,0.04,0.61,Saved,23.0,Left Foot,,,,,,,,,,,,,,,,,
+2019-05-01,59,James Milner,Liverpool,0.29,0.23,Saved,17.0,Right Foot,,,,,,,,,,,,,,,,,
+2019-05-01,67,Sadio Mané,Liverpool,0.06,,Off Target,14.0,Head,,,,,,,,,,,,,,,,,
+2019-05-01,68,Joe Gomez,Liverpool,0.03,,Off Target,28.0,Right Foot,,,,,,,,,,,,,,,,,
+2019-05-01,84,Roberto Firmino,Liverpool,0.07,,Blocked,9.0,Right Foot,,,,,,,,,,,,,,,,,
+2019-05-01,84,Mohamed Salah,Liverpool,0.49,,Woodwork,7.0,Right Foot,,,,,,,,,,,,,,,,,
+2019-05-01,84,Jordan Henderson,Liverpool,0.08,,Off Target,10.0,Head,,,,,,,,,,,,,,,,,
+2019-05-01,90,Jordan Henderson,Liverpool,0.05,,Off Target,14.0,Head,,,,,,,,,,,,,,,,,
+2019-05-04,11,Mohamed Salah,Liverpool,0.05,,Off Target,8.0,Left Foot,,19:45,Matchweek 37,Sat,Away,W,3.0,2.0,3.0,Newcastle Utd,1.2,1.4,69.0,52206.0,Jordan Henderson,4-3-3,Andre Marriner
+2019-05-04,13,Mohamed Salah,Liverpool,0.06,,Blocked,11.0,Right Foot,,19:45,Matchweek 37,Sat,Away,W,3.0,2.0,3.0,Newcastle Utd,1.2,1.4,69.0,52206.0,Jordan Henderson,4-3-3,Andre Marriner
+2019-05-04,13,Virgil van Dijk,Liverpool,0.13,0.07,Goal,7.0,Head,,19:45,Matchweek 37,Sat,Away,W,3.0,2.0,3.0,Newcastle Utd,1.2,1.4,69.0,52206.0,Jordan Henderson,4-3-3,Andre Marriner
+2019-05-04,28,Mohamed Salah,Liverpool,0.08,0.27,Goal,12.0,Right Foot,Volley,19:45,Matchweek 37,Sat,Away,W,3.0,2.0,3.0,Newcastle Utd,1.2,1.4,69.0,52206.0,Jordan Henderson,4-3-3,Andre Marriner
+2019-05-04,32,Sadio Mané,Liverpool,0.34,0.19,Saved,11.0,Right Foot,,19:45,Matchweek 37,Sat,Away,W,3.0,2.0,3.0,Newcastle Utd,1.2,1.4,69.0,52206.0,Jordan Henderson,4-3-3,Andre Marriner
+2019-05-04,34,Daniel Sturridge,Liverpool,0.03,,Off Target,23.0,Left Foot,,19:45,Matchweek 37,Sat,Away,W,3.0,2.0,3.0,Newcastle Utd,1.2,1.4,69.0,52206.0,Jordan Henderson,4-3-3,Andre Marriner
+2019-05-04,37,Andrew Robertson,Liverpool,0.04,,Off Target,18.0,Left Foot,,19:45,Matchweek 37,Sat,Away,W,3.0,2.0,3.0,Newcastle Utd,1.2,1.4,69.0,52206.0,Jordan Henderson,4-3-3,Andre Marriner
+2019-05-04,48,Mohamed Salah,Liverpool,0.05,,Off Target,17.0,Right Foot,,19:45,Matchweek 37,Sat,Away,W,3.0,2.0,3.0,Newcastle Utd,1.2,1.4,69.0,52206.0,Jordan Henderson,4-3-3,Andre Marriner
+2019-05-04,50,Daniel Sturridge,Liverpool,0.07,,Off Target,16.0,Left Foot,,19:45,Matchweek 37,Sat,Away,W,3.0,2.0,3.0,Newcastle Utd,1.2,1.4,69.0,52206.0,Jordan Henderson,4-3-3,Andre Marriner
+2019-05-04,51,Jordan Henderson,Liverpool,0.11,,Off Target,12.0,Right Foot,Volley,19:45,Matchweek 37,Sat,Away,W,3.0,2.0,3.0,Newcastle Utd,1.2,1.4,69.0,52206.0,Jordan Henderson,4-3-3,Andre Marriner
+2019-05-04,86,Divock Origi,Liverpool,0.25,0.82,Goal,6.0,Head,Deflected,19:45,Matchweek 37,Sat,Away,W,3.0,2.0,3.0,Newcastle Utd,1.2,1.4,69.0,52206.0,Jordan Henderson,4-3-3,Andre Marriner
+2019-05-07,1,Xherdan Shaqiri,Liverpool,0.07,,Off Target,13.0,Left Foot,,,,,,,,,,,,,,,,,
+2019-05-07,7,Jordan Henderson,Liverpool,0.43,0.71,Saved,13.0,Left Foot,,,,,,,,,,,,,,,,,
+2019-05-07,7,Divock Origi,Liverpool,0.52,0.73,Goal,7.0,Right Foot,,,,,,,,,,,,,,,,,
+2019-05-07,22,Jordan Henderson,Liverpool,0.07,,Blocked,14.0,Right Foot,Deflected,,,,,,,,,,,,,,,,
+2019-05-07,23,Andrew Robertson,Liverpool,0.04,0.07,Saved,18.0,Left Foot,,,,,,,,,,,,,,,,,
+2019-05-07,43,Andrew Robertson,Liverpool,0.03,,Blocked,29.0,Left Foot,,,,,,,,,,,,,,,,,
+2019-05-07,44,Trent Alexander-Arnold,Liverpool,0.03,,Off Target,22.0,Right Foot,Volley,,,,,,,,,,,,,,,,
+2019-05-07,51,Virgil van Dijk,Liverpool,0.58,0.72,Saved,5.0,Right Foot,,,,,,,,,,,,,,,,,
+2019-05-07,54,Georginio Wijnaldum,Liverpool,0.08,0.09,Goal,14.0,Right Foot,,,,,,,,,,,,,,,,,
+2019-05-07,56,Georginio Wijnaldum,Liverpool,0.07,0.39,Goal,11.0,Head,,,,,,,,,,,,,,,,,
+2019-05-07,76,Trent Alexander-Arnold,Liverpool,0.02,,Off Target,30.0,Right Foot,,,,,,,,,,,,,,,,,
+2019-05-07,79,Divock Origi,Liverpool,0.31,0.91,Goal,9.0,Right Foot,,,,,,,,,,,,,,,,,
+2019-05-07,86,Xherdan Shaqiri,Liverpool,0.26,,Off Target,9.0,Head,,,,,,,,,,,,,,,,,
+2019-05-12,4,Divock Origi,Liverpool,0.05,0.11,Saved,13.0,Right Foot,Volley,15:00,Matchweek 38,Sun,Home,W,2.0,0.0,3.0,Wolves,1.6,1.3,59.0,53331.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-05-12,17,Sadio Mané,Liverpool,0.52,0.75,Goal,9.0,Right Foot,,15:00,Matchweek 38,Sun,Home,W,2.0,0.0,3.0,Wolves,1.6,1.3,59.0,53331.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-05-12,20,Mohamed Salah,Liverpool,0.1,,Blocked,15.0,Left Foot,,15:00,Matchweek 38,Sun,Home,W,2.0,0.0,3.0,Wolves,1.6,1.3,59.0,53331.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-05-12,24,Andrew Robertson,Liverpool,0.03,0.06,Saved,27.0,Left Foot,,15:00,Matchweek 38,Sun,Home,W,2.0,0.0,3.0,Wolves,1.6,1.3,59.0,53331.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-05-12,34,Mohamed Salah,Liverpool,0.04,,Off Target,18.0,Left Foot,Volley,15:00,Matchweek 38,Sun,Home,W,2.0,0.0,3.0,Wolves,1.6,1.3,59.0,53331.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-05-12,48,Trent Alexander-Arnold,Liverpool,0.05,,Off Target,29.0,Right Foot,Free kick,15:00,Matchweek 38,Sun,Home,W,2.0,0.0,3.0,Wolves,1.6,1.3,59.0,53331.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-05-12,63,Divock Origi,Liverpool,0.09,,Off Target,12.0,Right Foot,Volley,15:00,Matchweek 38,Sun,Home,W,2.0,0.0,3.0,Wolves,1.6,1.3,59.0,53331.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-05-12,73,Mohamed Salah,Liverpool,0.08,,Blocked,13.0,Left Foot,,15:00,Matchweek 38,Sun,Home,W,2.0,0.0,3.0,Wolves,1.6,1.3,59.0,53331.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-05-12,74,Georginio Wijnaldum,Liverpool,0.3,,Off Target,4.0,Right Foot,Volley,15:00,Matchweek 38,Sun,Home,W,2.0,0.0,3.0,Wolves,1.6,1.3,59.0,53331.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-05-12,81,Mohamed Salah,Liverpool,0.05,,Blocked,20.0,Left Foot,Volley,15:00,Matchweek 38,Sun,Home,W,2.0,0.0,3.0,Wolves,1.6,1.3,59.0,53331.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-05-12,81,Sadio Mané,Liverpool,0.2,0.22,Goal,13.0,Head,,15:00,Matchweek 38,Sun,Home,W,2.0,0.0,3.0,Wolves,1.6,1.3,59.0,53331.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-05-12,83,Virgil van Dijk,Liverpool,0.04,,Woodwork,9.0,Head,,15:00,Matchweek 38,Sun,Home,W,2.0,0.0,3.0,Wolves,1.6,1.3,59.0,53331.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-05-12,87,Mohamed Salah,Liverpool,0.03,0.51,Saved,23.0,Left Foot,,15:00,Matchweek 38,Sun,Home,W,2.0,0.0,3.0,Wolves,1.6,1.3,59.0,53331.0,Jordan Henderson,4-3-3,Martin Atkinson
+2019-06-01,2,Mohamed Salah,Liverpool,0.79,0.91,Goal,13.0,Left Foot,,,,,,,,,,,,,,,,,
+2019-06-01,17,Trent Alexander-Arnold,Liverpool,0.02,,Off Target,33.0,Right Foot,,,,,,,,,,,,,,,,,
+2019-06-01,21,Mohamed Salah,Liverpool,0.03,,Blocked,27.0,Left Foot,,,,,,,,,,,,,,,,,
+2019-06-01,22,Mohamed Salah,Liverpool,0.04,,Off Target,16.0,Left Foot,,,,,,,,,,,,,,,,,
+2019-06-01,38,Andrew Robertson,Liverpool,0.03,0.06,Saved,24.0,Left Foot,,,,,,,,,,,,,,,,,
+2019-06-01,39,Mohamed Salah,Liverpool,0.03,,Off Target,23.0,Right Foot,Volley,,,,,,,,,,,,,,,,
+2019-06-01,42,Jordan Henderson,Liverpool,0.03,,Blocked,32.0,Right Foot,,,,,,,,,,,,,,,,,
+2019-06-01,42,Mohamed Salah,Liverpool,0.02,,Blocked,28.0,Left Foot,Volley,,,,,,,,,,,,,,,,
+2019-06-01,53,Fabinho,Liverpool,0.03,,Blocked,30.0,Right Foot,,,,,,,,,,,,,,,,,
+2019-06-01,54,Mohamed Salah,Liverpool,0.11,,Blocked,12.0,Left Foot,,,,,,,,,,,,,,,,,
+2019-06-01,69,James Milner,Liverpool,0.05,,Off Target,17.0,Left Foot,,,,,,,,,,,,,,,,,
+2019-06-01,83,Jordan Henderson,Liverpool,0.03,,Off Target,28.0,Right Foot,,,,,,,,,,,,,,,,,
+2019-06-01,87,Virgil van Dijk,Liverpool,0.05,,Blocked,15.0,Right Foot,Volley,,,,,,,,,,,,,,,,
+2019-06-01,87,Divock Origi,Liverpool,0.04,0.58,Goal,15.0,Left Foot,,,,,,,,,,,,,,,,,
