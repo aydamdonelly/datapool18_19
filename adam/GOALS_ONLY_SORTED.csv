@@ -1,0 +1,1038 @@
+Date,Minute,Player,Squad,xG,PSxG,Outcome,Distance,Body Part,MatchDay
+2018-08-12,19,Mohamed Salah,Liverpool,0.74,0.95,Goal,4.0,Right Foot,1
+2018-08-10,90+2,Jamie Vardy,Leicester City,0.92,0.98,Goal,1.0,Head,1
+2018-08-10,83,Luke Shaw,Manchester Utd,0.12,0.52,Goal,9.0,Left Foot,1
+2018-08-10,3,Paul Pogba,Manchester Utd,0.79,1.0,Goal,13.0,Right Foot,1
+2018-08-11,90+1,Callum Wilson,Bournemouth,0.07,0.64,Goal,11.0,Right Foot,1
+2018-08-11,24,Ryan Fraser,Bournemouth,0.44,0.73,Goal,8.0,Right Foot,1
+2018-08-11,44,Rúben Neves,Wolves,0.12,0.5,Goal,21.0,Right Foot,1
+2018-08-11,18.0,Dele Alli,Tottenham,0.32,0.74,Goal,6.0,Head,1
+2018-08-11,67,Richarlison,Everton,0.04,0.62,Goal,16.0,Right Foot,1
+2018-08-11,41,Jeffrey Schlupp,Crystal Palace,0.06,0.12,Goal,11.0,Left Foot,1
+2018-08-11,80,Wilfried Zaha,Crystal Palace,0.25,0.21,Goal,18.0,Right Foot,1
+2018-08-11,54,Roberto Pereyra,Watford,0.07,0.03,Goal,10.0,Right Foot,1
+2018-08-11,35,Roberto Pereyra,Watford,0.04,0.36,Goal,16.0,Right Foot,1
+2018-08-12,64,Bernardo Silva,Manchester City,0.09,0.34,Goal,17.0,Left Foot,1
+2018-08-12,14,Raheem Sterling,Manchester City,0.06,0.2,Goal,22.0,Right Foot,1
+2018-08-11,80,Raúl Jiménez,Wolves,0.26,0.73,Goal,10.0,Head,1
+2018-08-11,11.0,Joselu,Newcastle Utd,0.33,0.75,Goal,7.0,Head,1
+2018-08-11,17,Richarlison,Everton,0.54,0.77,Goal,5.0,Right Foot,1
+2018-08-11,34,N'Golo Kanté,Chelsea,0.08,0.65,Goal,11.0,Left Foot,1
+2018-08-12,53,Sadio Mané,Liverpool,0.11,0.28,Goal,16.0,Right Foot,1
+2018-08-11,80,Pedro,Chelsea,0.27,0.73,Goal,15.0,Right Foot,1
+2018-08-12,45+2,Sadio Mané,Liverpool,0.75,0.94,Goal,4.0,Right Foot,1
+2018-08-12,88,Daniel Sturridge,Liverpool,0.59,0.94,Goal,3.0,Left Foot,1
+2018-08-11,8.0,Jan Vertonghen,Tottenham,0.29,0.48,Goal,4.0,Head,1
+2018-08-11,45,Jorginho,Chelsea,0.79,0.97,Goal,13.0,Right Foot,1
+2018-08-20,90+3,Sadio Mané,Liverpool,0.51,0.73,Goal,11.0,Right Foot,2
+2018-08-19,3,Andre Gray,Watford,0.06,0.26,Goal,16.0,Right Foot,2
+2018-08-19,48,David Silva,Manchester City,0.07,0.52,Goal,29.0,Left Foot,2
+2018-08-19,43,Jon Gorenc Stanković,Huddersfield,0.51,0.47,Goal,6.0,Left Foot,2
+2018-08-19,6,James Tarkowski,Burnley,0.19,0.38,Goal,6.0,Head,2
+2018-08-19,35,Sergio Agüero,Manchester City,0.57,0.84,Goal,4.0,Left Foot,2
+2018-08-19,31,Gabriel Jesus,Manchester City,0.04,0.19,Goal,17.0,Left Foot,2
+2018-08-18,54,Danny Ings,Southampton,0.36,0.46,Goal,5.0,Right Foot,2
+2018-08-19,48,Troy Deeney,Watford,0.16,0.05,Goal,10.0,Right Foot,2
+2018-08-18,31,Richarlison,Everton,0.29,0.44,Goal,9.0,Head,2
+2018-08-18,15,Theo Walcott,Everton,0.22,0.18,Goal,9.0,Right Foot,2
+2018-08-19,25,Sergio Agüero,Manchester City,0.04,0.19,Goal,23.0,Left Foot,2
+2018-08-18,81,Marcos Alonso,Chelsea,0.15,0.06,Goal,7.0,Left Foot,2
+2018-08-20,45,James Milner,Liverpool,0.79,0.99,Goal,13.0,Right Foot,2
+2018-08-18,41,Alex Iwobi,Arsenal,0.35,0.34,Goal,10.0,Right Foot,2
+2018-08-18,37,Henrikh Mkhitaryan,Arsenal,0.04,0.37,Goal,21.0,Left Foot,2
+2018-08-19,44,Pascal Groß,Brighton,0.79,0.93,Goal,13.0,Right Foot,2
+2018-08-18,43,Lucas Moura,Tottenham,0.03,0.27,Goal,21.0,Left Foot,2
+2018-08-18,52,Aleksandar Mitrović,Fulham,0.64,0.93,Goal,4.0,Head,2
+2018-08-18,74,Kieran Trippier,Tottenham,0.06,0.2,Goal,32.0,Right Foot,2
+2018-08-18,77,Harry Kane,Tottenham,0.09,0.74,Goal,13.0,Right Foot,2
+2018-08-18,33,Marko Arnautović,West Ham,0.79,0.99,Goal,13.0,Right Foot,2
+2018-08-18,60,Callum Wilson,Bournemouth,0.12,0.12,Goal,12.0,Left Foot,2
+2018-08-19,90+5,Paul Pogba,Manchester Utd,0.79,0.98,Goal,13.0,Right Foot,2
+2018-08-19,51,Will Hughes,Watford,0.03,0.17,Goal,28.0,Left Foot,2
+2018-08-19,75,Sergio Agüero,Manchester City,0.37,0.88,Goal,8.0,Right Foot,2
+2018-08-19,27,Shane Duffy,Brighton,0.07,0.29,Goal,13.0,Left Foot,2
+2018-08-19,25,Glenn Murray,Brighton,0.63,0.86,Goal,4.0,Right Foot,2
+2018-08-18,9,Pedro,Chelsea,0.29,0.77,Goal,14.0,Left Foot,2
+2018-08-18,20,Álvaro Morata,Chelsea,0.09,0.12,Goal,16.0,Left Foot,2
+2018-08-18,45,James Maddison,Leicester City,0.04,0.22,Goal,23.0,Right Foot,2
+2018-08-18,66,Steve Cook,Bournemouth,0.21,0.49,Goal,7.0,Head,2
+2018-08-19,34,Romelu Lukaku,Manchester Utd,0.24,0.23,Goal,5.0,Head,2
+2018-08-26,38,Aleksandar Mitrović,Fulham,0.23,0.24,Goal,11.0,Head,3
+2018-08-26,36,Aleksandar Mitrović,Fulham,0.23,0.36,Goal,3.0,Head,3
+2018-08-26,10,Jeff Hendrick,Burnley,0.56,0.9,Goal,3.0,Left Foot,3
+2018-08-25,75,Joshua King,Bournemouth,0.79,0.99,Goal,13.0,Right Foot,3
+2018-08-25,69,Aymeric Laporte,Manchester City,0.37,0.63,Goal,5.0,Head,3
+2018-08-27,84,Lucas Moura,Tottenham,0.49,0.89,Goal,13.0,Right Foot,3
+2018-08-27,52,Lucas Moura,Tottenham,0.08,0.51,Goal,13.0,Right Foot,3
+2018-08-27,50,Harry Kane,Tottenham,0.03,0.44,Goal,13.0,Head,3
+2018-08-25,52,Ryan Bertrand,Southampton,0.04,0.44,Goal,21.0,Left Foot,3
+2018-08-25,56,Demarai Gray,Leicester City,0.07,0.1,Goal,14.0,Right Foot,3
+2018-08-25,90+2,Harry Maguire,Leicester City,0.02,0.21,Goal,29.0,Right Foot,3
+2018-08-26,41,James Tarkowski,Burnley,0.42,0.71,Goal,3.0,Left Foot,3
+2018-08-26,76,Eden Hazard,Chelsea,0.79,0.99,Goal,13.0,Right Foot,3
+2018-08-25,57,Willy Boly,Wolves,0.49,0.92,Goal,4.0,Other,3
+2018-08-26,83,Joselu,Newcastle Utd,0.06,0.41,Goal,6.0,Head,3
+2018-08-25,66,Michael Keane,Everton,0.1,0.15,Goal,10.0,Head,3
+2018-08-25,79,Nathan Aké,Bournemouth,0.24,0.21,Goal,7.0,Left Foot,3
+2018-08-25,30,Nacho Monreal,Arsenal,0.6,0.67,Goal,5.0,Left Foot,3
+2018-08-25,90+2,Danny Welbeck,Arsenal,0.41,0.79,Goal,8.0,Left Foot,3
+2018-08-26,53,Roberto Pereyra,Watford,0.04,0.48,Goal,19.0,Right Foot,3
+2018-08-26,71,José Holebas,Watford,0.04,0.71,Goal,25.0,Right Foot,3
+2018-08-26,78,Wilfried Zaha,Crystal Palace,0.06,0.07,Goal,10.0,Right Foot,3
+2018-08-26,4,Jean Seri,Fulham,0.04,0.69,Goal,30.0,Right Foot,3
+2018-08-25,56,Theo Walcott,Everton,0.07,0.09,Goal,13.0,Right Foot,3
+2018-08-26,83,André Schürrle,Fulham,0.06,0.33,Goal,14.0,Right Foot,3
+2018-08-25,25,Marko Arnautović,West Ham,0.05,0.45,Goal,22.0,Right Foot,3
+2018-08-25,23,Mohamed Salah,Liverpool,0.06,0.58,Goal,16.0,Left Foot,3
+2018-09-02,44,Romelu Lukaku,Manchester Utd,0.15,0.1,Goal,9.0,Right Foot,4
+2018-09-01,30,DeAndre Yedlin,Newcastle Utd,0.41,0.44,Goal,9.0,Right Foot,4
+2018-09-01,63.0,Rachid Ghezzal,Leicester City,0.52,0.78,Goal,8.0,Left Foot,4
+2018-09-01,45.0,Roberto Firmino,Liverpool,0.06,0.31,Goal,10.0,Head,4
+2018-09-01,10.0,Sadio Mané,Liverpool,0.1,0.12,Goal,12.0,Left Foot,4
+2018-09-01,72,Pedro,Chelsea,0.06,0.24,Goal,18.0,Right Foot,4
+2018-09-01,85,Eden Hazard,Chelsea,0.05,0.2,Goal,14.0,Left Foot,4
+2018-09-01,52,Kyle Walker,Manchester City,0.02,0.39,Goal,31.0,Right Foot,4
+2018-09-02,69,Troy Deeney,Watford,0.11,0.35,Goal,10.0,Head,4
+2018-09-02,27,Romelu Lukaku,Manchester Utd,0.38,0.64,Goal,7.0,Head,4
+2018-09-01,34,Philip Billing,Huddersfield,0.11,0.09,Goal,8.0,Head,4
+2018-09-01,43,André Schürrle,Fulham,0.59,0.96,Goal,8.0,Right Foot,4
+2018-09-01,62,Aleksandar Mitrović,Fulham,0.3,0.58,Goal,12.0,Right Foot,4
+2018-09-01,67,Glenn Murray,Brighton,0.4,0.71,Goal,10.0,Right Foot,4
+2018-09-01,84,Glenn Murray,Brighton,0.79,0.98,Goal,13.0,Right Foot,4
+2018-09-01,36,Dominic Calvert-Lewin,Everton,0.22,0.33,Goal,11.0,Head,4
+2018-09-02,76,Craig Cathcart,Watford,0.08,0.55,Goal,8.0,Head,4
+2018-09-01,90+2,Pierre Højbjerg,Southampton,0.28,0.29,Goal,20.0,Left Foot,4
+2018-09-01,47,Danny Ings,Southampton,0.28,0.13,Goal,16.0,Right Foot,4
+2018-09-01,90+3,Adama Traoré,Wolves,0.06,0.24,Goal,14.0,Right Foot,4
+2018-09-02,81,Alexandre Lacazette,Arsenal,0.05,0.27,Goal,13.0,Right Foot,4
+2018-09-02,70,Danny Ward,Cardiff City,0.06,0.22,Goal,13.0,Head,4
+2018-09-02,62,Pierre-Emerick Aubameyang,Arsenal,0.03,0.28,Goal,27.0,Right Foot,4
+2018-09-02,45+2,Víctor Camarasa,Cardiff City,0.07,0.08,Goal,10.0,Right Foot,4
+2018-09-02,12,Shkodran Mustafi,Arsenal,0.05,0.17,Goal,11.0,Head,4
+2018-09-01,8,Raheem Sterling,Manchester City,0.05,0.5,Goal,16.0,Right Foot,4
+2018-09-15,41,Joshua King,Bournemouth,0.79,0.98,Goal,13.0,Right Foot,5
+2018-09-15,81,Adam Smith,Bournemouth,0.3,0.56,Goal,17.0,Right Foot,5
+2018-09-15,37,Ryan Fraser,Bournemouth,0.47,0.61,Goal,11.0,Left Foot,5
+2018-09-15,19,Ryan Fraser,Bournemouth,0.05,0.39,Goal,18.0,Right Foot,5
+2018-09-15,88,James Maddison,Leicester City,0.79,0.98,Goal,13.0,Right Foot,5
+2018-09-16,61,Marko Arnautović,West Ham,0.35,0.46,Goal,11.0,Left Foot,5
+2018-09-17,90+1,Glenn Murray,Brighton,0.79,0.86,Goal,13.0,Right Foot,5
+2018-09-17,67,Shane Duffy,Brighton,0.17,0.69,Goal,8.0,Head,5
+2018-09-15,38,Wilfried Zaha,Crystal Palace,0.04,0.55,Goal,16.0,Right Foot,5
+2018-09-16,11,Andriy Yarmolenko,West Ham,0.51,0.92,Goal,11.0,Left Foot,5
+2018-09-16,31,Andriy Yarmolenko,West Ham,0.05,0.38,Goal,17.0,Left Foot,5
+2018-09-16,45+2,Gylfi Sigurðsson,Everton,0.05,0.18,Goal,12.0,Head,5
+2018-09-17,35,Pierre Højbjerg,Southampton,0.02,0.47,Goal,34.0,Right Foot,5
+2018-09-15,89,Marc Albrighton,Leicester City,0.27,0.71,Goal,14.0,Head,5
+2018-09-17,65,Danny Ings,Southampton,0.79,0.99,Goal,13.0,Right Foot,5
+2018-09-16,61,Raúl Jiménez,Wolves,0.08,0.63,Goal,13.0,Right Foot,5
+2018-09-15,38,Chris Smalling,Manchester Utd,0.39,0.37,Goal,4.0,Left Foot,5
+2018-09-15,49,Granit Xhaka,Arsenal,0.07,0.44,Goal,29.0,Left Foot,5
+2018-09-15,58,Mesut Özil,Arsenal,0.06,0.46,Goal,17.0,Left Foot,5
+2018-09-15,90+1,Ciaran Clark,Newcastle Utd,0.23,0.3,Goal,8.0,Head,5
+2018-09-15,47,Raheem Sterling,Manchester City,0.84,0.99,Goal,3.0,Right Foot,5
+2018-09-15,21,David Silva,Manchester City,0.83,0.99,Goal,4.0,Right Foot,5
+2018-09-15,2,Leroy Sané,Manchester City,0.59,0.9,Goal,6.0,Right Foot,5
+2018-09-15,83,Willian,Chelsea,0.03,0.56,Goal,25.0,Right Foot,5
+2018-09-15,80,Eden Hazard,Chelsea,0.79,0.99,Goal,13.0,Right Foot,5
+2018-09-15,43,Eden Hazard,Chelsea,0.34,0.69,Goal,10.0,Right Foot,5
+2018-09-15,37,Eden Hazard,Chelsea,0.07,0.59,Goal,17.0,Right Foot,5
+2018-09-15,16,Sol Bamba,Cardiff City,0.4,0.35,Goal,6.0,Right Foot,5
+2018-09-15,39,Georginio Wijnaldum,Liverpool,0.08,0.43,Goal,8.0,Head,5
+2018-09-15,35,Romelu Lukaku,Manchester Utd,0.84,1.0,Goal,4.0,Other,5
+2018-09-15,54,Roberto Firmino,Liverpool,0.98,0.97,Goal,1.0,Left Foot,5
+2018-09-15,65,Andre Gray,Watford,0.1,0.31,Goal,15.0,Right Foot,5
+2018-09-15,90+3,Érik Lamela,Tottenham,0.05,0.35,Goal,10.0,Left Foot,5
+2018-09-22,66,James Maddison,Leicester City,0.07,0.26,Goal,29.0,Right Foot,6
+2018-09-22,88.0,Ashley Barnes,Burnley,0.1,0.58,Goal,18.0,Right Foot,6
+2018-09-22,84.0,Ashley Barnes,Burnley,0.81,0.96,Goal,4.0,Right Foot,6
+2018-09-22,41.0,Aaron Lennon,Burnley,0.3,0.89,Goal,4.0,Left Foot,6
+2018-09-22,90+3,Anthony Knockaert,Brighton,0.09,0.61,Goal,12.0,Left Foot,6
+2018-09-22,39.0,Matěj Vydra,Burnley,0.58,0.89,Goal,5.0,Right Foot,6
+2018-09-23,56,Alexandre Lacazette,Arsenal,0.05,0.78,Goal,16.0,Right Foot,6
+2018-09-23,59,Pierre-Emerick Aubameyang,Arsenal,0.36,0.52,Goal,9.0,Right Foot,6
+2018-09-22,18,Fred,Manchester Utd,0.05,0.34,Goal,19.0,Right Foot,6
+2018-09-22,53,João Moutinho,Wolves,0.07,0.45,Goal,21.0,Left Foot,6
+2018-09-22,42,Harry Kane,Tottenham,0.79,0.99,Goal,13.0,Right Foot,6
+2018-09-22,45+3,Mohamed Salah,Liverpool,0.96,0.98,Goal,1.0,Left Foot,6
+2018-09-22,21,Joël Matip,Liverpool,0.07,0.56,Goal,9.0,Head,6
+2018-09-22,5,Mathias Jørgensen,Huddersfield,0.3,0.38,Goal,8.0,Right Foot,6
+2018-09-22,19,Kelechi Iheanacho,Leicester City,0.4,0.94,Goal,18.0,Left Foot,6
+2018-09-22,76,Érik Lamela,Tottenham,0.28,0.78,Goal,15.0,Left Foot,6
+2018-09-22,75,Jamie Vardy,Leicester City,0.47,0.37,Goal,15.0,Right Foot,6
+2018-09-22,35.0,Bernardo Silva,Manchester City,0.03,0.6,Goal,11.0,Head,6
+2018-09-22,89.0,Riyad Mahrez,Manchester City,0.05,0.35,Goal,18.0,Left Foot,6
+2018-09-22,44.0,İlkay Gündoğan,Manchester City,0.05,0.54,Goal,26.0,Right Foot,6
+2018-09-22,78,Aleksandar Mitrović,Fulham,0.62,0.73,Goal,3.0,Right Foot,6
+2018-09-22,32.0,Sergio Agüero,Manchester City,0.08,0.29,Goal,15.0,Right Foot,6
+2018-09-22,67.0,Riyad Mahrez,Manchester City,0.46,0.35,Goal,8.0,Left Foot,6
+2018-09-22,2,Andre Gray,Watford,0.3,0.79,Goal,15.0,Right Foot,6
+2018-10-01,5,David Brooks,Bournemouth,0.07,0.3,Goal,17.0,Left Foot,7
+2018-10-01,87,Junior Stanislas,Bournemouth,0.79,0.89,Goal,13.0,Right Foot,7
+2018-09-29,25,Harry Kane,Tottenham,0.28,0.41,Goal,9.0,Head,7
+2018-09-30,70,Sam Vokes,Burnley,0.07,0.45,Goal,11.0,Head,7
+2018-09-29,25,Eden Hazard,Chelsea,0.09,0.65,Goal,13.0,Left Foot,7
+2018-09-29,83,Mesut Özil,Arsenal,0.38,0.72,Goal,10.0,Left Foot,7
+2018-09-29,66,Cenk Tosun,Everton,0.58,0.83,Goal,3.0,Head,7
+2018-09-29,89,Gylfi Sigurðsson,Everton,0.06,0.16,Goal,17.0,Right Foot,7
+2018-10-01,55,Patrick van Aanholt,Crystal Palace,0.04,0.36,Goal,16.0,Right Foot,7
+2018-09-30,60,Josh Murphy,Cardiff City,0.08,0.23,Goal,15.0,Right Foot,7
+2018-09-29,56,Gylfi Sigurðsson,Everton,0.03,0.51,Goal,22.0,Left Foot,7
+2018-09-29,34,Harry Kane,Tottenham,0.79,0.99,Goal,13.0,Right Foot,7
+2018-09-29,65,Sergio Agüero,Manchester City,0.35,0.66,Goal,11.0,Right Foot,7
+2018-09-29,29,Raheem Sterling,Manchester City,0.7,0.99,Goal,3.0,Right Foot,7
+2018-09-29,5.0,Felipe Anderson,West Ham,0.66,0.96,Goal,4.0,Right Foot,7
+2018-09-29,79,Ivan Cavaleiro,Wolves,0.29,0.51,Goal,16.0,Right Foot,7
+2018-09-29,87,Jonny Castro,Wolves,0.65,0.91,Goal,4.0,Right Foot,7
+2018-09-29,71.0,Marcus Rashford,Manchester Utd,0.14,0.24,Goal,7.0,Right Foot,7
+2018-09-29,74.0,Marko Arnautović,West Ham,0.48,0.91,Goal,11.0,Right Foot,7
+2018-09-29,73.0,Harry Maguire,Leicester City,0.16,0.08,Goal,6.0,Head,7
+2018-09-29,30.0,Jamie Vardy,Leicester City,0.79,1.0,Goal,13.0,Right Foot,7
+2018-09-30,51,Jóhann Berg Guðmundsson,Burnley,0.18,0.43,Goal,4.0,Head,7
+2018-09-29,89,Daniel Sturridge,Liverpool,0.03,0.58,Goal,27.0,Left Foot,7
+2018-10-06,8.0,Eric Dier,Tottenham,0.42,0.86,Goal,5.0,Right Foot,8
+2018-10-06,90,Alexis Sánchez,Manchester Utd,0.3,0.55,Goal,8.0,Head,8
+2018-10-07,49,Alexandre Lacazette,Arsenal,0.03,0.13,Goal,26.0,Right Foot,8
+2018-10-07,67,Aaron Ramsey,Arsenal,0.14,0.65,Goal,9.0,Left Foot,8
+2018-10-07,79,Pierre-Emerick Aubameyang,Arsenal,0.1,0.53,Goal,7.0,Left Foot,8
+2018-10-06,76,Anthony Martial,Manchester Utd,0.05,0.24,Goal,16.0,Right Foot,8
+2018-10-06,77,Gylfi Sigurðsson,Everton,0.04,0.52,Goal,29.0,Right Foot,8
+2018-10-06,40,Ricardo Pereira,Leicester City,0.12,0.14,Goal,15.0,Left Foot,8
+2018-10-06,7,Richarlison,Everton,0.47,0.69,Goal,8.0,Right Foot,8
+2018-10-05,25,Glenn Murray,Brighton,0.6,0.96,Goal,5.0,Right Foot,8
+2018-10-06,47,Callum Wilson,Bournemouth,0.92,0.94,Goal,1.0,Right Foot,8
+2018-10-07,44,André Schürrle,Fulham,0.39,0.41,Goal,12.0,Right Foot,8
+2018-10-07,57,Ross Barkley,Chelsea,0.62,0.92,Goal,4.0,Right Foot,8
+2018-10-07,90+1,Pierre-Emerick Aubameyang,Arsenal,0.1,0.42,Goal,18.0,Right Foot,8
+2018-10-06,70,Juan Mata,Manchester Utd,0.08,0.21,Goal,23.0,Left Foot,8
+2018-10-06,10,Yoshinori Mutō,Newcastle Utd,0.06,0.07,Goal,15.0,Left Foot,8
+2018-10-06,7,Kenedy,Newcastle Utd,0.06,0.43,Goal,17.0,Left Foot,8
+2018-10-06,56,Matt Doherty,Wolves,0.07,0.12,Goal,9.0,Right Foot,8
+2018-10-06,14,David Brooks,Bournemouth,0.69,0.89,Goal,5.0,Left Foot,8
+2018-10-06,33,Joshua King,Bournemouth,0.79,0.99,Goal,13.0,Right Foot,8
+2018-10-06,45+1,Joshua King,Bournemouth,0.38,0.94,Goal,3.0,Head,8
+2018-10-07,29,Alexandre Lacazette,Arsenal,0.33,0.78,Goal,10.0,Right Foot,8
+2018-10-07,90+3,Álvaro Morata,Chelsea,0.51,0.91,Goal,10.0,Right Foot,8
+2018-10-06,20.0,Sam Vokes,Burnley,0.06,0.41,Goal,12.0,Head,8
+2018-10-06,66.0,Christopher Schindler,Huddersfield,0.04,0.23,Goal,15.0,Head,8
+2018-10-07,30,Eden Hazard,Chelsea,0.31,0.66,Goal,13.0,Right Foot,8
+2018-10-20,56,Fernandinho,Manchester City,0.03,0.57,Goal,20.0,Right Foot,9
+2018-10-20,21,Antonio Rüdiger,Chelsea,0.07,0.18,Goal,10.0,Head,9
+2018-10-20,17,Sergio Agüero,Manchester City,0.38,0.69,Goal,9.0,Left Foot,9
+2018-10-20,24,Mohamed Salah,Liverpool,0.07,0.68,Goal,11.0,Right Foot,9
+2018-10-20,55,Anthony Martial,Manchester Utd,0.49,0.88,Goal,9.0,Right Foot,9
+2018-10-20,73,Anthony Martial,Manchester Utd,0.05,0.56,Goal,18.0,Right Foot,9
+2018-10-20,90,Leroy Sané,Manchester City,0.35,0.88,Goal,9.0,Left Foot,9
+2018-10-20,44,Érik Lamela,Tottenham,0.36,0.86,Goal,8.0,Head,9
+2018-10-20,83,Riyad Mahrez,Manchester City,0.04,0.53,Goal,23.0,Left Foot,9
+2018-10-20,90+6,Ross Barkley,Chelsea,0.7,0.98,Goal,6.0,Right Foot,9
+2018-10-20,54,Bernardo Silva,Manchester City,0.36,0.9,Goal,11.0,Left Foot,9
+2018-10-20,20,Bobby Reid,Cardiff City,0.28,0.26,Goal,11.0,Right Foot,9
+2018-10-20,65,Callum Paterson,Cardiff City,0.07,0.57,Goal,15.0,Right Foot,9
+2018-10-22,63,Pierre-Emerick Aubameyang,Arsenal,0.6,0.58,Goal,4.0,Right Foot,9
+2018-10-20,15,Josh Murphy,Cardiff City,0.04,0.72,Goal,15.0,Right Foot,9
+2018-10-22,45,Mesut Özil,Arsenal,0.07,0.49,Goal,14.0,Left Foot,9
+2018-10-20,29,Beram Kayal,Brighton,0.25,0.29,Goal,7.0,Right Foot,9
+2018-10-21,87,Dominic Calvert-Lewin,Everton,0.34,0.83,Goal,8.0,Head,9
+2018-10-20,34,Ryan Sessegnon,Fulham,0.29,0.74,Goal,14.0,Left Foot,9
+2018-10-21,89,Cenk Tosun,Everton,0.36,0.36,Goal,12.0,Right Foot,9
+2018-10-20,11,André Schürrle,Fulham,0.02,0.56,Goal,31.0,Right Foot,9
+2018-10-20,20,Étienne Capoue,Watford,0.03,0.04,Goal,29.0,Right Foot,9
+2018-10-20,21,Roberto Pereyra,Watford,0.32,0.95,Goal,13.0,Left Foot,9
+2018-10-20,87,Kadeem Harris,Cardiff City,0.11,0.11,Goal,5.0,Right Foot,9
+2018-10-22,66,Pierre-Emerick Aubameyang,Arsenal,0.65,0.59,Goal,4.0,Right Foot,9
+2018-10-28,57,Ross Barkley,Chelsea,0.02,0.35,Goal,32.0,Left Foot,10
+2018-10-28,62,Willian,Chelsea,0.03,0.42,Goal,26.0,Right Foot,10
+2018-10-28,90+2,Ruben Loftus-Cheek,Chelsea,0.11,0.08,Goal,8.0,Left Foot,10
+2018-10-27,10,Mohamed Salah,Liverpool,0.46,0.74,Goal,5.0,Left Foot,10
+2018-10-27,10,Roberto Pereyra,Watford,0.65,0.79,Goal,9.0,Right Foot,10
+2018-10-27,80,Isaac Success,Watford,0.51,0.39,Goal,5.0,Right Foot,10
+2018-10-27,14,Callum Wilson,Bournemouth,0.79,0.98,Goal,13.0,Right Foot,10
+2018-10-27,48,Glenn Murray,Brighton,0.36,0.71,Goal,9.0,Right Foot,10
+2018-10-27,72,David Brooks,Bournemouth,0.44,0.53,Goal,14.0,Left Foot,10
+2018-10-27,85,Callum Wilson,Bournemouth,0.31,0.45,Goal,14.0,Right Foot,10
+2018-10-28,22,Álvaro Morata,Chelsea,0.35,0.71,Goal,15.0,Right Foot,10
+2018-10-27,19,Gerard Deulofeu,Watford,0.07,0.75,Goal,12.0,Right Foot,10
+2018-10-29,6.0,Riyad Mahrez,Manchester City,0.5,0.95,Goal,8.0,Left Foot,10
+2018-10-28,27,Paul Pogba,Manchester Utd,0.13,0.2,Goal,11.0,Right Foot,10
+2018-10-27,66,Sadio Mané,Liverpool,0.08,0.53,Goal,13.0,Left Foot,10
+2018-10-27,77,Callum Paterson,Cardiff City,0.78,0.94,Goal,4.0,Left Foot,10
+2018-10-27,84,Xherdan Shaqiri,Liverpool,0.53,0.95,Goal,11.0,Left Foot,10
+2018-10-27,87,Sadio Mané,Liverpool,0.54,0.71,Goal,15.0,Right Foot,10
+2018-10-27,89,Wilfred Ndidi,Leicester City,0.02,0.37,Goal,33.0,Right Foot,10
+2018-10-28,83,Luka Milivojević,Crystal Palace,0.79,0.99,Goal,13.0,Right Foot,10
+2018-10-28,56,Pierre-Emerick Aubameyang,Arsenal,0.54,0.69,Goal,2.0,Right Foot,10
+2018-10-27,30,Fabián Balbuena,West Ham,0.78,0.97,Goal,2.0,Right Foot,10
+2018-10-28,45+1,Luka Milivojević,Crystal Palace,0.79,1.0,Goal,13.0,Right Foot,10
+2018-10-28,77,Gylfi Sigurðsson,Everton,0.79,0.99,Goal,13.0,Right Foot,10
+2018-10-28,49,Anthony Martial,Manchester Utd,0.03,0.62,Goal,21.0,Right Foot,10
+2018-10-28,51,Granit Xhaka,Arsenal,0.06,0.89,Goal,25.0,Left Foot,10
+2018-11-03,90+2,Marcus Rashford,Manchester Utd,0.74,0.93,Goal,5.0,Left Foot,11
+2018-11-03,45,Jóhann Berg Guðmundsson,Burnley,0.44,0.9,Goal,12.0,Left Foot,11
+2018-11-03,84,Felipe Anderson,West Ham,0.07,0.22,Goal,11.0,Right Foot,11
+2018-11-03,11,Marko Arnautović,West Ham,0.38,0.6,Goal,15.0,Right Foot,11
+2018-11-03,61.0,James Milner,Liverpool,0.06,0.16,Goal,17.0,Right Foot,11
+2018-11-03,35,Anthony Martial,Manchester Utd,0.35,0.59,Goal,11.0,Left Foot,11
+2018-11-03,11,Callum Wilson,Bournemouth,0.23,0.49,Goal,7.0,Left Foot,11
+2018-11-03,90+2,Javier Hernández,West Ham,0.44,0.86,Goal,9.0,Left Foot,11
+2018-11-03,30,Lucas Moura,Tottenham,0.31,0.27,Goal,6.0,Head,11
+2018-11-03,68,Felipe Anderson,West Ham,0.21,0.85,Goal,16.0,Left Foot,11
+2018-11-03,55,Demarai Gray,Leicester City,0.3,0.63,Goal,12.0,Left Foot,11
+2018-11-03,82.0,Alexandre Lacazette,Arsenal,0.07,0.67,Goal,14.0,Right Foot,11
+2018-11-03,26.0,Richarlison,Everton,0.13,0.13,Goal,9.0,Left Foot,11
+2018-11-04,70,Pedro,Chelsea,0.08,0.46,Goal,12.0,Right Foot,11
+2018-11-04,65,Álvaro Morata,Chelsea,0.08,0.26,Goal,10.0,Left Foot,11
+2018-11-03,33.0,Lewis Dunk,Brighton,0.41,0.64,Goal,3.0,Head,11
+2018-11-03,50.0,Séamus Coleman,Everton,0.04,0.22,Goal,22.0,Right Foot,11
+2018-11-04,90+1,Leroy Sané,Manchester City,0.09,0.33,Goal,17.0,Left Foot,11
+2018-11-04,67,Raheem Sterling,Manchester City,0.06,0.23,Goal,10.0,Right Foot,11
+2018-11-04,45+2,Raheem Sterling,Manchester City,0.41,0.5,Goal,9.0,Left Foot,11
+2018-11-04,30,Danny Ings,Southampton,0.79,0.99,Goal,13.0,Right Foot,11
+2018-11-03,65,Ayoze Pérez,Newcastle Utd,0.11,0.19,Goal,8.0,Head,11
+2018-11-03,77.0,Richarlison,Everton,0.44,0.74,Goal,8.0,Left Foot,11
+2018-11-04,32,Álvaro Morata,Chelsea,0.43,0.58,Goal,9.0,Right Foot,11
+2018-11-04,53,Andros Townsend,Crystal Palace,0.09,0.52,Goal,15.0,Right Foot,11
+2018-11-04,18,David Silva,Manchester City,0.08,0.2,Goal,10.0,Left Foot,11
+2018-11-03,27,Érik Lamela,Tottenham,0.06,0.07,Goal,12.0,Right Foot,11
+2018-11-03,77,Chris Wood,Burnley,0.1,0.37,Goal,8.0,Head,11
+2018-11-04,12,Sergio Agüero,Manchester City,0.81,0.98,Goal,4.0,Right Foot,11
+2018-11-03,68,Rúben Neves,Wolves,0.79,0.99,Goal,13.0,Right Foot,11
+2018-11-03,79,Raúl Jiménez,Wolves,0.79,0.98,Goal,13.0,Right Foot,11
+2018-11-03,62,Harry Kane,Tottenham,0.57,0.82,Goal,4.0,Left Foot,11
+2018-11-10,74,Felipe Anderson,West Ham,0.05,0.39,Goal,14.0,Left Foot,12
+2018-11-10,7,Salomón Rondón,Newcastle Utd,0.44,0.57,Goal,10.0,Right Foot,12
+2018-11-10,20,Manolo Gabbiadini,Southampton,0.11,0.16,Goal,10.0,Left Foot,12
+2018-11-10,6,Lewis Dunk,Brighton,0.2,0.4,Goal,6.0,Head,12
+2018-11-10,82,José Holebas,Watford,0.04,0.02,Goal,16.0,Left Foot,12
+2018-11-10,28,Callum Paterson,Cardiff City,0.77,0.97,Goal,4.0,Head,12
+2018-11-10,90,Sol Bamba,Cardiff City,0.76,0.98,Goal,4.0,Right Foot,12
+2018-11-10,45+6,Jefferson Lerma,Bournemouth,0.05,0.53,Goal,11.0,Head,12
+2018-11-10,40,Salomón Rondón,Newcastle Utd,0.24,0.49,Goal,11.0,Head,12
+2018-11-10,6,Alex Pritchard,Huddersfield,0.04,0.33,Goal,21.0,Left Foot,12
+2018-11-11,41.0,Mohamed Salah,Liverpool,0.21,0.49,Goal,14.0,Left Foot,12
+2018-11-11,13,Ivan Cavaleiro,Wolves,0.44,0.91,Goal,8.0,Right Foot,12
+2018-11-11,86,Henrikh Mkhitaryan,Arsenal,0.01,0.38,Goal,28.0,Right Foot,12
+2018-11-11,86.0,İlkay Gündoğan,Manchester City,0.7,0.87,Goal,5.0,Left Foot,12
+2018-11-11,58.0,Anthony Martial,Manchester Utd,0.79,0.99,Goal,13.0,Right Foot,12
+2018-11-11,48.0,Sergio Agüero,Manchester City,0.07,0.08,Goal,12.0,Right Foot,12
+2018-11-11,12.0,David Silva,Manchester City,0.51,0.94,Goal,8.0,Right Foot,12
+2018-11-10,66,Juan Foyth,Tottenham,0.25,0.33,Goal,3.0,Head,12
+2018-11-11,53.0,Xherdan Shaqiri,Liverpool,0.16,0.49,Goal,7.0,Left Foot,12
+2018-11-24,54,Son Heung-min,Tottenham,0.5,0.97,Goal,9.0,Left Foot,13
+2018-11-24,16,Harry Kane,Tottenham,0.02,0.12,Goal,31.0,Right Foot,13
+2018-11-24,8,Dele Alli,Tottenham,0.22,0.69,Goal,4.0,Head,13
+2018-11-24,54,Stuart Armstrong,Southampton,0.04,0.47,Goal,22.0,Right Foot,13
+2018-11-24,43,André Schürrle,Fulham,0.36,0.52,Goal,7.0,Right Foot,13
+2018-11-24,85,Olivier Giroud,Chelsea,0.32,0.72,Goal,8.0,Head,13
+2018-11-24,63,Aleksandar Mitrović,Fulham,0.12,0.58,Goal,10.0,Right Foot,13
+2018-11-24,18,Stuart Armstrong,Southampton,0.08,0.04,Goal,13.0,Right Foot,13
+2018-11-25,67,Pierre-Emerick Aubameyang,Arsenal,0.68,0.93,Goal,5.0,Right Foot,13
+2018-11-24,90+3,Leroy Sané,Manchester City,0.06,0.6,Goal,10.0,Left Foot,13
+2018-11-24,34,Leroy Sané,Manchester City,0.86,0.99,Goal,5.0,Left Foot,13
+2018-11-25,45+1,Joshua King,Bournemouth,0.09,0.58,Goal,16.0,Left Foot,13
+2018-11-24,79,Jamie Vardy,Leicester City,0.79,0.99,Goal,13.0,Right Foot,13
+2018-11-24,15,Glenn Murray,Brighton,0.2,0.17,Goal,4.0,Head,13
+2018-11-24,33,Aleksandar Mitrović,Fulham,0.36,0.85,Goal,7.0,Head,13
+2018-11-24,19,Raheem Sterling,Manchester City,0.78,0.89,Goal,3.0,Right Foot,13
+2018-11-24,11,David Silva,Manchester City,0.69,0.97,Goal,5.0,Right Foot,13
+2018-11-26,23,Ciaran Clark,Newcastle Utd,0.03,0.48,Goal,12.0,Head,13
+2018-11-26,40,Sam Vokes,Burnley,0.04,0.25,Goal,15.0,Head,13
+2018-11-24,76,Trent Alexander-Arnold,Liverpool,0.06,0.42,Goal,32.0,Right Foot,13
+2018-11-24,67,Mohamed Salah,Liverpool,0.12,0.07,Goal,10.0,Left Foot,13
+2018-11-24,59,Gylfi Sigurðsson,Everton,0.49,0.76,Goal,9.0,Left Foot,13
+2018-11-25,6,Aaron Mooy,Huddersfield,0.07,0.56,Goal,22.0,Right Foot,13
+2018-11-25,74,Aaron Mooy,Huddersfield,0.07,0.25,Goal,25.0,Right Foot,13
+2018-11-24,89,Roberto Firmino,Liverpool,0.56,0.92,Goal,5.0,Head,13
+2018-12-01,45+4,Shane Duffy,Brighton,0.05,0.08,Goal,11.0,Head,14
+2018-12-01,90+3,Felipe Anderson,West Ham,0.46,0.56,Goal,12.0,Left Foot,14
+2018-12-01,1,Mathias Jørgensen,Huddersfield,0.24,0.88,Goal,7.0,Head,14
+2018-12-01,77,Andros Townsend,Crystal Palace,0.03,0.5,Goal,23.0,Left Foot,14
+2018-12-01,16,James McArthur,Crystal Palace,0.02,0.11,Goal,32.0,Left Foot,14
+2018-11-30,77,Junior Hoilett,Cardiff City,0.02,0.43,Goal,25.0,Right Foot,14
+2018-12-01,64,Javier Hernández,West Ham,0.29,0.61,Goal,14.0,Right Foot,14
+2018-12-01,69,Florin Andone,Brighton,0.29,0.38,Goal,9.0,Head,14
+2018-12-01,12,Jamie Vardy,Leicester City,0.79,0.99,Goal,13.0,Right Foot,14
+2018-12-01,23,James Maddison,Leicester City,0.15,0.16,Goal,16.0,Right Foot,14
+2018-12-01,57.0,Raheem Sterling,Manchester City,0.58,0.97,Goal,5.0,Right Foot,14
+2018-12-01,16.0,Bernardo Silva,Manchester City,0.29,0.08,Goal,13.0,Left Foot,14
+2018-12-01,44.0,Callum Wilson,Bournemouth,0.06,0.29,Goal,11.0,Head,14
+2018-11-30,65,Aron Gunnarsson,Cardiff City,0.4,0.88,Goal,5.0,Right Foot,14
+2018-12-02,77,Lucas Torreira,Arsenal,0.25,0.79,Goal,8.0,Right Foot,14
+2018-12-02,74,Alexandre Lacazette,Arsenal,0.05,0.55,Goal,23.0,Left Foot,14
+2018-12-02,56,Pierre-Emerick Aubameyang,Arsenal,0.05,0.33,Goal,22.0,Right Foot,14
+2018-12-02,34,Harry Kane,Tottenham,0.79,0.99,Goal,13.0,Right Foot,14
+2018-12-02,30,Eric Dier,Tottenham,0.06,0.14,Goal,10.0,Head,14
+2018-12-02,10,Pierre-Emerick Aubameyang,Arsenal,0.79,0.98,Goal,13.0,Right Foot,14
+2018-12-01,11,Javier Hernández,West Ham,0.52,0.52,Goal,6.0,Right Foot,14
+2018-11-30,18,Matt Doherty,Wolves,0.19,0.49,Goal,3.0,Left Foot,14
+2018-12-01,79.0,İlkay Gündoğan,Manchester City,0.35,0.31,Goal,6.0,Right Foot,14
+2018-12-02,90+6,Divock Origi,Liverpool,0.88,0.99,Goal,2.0,Head,14
+2018-12-02,82,Ruben Loftus-Cheek,Chelsea,0.27,0.52,Goal,14.0,Right Foot,14
+2018-12-01,13,Stuart Armstrong,Southampton,0.05,0.36,Goal,16.0,Right Foot,14
+2018-12-02,4,Pedro,Chelsea,0.55,0.98,Goal,9.0,Left Foot,14
+2018-12-01,20,Cédric Soares,Southampton,0.09,0.51,Goal,24.0,Right Foot,14
+2018-12-01,33,Romelu Lukaku,Manchester Utd,0.29,0.54,Goal,14.0,Left Foot,14
+2018-12-01,39,Ander Herrera,Manchester Utd,0.25,0.58,Goal,5.0,Right Foot,14
+2018-12-05,19,Salomón Rondón,Newcastle Utd,0.62,0.99,Goal,3.0,Right Foot,15
+2018-12-04,54,Lucas Pérez,West Ham,0.06,0.04,Goal,10.0,Left Foot,15
+2018-12-04,49,Lucas Pérez,West Ham,0.39,0.68,Goal,13.0,Left Foot,15
+2018-12-05,9,Harry Kane,Tottenham,0.53,0.9,Goal,3.0,Right Foot,15
+2018-12-05,51,Lucas Moura,Tottenham,0.05,0.47,Goal,12.0,Right Foot,15
+2018-12-04,85,Abdoulaye Doucouré,Watford,0.87,0.98,Goal,2.0,Right Foot,15
+2018-12-04,24,Glenn Murray,Brighton,0.79,1.0,Goal,13.0,Right Foot,15
+2018-12-04,61,Michail Antonio,West Ham,0.1,0.11,Goal,5.0,Head,15
+2018-12-04,31,Leon Balogun,Brighton,0.07,0.14,Goal,13.0,Right Foot,15
+2018-12-04,45+4,Florin Andone,Brighton,0.12,0.4,Goal,9.0,Right Foot,15
+2018-12-04,81,Luka Milivojević,Crystal Palace,0.79,0.99,Goal,13.0,Right Foot,15
+2018-12-05,55,Son Heung-min,Tottenham,0.56,0.86,Goal,6.0,Right Foot,15
+2018-12-05,90+3,Charlie Austin,Southampton,0.35,0.36,Goal,11.0,Right Foot,15
+2018-12-04,40,Leroy Sané,Manchester City,0.32,0.22,Goal,8.0,Other,15
+2018-12-05,63.0,Diogo Jota,Wolves,0.41,0.63,Goal,4.0,Left Foot,15
+2018-12-04,51,Riyad Mahrez,Manchester City,0.31,0.34,Goal,12.0,Left Foot,15
+2018-12-04,90+5,Josh Murphy,Cardiff City,0.84,0.93,Goal,2.0,Head,15
+2018-12-04,5,Callum Wilson,Bournemouth,0.1,0.29,Goal,10.0,Head,15
+2018-12-05,59.0,Raúl Jiménez,Wolves,0.06,0.03,Goal,14.0,Right Foot,15
+2018-12-05,54,Jack Cork,Burnley,0.36,0.77,Goal,5.0,Left Foot,15
+2018-12-05,62,James Milner,Liverpool,0.06,0.52,Goal,25.0,Right Foot,15
+2018-12-05,69,Roberto Firmino,Liverpool,0.84,0.96,Goal,2.0,Right Foot,15
+2018-12-05,90+1,Xherdan Shaqiri,Liverpool,0.48,0.96,Goal,15.0,Left Foot,15
+2018-12-05,38,Richarlison,Everton,0.18,0.2,Goal,4.0,Right Foot,15
+2018-12-05,69.0,Jesse Lingard,Manchester Utd,0.38,0.22,Goal,12.0,Right Foot,15
+2018-12-05,30.0,Anthony Martial,Manchester Utd,0.44,0.62,Goal,6.0,Right Foot,15
+2018-12-05,18.0,Ruben Loftus-Cheek,Chelsea,0.03,0.13,Goal,22.0,Right Foot,15
+2018-12-05,26.0,Shkodran Mustafi,Arsenal,0.06,0.02,Goal,11.0,Head,15
+2018-12-05,74,James Maddison,Leicester City,0.09,0.36,Goal,13.0,Right Foot,15
+2018-12-05,42,Aboubakar Kamara,Fulham,0.07,0.05,Goal,9.0,Right Foot,15
+2018-12-04,38,Terence Kongolo,Huddersfield,0.06,0.36,Goal,10.0,Head,15
+2018-12-04,22,Ryan Fraser,Bournemouth,0.41,0.79,Goal,16.0,Left Foot,15
+2018-12-08,82.0,Marcus Rashford,Manchester Utd,0.03,0.07,Goal,25.0,Right Foot,16
+2018-12-08,28.0,Juan Mata,Manchester Utd,0.06,0.35,Goal,18.0,Left Foot,16
+2018-12-08,42.0,Romelu Lukaku,Manchester Utd,0.21,0.12,Goal,7.0,Left Foot,16
+2018-12-08,67.0,Aboubakar Kamara,Fulham,0.79,0.99,Goal,13.0,Right Foot,16
+2018-12-08,45+1,Son Heung-min,Tottenham,0.03,0.25,Goal,26.0,Left Foot,16
+2018-12-08,58,Dele Alli,Tottenham,0.59,0.93,Goal,3.0,Head,16
+2018-12-08,83,Lucas Torreira,Arsenal,0.38,0.17,Goal,4.0,Right Foot,16
+2018-12-08,13.0,Ashley Young,Manchester Utd,0.06,0.79,Goal,16.0,Right Foot,16
+2018-12-08,62,Javier Hernández,West Ham,0.2,0.25,Goal,5.0,Left Foot,16
+2018-12-08,76,Jeffrey Schlupp,Crystal Palace,0.05,0.36,Goal,11.0,Head,16
+2018-12-08,25.0,Mohamed Salah,Liverpool,0.37,0.44,Goal,11.0,Left Foot,16
+2018-12-08,48.0,Mohamed Salah,Liverpool,0.13,0.73,Goal,15.0,Left Foot,16
+2018-12-08,77.0,Mohamed Salah,Liverpool,0.72,0.97,Goal,6.0,Left Foot,16
+2018-12-09,17,Diogo Jota,Wolves,0.68,0.82,Goal,4.0,Left Foot,16
+2018-12-09,23,Ayoze Pérez,Newcastle Utd,0.09,0.46,Goal,10.0,Head,16
+2018-12-09,90+4,Matt Doherty,Wolves,0.43,0.32,Goal,3.0,Head,16
+2018-12-10,15,Richarlison,Everton,0.37,0.92,Goal,10.0,Right Foot,16
+2018-12-08,40,James Tarkowski,Burnley,0.6,0.85,Goal,4.0,Other,16
+2018-12-10,65,Abdoulaye Doucouré,Watford,0.63,0.96,Goal,4.0,Head,16
+2018-12-10,90+6,Lucas Digne,Everton,0.11,0.61,Goal,24.0,Left Foot,16
+2018-12-08,6,James McArthur,Crystal Palace,0.31,0.31,Goal,7.0,Right Foot,16
+2018-12-08,65,Felipe Anderson,West Ham,0.03,0.62,Goal,21.0,Right Foot,16
+2018-12-08,48,Robert Snodgrass,West Ham,0.03,0.35,Goal,25.0,Left Foot,16
+2018-12-08,45,N'Golo Kanté,Chelsea,0.07,0.22,Goal,16.0,Right Foot,16
+2018-12-08,78,David Luiz,Chelsea,0.22,0.79,Goal,5.0,Head,16
+2018-12-08,74,Callum Paterson,Cardiff City,0.48,0.93,Goal,12.0,Right Foot,16
+2018-12-15,22.0,Gabriel Jesus,Manchester City,0.36,0.48,Goal,11.0,Left Foot,17
+2018-12-15,17,Robert Snodgrass,West Ham,0.06,0.26,Goal,21.0,Left Foot,17
+2018-12-15,55,Salomón Rondón,Newcastle Utd,0.35,0.68,Goal,11.0,Left Foot,17
+2018-12-15,39.0,Luka Milivojević,Crystal Palace,0.03,0.39,Goal,26.0,Right Foot,17
+2018-12-15,65.0,Dominic Calvert-Lewin,Everton,0.3,0.71,Goal,9.0,Head,17
+2018-12-15,12,Raúl Jiménez,Wolves,0.75,0.96,Goal,5.0,Right Foot,17
+2018-12-15,82,Bobby Reid,Cardiff City,0.27,0.59,Goal,9.0,Right Foot,17
+2018-12-15,90+4,Ivan Cavaleiro,Wolves,0.52,0.79,Goal,15.0,Right Foot,17
+2018-12-15,29,Michail Antonio,West Ham,0.52,0.64,Goal,9.0,Left Foot,17
+2018-12-15,16,Gerard Deulofeu,Watford,0.45,0.77,Goal,13.0,Right Foot,17
+2018-12-15,52,José Holebas,Watford,0.03,0.48,Goal,26.0,Left Foot,17
+2018-12-15,68,Domingos Quina,Watford,0.04,0.16,Goal,23.0,Right Foot,17
+2018-12-15,80,Junior Hoilett,Cardiff City,0.03,0.42,Goal,24.0,Right Foot,17
+2018-12-15,50.0,Gabriel Jesus,Manchester City,0.26,0.17,Goal,10.0,Head,17
+2018-12-15,69.0,Raheem Sterling,Manchester City,0.57,0.86,Goal,5.0,Head,17
+2018-12-15,90+1,Christian Eriksen,Tottenham,0.32,0.73,Goal,10.0,Right Foot,17
+2018-12-16,24,Sadio Mané,Liverpool,0.5,0.82,Goal,9.0,Left Foot,17
+2018-12-16,33,Jesse Lingard,Manchester Utd,0.57,0.75,Goal,7.0,Right Foot,17
+2018-12-16,73,Xherdan Shaqiri,Liverpool,0.06,0.4,Goal,14.0,Right Foot,17
+2018-12-16,33,Eden Hazard,Chelsea,0.51,0.92,Goal,16.0,Right Foot,17
+2018-12-16,17,Pedro,Chelsea,0.26,0.28,Goal,4.0,Right Foot,17
+2018-12-16,53,Henrikh Mkhitaryan,Arsenal,0.03,0.02,Goal,28.0,Left Foot,17
+2018-12-16,44,Danny Ings,Southampton,0.06,0.57,Goal,11.0,Head,17
+2018-12-16,28,Henrikh Mkhitaryan,Arsenal,0.18,0.46,Goal,15.0,Head,17
+2018-12-16,20,Danny Ings,Southampton,0.24,0.37,Goal,9.0,Head,17
+2018-12-16,85,Charlie Austin,Southampton,0.62,0.71,Goal,4.0,Head,17
+2018-12-16,66,Solly March,Brighton,0.18,0.16,Goal,7.0,Left Foot,17
+2018-12-16,80,Xherdan Shaqiri,Liverpool,0.04,0.16,Goal,22.0,Left Foot,17
+2018-12-22,87,Gerard Deulofeu,Watford,0.47,0.96,Goal,11.0,Right Foot,18
+2018-12-22,90.0,Jesse Lingard,Manchester Utd,0.56,0.77,Goal,9.0,Right Foot,18
+2018-12-22,57.0,Jesse Lingard,Manchester Utd,0.79,0.99,Goal,13.0,Right Foot,18
+2018-12-22,3.0,Marcus Rashford,Manchester Utd,0.05,0.4,Goal,33.0,Right Foot,18
+2018-12-22,38.0,Víctor Camarasa,Cardiff City,0.79,0.99,Goal,13.0,Right Foot,18
+2018-12-22,29.0,Ander Herrera,Manchester Utd,0.02,0.33,Goal,33.0,Right Foot,18
+2018-12-22,30,Troy Deeney,Watford,0.79,1.0,Goal,13.0,Right Foot,18
+2018-12-22,41.0,Anthony Martial,Manchester Utd,0.49,0.97,Goal,9.0,Right Foot,18
+2018-12-23,21,Theo Walcott,Everton,0.5,0.92,Goal,9.0,Right Foot,18
+2018-12-23,48,Christian Eriksen,Tottenham,0.03,0.39,Goal,27.0,Right Foot,18
+2018-12-23,35,Dele Alli,Tottenham,0.06,0.11,Goal,15.0,Right Foot,18
+2018-12-23,42,Harry Kane,Tottenham,0.17,0.41,Goal,10.0,Right Foot,18
+2018-12-23,51,Gylfi Sigurðsson,Everton,0.06,0.18,Goal,14.0,Right Foot,18
+2018-12-23,61,Son Heung-min,Tottenham,0.47,0.71,Goal,13.0,Right Foot,18
+2018-12-23,74,Harry Kane,Tottenham,0.25,0.5,Goal,13.0,Right Foot,18
+2018-12-22,85,Kevin De Bruyne,Manchester City,0.02,0.67,Goal,34.0,Right Foot,18
+2018-12-22,52,Luka Milivojević,Crystal Palace,0.79,0.99,Goal,13.0,Right Foot,18
+2018-12-22,35,Andros Townsend,Crystal Palace,0.02,0.27,Goal,31.0,Left Foot,18
+2018-12-22,33,Jeffrey Schlupp,Crystal Palace,0.04,0.41,Goal,17.0,Left Foot,18
+2018-12-22,27,İlkay Gündoğan,Manchester City,0.25,0.34,Goal,9.0,Head,18
+2018-12-22,71,Michael Obafemi,Southampton,0.41,0.81,Goal,11.0,Right Foot,18
+2018-12-22,58,Philip Billing,Huddersfield,0.02,0.02,Goal,34.0,Left Foot,18
+2018-12-23,27,Son Heung-min,Tottenham,0.16,0.84,Goal,20.0,Right Foot,18
+2018-12-22,14,Pierre-Emerick Aubameyang,Arsenal,0.14,0.61,Goal,12.0,Right Foot,18
+2018-12-22,51,Jamie Vardy,Leicester City,0.11,0.24,Goal,13.0,Right Foot,18
+2018-12-22,90+1,Alex Iwobi,Arsenal,0.57,0.46,Goal,5.0,Right Foot,18
+2018-12-22,48,Pierre-Emerick Aubameyang,Arsenal,0.1,0.29,Goal,15.0,Right Foot,18
+2018-12-22,63,Ashley Barnes,Burnley,0.46,0.82,Goal,8.0,Right Foot,18
+2018-12-22,42,Danny Ings,Southampton,0.79,1.0,Goal,13.0,Right Foot,18
+2018-12-22,15,Nathan Redmond,Southampton,0.38,0.88,Goal,13.0,Right Foot,18
+2018-12-22,77,David Brooks,Bournemouth,0.1,0.3,Goal,7.0,Head,18
+2018-12-21,68,Virgil van Dijk,Liverpool,0.18,0.51,Goal,8.0,Left Foot,18
+2018-12-21,18,Mohamed Salah,Liverpool,0.19,0.23,Goal,8.0,Left Foot,18
+2018-12-22,21,David Brooks,Bournemouth,0.04,0.26,Goal,27.0,Left Foot,18
+2018-12-26,85,Romain Saïss,Wolves,0.91,0.95,Goal,2.0,Right Foot,19
+2018-12-26,7.0,Pierre-Emerick Aubameyang,Arsenal,0.28,0.72,Goal,12.0,Right Foot,19
+2018-12-26,35.0,Jürgen Locadia,Brighton,0.52,0.53,Goal,15.0,Left Foot,19
+2018-12-26,2,Yerry Mina,Everton,0.1,0.39,Goal,8.0,Head,19
+2018-12-26,16,Christian Eriksen,Tottenham,0.03,0.08,Goal,27.0,Left Foot,19
+2018-12-26,61,Harry Kane,Tottenham,0.34,0.27,Goal,11.0,Left Foot,19
+2018-12-26,35,Lucas Moura,Tottenham,0.11,0.63,Goal,13.0,Right Foot,19
+2018-12-26,74,Ryan Sessegnon,Fulham,0.18,0.07,Goal,9.0,Right Foot,19
+2018-12-26,70,Son Heung-min,Tottenham,0.76,0.98,Goal,4.0,Right Foot,19
+2018-12-26,48,Mohamed Salah,Liverpool,0.79,0.99,Goal,13.0,Left Foot,19
+2018-12-26,79,Xherdan Shaqiri,Liverpool,0.61,0.96,Goal,6.0,Left Foot,19
+2018-12-26,85,Fabinho,Liverpool,0.41,0.63,Goal,3.0,Head,19
+2018-12-26,58,Eden Hazard,Chelsea,0.79,0.95,Goal,13.0,Right Foot,19
+2018-12-26,45+3,Roberto Pereyra,Watford,0.03,0.23,Goal,21.0,Right Foot,19
+2018-12-26,45+1,Eden Hazard,Chelsea,0.53,0.79,Goal,9.0,Left Foot,19
+2018-12-26,23,Son Heung-min,Tottenham,0.04,0.42,Goal,21.0,Right Foot,19
+2018-12-26,88,Mathias Jørgensen,Huddersfield,0.48,0.6,Goal,5.0,Left Foot,19
+2018-12-26,81,Ricardo Pereira,Leicester City,0.03,0.33,Goal,18.0,Right Foot,19
+2018-12-27,59,Felipe Anderson,West Ham,0.43,0.84,Goal,15.0,Right Foot,19
+2018-12-26,37,Ben Gibson,Burnley,0.73,0.99,Goal,2.0,Right Foot,19
+2018-12-26,22,Gylfi Sigurðsson,Everton,0.79,0.99,Goal,13.0,Right Foot,19
+2018-12-27,53,Felipe Anderson,West Ham,0.03,0.2,Goal,23.0,Right Foot,19
+2018-12-27,50,Nathan Redmond,Southampton,0.75,0.98,Goal,2.0,Other,19
+2018-12-26,71,Lucas Digne,Everton,0.01,0.28,Goal,32.0,Left Foot,19
+2018-12-26,78,Paul Pogba,Manchester Utd,0.03,0.18,Goal,29.0,Right Foot,19
+2018-12-26,13,Lucas Digne,Everton,0.08,0.42,Goal,24.0,Left Foot,19
+2018-12-26,64,Paul Pogba,Manchester Utd,0.08,0.42,Goal,17.0,Right Foot,19
+2018-12-26,11,Dejan Lovren,Liverpool,0.05,0.28,Goal,15.0,Right Foot,19
+2018-12-26,14,Bernardo Silva,Manchester City,0.51,0.96,Goal,11.0,Left Foot,19
+2018-12-26,19,Marc Albrighton,Leicester City,0.37,0.89,Goal,6.0,Head,19
+2018-12-26,28,Nemanja Matić,Manchester Utd,0.66,0.92,Goal,2.0,Right Foot,19
+2018-12-26,90+3,Richarlison,Everton,0.1,0.34,Goal,14.0,Left Foot,19
+2018-12-29,16,Roberto Firmino,Liverpool,0.37,0.86,Goal,15.0,Left Foot,20
+2018-12-29,32,Sadio Mané,Liverpool,0.46,0.8,Goal,8.0,Right Foot,20
+2018-12-29,90+2,Víctor Camarasa,Cardiff City,0.03,0.54,Goal,26.0,Right Foot,20
+2018-12-29,11,Ainsley Maitland-Niles,Arsenal,0.7,0.92,Goal,4.0,Right Foot,20
+2018-12-30,5,Paul Pogba,Manchester Utd,0.75,0.87,Goal,4.0,Right Foot,20
+2018-12-29,90+1,Aleksandar Mitrović,Fulham,0.1,0.05,Goal,16.0,Right Foot,20
+2018-12-29,45+2,Mohamed Salah,Liverpool,0.79,0.86,Goal,13.0,Left Foot,20
+2018-12-30,45+3,Sergio Agüero,Manchester City,0.28,0.46,Goal,9.0,Head,20
+2018-12-30,37,Pierre Højbjerg,Southampton,0.06,0.18,Goal,16.0,Right Foot,20
+2018-12-30,51,N'Golo Kanté,Chelsea,0.46,0.59,Goal,11.0,Left Foot,20
+2018-12-29,14,Roberto Firmino,Liverpool,0.92,0.98,Goal,2.0,Right Foot,20
+2018-12-29,29,Salomón Rondón,Newcastle Utd,0.48,0.93,Goal,4.0,Head,20
+2018-12-29,83,Raúl Jiménez,Wolves,0.05,0.37,Goal,18.0,Right Foot,20
+2018-12-30,34,Dwight McNeil,Burnley,0.06,0.13,Goal,6.0,Left Foot,20
+2018-12-30,33,Paul Pogba,Manchester Utd,0.37,0.66,Goal,6.0,Head,20
+2018-12-30,45,Marcus Rashford,Manchester Utd,0.53,0.98,Goal,5.0,Right Foot,20
+2018-12-30,45+2,Nathan Aké,Bournemouth,0.18,0.36,Goal,6.0,Head,20
+2018-12-30,72,Romelu Lukaku,Manchester Utd,0.37,0.7,Goal,12.0,Right Foot,20
+2018-12-29,65,Roberto Firmino,Liverpool,0.79,0.99,Goal,13.0,Right Foot,20
+2018-12-30,10,David Silva,Manchester City,0.42,0.48,Goal,11.0,Left Foot,20
+2018-12-29,82,Abdoulaye Doucouré,Watford,0.25,0.67,Goal,10.0,Head,20
+2018-12-30,15,Chris Wood,Burnley,0.32,0.54,Goal,8.0,Right Foot,20
+2018-12-29,22,Harry Kane,Tottenham,0.03,0.4,Goal,25.0,Left Foot,20
+2018-12-29,72,Willy Boly,Wolves,0.08,0.37,Goal,9.0,Head,20
+2018-12-29,87,Hélder Costa,Wolves,0.43,0.88,Goal,15.0,Left Foot,20
+2018-12-29,59,Jürgen Locadia,Brighton,0.43,0.92,Goal,5.0,Right Foot,20
+2019-01-01,58,Jamie Vardy,Leicester City,0.31,0.88,Goal,12.0,Left Foot,21
+2019-01-02,40,Chris Wood,Burnley,0.51,0.48,Goal,5.0,Left Foot,21
+2019-01-02,74,Ashley Barnes,Burnley,0.27,0.36,Goal,14.0,Right Foot,21
+2019-01-02,33,Steve Mounié,Huddersfield,0.23,0.35,Goal,9.0,Head,21
+2019-01-02,83,Jordan Ayew,Crystal Palace,0.45,0.88,Goal,10.0,Left Foot,21
+2019-01-02,90+5,Luka Milivojević,Crystal Palace,0.79,0.99,Goal,13.0,Right Foot,21
+2019-01-01,69,Aboubakar Kamara,Fulham,0.52,0.81,Goal,4.0,Right Foot,21
+2019-01-03,72,Leroy Sané,Manchester City,0.06,0.19,Goal,15.0,Left Foot,21
+2019-01-02,64,Romelu Lukaku,Manchester Utd,0.61,0.78,Goal,4.0,Left Foot,21
+2019-01-02,56.0,Dale Stephens,Brighton,0.05,0.25,Goal,16.0,Left Foot,21
+2019-01-02,58.0,Shane Duffy,Brighton,0.2,0.4,Goal,3.0,Right Foot,21
+2019-01-01,26,Son Heung-min,Tottenham,0.06,0.21,Goal,12.0,Right Foot,21
+2019-01-02,66.0,Marko Arnautović,West Ham,0.18,0.17,Goal,4.0,Right Foot,21
+2019-01-02,68.0,Marko Arnautović,West Ham,0.17,0.45,Goal,8.0,Right Foot,21
+2019-01-03,64,Roberto Firmino,Liverpool,0.77,0.96,Goal,3.0,Head,21
+2019-01-03,40,Sergio Agüero,Manchester City,0.05,0.15,Goal,7.0,Left Foot,21
+2019-01-02,14.0,Troy Deeney,Watford,0.07,0.3,Goal,11.0,Head,21
+2019-01-02,27.0,Troy Deeney,Watford,0.39,0.45,Goal,15.0,Right Foot,21
+2019-01-02,34.0,Nathan Aké,Bournemouth,0.36,0.61,Goal,5.0,Head,21
+2019-01-01,55,Alexandre Lacazette,Arsenal,0.42,0.69,Goal,10.0,Right Foot,21
+2019-01-02,37.0,Callum Wilson,Bournemouth,0.05,0.59,Goal,14.0,Head,21
+2019-01-02,80,Marcus Rashford,Manchester Utd,0.47,0.63,Goal,12.0,Right Foot,21
+2019-01-02,38.0,Ken Sema,Watford,0.04,0.15,Goal,23.0,Left Foot,21
+2019-01-02,40.0,Ryan Fraser,Bournemouth,0.25,0.67,Goal,17.0,Right Foot,21
+2019-01-01,25,Granit Xhaka,Arsenal,0.47,0.92,Goal,8.0,Left Foot,21
+2019-01-01,83,Pierre-Emerick Aubameyang,Arsenal,0.04,0.29,Goal,15.0,Right Foot,21
+2019-01-01,79,Aaron Ramsey,Arsenal,0.42,0.97,Goal,8.0,Right Foot,21
+2019-01-01,12,Christian Eriksen,Tottenham,0.06,0.42,Goal,20.0,Right Foot,21
+2019-01-01,3,Harry Kane,Tottenham,0.16,0.5,Goal,9.0,Right Foot,21
+2019-01-12,67,Craig Cathcart,Watford,0.15,0.67,Goal,5.0,Head,22
+2019-01-12,58,Wilfred Ndidi,Leicester City,0.55,0.91,Goal,7.0,Left Foot,22
+2019-01-12,74,Tom Cleverley,Watford,0.08,0.37,Goal,15.0,Right Foot,22
+2019-01-14,39,Gabriel Jesus,Manchester City,0.79,0.98,Goal,13.0,Right Foot,22
+2019-01-13,90+5,Dominic Calvert-Lewin,Everton,0.07,0.1,Goal,15.0,Right Foot,22
+2019-01-13,61,Kurt Zouma,Everton,0.13,0.11,Goal,5.0,Head,22
+2019-01-12,50.0,Mohamed Salah,Liverpool,0.79,0.99,Goal,13.0,Left Foot,22
+2019-01-12,45+2,Shane Long,Southampton,0.36,0.15,Goal,10.0,Right Foot,22
+2019-01-13,44,Marcus Rashford,Manchester Utd,0.08,0.49,Goal,15.0,Right Foot,22
+2019-01-12,48.0,Declan Rice,West Ham,0.05,0.3,Goal,14.0,Right Foot,22
+2019-01-14,10,Gabriel Jesus,Manchester City,0.68,0.95,Goal,4.0,Right Foot,22
+2019-01-12,11,James Ward-Prowse,Southampton,0.79,1.0,Goal,13.0,Right Foot,22
+2019-01-12,20.0,Jeff Hendrick,Burnley,0.04,0.04,Goal,10.0,Right Foot,22
+2019-01-12,9,Pedro,Chelsea,0.33,0.3,Goal,15.0,Left Foot,22
+2019-01-12,40,Ciaran Clark,Newcastle Utd,0.05,0.38,Goal,11.0,Head,22
+2019-01-12,57,Willian,Chelsea,0.04,0.66,Goal,16.0,Right Foot,22
+2019-01-12,2.0,André Schürrle,Fulham,0.04,0.53,Goal,18.0,Right Foot,22
+2019-01-19,90+5,Max Meyer,Crystal Palace,0.06,0.32,Goal,17.0,Left Foot,23
+2019-01-19,72.0,Pascal Groß,Brighton,0.36,0.94,Goal,9.0,Right Foot,23
+2019-01-19,46,Mohamed Salah,Liverpool,0.5,0.94,Goal,9.0,Left Foot,23
+2019-01-19,34,Andros Townsend,Crystal Palace,0.12,0.33,Goal,12.0,Left Foot,23
+2019-01-20,51,Dele Alli,Tottenham,0.48,0.74,Goal,4.0,Head,23
+2019-01-20,90+3,Harry Winks,Tottenham,0.54,0.78,Goal,4.0,Head,23
+2019-01-19,63,Fabian Schär,Newcastle Utd,0.47,0.84,Goal,4.0,Right Foot,23
+2019-01-19,50,James Ward-Prowse,Southampton,0.03,0.34,Goal,28.0,Right Foot,23
+2019-01-19,24,Fabian Schär,Newcastle Utd,0.07,0.68,Goal,13.0,Left Foot,23
+2019-01-19,39,Laurent Koscielny,Arsenal,0.34,0.88,Goal,7.0,Other,23
+2019-01-19,14,Alexandre Lacazette,Arsenal,0.06,0.31,Goal,10.0,Right Foot,23
+2019-01-19,42.0,Marcus Rashford,Manchester Utd,0.09,0.72,Goal,10.0,Right Foot,23
+2019-01-19,27.0,Paul Pogba,Manchester Utd,0.79,0.99,Goal,14.0,Right Foot,23
+2019-01-19,90+3,Ayoze Pérez,Newcastle Utd,0.65,0.72,Goal,7.0,Right Foot,23
+2019-01-19,90+1,Gylfi Sigurðsson,Everton,0.05,0.35,Goal,17.0,Right Foot,23
+2019-01-19,4,Diogo Jota,Wolves,0.41,0.79,Goal,8.0,Right Foot,23
+2019-01-19,64,Diogo Jota,Wolves,0.49,0.69,Goal,13.0,Left Foot,23
+2019-01-19,54,Callum Wilson,Bournemouth,0.07,0.49,Goal,21.0,Right Foot,23
+2019-01-19,90+1,Joshua King,Bournemouth,0.4,0.56,Goal,10.0,Right Foot,23
+2019-01-19,53,Roberto Firmino,Liverpool,0.04,0.42,Goal,16.0,Right Foot,23
+2019-01-19,65,James Tomkins,Crystal Palace,0.1,0.4,Goal,8.0,Head,23
+2019-01-19,87,Wes Morgan,Leicester City,0.27,0.25,Goal,5.0,Head,23
+2019-01-19,12,Ryan Bennett,Wolves,0.08,0.14,Goal,9.0,Head,23
+2019-01-19,90+3,Diogo Jota,Wolves,0.33,0.86,Goal,15.0,Right Foot,23
+2019-01-19,90+3,Sadio Mané,Liverpool,0.05,0.18,Goal,12.0,Right Foot,23
+2019-01-20,18,Danilo,Manchester City,0.02,0.32,Goal,33.0,Right Foot,23
+2019-01-20,54,Raheem Sterling,Manchester City,0.58,0.81,Goal,4.0,Head,23
+2019-01-20,56,Leroy Sané,Manchester City,0.54,0.92,Goal,11.0,Left Foot,23
+2019-01-19,75,Mohamed Salah,Liverpool,0.97,0.96,Goal,1.0,Left Foot,23
+2019-01-19,47,Demarai Gray,Leicester City,0.14,0.73,Goal,12.0,Right Foot,23
+2019-01-30,77,James Ward-Prowse,Southampton,0.36,0.71,Goal,9.0,Right Foot,24
+2019-01-30,3,Sadio Mané,Liverpool,0.05,0.64,Goal,15.0,Right Foot,24
+2019-01-30,45+2,Harry Maguire,Leicester City,0.16,0.5,Goal,10.0,Right Foot,24
+2019-01-30,41,Wilfried Zaha,Crystal Palace,0.05,0.18,Goal,16.0,Right Foot,24
+2019-01-29,66,Salomón Rondón,Newcastle Utd,0.13,0.31,Goal,10.0,Right Foot,24
+2019-01-29,80,Matt Ritchie,Newcastle Utd,0.79,0.98,Goal,13.0,Left Foot,24
+2019-01-29,1,Sergio Agüero,Manchester City,0.47,0.64,Goal,8.0,Left Foot,24
+2019-01-29,3,Glenn Murray,Brighton,0.08,0.55,Goal,10.0,Right Foot,24
+2019-01-29,17,Glenn Murray,Brighton,0.65,0.94,Goal,6.0,Left Foot,24
+2019-01-29,47,Calum Chambers,Fulham,0.03,0.4,Goal,20.0,Right Foot,24
+2019-01-29,58,Aleksandar Mitrović,Fulham,0.18,0.04,Goal,6.0,Head,24
+2019-01-29,74,Aleksandar Mitrović,Fulham,0.27,0.57,Goal,10.0,Head,24
+2019-01-29,79,Luciano Vietto,Fulham,0.53,0.82,Goal,6.0,Head,24
+2019-01-29,66,Romain Saïss,Wolves,0.08,0.5,Goal,9.0,Head,24
+2019-01-29,80,Raúl Jiménez,Wolves,0.22,0.38,Goal,9.0,Right Foot,24
+2019-01-29,3,Richarlison,Everton,0.47,0.62,Goal,7.0,Right Foot,24
+2019-01-30,63,David Brooks,Bournemouth,0.45,0.87,Goal,16.0,Left Foot,24
+2019-01-29,86,Raúl Jiménez,Wolves,0.56,0.39,Goal,9.0,Left Foot,24
+2019-01-30,75,Joshua King,Bournemouth,0.34,0.83,Goal,13.0,Right Foot,24
+2019-01-30,38.0,Craig Cathcart,Watford,0.11,0.06,Goal,8.0,Head,24
+2019-01-29,83,Alexandre Lacazette,Arsenal,0.09,0.33,Goal,13.0,Right Foot,24
+2019-01-29,66,Pierre-Emerick Aubameyang,Arsenal,0.79,0.97,Goal,13.0,Right Foot,24
+2019-01-29,90+3,Nathaniel Mendez-Laing,Cardiff City,0.07,0.51,Goal,16.0,Left Foot,24
+2019-01-30,80.0,Son Heung-min,Tottenham,0.07,0.03,Goal,15.0,Left Foot,24
+2019-01-30,87.0,Fernando Llorente,Tottenham,0.04,0.48,Goal,9.0,Head,24
+2019-01-29,51,Ashley Barnes,Burnley,0.27,0.18,Goal,14.0,Left Foot,24
+2019-01-29,81,Chris Wood,Burnley,0.35,0.72,Goal,8.0,Head,24
+2019-01-29,90+2,Victor Lindelöf,Manchester Utd,0.26,0.34,Goal,3.0,Left Foot,24
+2019-01-30,47,Joshua King,Bournemouth,0.34,0.53,Goal,15.0,Right Foot,24
+2019-01-29,87,Paul Pogba,Manchester Utd,0.79,0.99,Goal,13.0,Right Foot,24
+2019-01-30,90+5,Charlie Daniels,Bournemouth,0.05,0.39,Goal,14.0,Head,24
+2019-02-04,22,Sadio Mané,Liverpool,0.43,0.82,Goal,9.0,Left Foot,25
+2019-02-02,46,Bobby Reid,Cardiff City,0.35,0.74,Goal,16.0,Left Foot,25
+2019-02-02,66,Leander Dendoncker,Wolves,0.13,0.31,Goal,10.0,Left Foot,25
+2019-02-02,86,David Luiz,Chelsea,0.04,0.05,Goal,12.0,Head,25
+2019-02-02,45,Raúl Jiménez,Wolves,0.06,0.32,Goal,13.0,Head,25
+2019-02-02,27,André Gomes,Everton,0.06,0.11,Goal,18.0,Right Foot,25
+2019-02-02,7,Rúben Neves,Wolves,0.79,0.99,Goal,13.0,Right Foot,25
+2019-02-02,45+1,Eden Hazard,Chelsea,0.79,0.98,Goal,13.0,Right Foot,25
+2019-02-02,87,Jeffrey Schlupp,Crystal Palace,0.64,0.89,Goal,6.0,Right Foot,25
+2019-02-02,66,Eden Hazard,Chelsea,0.42,0.48,Goal,10.0,Left Foot,25
+2019-02-03,9,Marcus Rashford,Manchester Utd,0.38,0.86,Goal,13.0,Right Foot,25
+2019-02-02,83.0,Son Heung-min,Tottenham,0.06,0.05,Goal,22.0,Right Foot,25
+2019-02-02,25,Luka Milivojević,Crystal Palace,0.79,0.99,Goal,13.0,Right Foot,25
+2019-02-04,28,Michail Antonio,West Ham,0.05,0.56,Goal,14.0,Right Foot,25
+2019-02-02,69,Gonzalo Higuaín,Chelsea,0.04,0.31,Goal,29.0,Right Foot,25
+2019-02-02,55,Nathan Redmond,Southampton,0.05,0.41,Goal,25.0,Right Foot,25
+2019-02-02,90+4,Ashley Barnes,Burnley,0.79,0.99,Goal,13.0,Right Foot,25
+2019-02-02,16,Gonzalo Higuaín,Chelsea,0.38,0.59,Goal,9.0,Right Foot,25
+2019-02-03,1.0,Sergio Agüero,Manchester City,0.33,0.74,Goal,9.0,Head,25
+2019-02-03,11.0,Laurent Koscielny,Arsenal,0.54,0.91,Goal,3.0,Head,25
+2019-02-03,44.0,Sergio Agüero,Manchester City,0.82,0.98,Goal,2.0,Right Foot,25
+2019-02-03,61.0,Sergio Agüero,Manchester City,0.76,0.98,Goal,4.0,Other,25
+2019-02-02,5,Bobby Reid,Cardiff City,0.79,0.9,Goal,13.0,Right Foot,25
+2019-02-09,76.0,Wilfried Zaha,Crystal Palace,0.07,0.18,Goal,7.0,Left Foot,26
+2019-02-10,63,Christian Eriksen,Tottenham,0.04,0.28,Goal,23.0,Right Foot,26
+2019-02-10,33,Davinson Sánchez,Tottenham,0.2,0.12,Goal,6.0,Head,26
+2019-02-10,76,Jamie Vardy,Leicester City,0.66,0.86,Goal,4.0,Left Foot,26
+2019-02-10,90+1,Son Heung-min,Tottenham,0.36,0.58,Goal,20.0,Left Foot,26
+2019-02-09,27.0,Mark Noble,West Ham,0.79,0.98,Goal,13.0,Right Foot,26
+2019-02-06,45+2,Aymeric Laporte,Manchester City,0.09,0.27,Goal,10.0,Head,26
+2019-02-09,14.0,Paul Pogba,Manchester Utd,0.05,0.15,Goal,12.0,Left Foot,26
+2019-02-09,23.0,Anthony Martial,Manchester Utd,0.14,0.37,Goal,15.0,Right Foot,26
+2019-02-09,65.0,Paul Pogba,Manchester Utd,0.79,1.0,Goal,13.0,Right Foot,26
+2019-02-09,69,Sol Bamba,Cardiff City,0.56,0.82,Goal,3.0,Right Foot,26
+2019-02-09,90+1,Jack Stephens,Southampton,0.49,0.55,Goal,2.0,Right Foot,26
+2019-02-09,90+3,Kenneth Zohore,Cardiff City,0.11,0.66,Goal,11.0,Left Foot,26
+2019-02-09,74.0,Ashley Barnes,Burnley,0.79,0.99,Goal,13.0,Right Foot,26
+2019-02-09,61.0,Chris Wood,Burnley,0.06,0.35,Goal,15.0,Right Foot,26
+2019-02-09,26.0,Chris Wood,Burnley,0.38,0.55,Goal,16.0,Right Foot,26
+2019-02-09,65,Andre Gray,Watford,0.39,0.71,Goal,5.0,Right Foot,26
+2019-02-06,90+7,Gabriel Jesus,Manchester City,0.32,0.37,Goal,10.0,Head,26
+2019-02-09,76.0,Shane Duffy,Brighton,0.21,0.27,Goal,7.0,Head,26
+2019-02-09,48,Mohamed Salah,Liverpool,0.26,0.88,Goal,14.0,Left Foot,26
+2019-02-09,44,Alexandre Lacazette,Arsenal,0.59,0.88,Goal,6.0,Right Foot,26
+2019-02-11,56,Isaac Hayden,Newcastle Utd,0.06,0.13,Goal,12.0,Right Foot,26
+2019-02-11,90+5,Willy Boly,Wolves,0.73,0.98,Goal,2.0,Head,26
+2019-02-09,16,Alex Iwobi,Arsenal,0.05,0.14,Goal,13.0,Right Foot,26
+2019-02-09,24,Sadio Mané,Liverpool,0.11,0.17,Goal,7.0,Head,26
+2019-02-09,34,Georginio Wijnaldum,Liverpool,0.06,0.05,Goal,13.0,Right Foot,26
+2019-02-09,90+3,Karlan Grant,Huddersfield,0.86,0.98,Goal,3.0,Left Foot,26
+2019-02-27,57.0,Pedro,Chelsea,0.4,0.74,Goal,8.0,Left Foot,27
+2019-02-24,6,Alexandre Lacazette,Arsenal,0.73,0.92,Goal,5.0,Right Foot,27
+2019-02-22,90+1,Troy Deeney,Watford,0.33,0.64,Goal,12.0,Right Foot,27
+2019-02-22,82,Sol Bamba,Cardiff City,0.37,0.35,Goal,2.0,Left Foot,27
+2019-02-22,73,Troy Deeney,Watford,0.4,0.31,Goal,10.0,Right Foot,27
+2019-02-22,63,Gerard Deulofeu,Watford,0.43,0.91,Goal,14.0,Right Foot,27
+2019-02-23,81,Luka Milivojević,Crystal Palace,0.79,0.98,Goal,13.0,Right Foot,27
+2019-02-22,61,Gerard Deulofeu,Watford,0.57,0.57,Goal,10.0,Right Foot,27
+2019-02-23,64,Jonny Evans,Leicester City,0.19,0.46,Goal,11.0,Right Foot,27
+2019-02-23,40,Michy Batshuayi,Crystal Palace,0.04,0.09,Goal,21.0,Right Foot,27
+2019-02-22,18,Gerard Deulofeu,Watford,0.04,0.32,Goal,21.0,Right Foot,27
+2019-02-24,17,Henrikh Mkhitaryan,Arsenal,0.29,0.75,Goal,14.0,Right Foot,27
+2019-02-23,14,Joshua King,Bournemouth,0.79,0.99,Goal,13.0,Right Foot,27
+2019-02-23,83,Raúl Jiménez,Wolves,0.79,0.97,Goal,13.0,Right Foot,27
+2019-02-23,57,Chris Wood,Burnley,0.2,0.71,Goal,6.0,Head,27
+2019-02-23,65,Harry Kane,Tottenham,0.19,0.52,Goal,6.0,Right Foot,27
+2019-02-23,52,Ayoze Pérez,Newcastle Utd,0.12,0.35,Goal,11.0,Right Foot,27
+2019-02-23,46,Salomón Rondón,Newcastle Utd,0.43,0.48,Goal,10.0,Right Foot,27
+2019-02-23,83,Ashley Barnes,Burnley,0.65,0.95,Goal,4.0,Right Foot,27
+2019-02-23,70,Wilfried Zaha,Crystal Palace,0.41,0.22,Goal,4.0,Right Foot,27
+2019-02-26,66,Davy Pröpper,Brighton,0.06,0.25,Goal,16.0,Right Foot,27
+2019-02-23,90+3,Wilfried Zaha,Crystal Palace,0.36,0.65,Goal,14.0,Right Foot,27
+2019-02-22,40,Issa Diop,West Ham,0.23,0.07,Goal,5.0,Head,27
+2019-02-10,80.0,Raheem Sterling,Manchester City,0.48,0.53,Goal,8.0,Left Foot,27
+2019-02-10,56.0,Sergio Agüero,Manchester City,0.79,0.99,Goal,13.0,Right Foot,27
+2019-02-10,25.0,İlkay Gündoğan,Manchester City,0.03,0.43,Goal,24.0,Right Foot,27
+2019-02-22,3,Ryan Babel,Fulham,0.57,0.94,Goal,7.0,Left Foot,27
+2019-02-22,29,Javier Hernández,West Ham,0.74,0.96,Goal,1.0,Other,27
+2019-02-10,4.0,Raheem Sterling,Manchester City,0.12,0.2,Goal,10.0,Right Foot,27
+2019-02-22,90+1,Michail Antonio,West Ham,0.06,0.3,Goal,14.0,Head,27
+2019-02-10,19.0,Sergio Agüero,Manchester City,0.21,0.56,Goal,9.0,Left Foot,27
+2019-02-10,13.0,Sergio Agüero,Manchester City,0.03,0.57,Goal,28.0,Right Foot,27
+2019-02-27,4,Mesut Özil,Arsenal,0.22,0.15,Goal,13.0,Left Foot,28
+2019-02-27,33,Romelu Lukaku,Manchester Utd,0.06,0.43,Goal,18.0,Right Foot,28
+2019-02-27,52,Romelu Lukaku,Manchester Utd,0.24,0.22,Goal,4.0,Left Foot,28
+2019-02-27,83,Ashley Young,Manchester Utd,0.06,0.28,Goal,9.0,Right Foot,28
+2019-02-27,82.0,Virgil van Dijk,Liverpool,0.14,0.49,Goal,9.0,Head,28
+2019-02-27,66,Joel Ward,Crystal Palace,0.47,0.75,Goal,5.0,Head,28
+2019-02-27,79.0,Virgil van Dijk,Liverpool,0.31,0.62,Goal,6.0,Head,28
+2019-02-26,38,Sean Longstaff,Newcastle Utd,0.41,0.96,Goal,7.0,Right Foot,28
+2019-02-26,24,Fabian Schär,Newcastle Utd,0.02,0.37,Goal,30.0,Right Foot,28
+2019-02-27,59.0,Sergio Agüero,Manchester City,0.79,0.99,Goal,13.0,Right Foot,28
+2019-03-02,79,Florin Andone,Brighton,0.27,0.37,Goal,6.0,Head,28
+2019-02-27,47,Laurent Koscielny,Arsenal,0.24,0.34,Goal,8.0,Right Foot,28
+2019-02-26,90+1,Steve Mounié,Huddersfield,0.75,0.97,Goal,4.0,Left Foot,28
+2019-02-27,59,Pierre-Emerick Aubameyang,Arsenal,0.62,0.71,Goal,9.0,Right Foot,28
+2019-02-27,30,Lys Mousset,Bournemouth,0.33,0.57,Goal,12.0,Right Foot,28
+2019-02-27,66.0,Divock Origi,Liverpool,0.05,0.32,Goal,15.0,Right Foot,28
+2019-02-26,90+3,Dominic Calvert-Lewin,Everton,0.07,0.29,Goal,24.0,Right Foot,28
+2019-02-27,78,Alexandre Lacazette,Arsenal,0.11,0.32,Goal,24.0,Right Foot,28
+2019-02-27,23,Oriol Romeu,Southampton,0.03,0.09,Goal,21.0,Left Foot,28
+2019-02-26,63,Jamie Vardy,Leicester City,0.28,0.25,Goal,10.0,Right Foot,28
+2019-03-03,20,Gonzalo Higuaín,Chelsea,0.09,0.3,Goal,11.0,Right Foot,28
+2019-02-26,10,Demarai Gray,Leicester City,0.44,0.72,Goal,14.0,Right Foot,28
+2019-02-27,27,Henrikh Mkhitaryan,Arsenal,0.35,0.46,Goal,13.0,Right Foot,28
+2019-02-26,66,Gylfi Sigurðsson,Everton,0.06,0.08,Goal,13.0,Left Foot,28
+2019-02-27,41,James Ward-Prowse,Southampton,0.39,0.63,Goal,10.0,Right Foot,28
+2019-03-03,31,Jorginho,Chelsea,0.06,0.33,Goal,21.0,Right Foot,28
+2019-02-27,9.0,Sadio Mané,Liverpool,0.36,0.81,Goal,7.0,Head,28
+2019-02-27,20.0,Sadio Mané,Liverpool,0.29,0.32,Goal,12.0,Right Foot,28
+2019-02-26,41,Gylfi Sigurðsson,Everton,0.34,0.86,Goal,14.0,Right Foot,28
+2019-03-03,28,Calum Chambers,Fulham,0.12,0.14,Goal,8.0,Right Foot,29
+2019-03-09,20.0,Callum Wilson,Bournemouth,0.78,0.9,Goal,3.0,Other,29
+2019-03-09,67.0,Ryan Fraser,Bournemouth,0.31,0.59,Goal,11.0,Right Foot,29
+2019-03-02,89,Romelu Lukaku,Manchester Utd,0.04,0.34,Goal,22.0,Right Foot,29
+2019-03-10,90+2,Eden Hazard,Chelsea,0.02,0.36,Goal,26.0,Right Foot,29
+2019-03-03,90+2,Andre Gray,Watford,0.28,0.21,Goal,12.0,Left Foot,29
+2019-03-02,75,James Ward-Prowse,Southampton,0.09,0.48,Goal,25.0,Right Foot,29
+2019-03-02,16,Aaron Ramsey,Arsenal,0.66,0.78,Goal,8.0,Left Foot,29
+2019-03-09,74,Anthony Knockaert,Brighton,0.03,0.62,Goal,23.0,Left Foot,29
+2019-03-02,55,Riyad Mahrez,Manchester City,0.07,0.17,Goal,11.0,Right Foot,29
+2019-03-09,19,Glenn Murray,Brighton,0.07,0.47,Goal,17.0,Right Foot,29
+2019-03-10,90+1,Jóhann Berg Guðmundsson,Burnley,0.42,0.73,Goal,8.0,Left Foot,29
+2019-03-02,18,Raúl Jiménez,Wolves,0.38,0.75,Goal,10.0,Right Foot,29
+2019-03-02,16,Diogo Jota,Wolves,0.36,0.78,Goal,12.0,Right Foot,29
+2019-03-02,59,Romelu Lukaku,Manchester Utd,0.06,0.6,Goal,14.0,Right Foot,29
+2019-03-02,53,Andreas Pereira,Manchester Utd,0.03,0.42,Goal,29.0,Right Foot,29
+2019-03-02,26,Yan Valery,Southampton,0.03,0.34,Goal,26.0,Right Foot,29
+2019-03-02,74,Harry Kane,Tottenham,0.79,0.99,Goal,13.0,Right Foot,29
+2019-03-03,5,Troy Deeney,Watford,0.2,0.08,Goal,4.0,Head,29
+2019-03-02,7,Declan Rice,West Ham,0.17,0.39,Goal,6.0,Head,29
+2019-03-02,42,Mark Noble,West Ham,0.79,0.99,Goal,13.0,Right Foot,29
+2019-03-10,6,Ashley Westwood,Burnley,,,Goal,33.0,Right Foot,29
+2019-03-09,50,Luka Milivojević,Crystal Palace,0.79,0.99,Goal,13.0,Right Foot,29
+2019-03-03,75,Jamie Vardy,Leicester City,0.26,0.37,Goal,24.0,Right Foot,29
+2019-03-10,19,Roberto Firmino,Liverpool,0.98,0.98,Goal,1.0,Left Foot,30
+2019-03-30,88,Patrick van Aanholt,Crystal Palace,0.2,0.7,Goal,14.0,Left Foot,30
+2019-03-10,90+3,Sadio Mané,Liverpool,0.44,0.45,Goal,11.0,Left Foot,30
+2019-03-10,67,Roberto Firmino,Liverpool,0.49,0.75,Goal,9.0,Right Foot,30
+2019-03-09,52,Víctor Camarasa,Cardiff City,0.94,1.0,Goal,0.0,Right Foot,30
+2019-03-09,4,Junior Hoilett,Cardiff City,0.36,0.79,Goal,5.0,Right Foot,30
+2019-03-09,26,Harry Kane,Tottenham,0.43,0.86,Goal,6.0,Right Foot,30
+2019-03-10,29,Sadio Mané,Liverpool,0.3,0.88,Goal,12.0,Right Foot,30
+2019-03-30,76,Luka Milivojević,Crystal Palace,0.79,0.99,Goal,13.0,Right Foot,30
+2019-03-09,76,Yan Valery,Southampton,0.36,0.63,Goal,8.0,Left Foot,30
+2019-03-09,46,Raheem Sterling,Manchester City,0.08,0.55,Goal,11.0,Left Foot,30
+2019-03-09,51,Floyd Ayité,Fulham,0.07,0.12,Goal,12.0,Left Foot,30
+2019-03-09,84.0,Ayoze Pérez,Newcastle Utd,0.16,0.42,Goal,8.0,Left Foot,30
+2019-03-09,81.0,Ayoze Pérez,Newcastle Utd,0.58,0.53,Goal,9.0,Right Foot,30
+2019-03-09,65.0,Salomón Rondón,Newcastle Utd,0.1,0.06,Goal,9.0,Left Foot,30
+2019-03-09,21,Youri Tielemans,Leicester City,0.48,0.54,Goal,9.0,Left Foot,30
+2019-03-10,69,Pierre-Emerick Aubameyang,Arsenal,0.79,0.94,Goal,13.0,Right Foot,30
+2019-03-10,12,Granit Xhaka,Arsenal,0.03,0.11,Goal,29.0,Left Foot,30
+2019-03-10,56,Raúl Jiménez,Wolves,0.51,0.92,Goal,14.0,Right Foot,30
+2019-03-09,66,Gerard Deulofeu,Watford,0.09,0.06,Goal,13.0,Right Foot,30
+2019-03-09,59,Raheem Sterling,Manchester City,0.17,0.07,Goal,10.0,Right Foot,30
+2019-03-16,81,Joshua King,Bournemouth,0.07,0.41,Goal,19.0,Right Foot,30
+2019-03-09,50,Raheem Sterling,Manchester City,0.88,0.99,Goal,2.0,Right Foot,30
+2019-03-09,32.0,Richarlison,Everton,0.73,0.86,Goal,5.0,Right Foot,30
+2019-03-09,18.0,Dominic Calvert-Lewin,Everton,0.07,0.48,Goal,9.0,Head,30
+2019-03-09,81,James Ward-Prowse,Southampton,0.09,0.5,Goal,27.0,Right Foot,30
+2019-03-16,38,Dwight McNeil,Burnley,0.06,0.44,Goal,17.0,Left Foot,30
+2019-03-09,86,Jamie Vardy,Leicester City,0.29,0.83,Goal,14.0,Left Foot,30
+2019-03-09,78,Jamie Vardy,Leicester City,0.41,0.94,Goal,11.0,Right Foot,30
+2019-03-16,48,Joshua King,Bournemouth,0.79,0.92,Goal,13.0,Right Foot,30
+2019-03-31,70.0,Lucas Moura,Tottenham,0.31,0.73,Goal,7.0,Right Foot,31
+2019-03-17,74.0,Ryan Babel,Fulham,0.85,0.97,Goal,3.0,Right Foot,31
+2019-03-30,5,Bernardo Silva,Manchester City,0.04,0.47,Goal,21.0,Left Foot,31
+2019-03-30,27,Sergio Agüero,Manchester City,0.11,0.37,Goal,9.0,Right Foot,31
+2019-03-17,26.0,Sadio Mané,Liverpool,0.53,0.65,Goal,9.0,Right Foot,31
+2019-03-30,77,Dwight McNeil,Burnley,0.04,0.31,Goal,17.0,Left Foot,31
+2019-03-30,53.0,Pierre Højbjerg,Southampton,0.29,0.78,Goal,7.0,Right Foot,31
+2019-03-16,33,James Maddison,Leicester City,0.08,0.18,Goal,23.0,Right Foot,31
+2019-03-17,81.0,James Milner,Liverpool,0.79,0.88,Goal,13.0,Right Foot,31
+2019-03-16,90,Wes Morgan,Leicester City,0.22,0.61,Goal,5.0,Head,31
+2019-03-30,28.0,Marcus Rashford,Manchester Utd,0.44,0.81,Goal,21.0,Right Foot,31
+2019-04-01,83,Alexandre Lacazette,Arsenal,0.23,0.13,Goal,19.0,Right Foot,31
+2019-04-01,30,Aaron Ramsey,Arsenal,0.06,0.52,Goal,15.0,Left Foot,31
+2019-03-17,72,Gylfi Sigurðsson,Everton,0.26,0.24,Goal,8.0,Right Foot,31
+2019-03-17,49,Richarlison,Everton,0.48,0.66,Goal,3.0,Head,31
+2019-03-16,90+1,Javier Hernández,West Ham,0.08,0.15,Goal,9.0,Head,31
+2019-03-31,46,Víctor Camarasa,Cardiff City,0.08,0.27,Goal,17.0,Right Foot,31
+2019-03-16,45+5,Salomón Rondón,Newcastle Utd,0.06,0.28,Goal,28.0,Right Foot,31
+2019-03-31,84,César Azpilicueta,Chelsea,0.44,0.87,Goal,4.0,Head,31
+2019-03-31,90+1,Ruben Loftus-Cheek,Chelsea,0.27,0.74,Goal,10.0,Head,31
+2019-03-16,84,Javier Hernández,West Ham,0.09,0.34,Goal,7.0,Head,31
+2019-03-16,90+4,Matt Ritchie,Newcastle Utd,0.05,0.2,Goal,14.0,Left Foot,31
+2019-03-30,72.0,Anthony Martial,Manchester Utd,0.86,0.96,Goal,3.0,Left Foot,31
+2019-03-16,15,Mark Noble,West Ham,0.79,0.87,Goal,13.0,Right Foot,31
+2019-03-16,75,Angelo Ogbonna,West Ham,0.05,0.08,Goal,11.0,Head,31
+2019-03-16,17,Juninho Bacuna,Huddersfield,0.06,0.29,Goal,10.0,Head,31
+2019-03-16,65,Karlan Grant,Huddersfield,0.03,0.49,Goal,24.0,Right Foot,31
+2019-03-16,30,Karlan Grant,Huddersfield,0.13,0.47,Goal,12.0,Left Foot,31
+2019-03-30,90.0,Abdoulaye Doucouré,Watford,0.65,0.97,Goal,7.0,Right Foot,31
+2019-04-06,57,Ashley Barnes,Burnley,0.35,0.5,Goal,10.0,Right Foot,32
+2019-04-06,20,Ashley Westwood,Burnley,0.08,0.36,Goal,13.0,Right Foot,32
+2019-04-06,18,Chris Wood,Burnley,0.41,0.48,Goal,3.0,Head,32
+2019-03-30,82.0,Jamie Vardy,Leicester City,0.3,0.19,Goal,8.0,Head,32
+2019-04-02,23,Abdoulaye Doucouré,Watford,0.05,0.3,Goal,19.0,Left Foot,32
+2019-04-02,63,Will Hughes,Watford,0.04,0.45,Goal,18.0,Left Foot,32
+2019-04-06,81,Luka Milivojević,Crystal Palace,0.79,0.99,Goal,13.0,Right Foot,32
+2019-04-03,44,Leroy Sané,Manchester City,0.03,0.44,Goal,17.0,Left Foot,32
+2019-04-03,6,Kevin De Bruyne,Manchester City,0.05,0.08,Goal,10.0,Left Foot,32
+2019-04-02,75,Kiko Femenía,Watford,0.28,0.5,Goal,13.0,Right Foot,32
+2019-03-30,11.0,Wes Morgan,Leicester City,0.11,0.09,Goal,11.0,Left Foot,32
+2019-04-02,69,Troy Deeney,Watford,0.36,0.4,Goal,10.0,Right Foot,32
+2019-04-03,55,Son Heung-min,Tottenham,0.06,0.42,Goal,17.0,Left Foot,32
+2019-04-02,13,Scott McTominay,Manchester Utd,0.03,0.43,Goal,25.0,Right Foot,32
+2019-04-03,80,Christian Eriksen,Tottenham,0.1,0.06,Goal,8.0,Left Foot,32
+2019-03-30,5.0,Kurt Zouma,Everton,0.08,0.71,Goal,9.0,Head,32
+2019-04-05,9.0,Shane Long,Southampton,0.46,0.85,Goal,9.0,Right Foot,32
+2019-03-31,16.0,Roberto Firmino,Liverpool,0.29,0.35,Goal,9.0,Head,32
+2019-04-02,25,Diogo Jota,Wolves,0.55,0.97,Goal,9.0,Right Foot,32
+2019-04-03,38,Olivier Giroud,Chelsea,0.64,0.96,Goal,4.0,Left Foot,32
+2019-04-03,60,Eden Hazard,Chelsea,0.08,0.5,Goal,18.0,Right Foot,32
+2019-03-30,33.0,Bernard,Everton,0.66,0.67,Goal,5.0,Right Foot,32
+2019-04-03,63,Ruben Loftus-Cheek,Chelsea,0.03,0.52,Goal,25.0,Right Foot,32
+2019-04-14,90,Gabriel Jesus,Manchester City,0.54,0.9,Goal,11.0,Right Foot,33
+2019-04-07,10,Phil Jagielka,Everton,0.6,0.87,Goal,4.0,Right Foot,33
+2019-04-13,55,Ryan Fraser,Bournemouth,0.08,0.58,Goal,24.0,Right Foot,33
+2019-04-13,24,Victor Wanyama,Tottenham,0.7,0.82,Goal,5.0,Left Foot,33
+2019-04-13,27,Lucas Moura,Tottenham,0.05,0.42,Goal,14.0,Right Foot,33
+2019-04-13,87,Lucas Moura,Tottenham,0.08,0.27,Goal,14.0,Right Foot,33
+2019-04-13,19.0,Paul Pogba,Manchester Utd,0.79,0.93,Goal,13.0,Right Foot,33
+2019-04-13,90+3,Lucas Moura,Tottenham,0.08,0.18,Goal,12.0,Right Foot,33
+2019-04-13,33,Dan Gosling,Bournemouth,0.37,0.82,Goal,12.0,Right Foot,33
+2019-04-13,80.0,Paul Pogba,Manchester Utd,0.79,0.99,Goal,13.0,Right Foot,33
+2019-04-08,24.0,Eden Hazard,Chelsea,0.11,0.49,Goal,14.0,Left Foot,33
+2019-04-13,31,Chris Wood,Burnley,0.28,0.23,Goal,5.0,Head,33
+2019-04-06,84.0,Jamie Vardy,Leicester City,0.79,0.98,Goal,13.0,Right Foot,33
+2019-04-08,90.0,Eden Hazard,Chelsea,0.24,0.69,Goal,11.0,Right Foot,33
+2019-04-13,90+2,Chris Wood,Burnley,0.93,0.96,Goal,1.0,Head,33
+2019-04-14,81,Luka Milivojević,Crystal Palace,0.15,0.48,Goal,21.0,Right Foot,33
+2019-04-14,15,Raheem Sterling,Manchester City,0.38,0.57,Goal,11.0,Right Foot,33
+2019-04-13,90+2,Junior Stanislas,Bournemouth,0.31,0.8,Goal,12.0,Right Foot,33
+2019-04-13,2,Nathan Redmond,Southampton,0.69,0.98,Goal,4.0,Right Foot,33
+2019-04-13,28,Willy Boly,Wolves,0.07,0.35,Goal,9.0,Head,33
+2019-04-13,30,Nathan Redmond,Southampton,0.49,0.74,Goal,11.0,Right Foot,33
+2019-04-02,33,Ryan Babel,Fulham,0.46,0.56,Goal,8.0,Right Foot,33
+2019-04-13,71,Shane Long,Southampton,0.21,0.19,Goal,5.0,Right Foot,33
+2019-04-14,63,Raheem Sterling,Manchester City,0.37,0.92,Goal,9.0,Left Foot,33
+2019-04-06,48.0,Jamie Vardy,Leicester City,0.52,0.83,Goal,5.0,Left Foot,33
+2019-04-06,52.0,Aaron Mooy,Huddersfield,0.79,0.97,Goal,13.0,Right Foot,33
+2019-04-06,24.0,Youri Tielemans,Leicester City,0.03,0.24,Goal,22.0,Right Foot,33
+2019-04-05,36.0,Naby Keïta,Liverpool,0.06,0.25,Goal,8.0,Head,33
+2019-04-05,80.0,Mohamed Salah,Liverpool,0.09,0.6,Goal,18.0,Left Foot,33
+2019-04-05,86.0,Jordan Henderson,Liverpool,0.46,0.75,Goal,8.0,Left Foot,33
+2019-04-15,10,Pierre-Emerick Aubameyang,Arsenal,0.33,0.43,Goal,5.0,Left Foot,33
+2019-04-13,82,Callum Wilson,Bournemouth,0.12,0.52,Goal,11.0,Left Foot,33
+2019-04-13,74,David Brooks,Bournemouth,0.54,0.83,Goal,8.0,Left Foot,33
+2019-04-06,79.0,James Maddison,Leicester City,0.1,0.31,Goal,24.0,Right Foot,33
+2019-04-20,5.0,Phil Foden,Manchester City,0.76,0.98,Goal,3.0,Head,34
+2019-04-12,32,Ayoze Pérez,Newcastle Utd,0.08,0.13,Goal,5.0,Head,34
+2019-04-21,69,James McArthur,Crystal Palace,0.41,0.29,Goal,4.0,Head,34
+2019-04-21,17,Christian Benteke,Crystal Palace,0.16,0.25,Goal,8.0,Head,34
+2019-04-21,47,Mesut Özil,Arsenal,0.32,0.27,Goal,7.0,Left Foot,34
+2019-04-21,77,Pierre-Emerick Aubameyang,Arsenal,0.06,0.31,Goal,18.0,Right Foot,34
+2019-04-13,49.0,Felipe Anderson,West Ham,0.43,0.63,Goal,3.0,Right Foot,34
+2019-04-20,80,Gerard Deulofeu,Watford,0.37,0.84,Goal,10.0,Right Foot,34
+2019-04-21,61,Wilfried Zaha,Crystal Palace,0.07,0.08,Goal,13.0,Right Foot,34
+2019-04-13,46,Tom Cairney,Fulham,0.26,0.58,Goal,16.0,Left Foot,34
+2019-04-22,24.0,Ashley Barnes,Burnley,0.47,0.64,Goal,4.0,Right Foot,34
+2019-04-13,69,Ryan Babel,Fulham,0.46,0.7,Goal,15.0,Right Foot,34
+2019-04-14,51,Sadio Mané,Liverpool,0.56,0.73,Goal,4.0,Head,34
+2019-04-14,53,Mohamed Salah,Liverpool,0.03,0.35,Goal,27.0,Left Foot,34
+2019-04-20,5,Gerard Deulofeu,Watford,0.07,0.52,Goal,15.0,Right Foot,34
+2019-04-16,22,Nathaniel Mendez-Laing,Cardiff City,0.03,0.59,Goal,23.0,Right Foot,34
+2019-04-16,50,Sean Morrison,Cardiff City,0.14,0.04,Goal,8.0,Head,34
+2019-04-22,8.0,Jeff Hendrick,Burnley,0.03,0.24,Goal,20.0,Right Foot,34
+2019-04-20,59,Mario Lemina,Southampton,0.04,0.32,Goal,21.0,Right Foot,34
+2019-04-22,12.0,N'Golo Kanté,Chelsea,0.11,0.1,Goal,12.0,Left Foot,35
+2019-04-20,90+3,Karlan Grant,Huddersfield,0.46,0.74,Goal,6.0,Head,35
+2019-04-27,20,Dan Gosling,Bournemouth,0.36,0.26,Goal,16.0,Right Foot,35
+2019-04-27,32,Callum Wilson,Bournemouth,0.39,0.62,Goal,5.0,Right Foot,35
+2019-04-27,86,Callum Wilson,Bournemouth,0.9,0.99,Goal,3.0,Right Foot,35
+2019-04-22,14.0,Gonzalo Higuaín,Chelsea,0.05,0.09,Goal,13.0,Right Foot,35
+2019-04-23,1,Shane Long,Southampton,0.36,0.6,Goal,17.0,Right Foot,35
+2019-04-23,90,Andre Gray,Watford,0.09,0.46,Goal,9.0,Left Foot,35
+2019-04-21,57,Georginio Wijnaldum,Liverpool,0.08,0.3,Goal,12.0,Right Foot,35
+2019-04-24,37,Matt Doherty,Wolves,0.1,0.03,Goal,8.0,Head,35
+2019-04-21,64.0,Theo Walcott,Everton,0.38,0.89,Goal,12.0,Right Foot,35
+2019-04-21,56.0,Lucas Digne,Everton,0.02,0.09,Goal,25.0,Left Foot,35
+2019-04-23,88,Christian Eriksen,Tottenham,0.03,0.21,Goal,30.0,Left Foot,35
+2019-04-21,28.0,Gylfi Sigurðsson,Everton,0.04,0.22,Goal,29.0,Right Foot,35
+2019-04-21,81,James Milner,Liverpool,0.79,0.99,Goal,13.0,Right Foot,35
+2019-04-21,13.0,Richarlison,Everton,0.34,0.44,Goal,8.0,Left Foot,35
+2019-04-20,53,Aleksandar Mitrović,Fulham,0.79,0.99,Goal,13.0,Right Foot,35
+2019-04-20,31,Ayoze Pérez,Newcastle Utd,0.16,0.15,Goal,4.0,Right Foot,35
+2019-04-20,86,Ayoze Pérez,Newcastle Utd,0.4,0.52,Goal,8.0,Head,35
+2019-04-20,38,Michail Antonio,West Ham,0.06,0.09,Goal,10.0,Head,35
+2019-04-20,67,Jamie Vardy,Leicester City,0.13,0.28,Goal,6.0,Right Foot,35
+2019-04-20,82,Lucas Pérez,West Ham,0.4,0.67,Goal,9.0,Right Foot,35
+2019-04-20,90+2,Harvey Barnes,Leicester City,0.31,0.85,Goal,13.0,Right Foot,35
+2019-04-24,54.0,Bernardo Silva,Manchester City,0.05,0.24,Goal,16.0,Left Foot,35
+2019-04-24,66.0,Leroy Sané,Manchester City,0.09,0.15,Goal,17.0,Left Foot,35
+2019-04-24,80,Sokratis Papastathopoulos,Arsenal,0.25,0.12,Goal,5.0,Head,35
+2019-04-24,45+2,Diogo Jota,Wolves,0.05,0.03,Goal,15.0,Left Foot,35
+2019-04-20,27,Ayoze Pérez,Newcastle Utd,0.08,0.6,Goal,15.0,Right Foot,35
+2019-04-24,28,Rúben Neves,Wolves,0.09,0.34,Goal,26.0,Right Foot,35
+2019-04-27,55,James Ward-Prowse,Southampton,0.03,0.24,Goal,25.0,Left Foot,36
+2019-04-26,66,Sadio Mané,Liverpool,0.07,0.16,Goal,8.0,Head,36
+2019-04-26,83,Mohamed Salah,Liverpool,0.66,0.8,Goal,5.0,Right Foot,36
+2019-04-27,12,Shane Long,Southampton,0.26,0.51,Goal,16.0,Right Foot,36
+2019-05-04,90+1,Nathan Aké,Bournemouth,0.27,0.58,Goal,5.0,Head,36
+2019-05-04,70,Andros Townsend,Crystal Palace,0.04,0.21,Goal,22.0,Left Foot,36
+2019-05-04,40,Michy Batshuayi,Crystal Palace,0.46,0.88,Goal,9.0,Right Foot,36
+2019-05-04,28,Wilfried Zaha,Crystal Palace,0.05,0.18,Goal,20.0,Right Foot,36
+2019-04-27,67,Michail Antonio,West Ham,0.35,0.8,Goal,6.0,Right Foot,36
+2019-04-27,77,Diogo Jota,Wolves,0.28,0.15,Goal,8.0,Left Foot,36
+2019-04-27,49,Andre Gray,Watford,0.27,0.57,Goal,16.0,Right Foot,36
+2019-04-27,41,Raúl Jiménez,Wolves,0.57,0.46,Goal,4.0,Head,36
+2019-04-27,75,Pascal Groß,Brighton,0.58,0.87,Goal,5.0,Head,36
+2019-04-27,18,Ayoze Pérez,Newcastle Utd,0.09,0.44,Goal,15.0,Right Foot,36
+2019-04-27,67,Matt Targett,Southampton,0.06,0.28,Goal,6.0,Head,36
+2019-04-26,45+1,Mohamed Salah,Liverpool,0.28,0.23,Goal,17.0,Left Foot,36
+2019-04-28,63.0,Sergio Agüero,Manchester City,0.2,0.06,Goal,9.0,Left Foot,36
+2019-04-26,1,Naby Keïta,Liverpool,0.08,0.61,Goal,13.0,Right Foot,36
+2019-04-28,59,Youri Tielemans,Leicester City,0.2,0.3,Goal,13.0,Head,36
+2019-04-28,86,Jamie Vardy,Leicester City,0.49,0.65,Goal,5.0,Head,36
+2019-04-27,79,Ryan Babel,Fulham,0.04,0.35,Goal,24.0,Right Foot,36
+2019-04-28,90+5,Jamie Vardy,Leicester City,0.46,0.72,Goal,8.0,Right Foot,36
+2019-04-28,11,Juan Mata,Manchester Utd,0.47,0.55,Goal,11.0,Right Foot,36
+2019-04-28,43,Marcos Alonso,Chelsea,0.47,0.77,Goal,4.0,Left Foot,36
+2019-04-26,23,Sadio Mané,Liverpool,0.26,0.52,Goal,10.0,Head,36
+2019-05-12,24,Michy Batshuayi,Crystal Palace,0.73,0.99,Goal,5.0,Right Foot,37
+2019-05-04,90,Bobby Reid,Cardiff City,0.03,0.4,Goal,23.0,Right Foot,37
+2019-05-05,60,Isaac Mbenza,Huddersfield,0.38,0.32,Goal,14.0,Right Foot,37
+2019-05-12,65,Ashley Barnes,Burnley,0.19,0.64,Goal,4.0,Head,37
+2019-05-04,75,Leander Dendoncker,Wolves,0.33,0.71,Goal,11.0,Right Foot,37
+2019-05-03,20,Séamus Coleman,Everton,0.61,0.9,Goal,5.0,Head,37
+2019-05-05,9,Pierre-Emerick Aubameyang,Arsenal,0.79,0.99,Goal,13.0,Right Foot,37
+2019-05-12,32,Michy Batshuayi,Crystal Palace,0.79,0.95,Goal,5.0,Right Foot,37
+2019-05-04,16,Marko Arnautović,West Ham,0.39,0.3,Goal,14.0,Left Foot,37
+2019-05-04,69,Marko Arnautović,West Ham,0.92,0.92,Goal,2.0,Head,37
+2019-05-04,72,Ryan Fredericks,West Ham,0.06,0.35,Goal,12.0,Right Foot,37
+2019-05-05,61,Glenn Murray,Brighton,0.79,0.97,Goal,13.0,Right Foot,37
+2019-05-12,45,Jefferson Lerma,Bournemouth,0.02,0.43,Goal,30.0,Right Foot,37
+2019-05-05,48,Ruben Loftus-Cheek,Chelsea,0.1,0.13,Goal,8.0,Head,37
+2019-05-12,65,Patrick van Aanholt,Crystal Palace,0.37,0.39,Goal,7.0,Left Foot,37
+2019-05-12,57,Jordon Ibe,Bournemouth,0.06,0.29,Goal,21.0,Right Foot,37
+2019-05-05,51,David Luiz,Chelsea,0.1,0.07,Goal,8.0,Head,37
+2019-05-05,8,Scott McTominay,Manchester Utd,0.04,0.16,Goal,17.0,Left Foot,37
+2019-05-04,54,Salomón Rondón,Newcastle Utd,0.05,0.34,Goal,15.0,Left Foot,37
+2019-05-04,20,Christian Atsu,Newcastle Utd,0.72,0.98,Goal,5.0,Left Foot,37
+2019-05-04,86,Divock Origi,Liverpool,0.25,0.82,Goal,6.0,Head,37
+2019-05-04,13,Virgil van Dijk,Liverpool,0.13,0.07,Goal,7.0,Head,37
+2019-05-06,70.0,Vincent Kompany,Manchester City,0.03,0.27,Goal,31.0,Right Foot,37
+2019-05-05,75,Gonzalo Higuaín,Chelsea,0.09,0.02,Goal,10.0,Right Foot,37
+2019-05-12,80,Andros Townsend,Crystal Palace,0.11,0.45,Goal,14.0,Left Foot,37
+2019-05-12,73,Joshua King,Bournemouth,0.44,0.7,Goal,2.0,Left Foot,37
+2019-05-04,28,Mohamed Salah,Liverpool,0.08,0.27,Goal,12.0,Right Foot,37
+2019-05-12,28,Sergio Agüero,Manchester City,0.34,0.32,Goal,10.0,Left Foot,38
+2019-05-12,63,Riyad Mahrez,Manchester City,0.07,0.41,Goal,21.0,Right Foot,38
+2019-05-12,72,İlkay Gündoğan,Manchester City,0.08,0.5,Goal,28.0,Right Foot,38
+2019-05-12,27,Glenn Murray,Brighton,0.25,0.42,Goal,2.0,Head,38
+2019-05-12,78,Mark Noble,West Ham,0.79,0.99,Goal,13.0,Right Foot,38
+2019-05-12,71,Marko Arnautović,West Ham,0.7,0.92,Goal,5.0,Left Foot,38
+2019-05-12,46,Gerard Deulofeu,Watford,0.72,0.9,Goal,7.0,Right Foot,38
+2019-05-12,39,Manuel Lanzini,West Ham,0.44,0.37,Goal,6.0,Head,38
+2019-05-12,15,Mark Noble,West Ham,0.09,0.43,Goal,17.0,Left Foot,38
+2019-05-12,38,Aymeric Laporte,Manchester City,0.28,0.83,Goal,5.0,Head,38
+2019-05-12,61.0,Fabian Schär,Newcastle Utd,0.06,0.27,Goal,10.0,Head,38
+2019-05-12,9.0,Jonjo Shelvey,Newcastle Utd,0.04,0.41,Goal,17.0,Right Foot,38
+2019-05-12,11.0,Ayoze Pérez,Newcastle Utd,0.66,0.97,Goal,5.0,Left Foot,38
+2019-05-12,90.0,Salomón Rondón,Newcastle Utd,0.51,0.97,Goal,4.0,Left Foot,38
+2019-05-12,55,Alex Pritchard,Huddersfield,0.35,0.51,Goal,12.0,Left Foot,38
+2019-05-12,52,Pierre-Emerick Aubameyang,Arsenal,0.36,0.86,Goal,16.0,Right Foot,38
+2019-05-12,75,Christian Eriksen,Tottenham,0.08,0.45,Goal,25.0,Right Foot,38
+2019-05-12,72,Cenk Tosun,Everton,0.9,0.99,Goal,1.0,Left Foot,38
+2019-05-12,69,Theo Walcott,Everton,0.06,0.52,Goal,15.0,Left Foot,38
+2019-05-12,3,Eric Dier,Tottenham,0.15,0.25,Goal,8.0,Right Foot,38
+2019-05-12,17.0,Sadio Mané,Liverpool,0.52,0.75,Goal,9.0,Right Foot,38
+2019-05-12,90+4,Eddie Nketiah,Arsenal,0.07,0.08,Goal,8.0,Left Foot,38
+2019-05-12,54,Nathaniel Mendez-Laing,Cardiff City,0.47,0.41,Goal,3.0,Left Foot,38
+2019-05-12,23,Nathaniel Mendez-Laing,Cardiff City,0.79,0.95,Goal,13.0,Right Foot,38
+2019-05-12,81.0,Sadio Mané,Liverpool,0.2,0.22,Goal,13.0,Head,38
+2019-05-12,41,Nathan Redmond,Southampton,0.04,0.26,Goal,24.0,Right Foot,38
+2019-05-12,63,Pierre-Emerick Aubameyang,Arsenal,0.38,0.9,Goal,4.0,Right Foot,38
