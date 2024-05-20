@@ -2,6 +2,7 @@ import pandas as pd
 import plotly.graph_objects as go
 from dash import dcc, html, dash_table
 from dash.dependencies import Input, Output
+import dash
 import dash_bootstrap_components as dbc
 
 # Load the data
@@ -58,54 +59,75 @@ def layout():
     return dbc.Container([
         dbc.Row([
             dbc.Col([
-                html.H3("Select Attacking Players"),
+                html.H3("Select Attacking Players", style={'font-size': '24px', 'font-weight': 'bold', 'margin-bottom': '15px'}),
                 dcc.Dropdown(
                     id='attacker-dropdown',
                     options=create_dropdown_options('FW'),
                     multi=True,
                     placeholder="Select attacking players",
+                    style={'margin-bottom': '15px'}
+                ),
+                html.P(
+                    "Use the dropdown above to select attacking players. "
+                    "The radar chart and table below will display their performance statistics. "
+                    "Percentiles are built based on the stats of other forwards from all competitions in the top 5 leagues.",
+                    style={'font-size': '16px', 'margin-bottom': '20px'}
                 ),
                 dcc.Graph(id='attacker-radar-chart', figure=create_empty_radar_chart()),
                 dash_table.DataTable(
                     id='attacker-table', 
                     style_table={'overflowX': 'auto', 'whiteSpace': 'normal'}, 
-                    style_cell={'textAlign': 'left'},
+                    style_cell={'textAlign': 'left', 'fontSize': '14px', 'font-family': 'Arial'},
                     style_header={'fontWeight': 'bold'}
                 )
             ], width=12)
         ]),
         dbc.Row([
             dbc.Col([
-                html.H3("Select Midfield Players"),
+                html.H3("Select Midfield Players", style={'font-size': '24px', 'font-weight': 'bold', 'margin-bottom': '15px'}),
                 dcc.Dropdown(
                     id='midfielder-dropdown',
                     options=create_dropdown_options('MF'),
                     multi=True,
                     placeholder="Select midfield players",
+                    style={'margin-bottom': '15px'}
+                ),
+                html.P(
+                    "Use the dropdown above to select midfield players. "
+                    "The radar chart and table below will display their performance statistics. "
+                    "Percentiles are built based on the stats of other midfielders from all competitions in the top 5 leagues.",
+                    style={'font-size': '16px', 'margin-bottom': '20px'}
                 ),
                 dcc.Graph(id='midfielder-radar-chart', figure=create_empty_radar_chart()),
                 dash_table.DataTable(
                     id='midfielder-table', 
                     style_table={'overflowX': 'auto', 'whiteSpace': 'normal'}, 
-                    style_cell={'textAlign': 'left'},
+                    style_cell={'textAlign': 'left', 'fontSize': '14px', 'font-family': 'Arial'},
                     style_header={'fontWeight': 'bold'}
                 )
             ], width=12)
         ]),
         dbc.Row([
             dbc.Col([
-                html.H3("Select Defensive Players"),
+                html.H3("Select Defensive Players", style={'font-size': '24px', 'font-weight': 'bold', 'margin-bottom': '15px'}),
                 dcc.Dropdown(
                     id='defender-dropdown',
                     options=create_dropdown_options('DF'),
                     multi=True,
                     placeholder="Select defensive players",
+                    style={'margin-bottom': '15px'}
+                ),
+                html.P(
+                    "Use the dropdown above to select defensive players. "
+                    "The radar chart and table below will display their performance statistics. "
+                    "Percentiles are built based on the stats of other defenders from all competitions in the top 5 leagues.",
+                    style={'font-size': '16px', 'margin-bottom': '20px'}
                 ),
                 dcc.Graph(id='defender-radar-chart', figure=create_empty_radar_chart()),
                 dash_table.DataTable(
                     id='defender-table', 
                     style_table={'overflowX': 'auto', 'whiteSpace': 'normal'}, 
-                    style_cell={'textAlign': 'left'},
+                    style_cell={'textAlign': 'left', 'fontSize': '14px', 'font-family': 'Arial'},
                     style_header={'fontWeight': 'bold'}
                 )
             ], width=12)
@@ -114,10 +136,11 @@ def layout():
 
 def register_callbacks(app):
     @app.callback(
-        [Output('attacker-radar-chart', 'figure'),
-         Output('attacker-table', 'data'),
-         Output('attacker-table', 'columns')],
-        [Input('attacker-dropdown', 'value')]
+        Output('attacker-radar-chart', 'figure'),
+        Output('attacker-table', 'data'),
+        Output('attacker-table', 'columns'),
+        Input('attacker-dropdown', 'value'),
+        prevent_initial_call=True
     )
     def update_attacker_chart(selected_players):
         if not selected_players:
@@ -150,7 +173,21 @@ def register_callbacks(app):
                     visible=True
                 )
             ),
-            showlegend=True
+            showlegend=True,
+            annotations=[
+                go.layout.Annotation(
+                    text="Radar chart shows the percentile rankings of the selected players in various statistics.",
+                    x=0.5,
+                    y=1.1,
+                    xref="paper",
+                    yref="paper",
+                    showarrow=False,
+                    font=dict(size=16, color="darkslategray", family="Arial, sans-serif", weight='bold'),
+                    align="center",
+                    borderpad=10,
+                    yshift=40  # Add some space below the annotation
+                )
+            ]
         )
 
         table_data = create_horizontal_table(players_stats, attacker_stats)
@@ -159,10 +196,11 @@ def register_callbacks(app):
         return fig, table_data, columns
 
     @app.callback(
-        [Output('midfielder-radar-chart', 'figure'),
-         Output('midfielder-table', 'data'),
-         Output('midfielder-table', 'columns')],
-        [Input('midfielder-dropdown', 'value')]
+        Output('midfielder-radar-chart', 'figure'),
+        Output('midfielder-table', 'data'),
+        Output('midfielder-table', 'columns'),
+        Input('midfielder-dropdown', 'value'),
+        prevent_initial_call=True
     )
     def update_midfielder_chart(selected_players):
         if not selected_players:
@@ -195,7 +233,21 @@ def register_callbacks(app):
                     visible=True
                 )
             ),
-            showlegend=True
+            showlegend=True,
+            annotations=[
+                go.layout.Annotation(
+                    text="Radar chart shows the percentile rankings of the selected players in various statistics.",
+                    x=0.5,
+                    y=1.1,
+                    xref="paper",
+                    yref="paper",
+                    showarrow=False,
+                    font=dict(size=16, color="darkslategray", family="Arial, sans-serif", weight='bold'),
+                    align="center",
+                    borderpad=10,
+                    yshift=40  # Add some space below the annotation
+                )
+            ]
         )
 
         table_data = create_horizontal_table(players_stats, midfielder_stats)
@@ -204,10 +256,11 @@ def register_callbacks(app):
         return fig, table_data, columns
 
     @app.callback(
-        [Output('defender-radar-chart', 'figure'),
-         Output('defender-table', 'data'),
-         Output('defender-table', 'columns')],
-        [Input('defender-dropdown', 'value')]
+        Output('defender-radar-chart', 'figure'),
+        Output('defender-table', 'data'),
+        Output('defender-table', 'columns'),
+        Input('defender-dropdown', 'value'),
+        prevent_initial_call=True
     )
     def update_defender_chart(selected_players):
         if not selected_players:
@@ -240,10 +293,32 @@ def register_callbacks(app):
                     visible=True
                 )
             ),
-            showlegend=True
+            showlegend=True,
+            annotations=[
+                go.layout.Annotation(
+                    text="Radar chart shows the percentile rankings of the selected players in various statistics.",
+                    x=0.5,
+                    y=1.1,
+                    xref="paper",
+                    yref="paper",
+                    showarrow=False,
+                    font=dict(size=16, color="darkslategray", family="Arial, sans-serif", weight='bold'),
+                    align="center",
+                    borderpad=10,
+                    yshift=40  # Add some space below the annotation
+                )
+            ]
         )
 
         table_data = create_horizontal_table(players_stats, defender_stats)
         columns = [{"name": "Statistic per 90", "id": "Statistic per 90"}] + [{"name": player, "id": player} for player in selected_players]
         
         return fig, table_data, columns
+
+# Initialize the Dash app and register callbacks
+app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+app.layout = layout()
+register_callbacks(app)
+
+if __name__ == '__main__':
+    app.run_server(debug=True, port=8051)

@@ -40,7 +40,7 @@ squad_colors = {
 
 def layout():
     return html.Div([
-        dcc.Graph(id='top-scorers-graph', style={'position': 'relative', 'height': '950px'}),  # Adjusted height
+        dcc.Graph(id='top-scorers-graph', style={'position': 'relative', 'height': '750px'}),  # Adjusted height
         dcc.Slider(
             id='matchday-slider',
             min=agg_df['MatchDay'].min(),
