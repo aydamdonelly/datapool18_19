@@ -236,7 +236,7 @@ def create_figure():
     )
 
     fig.update_layout(
-        title="Liverpool's 18/19Champions League Triumph in Numbers - Goals, Match Results, Goalscorers and Assist Providers",
+        title="Liverpool's 18/19 Champions League Triumph in Numbers - Goals, Match Results, Goalscorers and Assist Providers",
         title_font=dict(size=28, family='Arial, sans-serif', color='black', weight='bold'),
         xaxis=dict(
             tickmode='array',
