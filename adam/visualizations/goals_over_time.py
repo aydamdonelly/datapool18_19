@@ -12,15 +12,32 @@ df = pd.read_csv('../GOALS_ONLY_SORTED.csv')
 df['Cumulative Goals'] = df.groupby('Player').cumcount() + 1
 
 # Aggregate goals by player and match day
-agg_df = df.groupby(['MatchDay', 'Player']).size().reset_index(name='Goals')
-agg_df['Cumulative Goals'] = agg_df.groupby('Player')['Goals'].cumsum()
+agg_df = df.groupby(['MatchDay', 'Player', 'Squad']).size().reset_index(name='Goals')
+agg_df['Cumulative Goals'] = agg_df.groupby(['Player', 'Squad'])['Goals'].cumsum()
 
 # Get the top 10 players by total goals scored
-total_goals = df.groupby('Player')['Cumulative Goals'].max().reset_index()
+total_goals = df.groupby(['Player', 'Squad'])['Cumulative Goals'].max().reset_index()
 top_10_players = total_goals.nlargest(10, 'Cumulative Goals')['Player'].tolist()
 
 # Filter data to include only the top 10 players
 agg_df = agg_df[agg_df['Player'].isin(top_10_players)]
+
+# Create a mapping from squads to colors
+squad_colors = {
+    'Liverpool': '#c8102e',
+    'Leicester City': '#003090',
+    'Manchester Utd': '#da291c',
+    'Bournemouth': '#d71920',
+    'Wolves': '#fdb913',
+    'Tottenham Hotspur': '#d3d3d3',  # Very light grey for Tottenham
+    'Everton': '#003399',
+    'Crystal Palace': '#1b458f',
+    'Watford': '#fbec5d',
+    'Manchester City': '#6cabdd',
+    'Newcastle Utd': '#241f20',
+    'Chelsea': '#034694',
+    'Arsenal': '#ef0107'  # Reddish color for Arsenal
+}
 
 # Initialize the Dash app
 app = dash.Dash(__name__)
@@ -29,16 +46,10 @@ app = dash.Dash(__name__)
 app.layout = html.Div([
     dcc.Graph(id='top-scorers-graph', style={'height': '1000px', 'position': 'relative'}),
     html.Div([
-        html.Button('Start Animation', id='start-button', n_clicks=0, style={
-            'margin-right': '10px', 'padding': '10px 20px', 'fontSize': '18px', 'cursor': 'pointer', 'transition': 'all 0.3s'
-        }),
-        html.Button('Pause Animation', id='pause-button', n_clicks=0, style={
-            'margin-right': '10px', 'padding': '10px 20px', 'fontSize': '18px', 'cursor': 'pointer', 'transition': 'all 0.3s'
-        }),
-        html.Button('Restart Animation', id='restart-button', n_clicks=0, style={
-            'padding': '10px 20px', 'fontSize': '18px', 'cursor': 'pointer', 'transition': 'all 0.3s'
-        }),
-    ], style={'textAlign': 'center', 'margin': '20px 0'}),
+        html.Button('Start Animation', id='start-button', n_clicks=0, style={'margin-right': '10px'}),
+        html.Button('Pause Animation', id='pause-button', n_clicks=0, style={'margin-right': '10px'}),
+        html.Button('Restart Animation', id='restart-button', n_clicks=0),
+    ], style={'position': 'relative', 'zIndex': '1'}),
     dcc.Interval(
         id='interval-component',
         interval=1000,  # 1000 milliseconds = 1 second
@@ -83,7 +94,7 @@ def update_output(start_n_clicks, pause_n_clicks, restart_n_clicks, n_intervals,
     filtered_df = agg_df[agg_df['MatchDay'] <= selected_day]
     
     # Ensure all top 10 players are always included even if they have 0 goals at the beginning
-    cumulative_goals = filtered_df.groupby('Player')['Cumulative Goals'].max().reset_index()
+    cumulative_goals = filtered_df.groupby(['Player', 'Squad'])['Cumulative Goals'].max().reset_index()
     cumulative_goals = cumulative_goals.set_index('Player').reindex(top_10_players).reset_index()
     cumulative_goals['Cumulative Goals'].fillna(0, inplace=True)
 
@@ -91,73 +102,43 @@ def update_output(start_n_clicks, pause_n_clicks, restart_n_clicks, n_intervals,
     cumulative_goals['Player'] = pd.Categorical(cumulative_goals['Player'], categories=top_10_players, ordered=True)
     cumulative_goals = cumulative_goals.sort_values('Player')
 
-    # Create a horizontal bar chart with player names inside the bars
-    fig = px.bar(cumulative_goals, x='Cumulative Goals', y='Player', orientation='h', 
-                 title=f'Top 10 Scorers up to MatchDay {selected_day}',
-                 labels={'Cumulative Goals': 'Cumulative Goals', 'Player': 'Player'},
-                 text='Cumulative Goals',
-                 color='Player')
+    # Map squads to colors
+    cumulative_goals['Color'] = cumulative_goals['Squad'].map(squad_colors)
+
+    # Create a horizontal bar chart with player names and squads inside the bars
+    fig = go.Figure(go.Bar(
+        x=cumulative_goals['Cumulative Goals'],
+        y=cumulative_goals['Player'],
+        orientation='h',
+        text=[f"{player}: {goals} ({squad})" for player, goals, squad in zip(cumulative_goals['Player'], cumulative_goals['Cumulative Goals'], cumulative_goals['Squad'])],
+        marker=dict(color=cumulative_goals['Color']),
+        textposition='inside',
+        textfont=dict(size=26, color="black")
+    ))
     
-    # Add "MATCHDAY {selected_day}" text in the background
+    # Update the layout for better visualization
+    fig.update_layout(
+        title=f'Top 10 Scorers up to MatchDay {selected_day}',
+        yaxis={'categoryorder': 'total ascending'},
+        height=1000,
+        margin=dict(l=200, r=20, t=40, b=40),
+        xaxis={'range': [0, 25]},  # Fixed range for X-axis
+        yaxis_title=None,
+        transition={'duration': 1000, 'easing': 'cubic-in-out'},
+        yaxis_visible=False
+    )
+
+    # Add "MATCHDAY {selected_day}" text in the background at the bottom right
     fig.add_annotation(
         text=f"MATCHDAY {selected_day}",
         xref="paper", yref="paper",
-        x=0.5, y=0.5,
-        font=dict(size=100, color="LightGrey"),
+        x=0.95, y=0.05,
+        font=dict(size=30, color="Grey"),
         showarrow=False,
-        opacity=0.5
+        opacity=0.8
     )
-    
-    # Update the layout for better visualization
-    fig.update_layout(yaxis={'categoryorder': 'total ascending'},
-                      height=1000,
-                      margin=dict(l=200, r=20, t=40, b=40),
-                      xaxis={'range': [0, 25]},  # Fixed range for X-axis
-                      yaxis_title=None,
-                      transition={'duration': 1000, 'easing': 'cubic-in-out'},
-                      yaxis_visible=False,
-                      bargap=0.2)  # Increase space between bars
-
-    # Update bar thickness and text styling
-    fig.update_traces(marker=dict(line=dict(width=2)),
-                      texttemplate='%{y}: %{text}',
-                      textposition='inside',
-                      textfont_size=20,
-                      textfont_color='white',
-                      textfont=dict(weight='bold'))
 
     return fig, False, n_intervals
-
-# Add hover effects for the buttons with CSS
-app.index_string = '''
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Top Scorers Animation</title>
-        <style>
-            .dash-button {
-                margin-right: 10px;
-                padding: 10px 20px;
-                font-size: 18px;
-                cursor: pointer;
-                transition: all 0.3s;
-            }
-            .dash-button:hover {
-                background-color: #ddd;
-                transform: scale(1.05);
-            }
-        </style>
-    </head>
-    <body>
-        {%app_entry%}
-        <footer>
-            {%config%}
-            {%scripts%}
-            {%renderer%}
-        </footer>
-    </body>
-</html>
-'''
 
 # Run the app
 if __name__ == '__main__':
