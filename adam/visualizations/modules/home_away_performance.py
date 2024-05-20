@@ -6,7 +6,7 @@ import os
 import base64
 
 # Load and preprocess the CSV data
-file_path = '../pl_club_results.csv'
+file_path = '../data/pl_club_results.csv'
 data = pd.read_csv(file_path)
 
 # Ensure the data is in the correct format
@@ -51,7 +51,7 @@ for club in points['Club']:
 
 def layout():
     return html.Div([
-        html.H1("Premier League Home & Away Performance"),
+        html.H1("Premier League Home & Away Performances", style={'textAlign': 'center', 'fontWeight': 'bold'}),
         html.Label("Difference indicates how much better or worse a team performs at home compared to away."),
         html.Label("Sort by difference (Ascending -> weakest home advantage to strongest and vice versa):"),
         dcc.Dropdown(
@@ -63,7 +63,14 @@ def layout():
             value=None,
             clearable=True
         ),
-        dcc.Graph(id='performance-graph')
+        dcc.Graph(id='performance-graph'),
+        html.Div([
+            html.Span("Legend: ", style={'fontSize': '16px', 'fontWeight': 'bold'}),
+            html.Img(src=club_logos['Liverpool'], style={'width': '60px', 'height': '60px'}),
+            html.Span(" Home Performance ", style={'fontSize': '16px'}),
+            html.Img(src=club_logos['Liverpool'], style={'width': '40px', 'height': '40px'}),
+            html.Span(" Away Performance", style={'fontSize': '16px'}),
+        ], style={'textAlign': 'center', 'marginTop': '10px'})
     ])
 
 def register_callbacks(app):
@@ -79,6 +86,7 @@ def register_callbacks(app):
 
         fig = go.Figure()
 
+        # Plotting the Difference in Home and Away Points
         for i in range(len(sorted_points)):
             fig.add_trace(go.Scatter(
                 x=[sorted_points['Club'].iloc[i], sorted_points['Club'].iloc[i]], 
@@ -88,6 +96,7 @@ def register_callbacks(app):
                 showlegend=False
             ))
 
+        # Adding Club Logos to the Plot
         for club in sorted_points['Club']:
             home_y = sorted_points[sorted_points['Club'] == club]['Points_Home'].values[0]
             away_y = sorted_points[sorted_points['Club'] == club]['Points_Away'].values[0]
@@ -99,8 +108,8 @@ def register_callbacks(app):
                     yref="y",
                     x=club,
                     y=home_y,
-                    sizex=0.4,
-                    sizey=0.4,
+                    sizex=0.75,
+                    sizey=0.75,
                     xanchor="center",
                     yanchor="middle"
                 )
@@ -112,8 +121,8 @@ def register_callbacks(app):
                     yref="y",
                     x=club,
                     y=away_y,
-                    sizex=0.2,
-                    sizey=0.2,
+                    sizex=0.45,
+                    sizey=0.45,
                     xanchor="center",
                     yanchor="middle"
                 )
@@ -137,8 +146,8 @@ def register_callbacks(app):
             text=[f"Average points per away game for {club}: {round(val, 2)}" for club, val in zip(sorted_points['Club'], sorted_points['Points_Away'])]
         ))
 
+        # Updating the Layout
         fig.update_layout(
-            title="Average Points for Home and Away Games by Club",
             xaxis_title="Club",
             yaxis_title="Average Points",
             xaxis=dict(
@@ -147,18 +156,19 @@ def register_callbacks(app):
                 ticktext=sorted_points['Club'],
                 range=[-1, len(sorted_points['Club'])],
                 title_font=dict(size=20, family='Arial, sans-serif', weight='bold'),
-                tickfont=dict(size=16, family='Arial, sans-serif', weight='bold')
+                tickfont=dict(size=16, family='Arial, sans-serif', weight='bold'),
+                title_standoff=20  # Adjust the position of the x-axis title
             ),
             yaxis=dict(
-                range=[0, 3.0],
+                range=[0, 3.3],
                 title_font=dict(size=45, family='Arial, sans-serif', weight='bold'),
                 tickfont=dict(size=26, family='Arial, sans-serif', weight='bold'),
                 showline=True,
                 linewidth=2,
                 linecolor='black'
             ),
-            height=850, 
-            margin=dict(l=100, r=100, t=100, b=100), 
+            height=600,  # Decreased height for the chart
+            margin=dict(l=100, r=100, t=20, b=100), 
             showlegend=False,
             font=dict(size=16, family='Arial, sans-serif')
         )

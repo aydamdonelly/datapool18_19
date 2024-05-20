@@ -5,7 +5,7 @@ from dash.dependencies import Input, Output
 import dash_bootstrap_components as dbc
 
 # Load the data from a CSV file
-df = pd.read_csv('../transfer_data.csv')
+df = pd.read_csv('../data/transfer_data.csv')
 
 # Convert 'Fee' to numeric, handling non-numeric data as NaN and then replacing NaN with 0
 df['Fee'] = pd.to_numeric(df['Fee'], errors='coerce').fillna(0)
@@ -43,15 +43,15 @@ def layout():
                 dcc.RadioItems(
                     id='transfer-type-radio',
                     options=[
-                        {'label': 'Incomes', 'value': 'Arrival'},
-                        {'label': 'Expenses', 'value': 'Departure'}
+                        {'label': 'Arrivals', 'value': 'Arrival'},
+                        {'label': 'Departures', 'value': 'Departure'}
                     ],
                     value='Arrival',
                     inline=True,
                     inputStyle={'margin-right': '10px', 'transform': 'scale(1.5)'},
                     labelStyle={'margin': '10px'}
                 )
-            ], width=10, className="offset-md-1 mb-4", style={'marginTop': '15px'})
+            ], width=8, className="offset-md-1 mb-4", style={'marginTop': '0px'})
         ]),
         dbc.Row([
             dbc.Col([
@@ -64,14 +64,14 @@ def layout():
                     inputStyle={'margin-right': '10px', 'transform': 'scale(1.5)'},
                     labelStyle={'margin': '10px'}
                 )
-            ], width=10, className="offset-md-1 mb-4", style={'marginTop': '20px'})
+            ], width=10, className="offset-md-1 mb-4", style={'marginTop': '0px'})
         ]),
         dbc.Row([
             dbc.Col([
                 dcc.Graph(id='area-plot', config={'displayModeBar': False})
-            ], width=12, style={'marginTop': '20px'})
+            ], width=12, style={'marginTop': '0px'})
         ])
-    ], fluid=True, style={'padding': '20px'})
+    ], fluid=True, style={'padding': '0px'})
 
 def register_callbacks(app):
     @app.callback(
@@ -83,6 +83,7 @@ def register_callbacks(app):
         ]
     )
     def update_area_plot(selected_seasons, selected_transfer_type, selected_clubs):
+        #### Filtering Data Based on User Selection
         filtered_seasons = seasons[selected_seasons[0]:selected_seasons[1] + 1]
 
         filtered_df = df_big6[
@@ -91,6 +92,7 @@ def register_callbacks(app):
             (df_big6['Club'].isin(selected_clubs))
         ]
 
+        #### Creating the Plot
         fig = go.Figure()
 
         for club in selected_clubs:
@@ -102,9 +104,11 @@ def register_callbacks(app):
                 y=club_data['Fee'],
                 mode='lines',
                 name=club,
-                fill='tozeroy'
+                fill='tozeroy',
+                hovertemplate=f'{club}<br>Season: %{{x}}<br>Fee: €%{{y:.2f}}M'
             ))
 
+        #### Updating the Layout
         fig.update_layout(
             title=f'Big 6 Club Transfer {selected_transfer_type}s per Season',
             xaxis=dict(
@@ -118,6 +122,7 @@ def register_callbacks(app):
             ),
             yaxis=dict(
                 title="Total Fee (in Million €)",
+                range=[0, 340],
                 tickfont=dict(size=23, family='Arial, sans-serif', color='gray', weight='bold'),
                 title_font=dict(size=30, family='Arial, sans-serif', color='gray', weight='bold'),
                 showline=True,
@@ -138,8 +143,8 @@ def register_callbacks(app):
                 itemclick=False,
                 itemdoubleclick=False
             ),
-            margin=dict(l=60, r=60, t=30, b=140),
-            height=650  # Increased height for the chart
+            margin=dict(l=60, r=60, t=10, b=140),
+            height=550  # Increased height for the chart
         )
 
         return fig

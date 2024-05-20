@@ -5,7 +5,7 @@ from dash.dependencies import Input, Output, State
 import plotly.graph_objects as go
 
 # Load the data
-df = pd.read_csv('../GOALS_ONLY_SORTED_UPDATED.csv')
+df = pd.read_csv('../data/goals_only_pl.csv')
 
 # Create a cumulative sum of goals for each player by match day
 df['Cumulative Goals'] = df.groupby('Player').cumcount() + 1
@@ -40,7 +40,8 @@ squad_colors = {
 
 def layout():
     return html.Div([
-        dcc.Graph(id='top-scorers-graph', style={'position': 'relative', 'height': '750px'}),  # Adjusted height
+        html.H1("Premier League 18/19 Top Scorers by Match Day", style={'textAlign': 'center', 'fontWeight': 'bold'}),
+        dcc.Graph(id='top-scorers-graph', style={'position': 'relative', 'height': '610px'}),  # Adjusted height
         dcc.Slider(
             id='matchday-slider',
             min=agg_df['MatchDay'].min(),
@@ -88,7 +89,7 @@ def update_figure(selected_day):
         title_x=0.5,
         title_font=dict(size=24, family='Arial, sans-serif', color='black', weight='bold'),
         yaxis=dict(categoryorder='total ascending', tickwidth=2, showticklabels=False, zeroline=True, showline=True, linecolor='black', linewidth=2),
-        margin=dict(l=200, r=20, t=80, b=40),
+        margin=dict(l=100, r=20, t=80, b=40),  # Adjusted left margin
         xaxis=dict(
             range=[0, 25],
             title='Number of goals',
