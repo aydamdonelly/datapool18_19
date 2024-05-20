@@ -1,3 +1,5 @@
+# app.py
+
 import dash
 from dash import dcc, html
 import dash_bootstrap_components as dbc
@@ -12,6 +14,7 @@ import modules.cl_results as cl_results
 import modules.top_6_race as big_6_race
 import modules.shot_analysis as shot_analysis
 import modules.xg_difference as xg_difference
+import modules.goalkeeping_performance as goalkeeping_performance  # Import the new module
 
 # Initialize the Dash app
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
@@ -31,6 +34,7 @@ app.layout = dbc.Container([
         dbc.Tab(label="Big 6 Race", tab_id="big-6-race-tab"),
         dbc.Tab(label="Shot Analysis", tab_id="shot-analysis-tab"),
         dbc.Tab(label="xG Difference", tab_id="xg-difference-tab"),
+        dbc.Tab(label="Goalkeeping Performance", tab_id="goalkeeping-performance-tab"),  # Add the new tab
     ], id="tabs", active_tab="top-scorers-tab"),
 
     html.Div(id="tab-content")
@@ -60,6 +64,8 @@ def render_tab_content(active_tab):
         return shot_analysis.layout()
     elif active_tab == "xg-difference-tab":
         return xg_difference.layout()
+    elif active_tab == "goalkeeping-performance-tab":
+        return goalkeeping_performance.layout()  # Render the new layout
 
 # Register callbacks for each module
 top_scorers.register_callbacks(app)
@@ -71,6 +77,7 @@ cl_results.register_callbacks(app)
 big_6_race.register_callbacks(app)
 shot_analysis.register_callbacks(app)
 xg_difference.register_callbacks(app)
+goalkeeping_performance.register_callbacks(app)  # Register callbacks for the new module
 
 # Run the app
 if __name__ == '__main__':
