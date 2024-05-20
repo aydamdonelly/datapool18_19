@@ -57,7 +57,8 @@ def add_age_line(fig, df):
 # Define the layout of the app
 def layout():
     return html.Div([
-        html.H1("Analysis of Player Transfer Fees and Total Scores", style={'font-size': '32px', 'text-align': 'center', 'margin-bottom': '20px'}),
+        html.H1("Analysis of Player Transfer Fees and Total Scores", style={'font-size': '32px', 'text-align': 'center', 'margin-bottom': '10px'}),
+        html.P("Data sources: FBRef and transfermarkt", style={'text-align': 'center', 'font-size': '12px', 'color': 'gray', 'margin-top': '0'}),
         dcc.Dropdown(
             id='club-dropdown',
             options=[{'label': club, 'value': club} for club in transfers_df['Club'].unique()] + [{'label': 'All', 'value': 'All'}],
@@ -94,7 +95,8 @@ def register_callbacks(app):
 
         scatter_fig.update_traces(marker=dict(size=10, opacity=0.8, line=dict(width=2, color='DarkSlateGrey')))
         scatter_fig.update_layout(
-            height=670,  # Adjusted height to fit viewport
+            height=670,
+            width=1730,  # Adjusted height to fit viewport
             xaxis=dict(
                 title='Transfer Fee (€m)',
                 title_font=dict(size=35, family='Arial, sans-serif', weight='bold'),
@@ -128,7 +130,23 @@ def register_callbacks(app):
         for position, color in colors.items():
             add_trendline(scatter_fig, filtered_df, position, color)
 
-        add_age_line(scatter_fig, filtered_df) 
+        add_age_line(scatter_fig, filtered_df)
+
+        scatter_fig.add_annotation(
+            text=(
+                "This scatter plot shows the relationship between the transfer fees and total scores."
+                " The total score is calculated by cumulating each percentile score of a player when compared to other players in the same position in their respective statistics."
+            ),
+            xref="paper", yref="paper",
+            x=0.01, y=0.02,
+            showarrow=False,
+            bordercolor="black",
+            borderwidth=2,
+            borderpad=10,
+            bgcolor="white",
+            font=dict(size=13, color="black", family="Arial, sans-serif"),
+            align="left"
+        )
 
         return scatter_fig
 

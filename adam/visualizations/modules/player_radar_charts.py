@@ -60,6 +60,12 @@ def create_horizontal_table(players_stats, stats):
 
 def layout():
     return dbc.Container([
+        html.H1("Top 5 League Players Radar Chart", style={'textAlign': 'center', 'fontWeight': 'bold', 'margin-top': '20px'}),
+        html.P("Data sources: FBRef", style={'text-align': 'center', 'font-size': '12px', 'color': 'gray', 'margin-top': '0'}),
+        html.P(
+            "The statistics the player being compared in differ based on the position you are looking at. Each radar chart shows the percentile rankings of the selected players when compared to the top 5 league players in the statistics chosen for each position.",
+            style={'textAlign': 'center', 'fontSize': '18px', 'margin-bottom': '30px'}
+        ),
         dbc.Row([
             dbc.Col([
                 html.H3("Select Attacking Players", style={'font-size': '24px', 'font-weight': 'bold', 'margin-bottom': '15px'}),
@@ -69,12 +75,6 @@ def layout():
                     multi=True,
                     placeholder="Select attacking players",
                     style={'margin-bottom': '15px'}
-                ),
-                html.P(
-                    "Use the dropdown above to select attacking players. "
-                    "The radar chart and table below will display their performance statistics. "
-                    "Percentiles are built based on the stats of other forwards from all competitions in the top 5 leagues.",
-                    style={'font-size': '16px', 'margin-bottom': '20px'}
                 ),
                 dcc.Graph(id='attacker-radar-chart', figure=create_empty_radar_chart()),
                 html.H5("Attacker Radar Chart", style={'textAlign': 'center', 'margin-top': '10px'}),
@@ -100,12 +100,6 @@ def layout():
                     placeholder="Select midfield players",
                     style={'margin-bottom': '15px'}
                 ),
-                html.P(
-                    "Use the dropdown above to select midfield players. "
-                    "The radar chart and table below will display their performance statistics. "
-                    "Percentiles are built based on the stats of other midfielders from all competitions in the top 5 leagues.",
-                    style={'font-size': '16px', 'margin-bottom': '20px'}
-                ),
                 dcc.Graph(id='midfielder-radar-chart', figure=create_empty_radar_chart()),
                 html.H5("Midfielder Radar Chart", style={'textAlign': 'center', 'margin-top': '10px'}),
                 html.P(
@@ -129,12 +123,6 @@ def layout():
                     multi=True,
                     placeholder="Select defensive players",
                     style={'margin-bottom': '15px'}
-                ),
-                html.P(
-                    "Use the dropdown above to select defensive players. "
-                    "The radar chart and table below will display their performance statistics. "
-                    "Percentiles are built based on the stats of other defenders from all competitions in the top 5 leagues.",
-                    style={'font-size': '16px', 'margin-bottom': '20px'}
                 ),
                 dcc.Graph(id='defender-radar-chart', figure=create_empty_radar_chart()),
                 html.H5("Defender Radar Chart", style={'textAlign': 'center', 'margin-top': '10px'}),

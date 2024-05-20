@@ -2,6 +2,7 @@ import pandas as pd
 import plotly.graph_objects as go
 from dash import dcc, html
 from dash.dependencies import Input, Output
+import dash
 import dash_bootstrap_components as dbc
 
 # Load the data from a CSV file
@@ -26,6 +27,7 @@ def layout():
         ]),
         dbc.Row([
             dbc.Col([
+                html.P("Data source: transfermarkt", style={'text-align': 'center', 'font-size': '12px', 'color': 'gray', 'margin-top': '0'}),
                 html.Label('Select Seasons:', style={'fontWeight': 'bold', 'fontSize': '18px'}),
                 dcc.RangeSlider(
                     id='season-slider',
@@ -148,3 +150,11 @@ def register_callbacks(app):
         )
 
         return fig
+
+# Initialize the Dash app and register callbacks
+app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+app.layout = layout()
+register_callbacks(app)
+
+if __name__ == '__main__':
+    app.run_server(debug=True, port=8051)

@@ -1,8 +1,9 @@
-import pandas as pd
 import dash
 from dash import dcc, html
 from dash.dependencies import Input, Output, State
 import plotly.graph_objects as go
+import dash_bootstrap_components as dbc
+import pandas as pd
 
 # Load the data
 df = pd.read_csv('../data/goals_only_pl.csv')
@@ -41,6 +42,7 @@ squad_colors = {
 def layout():
     return html.Div([
         html.H1("Premier League 18/19 Top Scorers by Match Day", style={'textAlign': 'center', 'fontWeight': 'bold'}),
+        html.P("Data source: FBRef", style={'textAlign': 'center', 'fontSize': '12px', 'color': 'gray', 'margin-top': '-10px'}),
         dcc.Graph(id='top-scorers-graph', style={'position': 'relative', 'height': '610px'}),  # Adjusted height
         dcc.Slider(
             id='matchday-slider',
@@ -160,3 +162,11 @@ def register_callbacks(app):
 
         fig = update_figure(selected_day)
         return fig, True if trigger_id == 'matchday-slider' else interval_disabled, n_intervals, selected_day
+
+# Initialize Dash app and register callbacks
+app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+app.layout = layout()
+register_callbacks(app)
+
+if __name__ == '__main__':
+    app.run_server(debug=True, port=8051)
