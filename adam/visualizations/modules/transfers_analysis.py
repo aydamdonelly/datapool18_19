@@ -89,11 +89,11 @@ def register_callbacks(app):
 
         scatter_fig.update_traces(marker=dict(size=10, opacity=0.8, line=dict(width=2, color='DarkSlateGrey')))
         scatter_fig.update_layout(
-            height=600,  # Adjusted height to fit viewport
+            height=800,  # Adjusted height to fit viewport
             xaxis_title='Transfer Fee (€m)',
             yaxis_title='Total Score',
-            xaxis=dict(title=dict(font=dict(size=18, family='Arial, sans-serif', weight='bold')), tickfont=dict(size=16, family='Arial, sans-serif', weight='bold')),
-            yaxis=dict(title=dict(font=dict(size=18, family='Arial, sans-serif', weight='bold')), tickfont=dict(size=16, family='Arial, sans-serif', weight='bold')),
+            xaxis=dict(title=dict(font=dict(size=35, family='Arial, sans-serif', weight='bold')), tickfont=dict(size=26, family='Arial, sans-serif', weight='bold')),
+            yaxis=dict(title=dict(font=dict(size=35, family='Arial, sans-serif', weight='bold')), tickfont=dict(size=26, family='Arial, sans-serif', weight='bold')),
             legend_title_text='Position',
             font=dict(color='black', family='Arial, sans-serif'),
             legend=dict(font=dict(size=16, family='Arial, sans-serif'), itemclick=False, itemdoubleclick=False),

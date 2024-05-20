@@ -89,7 +89,17 @@ def update_figure(selected_day):
         title_font=dict(size=24, family='Arial, sans-serif', color='black', weight='bold'),
         yaxis=dict(categoryorder='total ascending', tickwidth=2, showticklabels=False, zeroline=True, showline=True, linecolor='black', linewidth=2),
         margin=dict(l=200, r=20, t=80, b=40),
-        xaxis=dict(range=[0, 25], title='Number of goals', tickwidth=2, zeroline=True, showline=True, linecolor='black', linewidth=2),
+        xaxis=dict(
+            range=[0, 25],
+            title='Number of goals',
+            tickwidth=2,
+            zeroline=True,
+            showline=True,
+            linecolor='black',
+            linewidth=2,
+            title_font=dict(size=35, family='Arial, sans-serif', weight='bold'),
+            tickfont=dict(size=26, family='Arial, sans-serif', weight='bold')
+        ),
         transition={'duration': 1000, 'easing': 'cubic-in-out'},
         plot_bgcolor='white',
         paper_bgcolor='white',

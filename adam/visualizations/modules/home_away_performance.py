@@ -53,12 +53,12 @@ def layout():
     return html.Div([
         html.H1("Premier League Home & Away Performance"),
         html.Label("Difference indicates how much better or worse a team performs at home compared to away."),
-        html.Label("Sort by difference:"),
+        html.Label("Sort by difference (Ascending -> weakest home advantage to strongest and vice versa):"),
         dcc.Dropdown(
             id='sort-dropdown',
             options=[
-                {'label': 'Ascending', 'value': 'asc'},
-                {'label': 'Descending', 'value': 'desc'}
+                {'label': 'Ascending (lowest home advantage to highest)', 'value': 'asc'},
+                {'label': 'Descending (highest home advantage to lowest)', 'value': 'desc'}
             ],
             value=None,
             clearable=True
@@ -145,10 +145,19 @@ def register_callbacks(app):
                 tickmode='array', 
                 tickvals=sorted_points['Club'], 
                 ticktext=sorted_points['Club'],
-                range=[-1, len(sorted_points['Club'])]  
+                range=[-1, len(sorted_points['Club'])],
+                title_font=dict(size=20, family='Arial, sans-serif', weight='bold'),
+                tickfont=dict(size=16, family='Arial, sans-serif', weight='bold')
             ),
-            yaxis=dict(range=[0, max(sorted_points['Points_Home'].max(), sorted_points['Points_Away'].max()) + 1]),
-            height=800, 
+            yaxis=dict(
+                range=[0, 3.0],
+                title_font=dict(size=45, family='Arial, sans-serif', weight='bold'),
+                tickfont=dict(size=26, family='Arial, sans-serif', weight='bold'),
+                showline=True,
+                linewidth=2,
+                linecolor='black'
+            ),
+            height=850, 
             margin=dict(l=100, r=100, t=100, b=100), 
             showlegend=False,
             font=dict(size=16, family='Arial, sans-serif')

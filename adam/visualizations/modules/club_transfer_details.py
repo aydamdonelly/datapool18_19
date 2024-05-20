@@ -48,9 +48,10 @@ def layout():
                     ],
                     value='Arrival',
                     inline=True,
-                    style={'fontSize': '16px'}
+                    inputStyle={'margin-right': '10px', 'transform': 'scale(1.5)'},
+                    labelStyle={'margin': '10px'}
                 )
-            ], width=10, className="offset-md-1 mb-4")
+            ], width=10, className="offset-md-1 mb-4", style={'marginTop': '15px'})
         ]),
         dbc.Row([
             dbc.Col([
@@ -59,15 +60,16 @@ def layout():
                     id='club-checklist',
                     options=[{'label': club, 'value': club} for club in big6_clubs],
                     value=big6_clubs,
-                    inline=True,
-                    style={'fontSize': '16px'}
+                    inline=True,  # Keep horizontal alignment
+                    inputStyle={'margin-right': '10px', 'transform': 'scale(1.5)'},
+                    labelStyle={'margin': '10px'}
                 )
-            ], width=10, className="offset-md-1 mb-4")
+            ], width=10, className="offset-md-1 mb-4", style={'marginTop': '20px'})
         ]),
         dbc.Row([
             dbc.Col([
                 dcc.Graph(id='area-plot', config={'displayModeBar': False})
-            ], width=12, style={'marginTop': '80px'})
+            ], width=12, style={'marginTop': '20px'})
         ])
     ], fluid=True, style={'padding': '20px'})
 
@@ -118,13 +120,16 @@ def register_callbacks(app):
                 y=1.02,
                 xanchor="right",
                 x=1,
-                font=dict(size=14)
+                font=dict(size=14),
+                itemclick=False,
+                itemdoubleclick=False
             ),
             xaxis_tickfont=dict(size=16, family='Arial, sans-serif', weight='bold'),
             yaxis_tickfont=dict(size=16, family='Arial, sans-serif', weight='bold'),
             xaxis_title_font=dict(size=20, family='Arial, sans-serif', weight='bold'),
             yaxis_title_font=dict(size=20, family='Arial, sans-serif', weight='bold'),
-            margin=dict(l=60, r=60, t=60, b=140)  # Increased bottom margin for spacing
+            margin=dict(l=60, r=60, t=30, b=140),
+            height=650  # Increased height for the chart
         )
 
         return fig
