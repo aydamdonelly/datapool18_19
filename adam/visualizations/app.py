@@ -31,8 +31,8 @@ app.layout = dbc.Container([
         dbc.Tab(label="Goalkeeping Performance (Adrian)", tab_id="goalkeeping-performance-tab"),
         dbc.Tab(label="Player Radar Charts (Adam)", tab_id="player-radar-charts-tab"),
         dbc.Tab(label="CL Results (Adrian)", tab_id="cl-results-tab"),
-        dbc.Tab(label="Transfers Analysis (Adam)", tab_id="transfers-analysis-tab"),
-        dbc.Tab(label="Club Transfer Details (Adam)", tab_id="club-transfer-details-tab"),
+        dbc.Tab(label="Big 6 Transfers Analysis (Adam)", tab_id="transfers-analysis-tab"),
+        dbc.Tab(label="Big 6 Transfer Comparison (Adam)", tab_id="club-transfer-details-tab"),
     ], id="tabs", active_tab="top-scorers-tab", className="custom-tabs"),
 
     html.Div(id="tab-content")
