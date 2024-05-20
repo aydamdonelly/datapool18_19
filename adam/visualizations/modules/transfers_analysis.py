@@ -8,11 +8,12 @@ import numpy as np
 import dash_bootstrap_components as dbc
 
 # Load the data
-transfers_df = pd.read_csv('../filtered_arrivals_with_additional_data.csv')
+transfers_df = pd.read_csv('../data/filtered_arrivals_with_additional_data.csv')
 
 # Define colors for positions
 colors = {'DF': 'green', 'MF': 'blue', 'FW': 'red'}
 
+# Categorize players by age groups
 def categorize_age(age):
     if age < 25:
         return 'Under 25'
@@ -23,6 +24,7 @@ def categorize_age(age):
 
 transfers_df['Age Group'] = transfers_df['Age'].apply(categorize_age)
 
+# Add trendlines for each position to the plot
 def add_trendline(fig, df, position, color):
     df_position = df[df['Position'] == position]
     if len(df_position) > 1:
@@ -37,6 +39,7 @@ def add_trendline(fig, df, position, color):
             showlegend=True
         ))
 
+# Add a trendline for the average age to the plot
 def add_age_line(fig, df):
     df_sorted = df.sort_values('Fee')
     z = np.polyfit(df_sorted['Fee'], df_sorted['Age'], 1)
@@ -51,6 +54,7 @@ def add_age_line(fig, df):
         showlegend=True
     ))
 
+# Define the layout of the app
 def layout():
     return html.Div([
         html.H1("Analysis of Player Transfer Fees and Total Scores", style={'font-size': '32px', 'text-align': 'center', 'margin-bottom': '20px'}),
@@ -65,6 +69,7 @@ def layout():
         dcc.Graph(id='scatter-plot')
     ])
 
+# Register the callbacks for interactivity
 def register_callbacks(app):
     @app.callback(
         Output('scatter-plot', 'figure'),
@@ -89,7 +94,7 @@ def register_callbacks(app):
 
         scatter_fig.update_traces(marker=dict(size=10, opacity=0.8, line=dict(width=2, color='DarkSlateGrey')))
         scatter_fig.update_layout(
-            height=800,  # Adjusted height to fit viewport
+            height=670,  # Adjusted height to fit viewport
             xaxis=dict(
                 title='Transfer Fee (€m)',
                 title_font=dict(size=35, family='Arial, sans-serif', weight='bold'),
@@ -123,7 +128,7 @@ def register_callbacks(app):
         for position, color in colors.items():
             add_trendline(scatter_fig, filtered_df, position, color)
 
-        add_age_line(scatter_fig, filtered_df)
+        add_age_line(scatter_fig, filtered_df) 
 
         return scatter_fig
 

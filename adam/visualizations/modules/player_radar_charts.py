@@ -6,7 +6,7 @@ import dash
 import dash_bootstrap_components as dbc
 
 # Load the data
-df = pd.read_csv('../op_players_list_with_percentiles.csv')
+df = pd.read_csv('../data/entire_players_list_with_percentiles.csv')
 
 # Define relevant statistics for each position
 attacker_stats = [
@@ -24,12 +24,14 @@ defender_stats = [
     'Aerial duels won %', 'Balls blocked', 'Recoveries', 'Passes attempted', 'Errors', 'Fouls committed', 'Progressive pass distance', 'Yellow cards'
 ]
 
+# Creating dropdown options for each player based on their position
 def create_dropdown_options(position):
     return [
         {'label': f"{player} ({club}, {age}, {nation})", 'value': player}
         for player, club, age, nation in zip(df[df['Position'] == position]['Player'], df[df['Position'] == position]['Club'], df[df['Position'] == position]['Age'], df[df['Position'] == position]['Nation'])
     ]
 
+# Creating an empty radar chart as a placeholder
 def create_empty_radar_chart():
     fig = go.Figure()
     fig.update_layout(
@@ -47,6 +49,7 @@ def create_empty_radar_chart():
     )
     return fig
 
+# Creating a horizontal table for displaying player stats
 def create_horizontal_table(players_stats, stats):
     data = {'Statistic per 90': ['Player', 'Club', 'Age', 'Minutes played'] + stats}
     for player_stats in players_stats:
@@ -74,6 +77,11 @@ def layout():
                     style={'font-size': '16px', 'margin-bottom': '20px'}
                 ),
                 dcc.Graph(id='attacker-radar-chart', figure=create_empty_radar_chart()),
+                html.H5("Attacker Radar Chart", style={'textAlign': 'center', 'margin-top': '10px'}),
+                html.P(
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                    style={'textAlign': 'center', 'font-size': '14px', 'margin-bottom': '20px'}
+                ),
                 dash_table.DataTable(
                     id='attacker-table', 
                     style_table={'overflowX': 'auto', 'whiteSpace': 'normal'}, 
@@ -99,6 +107,11 @@ def layout():
                     style={'font-size': '16px', 'margin-bottom': '20px'}
                 ),
                 dcc.Graph(id='midfielder-radar-chart', figure=create_empty_radar_chart()),
+                html.H5("Midfielder Radar Chart", style={'textAlign': 'center', 'margin-top': '10px'}),
+                html.P(
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                    style={'textAlign': 'center', 'font-size': '14px', 'margin-bottom': '20px'}
+                ),
                 dash_table.DataTable(
                     id='midfielder-table', 
                     style_table={'overflowX': 'auto', 'whiteSpace': 'normal'}, 
@@ -124,6 +137,11 @@ def layout():
                     style={'font-size': '16px', 'margin-bottom': '20px'}
                 ),
                 dcc.Graph(id='defender-radar-chart', figure=create_empty_radar_chart()),
+                html.H5("Defender Radar Chart", style={'textAlign': 'center', 'margin-top': '10px'}),
+                html.P(
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                    style={'textAlign': 'center', 'font-size': '14px', 'margin-bottom': '20px'}
+                ),
                 dash_table.DataTable(
                     id='defender-table', 
                     style_table={'overflowX': 'auto', 'whiteSpace': 'normal'}, 
