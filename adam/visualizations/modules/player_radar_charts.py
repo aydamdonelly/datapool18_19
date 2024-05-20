@@ -32,7 +32,7 @@ def create_dropdown_options(position):
 def create_empty_radar_chart():
     fig = go.Figure()
     fig.update_layout(
-        template='plotly_dark',
+        template='plotly',
         polar=dict(
             radialaxis=dict(
                 visible=False,
@@ -58,58 +58,55 @@ def layout():
     return dbc.Container([
         dbc.Row([
             dbc.Col([
-                html.H3("Select Attacking Players", style={'color': 'orange'}),
+                html.H3("Select Attacking Players"),
                 dcc.Dropdown(
                     id='attacker-dropdown',
                     options=create_dropdown_options('FW'),
                     multi=True,
                     placeholder="Select attacking players",
-                    style={'backgroundColor': 'black', 'color': 'orange'}
                 ),
                 dcc.Graph(id='attacker-radar-chart', figure=create_empty_radar_chart()),
                 dash_table.DataTable(
                     id='attacker-table', 
                     style_table={'overflowX': 'auto', 'whiteSpace': 'normal'}, 
-                    style_cell={'textAlign': 'left', 'backgroundColor': 'black', 'color': 'orange'},
-                    style_header={'backgroundColor': 'black', 'color': 'orange'}
+                    style_cell={'textAlign': 'left'},
+                    style_header={'fontWeight': 'bold'}
                 )
             ], width=12)
         ]),
         dbc.Row([
             dbc.Col([
-                html.H3("Select Midfield Players", style={'color': 'orange'}),
+                html.H3("Select Midfield Players"),
                 dcc.Dropdown(
                     id='midfielder-dropdown',
                     options=create_dropdown_options('MF'),
                     multi=True,
                     placeholder="Select midfield players",
-                    style={'backgroundColor': 'black', 'color': 'orange'}
                 ),
                 dcc.Graph(id='midfielder-radar-chart', figure=create_empty_radar_chart()),
                 dash_table.DataTable(
                     id='midfielder-table', 
                     style_table={'overflowX': 'auto', 'whiteSpace': 'normal'}, 
-                    style_cell={'textAlign': 'left', 'backgroundColor': 'black', 'color': 'orange'},
-                    style_header={'backgroundColor': 'black', 'color': 'orange'}
+                    style_cell={'textAlign': 'left'},
+                    style_header={'fontWeight': 'bold'}
                 )
             ], width=12)
         ]),
         dbc.Row([
             dbc.Col([
-                html.H3("Select Defensive Players", style={'color': 'orange'}),
+                html.H3("Select Defensive Players"),
                 dcc.Dropdown(
                     id='defender-dropdown',
                     options=create_dropdown_options('DF'),
                     multi=True,
                     placeholder="Select defensive players",
-                    style={'backgroundColor': 'black', 'color': 'orange'}
                 ),
                 dcc.Graph(id='defender-radar-chart', figure=create_empty_radar_chart()),
                 dash_table.DataTable(
                     id='defender-table', 
                     style_table={'overflowX': 'auto', 'whiteSpace': 'normal'}, 
-                    style_cell={'textAlign': 'left', 'backgroundColor': 'black', 'color': 'orange'},
-                    style_header={'backgroundColor': 'black', 'color': 'orange'}
+                    style_cell={'textAlign': 'left'},
+                    style_header={'fontWeight': 'bold'}
                 )
             ], width=12)
         ])
@@ -143,7 +140,7 @@ def register_callbacks(app):
             players_stats.append(player_stats)
 
         fig.update_layout(
-            template='plotly_dark',
+            template='plotly',
             polar=dict(
                 radialaxis=dict(
                     visible=False,
@@ -188,7 +185,7 @@ def register_callbacks(app):
             players_stats.append(player_stats)
 
         fig.update_layout(
-            template='plotly_dark',
+            template='plotly',
             polar=dict(
                 radialaxis=dict(
                     visible=False,
@@ -233,7 +230,7 @@ def register_callbacks(app):
             players_stats.append(player_stats)
 
         fig.update_layout(
-            template='plotly_dark',
+            template='plotly',
             polar=dict(
                 radialaxis=dict(
                     visible=False,

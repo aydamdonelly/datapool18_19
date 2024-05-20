@@ -46,47 +46,35 @@ def add_age_line(fig, df):
         y=p(df_sorted['Fee']),
         mode='lines',
         name='Average Age',
-        line=dict(color='yellow', width=3),
+        line=dict(color='#FFCC00', width=3),  # Darker yellow for average age line
         yaxis='y2',
         showlegend=True
     ))
 
 def layout():
     return html.Div([
-        html.H1("Player Transfers Analysis", style={'color': 'orange'}),
+        html.H1("Analysis of Player Transfer Fees and Total Scores", style={'font-size': '32px', 'text-align': 'center', 'margin-bottom': '20px'}),
         dcc.Dropdown(
             id='club-dropdown',
             options=[{'label': club, 'value': club} for club in transfers_df['Club'].unique()] + [{'label': 'All', 'value': 'All'}],
             value='All',
             multi=False,
             placeholder='Select a club',
-            style={'backgroundColor': 'black', 'color': 'orange'}
-        ),
-        dcc.Dropdown(
-            id='position-dropdown',
-            options=[{'label': pos, 'value': pos} for pos in transfers_df['Position'].unique() if pd.notna(pos)] + [{'label': 'All', 'value': 'All'}],
-            value='All',
-            multi=False,
-            placeholder='Select a position',
-            style={'backgroundColor': 'black', 'color': 'orange'}
+            style={'margin-bottom': '20px'}
         ),
         dcc.Graph(id='scatter-plot')
-    ], style={'backgroundColor': 'black'})
+    ])
 
 def register_callbacks(app):
     @app.callback(
         Output('scatter-plot', 'figure'),
-        [Input('club-dropdown', 'value'),
-         Input('position-dropdown', 'value')]
+        [Input('club-dropdown', 'value')]
     )
-    def update_scatter_plot(selected_club, selected_position):
+    def update_scatter_plot(selected_club):
         filtered_df = transfers_df
 
         if selected_club != 'All':
             filtered_df = filtered_df[filtered_df['Club'] == selected_club]
-        
-        if selected_position != 'All':
-            filtered_df = filtered_df[filtered_df['Position'] == selected_position]
 
         scatter_fig = px.scatter(
             filtered_df,
@@ -95,32 +83,29 @@ def register_callbacks(app):
             color='Position',
             color_discrete_map=colors,
             hover_data={'Player': True, 'Age': True, 'Fee': True, 'Total Score': True, 'Club': True, 'Position': True},
-            title="Scatter Plot of Fee vs. Total Score",
             labels={'Fee': 'Transfer Fee (€m)', 'Total Score': 'Total Score'},
-            template='plotly_dark'
+            template='plotly'
         )
 
-        scatter_fig.update_traces(marker=dict(size=14, opacity=0.8))
+        scatter_fig.update_traces(marker=dict(size=10, opacity=0.8, line=dict(width=2, color='DarkSlateGrey')))
         scatter_fig.update_layout(
-            height=1600,
+            height=600,  # Adjusted height to fit viewport
             xaxis_title='Transfer Fee (€m)',
             yaxis_title='Total Score',
-            title={
-                'text': "Scatter Plot of Fee vs. Total Score",
-                'y': 0.9,
-                'x': 0.5,
-                'xanchor': 'center',
-                'yanchor': 'top'
-            },
+            xaxis=dict(title=dict(font=dict(size=18, family='Arial, sans-serif', weight='bold')), tickfont=dict(size=16, family='Arial, sans-serif', weight='bold')),
+            yaxis=dict(title=dict(font=dict(size=18, family='Arial, sans-serif', weight='bold')), tickfont=dict(size=16, family='Arial, sans-serif', weight='bold')),
             legend_title_text='Position',
-            font=dict(color='orange'),
+            font=dict(color='black', family='Arial, sans-serif'),
+            legend=dict(font=dict(size=16, family='Arial, sans-serif'), itemclick=False, itemdoubleclick=False),
             yaxis2=dict(
                 title='Average Age',
                 overlaying='y',
                 side='right',
                 showgrid=False,
-                range=[18, 35]
-            )
+                range=[18, 35],
+                titlefont=dict(size=18, family='Arial, sans-serif', weight='bold')
+            ),
+            margin=dict(l=40, r=40, t=40, b=40)
         )
 
         for position, color in colors.items():
@@ -129,3 +114,11 @@ def register_callbacks(app):
         add_age_line(scatter_fig, filtered_df)
 
         return scatter_fig
+
+# Initialize Dash app and register callbacks
+app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+app.layout = layout()
+register_callbacks(app)
+
+if __name__ == '__main__':
+    app.run_server(debug=True)

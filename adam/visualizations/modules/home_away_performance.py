@@ -1,19 +1,12 @@
 import pandas as pd
-import dash
+import plotly.graph_objects as go
 from dash import dcc, html
 from dash.dependencies import Input, Output
-import plotly.graph_objects as go
 import os
 import base64
 
-# Helper function to convert images to base64 strings
-def image_to_base64(image_path):
-    with open(image_path, 'rb') as f:
-        encoded_image = base64.b64encode(f.read()).decode('ascii')
-    return 'data:image/png;base64,{}'.format(encoded_image)
-
-# Load the data
-file_path = '../pl_club_results.csv'  # Update this path to your CSV file
+# Load and preprocess the CSV data
+file_path = '../pl_club_results.csv'
 data = pd.read_csv(file_path)
 
 # Ensure the data is in the correct format
@@ -34,7 +27,13 @@ points['Difference'] = points['Points_Home'] - points['Points_Away']
 points = points.sort_values('Club')
 
 # Directory containing club logos
-logo_dir = './logos/'  # Assuming 'logos' directory is in the same directory as your .py file
+logo_dir = './logos/'
+
+# Function to convert images to base64 strings
+def image_to_base64(image_path):
+    with open(image_path, 'rb') as f:
+        encoded_image = base64.b64encode(f.read()).decode('ascii')
+    return 'data:image/png;base64,{}'.format(encoded_image)
 
 # Default placeholder image
 placeholder_image = os.path.join(logo_dir, "Tottenham Hotspur.png")
@@ -53,7 +52,7 @@ for club in points['Club']:
 def layout():
     return html.Div([
         html.H1("Premier League Home & Away Performance"),
-        
+        html.Label("Difference indicates how much better or worse a team performs at home compared to away."),
         html.Label("Sort by difference:"),
         dcc.Dropdown(
             id='sort-dropdown',
@@ -64,9 +63,7 @@ def layout():
             value=None,
             clearable=True
         ),
-        
-        # Graph to display the results
-        dcc.Graph(id='performance-graph'),
+        dcc.Graph(id='performance-graph')
     ])
 
 def register_callbacks(app):
@@ -148,12 +145,13 @@ def register_callbacks(app):
                 tickmode='array', 
                 tickvals=sorted_points['Club'], 
                 ticktext=sorted_points['Club'],
-                range=[-1, len(sorted_points['Club'])]
+                range=[-1, len(sorted_points['Club'])]  
             ),
             yaxis=dict(range=[0, max(sorted_points['Points_Home'].max(), sorted_points['Points_Away'].max()) + 1]),
-            height=1000,
-            margin=dict(l=100, r=100, t=100, b=100),
-            showlegend=False
+            height=800, 
+            margin=dict(l=100, r=100, t=100, b=100), 
+            showlegend=False,
+            font=dict(size=16, family='Arial, sans-serif')
         )
 
         return fig

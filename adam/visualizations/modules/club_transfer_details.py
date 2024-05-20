@@ -1,17 +1,20 @@
 import pandas as pd
-import dash
+import plotly.graph_objects as go
 from dash import dcc, html
 from dash.dependencies import Input, Output
-import plotly.graph_objects as go
 import dash_bootstrap_components as dbc
 
-# Load the data
+# Load the data from a CSV file
 df = pd.read_csv('../transfer_data.csv')
 
-# Process data
+# Convert 'Fee' to numeric, handling non-numeric data as NaN and then replacing NaN with 0
 df['Fee'] = pd.to_numeric(df['Fee'], errors='coerce').fillna(0)
+
+# Filter to include only the Big 6 clubs
 big6_clubs = ['Liverpool', 'Manchester United', 'Manchester City', 'Chelsea', 'Arsenal', 'Tottenham Hotspur']
 df_big6 = df[df['Club'].isin(big6_clubs)]
+
+# Create a list of unique seasons
 seasons = sorted(df['Season'].unique())
 
 def layout():
@@ -23,20 +26,20 @@ def layout():
         ]),
         dbc.Row([
             dbc.Col([
-                html.Label('Select Seasons:', style={'fontWeight': 'bold'}),
+                html.Label('Select Seasons:', style={'fontWeight': 'bold', 'fontSize': '18px'}),
                 dcc.RangeSlider(
                     id='season-slider',
                     min=0,
                     max=len(seasons) - 1,
                     value=[0, len(seasons) - 1],
-                    marks={i: season for i, season in enumerate(seasons)},
+                    marks={i: {'label': season, 'style': {'fontSize': '16px'}} for i, season in enumerate(seasons)},
                     step=1
                 )
-            ], width=10, className="offset-md-1")
+            ], width=10, className="offset-md-1 mb-4")
         ]),
         dbc.Row([
             dbc.Col([
-                html.Label('Select Transfer Type:', style={'fontWeight': 'bold'}),
+                html.Label('Select Transfer Type:', style={'fontWeight': 'bold', 'fontSize': '18px'}),
                 dcc.RadioItems(
                     id='transfer-type-radio',
                     options=[
@@ -44,25 +47,27 @@ def layout():
                         {'label': 'Expenses', 'value': 'Departure'}
                     ],
                     value='Arrival',
-                    inline=True
+                    inline=True,
+                    style={'fontSize': '16px'}
                 )
-            ], width=10, className="offset-md-1")
+            ], width=10, className="offset-md-1 mb-4")
         ]),
         dbc.Row([
             dbc.Col([
-                html.Label('Select Clubs:', style={'fontWeight': 'bold'}),
+                html.Label('Select Clubs:', style={'fontWeight': 'bold', 'fontSize': '18px'}),
                 dcc.Checklist(
                     id='club-checklist',
                     options=[{'label': club, 'value': club} for club in big6_clubs],
                     value=big6_clubs,
-                    inline=True
+                    inline=True,
+                    style={'fontSize': '16px'}
                 )
-            ], width=10, className="offset-md-1")
+            ], width=10, className="offset-md-1 mb-4")
         ]),
         dbc.Row([
             dbc.Col([
                 dcc.Graph(id='area-plot', config={'displayModeBar': False})
-            ], width=12)
+            ], width=12, style={'marginTop': '80px'})
         ])
     ], fluid=True, style={'padding': '20px'})
 
@@ -112,8 +117,14 @@ def register_callbacks(app):
                 yanchor="bottom",
                 y=1.02,
                 xanchor="right",
-                x=1
-            )
+                x=1,
+                font=dict(size=14)
+            ),
+            xaxis_tickfont=dict(size=16, family='Arial, sans-serif', weight='bold'),
+            yaxis_tickfont=dict(size=16, family='Arial, sans-serif', weight='bold'),
+            xaxis_title_font=dict(size=20, family='Arial, sans-serif', weight='bold'),
+            yaxis_title_font=dict(size=20, family='Arial, sans-serif', weight='bold'),
+            margin=dict(l=60, r=60, t=60, b=140)  # Increased bottom margin for spacing
         )
 
         return fig
