@@ -2,6 +2,7 @@ import pandas as pd
 import plotly.graph_objects as go
 from dash import Dash, dcc, html
 import numpy as np
+from PIL import Image
 
 df = pd.read_csv("adrian/data/pl_club_results.csv")
 
