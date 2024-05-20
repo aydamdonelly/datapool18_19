@@ -9,14 +9,13 @@ import dash_bootstrap_components as dbc
 import os
 import base64
 
-# Load the data
 df = pd.read_csv("../../adrian/data/goalkeeping_stats_pl.csv")
 df_2 = pd.read_csv("../../adrian/data/t5_leagues_players_standard.csv")
 
-# Group by "Club" and aggregate the values we need for the scatter plot
+# group by "Club" and aggregate the values we need for the scatter plot
 agg_df = df.groupby('Club').agg({'GA': 'sum', 'Save%': 'mean', 'CS': 'sum'}).reset_index()
 
-# Color mapping for each club
+# color mapping for each club
 squad_colors = {
     'Arsenal': '#EF0107',
     'Bournemouth': '#D71920',
@@ -40,18 +39,18 @@ squad_colors = {
     'Wolverhampton Wanderers': '#FDB913'
 }
 
-# Filter df_2 for PL keepers
+# filter df_2 for PL keepers
 pl_goalkeepers_df = df_2[df_2['Club'].isin(squad_colors.keys())]
 pl_goalkeepers_df = pl_goalkeepers_df[pl_goalkeepers_df['Pos'] == 'GK']
 
-# Find first team keeper of each club (most matches played)
+# find first team keeper of each club (most matches played)
 main_goalkeepers = pl_goalkeepers_df.groupby('Club')['MP'].idxmax()
 main_goalkeepers_df = pl_goalkeepers_df.loc[main_goalkeepers]
 
 main_goalkeepers_games_df = main_goalkeepers_df.groupby('Club').agg({'Player': 'first'}).reset_index()
 main_goalkeepers_games_df.rename(columns={'Player': 'Main Goalkeeper'}, inplace=True)
 
-# Merge with aggregated goalkeeping stats
+# merge with aggregated goalkeeping stats
 agg_df = pd.merge(agg_df, main_goalkeepers_games_df, on='Club')
 
 # Image implementation
@@ -71,7 +70,10 @@ for club in agg_df['Club'].unique():
 def layout():
     return html.Div([
         html.H1("Premier League Goalkeeping Performance"),
-        dcc.Graph(id='goalkeeping-performance-graph')
+        dcc.Graph(
+            id='goalkeeping-performance-graph',
+            style={'height': '800px'} 
+        )
     ])
 
 def register_callbacks(app):
@@ -95,7 +97,7 @@ def register_callbacks(app):
                 text=hover_text,
                 hovertemplate=hover_text,
                 hoverlabel=dict(font=dict(color='black'), namelength=0, bgcolor='white'),
-                showlegend=False  # Don't show scatter legend
+                showlegend=False  
             ))
 
         # Trace for images
@@ -115,26 +117,38 @@ def register_callbacks(app):
                 )
             )
 
-        # Annotation for bubble size explanation
+        # annotation for bubble size explanation
         fig.add_annotation(
-            x=0.167,
+            x=0.31,
             y=1.03,
             xref='paper',
             yref='paper',
-            text='Bubble size represents number of Clean Sheets - The bigger, the more Clean Sheets',
+            text='Bubble size represents number of Clean Sheets - The bigger, the more Clean Sheets. Hover over the bubbles to reveal more details.',
             showarrow=False,
-            font=dict(color='black', size=12),
+            font=dict(size=16, family='Arial, sans-serif', color='grey',),
             xanchor="center",
             yanchor="middle"
         )
 
         fig.update_layout(
-            title='Goals Against vs. Average Save% for Premier League Teams',
+            title='Goals Against vs.Save Percentage for Premier League Teams',
+            title_font=dict(size=24, family='Arial, sans-serif', color='black', weight='bold'),
             xaxis_title='Goals Against',
-            yaxis_title='Average Save%',
+            yaxis_title='Save%',
             dragmode='pan',
-            xaxis=dict(fixedrange=True),
-            yaxis=dict(fixedrange=True, range=[0, 100]),  # Adjusted y-axis range
-        )
+            xaxis=dict(fixedrange=True,
+                title_font=dict(size=20, family='Arial, sans-serif', color='black', weight='bold'),
+                tickfont=dict(size=16, family='Arial, sans-serif', color='gray', weight='bold'),
+                showline=True,
+                linewidth=3,
+                linecolor='gray'),
+            yaxis=dict(fixedrange=True, 
+                       range=[agg_df["Save%"].min() - 2,agg_df["Save%"].max()+ 3],
+                        title_font=dict(size=20, family='Arial, sans-serif', color='black', weight='bold'),
+                        tickfont=dict(size=16, family='Arial, sans-serif', color='gray', weight='bold'),
+                        showline=True,
+                        linewidth=3,
+                        linecolor='gray')),
+        
 
         return fig

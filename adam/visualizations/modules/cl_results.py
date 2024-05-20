@@ -6,7 +6,7 @@ from dash import dcc, html
 df_results = pd.read_csv("../../adrian/data/cl_results.csv")
 df_players = pd.read_csv("../../adrian/data/cl_season_standard_stats.csv")
 
-# Calculate metrics
+# calculate metrics
 total_goals_scored = df_results['GF'].sum()
 total_goals_conceded = df_results['GA'].sum()
 total_wins = (df_results['Result'] == 'W').sum()
@@ -43,6 +43,8 @@ brick_height_results = 100 / total_bricks_results
 brick_height_players_goals = 100 / total_bricks_players_goals
 brick_height_players_assists = 100 / total_bricks_players_assists
 
+
+
 def create_figure():
     fig = go.Figure()
     column_width = 0.5
@@ -66,7 +68,7 @@ def create_figure():
             marker=dict(size=0.1, color="#1F77B4"),
             showlegend=False,
             hoverinfo="text",
-            text=f"Goal {i + 1}: Scored"
+            text=f"Total Goals Scored: {total_goals_scored}"
         ))
     
     for i in range(total_goals_conceded):
@@ -87,50 +89,50 @@ def create_figure():
             marker=dict(size=0.1, color="#D62728"),
             showlegend=False,
             hoverinfo="text",
-            text=f"Goal {i + 1}: Conceded"
+            text=f"Total Goals Conceded: {total_goals_conceded}"
         ))
-
+        
     for i in range(total_wins):
-        fig.add_shape(
-            type="rect",
-            x0=column_positions[1],
-            y0=i * brick_height_results,
-            x1=column_positions[1] + column_width,
-            y1=(i + 1) * brick_height_results,
-            fillcolor="#2CA02C",
-            line=dict(color="white"),
-            opacity=0.7
-        )
-        fig.add_trace(go.Scatter(
-            x=[column_positions[1] + column_width / 2],
-            y=[i * brick_height_results + brick_height_results / 2],
-            mode="markers",
-            marker=dict(size=0.1, color="#2CA02C"),
-            showlegend=False,
-            hoverinfo="text",
-            text=f"Win {i + 1}"
-        ))
-
+            fig.add_shape(
+                type="rect",
+                x0=column_positions[1],
+                y0=i * brick_height_results,
+                x1=column_positions[1] + column_width,
+                y1=(i + 1) * brick_height_results,
+                fillcolor="#2CA02C",
+                line=dict(color="white"),
+                opacity=0.7
+            )
+            fig.add_trace(go.Scatter(
+                x=[column_positions[1] + column_width / 2],
+                y=[i * brick_height_results + brick_height_results / 2],
+                mode="markers",
+                marker=dict(size=0.1, color="#2CA02C"),
+                showlegend=False,
+                hoverinfo="text",
+                text=f"Win {i + 1}"
+            ))
+            
     for i in range(total_draws):
-        fig.add_shape(
-            type="rect",
-            x0=column_positions[1],
-            y0=total_wins * brick_height_results + i * brick_height_results,
-            x1=column_positions[1] + column_width,
-            y1=total_wins * brick_height_results + (i + 1) * brick_height_results,
-            fillcolor="#FF7F0E",
-            line=dict(color="white"),
-            opacity=0.7
-        )
-        fig.add_trace(go.Scatter(
-            x=[column_positions[1] + column_width / 2],
-            y=[total_wins * brick_height_results + i * brick_height_results + brick_height_results / 2],
-            mode="markers",
-            marker=dict(size=0.1, color="#FF7F0E"),
-            showlegend=False,
-            hoverinfo="text",
-            text=f"Draw {i + 1}"
-        ))
+            fig.add_shape(
+                type="rect",
+                x0=column_positions[1],
+                y0=total_wins * brick_height_results + i * brick_height_results,
+                x1=column_positions[1] + column_width,
+                y1=total_wins * brick_height_results + (i + 1) * brick_height_results,
+                fillcolor="#FF7F0E",
+                line=dict(color="white"),
+                opacity=0.7
+            )
+            fig.add_trace(go.Scatter(
+                x=[column_positions[1] + column_width / 2],
+                y=[total_wins * brick_height_results + i * brick_height_results + brick_height_results / 2],
+                mode="markers",
+                marker=dict(size=0.1, color="#FF7F0E"),
+                showlegend=False,
+                hoverinfo="text",
+                text=f"Draw {i + 1}"
+            ))
 
     for i in range(total_losses):
         fig.add_shape(
@@ -153,64 +155,87 @@ def create_figure():
             text=f"Loss {i + 1}"
         ))
 
+            
     current_height_goals = 0
     for player, goals in player_goals.items():
-        for i in range(goals):
+        cumulative_goals = df_players[df_players['Player'] == player]['Gls'].sum()
+        for goal_number in range(goals):
             fig.add_shape(
                 type="rect",
                 x0=column_positions[2],
-                y0=current_height_goals + i * brick_height_players_goals,
+                y0=current_height_goals + goal_number * brick_height_players_goals,
                 x1=column_positions[2] + column_width,
-                y1=current_height_goals + (i + 1) * brick_height_players_goals,
+                y1=current_height_goals + (goal_number + 1) * brick_height_players_goals,
                 fillcolor=player_colors[player],
                 line=dict(color="white"),
                 opacity=0.7
             )
             fig.add_trace(go.Scatter(
                 x=[column_positions[2] + column_width / 2],
-                y=[current_height_goals + i * brick_height_players_goals + brick_height_players_goals / 2],
+                y=[current_height_goals + goal_number * brick_height_players_goals + brick_height_players_goals / 2],
                 mode="markers",
                 marker=dict(size=0.1, color=player_colors[player]),
                 showlegend=False,
                 hoverinfo="text",
-                text=f"{player}: Goal {i + 1}"
+                text=f"{player}: Total Goals Scored: {cumulative_goals}"
             ))
         current_height_goals += goals * brick_height_players_goals
 
     current_height_assists = 0
     for player, assists in player_assists.items():
-        for i in range(assists):
+        cumulative_assists = df_players[df_players['Player'] == player]['Ast'].sum()
+        for assist_number in range(assists):
             fig.add_shape(
                 type="rect",
                 x0=column_positions[3],
-                y0=current_height_assists + i * brick_height_players_assists,
+                y0=current_height_assists + assist_number * brick_height_players_assists,
                 x1=column_positions[3] + column_width,
-                y1=current_height_assists + (i + 1) * brick_height_players_assists,
+                y1=current_height_assists + (assist_number + 1) * brick_height_players_assists,
                 fillcolor=player_colors[player],
                 line=dict(color="white"),
                 opacity=0.7
             )
             fig.add_trace(go.Scatter(
                 x=[column_positions[3] + column_width / 2],
-                y=[current_height_assists + i * brick_height_players_assists + brick_height_players_assists / 2],
+                y=[current_height_assists + assist_number * brick_height_players_assists + brick_height_players_assists / 2],
                 mode="markers",
                 marker=dict(size=0.1, color=player_colors[player]),
                 showlegend=False,
                 hoverinfo="text",
-                text=f"{player}: Assist {i + 1}"
+                text=f"{player}: Total Assists: {cumulative_assists}"
             ))
         current_height_assists += assists * brick_height_players_assists
 
+    # explanation text for interactive features
+    fig.add_annotation(
+        x=0.32,
+        y=1.05,
+        xref='paper',
+        yref='paper',
+        text="""The 18/19 season peaked with Liverpool's UCL triumph in Madrid. Hover over the center ofthe rectangles to reveal additional information.""",
+        showarrow=False,
+        font=dict(size=16, family='Arial, sans-serif', color='grey',),
+        xanchor="center",
+        yanchor="middle",
+        align = "left"
+    )
+
     fig.update_layout(
-        title="Liverpool's Champions League Triumph in Numbers - Goals, Match Results, Goalscorers and Assist Providers",
+        title="Liverpool's 18/19Champions League Triumph in Numbers - Goals, Match Results, Goalscorers and Assist Providers",
+        title_font=dict(size=28, family='Arial, sans-serif', color='black', weight='bold'),
         xaxis=dict(
             tickmode='array',
+            tickfont=dict(size=20, family='Arial, sans-serif', color='grey', weight='bold'),
             tickvals=[pos + column_width / 2 for pos in column_positions],
-            ticktext=['Goals', 'Match Results', 'Goals per Player', 'Assists per Player']
+            ticktext=['Goals', 'Match Results', 'Goals per Player', 'Assists per Player'],
+            showline=True,
+            linewidth=3,
+            linecolor='gray', 
         ),
-        yaxis=dict(visible=False),
+        yaxis=dict(visible=False, range = [0,100]),
         showlegend=False,
-        plot_bgcolor='rgba(0,0,0,0)'
+        plot_bgcolor='rgba(0,0,0,0)',
+        height = 800,
     )
 
     return fig

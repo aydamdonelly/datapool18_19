@@ -135,8 +135,8 @@ def create_figure():
                         yref="y",
                         x=row['Chronological Matchday'],
                         y=row['League Position'],
-                        sizex=0.4,
-                        sizey=0.4,
+                        sizex=0.5,
+                        sizey=0.5,
                         xanchor="center",
                         yanchor="middle"
                     )
@@ -160,15 +160,39 @@ def create_figure():
             hovertext=hover_texts,
             showlegend=False,
         ))
+        
+    # explanation text for interactive features
+    fig.add_annotation(
+        x=0.26,
+        y=1.05,
+        xref='paper',
+        yref='paper',
+        text="""Hover over datapoints to reveal additional information. Use the slider below the chart to adjust the x-axis-scaling.""",
+        showarrow=False,
+        font=dict(size=16, family='Arial, sans-serif', color='grey',),
+        xanchor="center",
+        yanchor="middle",
+    )
 
     fig.update_layout(
-        title='The Race for The Top Spots',
+        title='The Race for The Top Spots - Top 6 League Positions over the 18/19 season',
+        title_font=dict(size=32, family='Arial, sans-serif', color='black', weight='bold'),
         xaxis_title='Chronological Matchday',
         yaxis_title='League Position',
         legend_title='Club',
-        yaxis=dict(range=[0.5, 6.5], autorange='reversed'),
-        height=450,
-        xaxis=dict(tickmode='linear', dtick='M1', range=[0.5, 38.5]),
+        yaxis=dict(range=[0.5, 6.5], autorange='reversed',
+                   title_font=dict(size=20, family='Arial, sans-serif', color='black', weight='bold'),
+                    tickfont=dict(size=16, family='Arial, sans-serif', color='gray', weight='bold'),
+                    showline=True,
+                    linewidth=3,
+                    linecolor='gray'),
+        height=600,
+        xaxis=dict(tickmode='linear', dtick='M1', range=[0.5, 38.5],
+                   title_font=dict(size=20, family='Arial, sans-serif', color='black', weight='bold'),
+                    tickfont=dict(size=16, family='Arial, sans-serif', color='gray', weight='bold'),
+                    showline=True,
+                    linewidth=3,
+                    linecolor='gray'),
         xaxis_rangeslider=dict(
             visible=True,
             thickness=0.02, 

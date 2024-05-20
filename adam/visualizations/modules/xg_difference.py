@@ -49,12 +49,44 @@ def create_figure():
         hovertext=hover_text  
     ))
 
+    # explanation text for xG metric
+    fig.add_annotation(
+        x=0.7,
+        y=0.2,
+        xref='paper',
+        yref='paper',
+        text="""Basically, Expected Goals (xG) is a metric to indicate how likely <br> 
+                a shot is to result in a goal. It is being calculated from several features, <br> 
+                such as the location of the shot, the body part that has been used for the shot, etc. <br> 
+                Therefore, a comparison of xG and scored goals in one season can create insights on how <br>
+                well a team took its chances, or also how "lucky" they were in shooting scenarios. <br>""",
+        showarrow=False,
+        font=dict(size=16, family='Arial, sans-serif', color='grey'),
+        xanchor="center",
+        yanchor="middle",
+        bordercolor="black",
+        bgcolor="white", 
+    )
+    
     fig.update_layout(
         title='xG-Over-/Underperformance at the End of the Season',
+        title_font=dict(size=32, family='Arial, sans-serif', color='black', weight='bold'),
         xaxis_title='xG Difference',
         yaxis_title='Club',
-        yaxis=dict(tickmode='linear', fixedrange=True), 
-        xaxis=dict(fixedrange=True),
+        height = 800,
+        yaxis=dict(tickmode='linear', 
+                    title_font=dict(size=28, family='Arial, sans-serif', color='black', weight='bold'),
+                    tickfont=dict(size=16, family='Arial, sans-serif', color='gray', weight='bold'), 
+                   fixedrange=True,
+                    showline=True,
+                    linewidth=3,
+                    linecolor='gray'),
+        xaxis=dict(fixedrange=True,
+                title_font=dict(size=28, family='Arial, sans-serif', color='black', weight='bold'),
+                    tickfont=dict(size=16, family='Arial, sans-serif', color='gray', weight='bold'),
+                    showline=True,
+                    linewidth=3,
+                    linecolor='gray'),
     )
 
     return fig
