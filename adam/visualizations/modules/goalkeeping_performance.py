@@ -73,7 +73,8 @@ def layout():
         dcc.Graph(
             id='goalkeeping-performance-graph',
             style={'height': '800px'} 
-        )
+        ),
+        html.P("Data source: FBref", style={'text-align': 'center', 'font-size': '12px', 'color': 'gray'})
     ])
 
 def register_callbacks(app):

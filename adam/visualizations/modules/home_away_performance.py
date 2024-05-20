@@ -54,7 +54,7 @@ for club in points['Club']:
 def layout():
     return html.Div([
         html.H1("Premier League Home & Away Performances", style={'textAlign': 'center', 'fontWeight': 'bold'}),
-        html.P("Data source: FBRef", style={'text-align': 'center', 'font-size': '12px', 'color': 'gray', 'margin-top': '0'}),
+        html.P("Data source: FBref", style={'text-align': 'center', 'font-size': '12px', 'color': 'gray', 'margin-top': '0'}),
         html.Label("Difference indicates how much better or worse a team performs at home compared to away."),
         html.Label("Sort by difference (Ascending -> weakest home advantage to strongest and vice versa):"),
         dcc.Dropdown(

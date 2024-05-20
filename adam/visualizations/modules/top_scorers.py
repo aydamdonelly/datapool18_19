@@ -42,7 +42,7 @@ squad_colors = {
 def layout():
     return html.Div([
         html.H1("Premier League 18/19 Top Scorers by Match Day", style={'textAlign': 'center', 'fontWeight': 'bold'}),
-        html.P("Data source: FBRef", style={'textAlign': 'center', 'fontSize': '12px', 'color': 'gray', 'margin-top': '-10px'}),
+        html.P("Data source: FBref", style={'textAlign': 'center', 'fontSize': '12px', 'color': 'gray', 'margin-top': '-10px'}),
         dcc.Graph(id='top-scorers-graph', style={'position': 'relative', 'height': '610px'}),  # Adjusted height
         dcc.Slider(
             id='matchday-slider',

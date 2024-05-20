@@ -58,7 +58,7 @@ def add_age_line(fig, df):
 def layout():
     return html.Div([
         html.H1("Analysis of Player Transfer Fees and Total Scores", style={'font-size': '32px', 'text-align': 'center', 'margin-bottom': '10px'}),
-        html.P("Data sources: FBRef and transfermarkt", style={'text-align': 'center', 'font-size': '12px', 'color': 'gray', 'margin-top': '0'}),
+        html.P("Data sources: FBref and transfermarkt", style={'text-align': 'center', 'font-size': '12px', 'color': 'gray', 'margin-top': '0'}),
         dcc.Dropdown(
             id='club-dropdown',
             options=[{'label': club, 'value': club} for club in transfers_df['Club'].unique()] + [{'label': 'All', 'value': 'All'}],

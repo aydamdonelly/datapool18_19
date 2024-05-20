@@ -63,7 +63,7 @@ def layout():
         html.H1("Top 5 League Players Radar Chart", style={'textAlign': 'center', 'fontWeight': 'bold', 'margin-top': '20px'}),
         html.P("Data sources: FBRef", style={'text-align': 'center', 'font-size': '12px', 'color': 'gray', 'margin-top': '0'}),
         html.P(
-            "The statistics the player being compared in differ based on the position you are looking at. Each radar chart shows the percentile rankings of the selected players when compared to the top 5 league players in the statistics chosen for each position.",
+            "The statistics the players are being compared in differ based on the position you are looking at. Each radar chart shows the percentile rankings of the selected players when compared to players from the top 5 leagues in their position.",
             style={'textAlign': 'center', 'fontSize': '18px', 'margin-bottom': '30px'}
         ),
         dbc.Row([
@@ -77,9 +77,9 @@ def layout():
                     style={'margin-bottom': '15px'}
                 ),
                 dcc.Graph(id='attacker-radar-chart', figure=create_empty_radar_chart()),
-                html.H5("Attacker Radar Chart", style={'textAlign': 'center', 'margin-top': '10px'}),
+                html.H5("", style={'textAlign': 'center', 'margin-top': '10px'}),
                 html.P(
-                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                    "",
                     style={'textAlign': 'center', 'font-size': '14px', 'margin-bottom': '20px'}
                 ),
                 dash_table.DataTable(
@@ -101,9 +101,9 @@ def layout():
                     style={'margin-bottom': '15px'}
                 ),
                 dcc.Graph(id='midfielder-radar-chart', figure=create_empty_radar_chart()),
-                html.H5("Midfielder Radar Chart", style={'textAlign': 'center', 'margin-top': '10px'}),
+                html.H5("", style={'textAlign': 'center', 'margin-top': '10px'}),
                 html.P(
-                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                    "",
                     style={'textAlign': 'center', 'font-size': '14px', 'margin-bottom': '20px'}
                 ),
                 dash_table.DataTable(
@@ -125,9 +125,9 @@ def layout():
                     style={'margin-bottom': '15px'}
                 ),
                 dcc.Graph(id='defender-radar-chart', figure=create_empty_radar_chart()),
-                html.H5("Defender Radar Chart", style={'textAlign': 'center', 'margin-top': '10px'}),
+                html.H5("", style={'textAlign': 'center', 'margin-top': '10px'}),
                 html.P(
-                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                    "",
                     style={'textAlign': 'center', 'font-size': '14px', 'margin-bottom': '20px'}
                 ),
                 dash_table.DataTable(

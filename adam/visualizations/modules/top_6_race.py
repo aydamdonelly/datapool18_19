@@ -206,7 +206,9 @@ def create_figure():
 
 def layout():
     return html.Div([
-        dcc.Graph(id='league-position-graph')
+        dcc.Graph(id='league-position-graph'),
+        html.P("Data source: FBref", style={'text-align': 'center', 'font-size': '12px', 'color': 'gray'})
+
     ])
 
 def register_callbacks(app):

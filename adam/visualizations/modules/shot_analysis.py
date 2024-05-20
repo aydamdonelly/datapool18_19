@@ -198,7 +198,9 @@ def layout():
             options=[{'label': player, 'value': player} for player in players],
             value=players[0]  # Default to the first player
         ),
-        dcc.Graph(id='shot-graph')
+        dcc.Graph(id='shot-graph'),
+        html.P("Data source: FBref", style={'text-align': 'center', 'font-size': '12px', 'color': 'gray'})
+
     ])
 
 def register_callbacks(app):
