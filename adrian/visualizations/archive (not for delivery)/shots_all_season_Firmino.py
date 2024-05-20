@@ -4,10 +4,9 @@ import pandas as pd
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 
-# Load the dataset
 df = pd.read_csv("adrian/data/all_shots_CLandPL.csv")
 
-# to make sure xG and PSxG columns are numeric
+# just to make sure xG and PSxG columns are numeric
 df['xG'] = pd.to_numeric(df['xG'], errors='coerce')
 df['PSxG'] = pd.to_numeric(df['PSxG'], errors='coerce')
 
@@ -20,7 +19,7 @@ df_firmino_on_target = df_firmino[df_firmino['Outcome'].isin(['Goal', 'Saved'])]
 # sort ascendingly by PSxG
 df_firmino_sorted = df_firmino_on_target.sort_values(by=['PSxG'], ascending=[True])
 
-# reset index to get shot IDs for the sorted DataFrame
+# reset index to get shot "IDs" for the sorted DataFrame
 df_firmino_sorted.reset_index(drop=True, inplace=True)
 df_firmino_sorted['Shot_ID'] = df_firmino_sorted.index
 
@@ -50,7 +49,7 @@ for index, row in df_firmino_sorted.iterrows():
         )
     )
     
-    # add the PSxG marker and the line connecting xG to PSxG if PSxG is present
+    # add the PSxG marker and the line connecting xG to PSxG
     if not pd.isna(psxg_value):
         fig.add_trace(
             go.Scatter(

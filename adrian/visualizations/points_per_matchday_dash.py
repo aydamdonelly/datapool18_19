@@ -5,7 +5,6 @@ from dash.dependencies import Input, Output
 import os
 import base64
 
-# Read data
 df = pd.read_csv("adrian/data/pl_club_results.csv")
 
 # sort df based on 'Date' column
@@ -48,7 +47,7 @@ for matchday in range(1, 39):
     sorted_clubs = matchday_df.sort_values(by=['Accumulated Points', 'Goal Difference'], ascending=[False, False])
     sorted_clubs['League Position'] = range(1, len(sorted_clubs) + 1)
     
-    # update DataFrame with league position for this matchday
+    # update df with league position for this matchday
     df.loc[sorted_clubs.index, 'League Position'] = sorted_clubs['League Position']
 
 # select only top 6 league positions each matchday
@@ -71,7 +70,7 @@ for club in top_6_clubs_df['Club'].unique():
     y_values = []
     hover_texts = []
     
-    # Iterate over each matchday and determine if the club is in the top 6
+    # iterate over each matchday and determine if the club is in the top 6
     # before this part existed, there was a mistake in the graphic
     # Bournemouth dropped out of the Top 6 after MD 5 and got in on MD 8 again
     # without this code, the datapoints from MD 5 and 8 would be connected, which implies they never dropped out
@@ -88,13 +87,13 @@ for club in top_6_clubs_df['Club'].unique():
             y_values.append(None)
             hover_texts.append(None)
 
-# Directory containing club logos
+# directory containing club logos
 logo_dir = 'adam/visualizations/logos' 
 
-# Default placeholder image
+# default placeholder image
 placeholder_image = os.path.join(logo_dir, "Tottenham Hotspur.png")
 
-# Mapping of club names to their base64 logo strings
+# mapping of club names to their base64 logo strings
 club_logos = {}
 for club in top_6_clubs_df['Club'].unique():
     logo_path = os.path.join(logo_dir, f"{club}.png")
@@ -109,80 +108,78 @@ for club in top_6_clubs_df['Club'].unique():
         club_logos[club] = 'data:image/png;base64,{}'.format(encoded_image)
 
 
-# Initialize the Dash app
 app = Dash(__name__)
 
-# Define the layout of the app
 app.layout = html.Div([
     html.H1("The Race for The Top Spots"),
     dcc.Graph(id='league-position-graph')
 ])
 
-# Define the callback to update the graph
+# callback to update the graph
 @app.callback(
     Output('league-position-graph', 'figure'),
     [Input('league-position-graph', 'hoverData')]
 )
 def update_graph(hover_data):
-    # Your plotting code here
+
     fig = go.Figure()
 
-    # Loop through clubs and add traces
+    # loop through clubs and add traces
     for club in top_6_clubs_df['Club'].unique():
         x_values = []
         y_values = []
         hover_texts = []
         club_data = top_6_clubs_df[top_6_clubs_df['Club'] == club]
         
-        # Iterate over each matchday and determine if the club is in the top 6
+        # iterate over each matchday and determine if the club is in the top 6 or not
         for matchday in range(1, 39):
             if top_6_status.loc[matchday, club]:
-                # If the club is in the top 6, add the data to the lists
+ 
                 row = club_data[club_data['Chronological Matchday'] == matchday].iloc[0]
                 x_values.append(row['Chronological Matchday'])
                 y_values.append(row['League Position'])
                 hover_texts.append(f"<b>{club}</b><br>Points: {row['Accumulated Points']}<br>Goal Difference: {row['Goal Difference']}")
                 
-                # Add image for this data point
+                # add image for the corresponding data point
                 fig.add_layout_image(
                     dict(
                         source=club_logos[club],
                         xref="x",
                         yref="y",
-                        x=row['Chronological Matchday'],  # Use the current matchday for x-coordinate
-                        y=row['League Position'],  # Use the exact league position for y-coordinate
-                        sizex=0.4,  # Adjust image size as needed
-                        sizey=0.4,  # Adjust image size as needed
+                        x=row['Chronological Matchday'],  
+                        y=row['League Position'], 
+                        sizex=0.4,  
+                        sizey=0.4, 
                         xanchor="center",
                         yanchor="middle"
                     )
                 )
             else:
-                # If the club is not in the top 6, add None values to create a break in the line
+                # if the club is not in the top 6, add None values to create a break in the line
+                # this is just to prevent small mistakes in the plot
                 x_values.append(None)
                 y_values.append(None)
                 hover_texts.append(None)
 
-        # Add trace for the current club
+        # trace for the current club
         fig.add_trace(go.Scatter(
             x=x_values,
             y=y_values,
             mode='lines+markers',
             name=club,
-            line=dict(shape='spline', width=4),  # Increase line width
+            line=dict(shape='spline', width=4), 
             marker=dict(size=7),
             hoverinfo="text",
             hovertext=hover_texts,
             showlegend=False,
         ))
         
-    # Add layout
     fig.update_layout(
         title='The Race for The Top Spots',
         xaxis_title='Chronological Matchday',
         yaxis_title='League Position',
         legend_title='Club',
-        yaxis=dict(range=[0.5, 6.5], autorange='reversed'),  # Limit y-axis to top 6 positions
+        yaxis=dict(range=[0.5, 6.5], autorange='reversed'),  
         height=450,
         xaxis=dict(tickmode='linear', dtick='M1', range=[0.5, 38.5]),
         xaxis_rangeslider=dict(
@@ -191,15 +188,10 @@ def update_graph(hover_data):
             bgcolor='lightgrey',
             range=[0.5, 38.5],
         ),
-        clickmode='none'  # Disable clicking to make lines disappear
+        clickmode='none'  
     )
-
-
 
     return fig
 
-
-
-# Run the app
 if __name__ == '__main__':
     app.run_server(debug=True)

@@ -25,7 +25,7 @@ app = dash.Dash(__name__)
 
 players = df_filtered['Player'].unique()
 
-# define shot plot function
+# shot plot function
 def plot_player_shots(player_name):
     df_player = df_filtered[df_filtered['Player'] == player_name]
 
@@ -81,7 +81,7 @@ def plot_player_shots(player_name):
                 hovertext=hover_template
             )
         )
-        # Add the PSxG marker and the line connecting xG to PSxG if PSxG is present
+        # add the PSxG marker and the line connecting xG to PSxG
         if not pd.isna(psxg_value):
             fig.add_trace(
                 go.Scatter(
@@ -96,7 +96,7 @@ def plot_player_shots(player_name):
                     hovertext=hover_template
                 )
             )
-            # displaying lines as arrows between datapoints (just to look cool)
+            # displaying lines as arrows between datapoints (just for it to look cool)
             fig.add_annotation(
                 x=psxg_value,
                 y=shot_id,
@@ -175,7 +175,7 @@ app.layout = html.Div([
     dcc.Dropdown(
         id='player-dropdown',
         options=[{'label': player, 'value': player} for player in players],
-        value=players[0]  # Default to the first player
+        value=players[0]  # default to the first player
     ),
     dcc.Graph(id='shot-graph')
 ])

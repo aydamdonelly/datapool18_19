@@ -80,13 +80,12 @@ for club in top_6_clubs_df['Club'].unique():
     # without this code, the datapoints from MD 5 and 8 would be connected, which implies they never dropped out
     for matchday in range(1, 39):
         if top_6_status.loc[matchday, club]:
-            # If the club is in the top 6, add the data to the lists
             row = club_data[club_data['Chronological Matchday'] == matchday].iloc[0]
             x_values.append(row['Chronological Matchday'])
             y_values.append(row['League Position'])
             hover_texts.append(hover_text[row.name])
         else:
-            # If the club is not in the top 6, add None values to create a break in the line
+            # if the club is not in the top 6, add None values to create a break in the line
             x_values.append(None)
             y_values.append(None)
             hover_texts.append(None)
