@@ -107,10 +107,24 @@ def register_callbacks(app):
 
         fig.update_layout(
             title=f'Big 6 Club Transfer {selected_transfer_type}s per Season',
-            xaxis_title="Season",
-            yaxis_title="Total Fee (in Million €)",
-            xaxis={'type': 'category'},
-            font=dict(color='black'),
+            xaxis=dict(
+                title="Season",
+                type='category',
+                tickfont=dict(size=16, family='Arial, sans-serif', color='gray', weight='bold'),
+                title_font=dict(size=20, family='Arial, sans-serif', color='gray', weight='bold'),
+                showline=True,
+                linewidth=3,
+                linecolor='gray'
+            ),
+            yaxis=dict(
+                title="Total Fee (in Million €)",
+                tickfont=dict(size=23, family='Arial, sans-serif', color='gray', weight='bold'),
+                title_font=dict(size=30, family='Arial, sans-serif', color='gray', weight='bold'),
+                showline=True,
+                linewidth=3,
+                linecolor='gray'
+            ),
+            font=dict(color='gray'),
             plot_bgcolor='white',
             paper_bgcolor='white',
             legend_title_text='Club',
@@ -124,10 +138,6 @@ def register_callbacks(app):
                 itemclick=False,
                 itemdoubleclick=False
             ),
-            xaxis_tickfont=dict(size=16, family='Arial, sans-serif', weight='bold'),
-            yaxis_tickfont=dict(size=16, family='Arial, sans-serif', weight='bold'),
-            xaxis_title_font=dict(size=20, family='Arial, sans-serif', weight='bold'),
-            yaxis_title_font=dict(size=20, family='Arial, sans-serif', weight='bold'),
             margin=dict(l=60, r=60, t=30, b=140),
             height=650  # Increased height for the chart
         )
