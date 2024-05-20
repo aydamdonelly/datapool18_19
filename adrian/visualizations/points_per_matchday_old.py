@@ -6,6 +6,7 @@ import numpy as np
 
 df = pd.read_csv("adrian/data/pl_club_results.csv")
 
+
 # sort df based on 'Date' column
 df['Date'] = pd.to_datetime(df['Date'])
 df = df.sort_values(by='Date')
