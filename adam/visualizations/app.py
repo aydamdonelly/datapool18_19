@@ -1,5 +1,3 @@
-# app.py
-
 import dash
 from dash import dcc, html
 import dash_bootstrap_components as dbc
@@ -16,8 +14,8 @@ import modules.shot_analysis as shot_analysis
 import modules.xg_difference as xg_difference
 import modules.goalkeeping_performance as goalkeeping_performance  # Import the new module
 
-# Initialize the Dash app
-app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+# Initialize the Dash app with suppress_callback_exceptions=True
+app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP], suppress_callback_exceptions=True)
 app.title = "Football Analysis Dashboard"
 
 # Define the layout of the app
