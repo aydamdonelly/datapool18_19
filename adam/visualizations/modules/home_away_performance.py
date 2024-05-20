@@ -2,6 +2,8 @@ import pandas as pd
 import plotly.graph_objects as go
 from dash import dcc, html
 from dash.dependencies import Input, Output
+import dash
+import dash_bootstrap_components as dbc
 import os
 import base64
 
@@ -52,6 +54,7 @@ for club in points['Club']:
 def layout():
     return html.Div([
         html.H1("Premier League Home & Away Performances", style={'textAlign': 'center', 'fontWeight': 'bold'}),
+        html.P("Data source: FBRef", style={'text-align': 'center', 'font-size': '12px', 'color': 'gray', 'margin-top': '0'}),
         html.Label("Difference indicates how much better or worse a team performs at home compared to away."),
         html.Label("Sort by difference (Ascending -> weakest home advantage to strongest and vice versa):"),
         dcc.Dropdown(
@@ -108,8 +111,8 @@ def register_callbacks(app):
                     yref="y",
                     x=club,
                     y=home_y,
-                    sizex=0.75,
-                    sizey=0.75,
+                    sizex=0.65,
+                    sizey=0.65,
                     xanchor="center",
                     yanchor="middle"
                 )
@@ -121,8 +124,8 @@ def register_callbacks(app):
                     yref="y",
                     x=club,
                     y=away_y,
-                    sizex=0.45,
-                    sizey=0.45,
+                    sizex=0.35,
+                    sizey=0.35,
                     xanchor="center",
                     yanchor="middle"
                 )
@@ -174,3 +177,11 @@ def register_callbacks(app):
         )
 
         return fig
+
+# Initialize Dash app and register callbacks
+app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+app.layout = layout()
+register_callbacks(app)
+
+if __name__ == '__main__':
+    app.run_server(debug=True)
